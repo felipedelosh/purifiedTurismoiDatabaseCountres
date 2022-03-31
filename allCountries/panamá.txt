@@ -1,605 +1,605 @@
-156|PA|PANAMA|Panama|Panamá|t24207|Almirante|almirante|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24208|Barriada Guaymí|barriada-guaymi|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24209|Barrio Francés|barrio-frances|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24210|Nance de Riscó|nance-de-risco|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24211|Valle de Aguas Arriba|valle-de-aguas-arriba|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24212|Valle de Riscó|valle-de-risco|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24213|Bastimentos|bastimentos|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24214|Bocas del Toro|bocas-del-toro|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24215|Cauchero|cauchero|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24216|Punta Laurel|punta-laurel|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24217|Tierra Oscura|tierra-oscura|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24218|Changuinola|changuinola|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24219|Cochigro|cochigro|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24220|El Empalme|el-empalme|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24221|Guabito|guabito|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24222|La Gloria|la-gloria|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24223|Las Delicias|las-delicias|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24224|Las Tablas|las-tablas|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24225|Barriada 4 de Abril|barriada-4-de-abril|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24226|El Teribe|el-teribe|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24227|Finca 30|finca-30|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24228|Finca 60|finca-60|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24229|Finca 6|finca-6|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24230|El Silencio|el-silencio|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24231|Bajo Cedro|bajo-cedro|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24232|Chiriquí Grande|chiriqui-grande|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24233|Miramar|miramar|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24234|Punta Peña|punta-pena|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24235|Punta Robalo|punta-robalo|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24236|Rambala|rambala|NULL|NULL|24206|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24238|Alanje|alanje|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24239|Divalá|divala|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24240|Canta Gallo|canta-gallo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24241|El Tejar|el-tejar|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24242|Guarumal|guarumal|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24243|Nuevo México|nuevo-mexico|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24244|Querévalo|querevalo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24245|Palo Grande|palo-grande|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24246|Santo Tomás|santo-tomas|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24247|Baco|baco|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24248|Limones|limones|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24249|Progreso|progreso|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24250|Puerto Armuelles|puerto-armuelles|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24251|Rodolfo Aguilar Delgado|rodolfo-aguilar-delgado|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24252|Bágala|bagala|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24253|Boquerón|boqueron|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24254|Cordillera|cordillera|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24255|Guabal|guabal|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24256|Guayabal|guayabal|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24257|Paraíso|paraiso-24257|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24258|Pedregal|pedregal|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24259|Tijeras|tijeras|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24260|Alto Boquete|alto-boquete|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24261|Bajo Boquete|bajo-boquete|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24262|Caldera|caldera|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24263|Jaramillo|jaramillo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24264|Los Naranjos|los-naranjos|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24265|Palmira|palmira|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24266|Aserrío de Gariché|aserrio-de-gariche|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24267|Bugaba|bugaba|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24268|El Bongo|el-bongo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24269|Gómez|gomez|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24270|La Concepción|la-concepcion|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24271|La Estrella|la-estrella|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24272|San Andrés|san-andres|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24273|Santa Marta|santa-marta|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24274|Santa Rosa|santa-rosa-24274|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24275|Santo Domingo|santo-domingo-24275|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24276|Sortová|sortova|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24277|Solano|solano|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24278|San Isidro|san-isidro-24278|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24279|Bijagual|bijagual|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24280|Cochea|cochea|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24281|Chiriquí|chiriqui|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24282|Guacá|guaca|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24283|Las Lomas|las-lomas|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24284|Pedregal|pedregal-24284|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24285|San Carlos|san-carlos-24285|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24286|David|david|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24287|David Este|david-este|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24288|David Sur|david-sur|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24289|San Pablo Nuevo|san-pablo-nuevo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24290|San Pablo Viejo|san-pablo-viejo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24291|Dolega|dolega|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24292|Dos Ríos|dos-rios|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24293|Los Algarrobos|los-algarrobos|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24294|Los Anastacios|los-anastacios|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24295|Potrerillos|potrerillos|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24296|Potrerillos Abajo|potrerillos-abajo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24297|Rovira|rovira|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24298|Tinajas|tinajas|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24299|Gualaca|gualaca|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24300|Hornito|hornito|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24301|Los Angeles|los-angeles|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24302|Paja de Sombrero|paja-de-sombrero|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24303|Rincón|rincon|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24304|El Nancito|el-nancito|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24305|El Porvenir|el-porvenir|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24306|El Puerto|el-puerto|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24307|Remedios|remedios|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24308|Santa Lucía|santa-lucia|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24309|Breñón|brenon|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24310|Cañas Gordas|canas-gordas|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24311|Dominical|dominical|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24312|Monte Lirio|monte-lirio|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24313|Plaza de Caisán|plaza-de-caisan|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24314|Río Sereno|rio-sereno|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24315|Santa Cruz|santa-cruz-24315|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24316|Santa Clara|santa-clara|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24317|Las Lajas|las-lajas|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24318|Lajas Adentro|lajas-adentro|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24319|Juay|juay|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24320|San Félix|san-felix|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24321|Santa Cruz|santa-cruz-24321|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24322|Boca Chica|boca-chica|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24323|Boca del Monte|boca-del-monte|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24324|Horconcitos|horconcitos|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24325|San Juan|san-juan-24325|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24326|San Lorenzo|san-lorenzo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24327|Volcán|volcan|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24328|Cerro Punta|cerro-punta|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24329|Cuesta de Piedra|cuesta-de-piedra|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24330|Nueva California|nueva-california|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24331|Paso Ancho|paso-ancho|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24332|Bella Vista|bella-vista-24332|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24333|Cerro Viejo|cerro-viejo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24334|El Cristo|el-cristo|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24335|Justo Fidel Palacios|justo-fidel-palacios|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24336|Lajas de Tolé|lajas-de-tole|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24337|Potrero de Caña|potrero-de-cana|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24338|Quebrada de Piedra|quebrada-de-piedra|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24339|Tolé|tole|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24340|Veladero|veladero|NULL|NULL|24237|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24342|Aguadulce|aguadulce|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24343|Barrios Unidos|barrios-unidos|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24344|El Cristo|el-cristo-24344|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24345|El Roble|el-roble|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24346|El Hato de San Juan de Dios|el-hato-de-san-juan-de-dios|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24347|Pocrí|pocri|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24348|Pueblos Unidos|pueblos-unidos|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24349|Virgen del Carmen|virgen-del-carmen|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24350|Antón|anton|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24351|Caballero|caballero|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24352|Cabuya|cabuya|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24353|El Chirú|el-chiru|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24354|El Retiro|el-retiro|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24355|El Valle|el-valle|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24356|Juan Díaz|juan-diaz|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24357|Río Hato|rio-hato|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24358|San Juan de Dios|san-juan-de-dios|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24359|Santa Rita|santa-rita|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24360|El Harino|el-harino|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24361|El Potrero|el-potrero|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24362|La Pintada|la-pintada|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24363|Las Lomas|las-lomas-24363|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24364|Llano Grande|llano-grande|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24365|Piedras Gordas|piedras-gordas|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24366|Llano Norte|llano-norte|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24367|Capellanía|capellania|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24368|El Caño|el-cano|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24369|Guzmán|guzman|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24370|Las Huacas|las-huacas|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24371|Natá|nata|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24372|Toza|toza|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24373|Villarreal|villarreal|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24374|El Copé|el-cope|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24375|El Palmar|el-palmar|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24376|El Picacho|el-picacho|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24377|La Pava|la-pava|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24378|Olá|ola|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24379|Cañaveral|canaveral|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24380|Coclé|cocle|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24381|Chiguirí Arriba|chiguiri-arriba|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24382|El Coco|el-coco|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24383|Pajonal|pajonal|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24384|Penonomé|penonome|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24385|Río Grande|rio-grande-24385|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24386|Río Indio|rio-indio|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24387|Toabré|toabre|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24388|Tulú|tulu|NULL|NULL|24341|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24390|Barrio Norte|barrio-norte|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24391|Barrio Sur|barrio-sur|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24392|Buena Vista|buena-vista|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24393|Cativá|cativa|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24394|Ciricito|ciricito|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24395|Cristóbal|cristobal|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24396|Cristobal Este|cristobal-este|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24397|Escobal|escobal|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24398|Limón|limon-24398|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24399|Nueva Providencia|nueva-providencia|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24400|Puerto Pilón|puerto-pilon|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24401|Sabanitas|sabanitas|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24402|Salamanca|salamanca|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24403|San Juan|san-juan-24403|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24404|Santa Rosa|santa-rosa-24404|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24405|Achiote|achiote|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24406|El Guabo|el-guabo|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24407|La Encantada|la-encantada|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24408|Nuevo Chagres|nuevo-chagres|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24409|Palmas Bellas|palmas-bellas|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24410|Piña|pina|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24411|Salud|salud|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24412|Coclé del Norte|cocle-del-norte|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24413|El Guásimo|el-guasimo|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24414|Gobea|gobea|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24415|Miguel de la Borda|miguel-de-la-borda|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24416|Río Indio|rio-indio-24416|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24417|Cacique|cacique|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24418|Garrote|garrote|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24419|Isla Grande|isla-grande|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24420|María Chiquita|maria-chiquita|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24421|Portobelo|portobelo|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24422|Cuango|cuango|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24423|Miramar|miramar-24423|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24424|Nombre de Dios|nombre-de-dios|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24425|Palenque|palenque|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24426|Palmira|palmira-24426|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24427|Playa Chiquita|playa-chiquita|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24428|Santa Isabel|santa-isabel|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24429|Viento Frío|viento-frio|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24430|San José del General|san-jose-del-general|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24431|San Juan de Turbe|san-juan-de-turbe|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24432|Nueva Esperanza|nueva-esperanza|NULL|NULL|24389|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24434|Camogantí|camoganti|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24435|Chepigana|chepigana|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24436|Garachiné|garachine|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24437|Jaqué|jaque|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24438|La Palma|la-palma|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24439|Puerto Piña|puerto-pina|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24440|Sambú|sambu|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24441|Setegantí|seteganti|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24442|Taimatí|taimati|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24443|Tucutí|tucuti|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24444|Boca de Cupe|boca-de-cupe|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24445|El Real de Santa María|el-real-de-santa-maria|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24446|Metetí|meteti|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24447|Paya|paya|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24448|Pinogana|pinogana|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24449|Púcuro|pucuro|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24450|Yape|yape|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24451|Yaviza|yaviza|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24452|Wargandí|wargandi|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24453|Agua Fría|agua-fria|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24454|Cucunatí|cucunati|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24455|Río Congo|rio-congo|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24456|Río Congo Arriba|rio-congo-arriba|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24457|Río Iglesias|rio-iglesias|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24458|Santa Fe|santa-fe-24458|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24459|Zapallal|zapallal|NULL|NULL|24433|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24461|Chitré|chitre|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24462|La Arena|la-arena|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24463|Llano Bonito|llano-bonito|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24464|San Juan Bautista.|san-juan-bautista|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24465|Monagrillo|monagrillo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24466|Chepo|chepo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24467|Chumical|chumical|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24468|El Toro|el-toro|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24469|Las Minas|las-minas|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24470|Leones|leones|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24471|Quebrada del Rosario|quebrada-del-rosario|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24472|Quebrada El Ciprián|quebrada-el-ciprian|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24473|El Capurí|el-capuri|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24474|El Calabacito|el-calabacito|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24475|El Cedro|el-cedro|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24476|La Arena|la-arena-24476|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24477|La Pitaloza|la-pitaloza|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24478|Las Llanas|las-llanas|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24479|Los Cerritos|los-cerritos|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24480|Los Cerros de Paja|los-cerros-de-paja|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24481|Los Pozos|los-pozos|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24482|Cerro Largo|cerro-largo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24483|El Tijera|el-tijera|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24484|Entradero del Castillo|entradero-del-castillo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24485|Los Llanos|los-llanos|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24486|Llano Grande|llano-grande-24486|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24487|Menchaca|menchaca|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24488|Peñas Chatas|penas-chatas|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24489|Ocú|ocu|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24490|Cabuya|cabuya-24490|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24491|Los Castillos|los-castillos|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24492|Llano de la Cruz|llano-de-la-cruz|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24493|París|paris|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24494|Parita|parita|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24495|Portobelillo|portobelillo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24496|Potuga|potuga|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24497|El Barrero|el-barrero|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24498|El Pedregoso|el-pedregoso|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24499|El Ciruelo|el-ciruelo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24500|El Pájaro|el-pajaro|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24501|Las Cabras|las-cabras|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24502|Pesé|pese|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24503|Rincón Hondo|rincon-hondo|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24504|Sabanagrande|sabanagrande|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24505|Chupampa|chupampa|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24506|El Rincón|el-rincon|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24507|El Limón|el-limon|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24508|Los Canelos|los-canelos|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24509|Santa María|santa-maria|NULL|NULL|24460|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24511|El Espinal|el-espinal|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24512|El Hato|el-hato|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24513|El Macano|el-macano|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24514|Guararé|guarare|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24515|Guararé Arriba|guarare-arriba|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24516|La Enea|la-enea|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24517|La Pasera|la-pasera|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24518|Las Trancas|las-trancas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24519|Llano Abajo|llano-abajo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24520|Perales|perales|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24521|Bajo Corral|bajo-corral|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24522|Bayano|bayano|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24523|El Carate|el-carate|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24524|El Cocal|el-cocal|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24525|El Manantial|el-manantial|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24526|El Muñoz|el-munoz|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24527|El Pedregoso|el-pedregoso-24527|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24528|El Sesteadero|el-sesteadero|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24529|La Laja|la-laja|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24530|La Miel|la-miel|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24531|La Palma|la-palma-24531|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24532|La Tiza|la-tiza|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24533|Las Palmitas|las-palmitas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24534|Las Tablas Abajo|las-tablas-abajo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24535|Nuario|nuario|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24536|Palmira|palmira-24536|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24537|Peña Blanca|pena-blanca|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24538|Río Hondo|rio-hondo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24539|San José|san-jose-24539|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24540|San Miguel|san-miguel-24540|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24541|Las Tablas|las-tablas-24541|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24542|Santo Domingo|santo-domingo-24542|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24543|Valle Rico|valle-rico|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24544|Vallerriquito|vallerriquito|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24545|El Ejido|el-ejido|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24546|El Guásimo|el-guasimo-24546|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24547|La Colorada|la-colorada|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24548|La Espigadilla|la-espigadilla|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24549|La Villa de Los Santos|la-villa-de-los-santos|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24550|Las Cruces|las-cruces|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24551|Las Guabas|las-guabas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24552|Los Ángeles|los-angeles-24552|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24553|Los Olivos|los-olivos|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24554|Llano Largo|llano-largo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24555|Sabanagrande|sabanagrande-24555|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24556|Santa Ana|santa-ana-24556|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24557|Tres Quebradas|tres-quebradas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24558|Villa Lourdes|villa-lourdes|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24559|Agua Buena|agua-buena|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24560|Bahía Honda|bahia-honda|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24561|Bajos de Güera|bajos-de-guera|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24562|Corozal|corozal|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24563|Chupá|chupa|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24564|El Cedro|el-cedro-24564|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24565|Espino Amarillo|espino-amarillo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24566|La Mesa|la-mesa|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24567|Las Palmas|las-palmas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24568|Llano de Piedras|llano-de-piedras|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24569|Macaracas|macaracas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24570|Mogollón|mogollon|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24571|Los Asientos|los-asientos|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24572|Mariabé|mariabe|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24573|Oria Arriba|oria-arriba|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24574|Pedasí|pedasi|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24575|Purio|purio|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24576|El Cañafístulo|el-canafistulo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24577|Lajamina|lajamina|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24578|Paraíso|paraiso-24578|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24579|Paritilla|paritilla|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24580|Pocrí|pocri-24580|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24581|Altos de Güera|altos-de-guera|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24582|Cambutal|cambutal|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24583|Cañas|canas-24583|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24584|El Bebedero|el-bebedero|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24585|El Cacao|el-cacao|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24586|El Cortezo|el-cortezo|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24587|Flores|flores-24587|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24588|Guánico|guanico|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24589|Isla de Cañas|isla-de-canas|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24590|La Tronosa|la-tronosa|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24591|Tonosí|tonosi|NULL|NULL|24510|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24593|La Ensenada|la-ensenada|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24594|La Esmeralda|la-esmeralda|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24595|La Guinea|la-guinea|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24596|Pedro González|pedro-gonzalez|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24597|Saboga|saboga|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24598|San Miguel|san-miguel-24598|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24599|Cañita|canita|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24600|Chepillo|chepillo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24601|El Llano|el-llano|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24602|Las Margaritas|las-margaritas|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24603|Chepo|chepo-24603|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24604|Santa Cruz de Chinina|santa-cruz-de-chinina|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24605|Tortí|torti|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24606|Madugandí|madugandi|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24607|Brujas|brujas|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24608|Chimán|chiman|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24609|Gonzalo Vásquez|gonzalo-vasquez|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24610|Pásiga|pasiga|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24611|Unión Santeña|union-santena|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24612|24 de diciembre|24-de-diciembre|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24613|Alcalde Díaz|alcalde-diaz|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24614|Ancón|ancon|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24615|Betania|betania|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24616|Bella Vista|bella-vista-24616|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24617|Calidonia|calidonia|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24618|Caimitillo|caimitillo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24619|Chilibre|chilibre|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24620|Curundú|curundu|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24621|Don Bosco|don-bosco|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24622|El Chorrillo|el-chorrillo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24623|Ernesto Córdoba Campos|ernesto-cordoba-campos|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24624|Juan Díaz|juan-diaz-24624|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24625|Las Cumbres|las-cumbres|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24626|Las Garzas|las-garzas|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24627|Las Mañanitas|las-mananitas|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24628|Pacora|pacora|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24629|Parque Lefevre|parque-lefevre|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24630|Pedregal|pedregal-24630|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24631|Pueblo Nuevo|pueblo-nuevo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24632|Río Abajo|rio-abajo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24633|San Felipe|san-felipe|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24634|San Francisco|san-francisco-24634|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24635|San Martín|san-martin-24635|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24636|Santa Ana|santa-ana-24636|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24637|Tocumen|tocumen|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24638|Amelia Denis de Icaza|amelia-denis-de-icaza|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24639|Arnulfo Arias|arnulfo-arias|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24640|Belisario Frías|belisario-frias|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24641|Belisario Porras|belisario-porras|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24642|José Domingo Espinar|jose-domingo-espinar|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24643|Mateo Iturralde|mateo-iturralde|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24644|Omar Torrijos|omar-torrijos|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24645|Rufina Alfaro|rufina-alfaro|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24646|Victoriano Lorenzo|victoriano-lorenzo|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24647|Otoque Occidente|otoque-occidente|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24648|Otoque Oriente|otoque-oriente|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24649|Taboga|taboga|NULL|NULL|24592|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24651|Arraiján|arraijan|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24652|Burunga|burunga|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24653|Cerro Silvestre|cerro-silvestre|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24654|Juan Demóstenes Arosemena|juan-demostenes-arosemena|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24655|Nuevo Emperador|nuevo-emperador|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24656|Santa Clara|santa-clara-24656|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24657|Veracruz|veracruz|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24658|Vista Alegre|vista-alegre|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24659|Caimito|caimito|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24660|Campana|campana-24660|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24661|Capira|capira|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24662|Cermeño|cermeno|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24663|Cirí de Los Sotos|ciri-de-los-sotos|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24664|Cirí Grande|ciri-grande|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24665|El Cacao|el-cacao-24665|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24666|La Trinidad|la-trinidad|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24667|Las Ollas Arriba|las-ollas-arriba|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24668|Lídice|lidice|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24669|Villa Carmen|villa-carmen|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24670|Villa Rosario|villa-rosario|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24671|Santa Rosa|santa-rosa-24671|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24672|Bejuco|bejuco|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24673|Buenos Aires|buenos-aires-24673|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24674|Cabuya|cabuya-24674|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24675|Chame|chame|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24676|Chicá|chica|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24677|El Líbano|el-libano|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24678|Las Lajas|las-lajas-24678|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24679|Nueva Gorgona|nueva-gorgona|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24680|Punta Chame|punta-chame|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24681|Sajalices|sajalices|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24682|Sorá|sora|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24683|Amador|amador|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24684|Arosemena|arosemena|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24685|Barrio Balboa|barrio-balboa|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24686|Barrio Colón|barrio-colon|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24687|El Arado|el-arado|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24688|El Coco|el-coco-24688|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24689|Feuillet|feuillet|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24690|Guadalupe|guadalupe|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24691|Herrera|herrera|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24692|Hurtado|hurtado|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24693|Iturralde|iturralde|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24694|La Represa|la-represa|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24695|Los Díaz|los-diaz|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24696|Mendoza|mendoza-24696|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24697|Obaldía|obaldia|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24698|Playa Leona|playa-leona|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24699|Puerto Caimito|puerto-caimito|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24700|Santa Rita|santa-rita-24700|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24701|El Espino|el-espino|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24702|El Higo|el-higo|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24703|Guayabito|guayabito|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24704|La Ermita|la-ermita|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24705|La Laguna|la-laguna|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24706|Las Uvas|las-uvas|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24707|Los Llanitos|los-llanitos|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24708|San Carlos|san-carlos-24708|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24709|San José|san-jose-24709|NULL|NULL|24650|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24711|Atalaya|atalaya|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24712|El Barrito|el-barrito|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24713|La Carrillo|la-carrillo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24714|La Montañuela|la-montanuela|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24715|San Antonio|san-antonio|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24716|Barnizal|barnizal|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24717|Calobre|calobre|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24718|Chitra|chitra|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24719|El Cocla|el-cocla|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24720|El Potrero|el-potrero-24720|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24721|La Laguna|la-laguna-24721|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24722|La Raya de Calobre|la-raya-de-calobre|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24723|La Tetilla|la-tetilla|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24724|La Yeguada|la-yeguada|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24725|Las Guías|las-guias|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24726|Monjarás|monjaras|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24727|San José|san-jose-24727|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24728|Cañazas|canazas|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24729|Cerro de Plata|cerro-de-plata|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24730|El Aromillo|el-aromillo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24731|El Picador|el-picador|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24732|Las Cruces|las-cruces-24732|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24733|Los Valles|los-valles|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24734|San José|san-jose-24734|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24735|San Marcelo|san-marcelo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24736|Bisvalles|bisvalles|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24737|Boró|boro|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24738|El Higo|el-higo-24738|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24739|La Mesa|la-mesa-24739|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24740|Los Milagros|los-milagros|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24741|Llano Grande|llano-grande-24741|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24742|San Bartolo|san-bartolo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24743|Cerro de Casa|cerro-de-casa|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24744|Corozal|corozal-24744|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24745|El María|el-maria|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24746|El Prado|el-prado|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24747|El Rincón|el-rincon-24747|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24748|Las Palmas|las-palmas-24748|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24749|Lolá|lola|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24750|Manuel E. Amador Terrero|manuel-e-amador-terrero|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24751|Pixvae|pixvae|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24752|Puerto Vidal|puerto-vidal|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24753|San Martín de Porres|san-martin-de-porres|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24754|Viguí|vigui|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24755|Zapotillo|zapotillo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24756|Arenas|arenas|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24757|El Cacao|el-cacao-24757|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24758|Mariato|mariato|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24759|Quebro|quebro|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24760|Tebario|tebario|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24761|Cébaco|cebaco|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24762|Costa Hermosa|costa-hermosa|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24763|Gobernadora|gobernadora|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24764|La Garceana|la-garceana|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24765|Leones|leones-24765|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24766|Montijo|montijo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24767|Pilón|pilon|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24768|Unión del Norte|union-del-norte|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24769|Catorce de Noviembre|catorce-de-noviembre|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24770|Río de Jesús|rio-de-jesus|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24771|Las Huacas|las-huacas-24771|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24772|Los Castillos|los-castillos-24772|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24773|Utira|utira|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24774|Corral Falso|corral-falso|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24775|Los Hatillos|los-hatillos|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24776|Remance|remance|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24777|San Francisco|san-francisco-24777|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24778|San Juan|san-juan-24778|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24779|San José|san-jose-24779|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24780|Calovébora|calovebora|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24781|El Alto|el-alto|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24782|El Cuay|el-cuay|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24783|El Pantano|el-pantano|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24784|Gatuncito|gatuncito|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24785|Río Luis|rio-luis|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24786|Rubén Cantú|ruben-cantu|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24787|Santa Fe|santa-fe-24787|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24788|Canto del Llano|canto-del-llano|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24789|Carlos Santana Ávila|carlos-santana-avila|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24790|Edwin Fábrega|edwin-fabrega|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24791|La Colorada|la-colorada-24791|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24792|La Peña|la-pena|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24793|La Raya de Santa María|la-raya-de-santa-maria|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24794|Los Algarrobos|los-algarrobos-24794|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24795|Nuevo Santiago|nuevo-santiago|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24796|Ponuga|ponuga|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24797|San Martín de Porres|san-martin-de-porres-24797|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24798|San Pedro del Espino|san-pedro-del-espino|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24799|Santiago|santiago|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24800|Santiago Este|santiago-este|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24801|Santiago Sur|santiago-sur|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24802|Rodrigo Luque|rodrigo-luque|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24803|Urracá|urraca|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24804|Bahía Honda|bahia-honda-24804|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24805|Calidonia|calidonia-24805|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24806|Cativé|cative|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24807|El Marañón|el-maranon|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24808|Guarumal|guarumal-24808|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24809|Hicaco|hicaco|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24810|La Soledad|la-soledad|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24811|La Trinchera|la-trinchera|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24812|Quebrada de Oro|quebrada-de-oro|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24813|Río Grande|rio-grande-24813|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24814|Rodeo Viejo|rodeo-viejo|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t24815|Soná|sona|NULL|NULL|24710|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t26405|Ciudad de David|ciudad-david|NULL|NULL|NULL|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t26407|Tierras Altas|tierras-altas|NULL|NULL|NULL|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t26408|Boquete|boquete|NULL|NULL|NULL|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t26409|Bastimento|bastimento|NULL|NULL|NULL|NULL|NULL
-156|PA|PANAMA|Panama|Panamá|t26410|Panama|cpanama|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24207|Almirante|almirante|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24208|Barriada Guaymí|barriada-guaymi|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24209|Barrio Francés|barrio-frances|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24210|Nance de Riscó|nance-de-risco|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24211|Valle de Aguas Arriba|valle-de-aguas-arriba|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24212|Valle de Riscó|valle-de-risco|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24213|Bastimentos|bastimentos|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24214|Bocas del Toro|bocas-del-toro|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24215|Cauchero|cauchero|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24216|Punta Laurel|punta-laurel|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24217|Tierra Oscura|tierra-oscura|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24218|Changuinola|changuinola|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24219|Cochigro|cochigro|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24220|El Empalme|el-empalme|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24221|Guabito|guabito|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24222|La Gloria|la-gloria|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24223|Las Delicias|las-delicias|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24224|Las Tablas|las-tablas|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24225|Barriada 4 de Abril|barriada-4-de-abril|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24226|El Teribe|el-teribe|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24227|Finca 30|finca-30|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24228|Finca 60|finca-60|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24229|Finca 6|finca-6|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24230|El Silencio|el-silencio|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24231|Bajo Cedro|bajo-cedro|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24232|Chiriquí Grande|chiriqui-grande|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24233|Miramar|miramar|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24234|Punta Peña|punta-pena|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24235|Punta Robalo|punta-robalo|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24236|Rambala|rambala|NULL|NULL|24206|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24238|Alanje|alanje|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24239|Divalá|divala|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24240|Canta Gallo|canta-gallo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24241|El Tejar|el-tejar|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24242|Guarumal|guarumal|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24243|Nuevo México|nuevo-mexico|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24244|Querévalo|querevalo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24245|Palo Grande|palo-grande|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24246|Santo Tomás|santo-tomas|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24247|Baco|baco|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24248|Limones|limones|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24249|Progreso|progreso|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24250|Puerto Armuelles|puerto-armuelles|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24251|Rodolfo Aguilar Delgado|rodolfo-aguilar-delgado|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24252|Bágala|bagala|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24253|Boquerón|boqueron|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24254|Cordillera|cordillera|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24255|Guabal|guabal|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24256|Guayabal|guayabal|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24257|Paraíso|paraiso-24257|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24258|Pedregal|pedregal|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24259|Tijeras|tijeras|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24260|Alto Boquete|alto-boquete|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24261|Bajo Boquete|bajo-boquete|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24262|Caldera|caldera|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24263|Jaramillo|jaramillo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24264|Los Naranjos|los-naranjos|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24265|Palmira|palmira|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24266|Aserrío de Gariché|aserrio-de-gariche|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24267|Bugaba|bugaba|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24268|El Bongo|el-bongo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24269|Gómez|gomez|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24270|La Concepción|la-concepcion|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24271|La Estrella|la-estrella|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24272|San Andrés|san-andres|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24273|Santa Marta|santa-marta|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24274|Santa Rosa|santa-rosa-24274|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24275|Santo Domingo|santo-domingo-24275|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24276|Sortová|sortova|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24277|Solano|solano|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24278|San Isidro|san-isidro-24278|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24279|Bijagual|bijagual|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24280|Cochea|cochea|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24281|Chiriquí|chiriqui|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24282|Guacá|guaca|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24283|Las Lomas|las-lomas|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24284|Pedregal|pedregal-24284|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24285|San Carlos|san-carlos-24285|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24286|David|david|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24287|David Este|david-este|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24288|David Sur|david-sur|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24289|San Pablo Nuevo|san-pablo-nuevo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24290|San Pablo Viejo|san-pablo-viejo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24291|Dolega|dolega|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24292|Dos Ríos|dos-rios|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24293|Los Algarrobos|los-algarrobos|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24294|Los Anastacios|los-anastacios|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24295|Potrerillos|potrerillos|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24296|Potrerillos Abajo|potrerillos-abajo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24297|Rovira|rovira|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24298|Tinajas|tinajas|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24299|Gualaca|gualaca|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24300|Hornito|hornito|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24301|Los Angeles|los-angeles|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24302|Paja de Sombrero|paja-de-sombrero|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24303|Rincón|rincon|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24304|El Nancito|el-nancito|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24305|El Porvenir|el-porvenir|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24306|El Puerto|el-puerto|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24307|Remedios|remedios|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24308|Santa Lucía|santa-lucia|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24309|Breñón|brenon|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24310|Cañas Gordas|canas-gordas|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24311|Dominical|dominical|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24312|Monte Lirio|monte-lirio|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24313|Plaza de Caisán|plaza-de-caisan|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24314|Río Sereno|rio-sereno|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24315|Santa Cruz|santa-cruz-24315|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24316|Santa Clara|santa-clara|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24317|Las Lajas|las-lajas|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24318|Lajas Adentro|lajas-adentro|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24319|Juay|juay|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24320|San Félix|san-felix|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24321|Santa Cruz|santa-cruz-24321|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24322|Boca Chica|boca-chica|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24323|Boca del Monte|boca-del-monte|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24324|Horconcitos|horconcitos|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24325|San Juan|san-juan-24325|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24326|San Lorenzo|san-lorenzo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24327|Volcán|volcan|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24328|Cerro Punta|cerro-punta|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24329|Cuesta de Piedra|cuesta-de-piedra|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24330|Nueva California|nueva-california|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24331|Paso Ancho|paso-ancho|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24332|Bella Vista|bella-vista-24332|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24333|Cerro Viejo|cerro-viejo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24334|El Cristo|el-cristo|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24335|Justo Fidel Palacios|justo-fidel-palacios|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24336|Lajas de Tolé|lajas-de-tole|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24337|Potrero de Caña|potrero-de-cana|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24338|Quebrada de Piedra|quebrada-de-piedra|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24339|Tolé|tole|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24340|Veladero|veladero|NULL|NULL|24237|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24342|Aguadulce|aguadulce|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24343|Barrios Unidos|barrios-unidos|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24344|El Cristo|el-cristo-24344|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24345|El Roble|el-roble|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24346|El Hato de San Juan de Dios|el-hato-de-san-juan-de-dios|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24347|Pocrí|pocri|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24348|Pueblos Unidos|pueblos-unidos|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24349|Virgen del Carmen|virgen-del-carmen|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24350|Antón|anton|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24351|Caballero|caballero|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24352|Cabuya|cabuya|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24353|El Chirú|el-chiru|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24354|El Retiro|el-retiro|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24355|El Valle|el-valle|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24356|Juan Díaz|juan-diaz|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24357|Río Hato|rio-hato|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24358|San Juan de Dios|san-juan-de-dios|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24359|Santa Rita|santa-rita|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24360|El Harino|el-harino|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24361|El Potrero|el-potrero|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24362|La Pintada|la-pintada|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24363|Las Lomas|las-lomas-24363|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24364|Llano Grande|llano-grande|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24365|Piedras Gordas|piedras-gordas|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24366|Llano Norte|llano-norte|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24367|Capellanía|capellania|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24368|El Caño|el-cano|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24369|Guzmán|guzman|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24370|Las Huacas|las-huacas|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24371|Natá|nata|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24372|Toza|toza|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24373|Villarreal|villarreal|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24374|El Copé|el-cope|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24375|El Palmar|el-palmar|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24376|El Picacho|el-picacho|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24377|La Pava|la-pava|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24378|Olá|ola|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24379|Cañaveral|canaveral|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24380|Coclé|cocle|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24381|Chiguirí Arriba|chiguiri-arriba|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24382|El Coco|el-coco|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24383|Pajonal|pajonal|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24384|Penonomé|penonome|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24385|Río Grande|rio-grande-24385|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24386|Río Indio|rio-indio|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24387|Toabré|toabre|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24388|Tulú|tulu|NULL|NULL|24341|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24390|Barrio Norte|barrio-norte|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24391|Barrio Sur|barrio-sur|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24392|Buena Vista|buena-vista|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24393|Cativá|cativa|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24394|Ciricito|ciricito|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24395|Cristóbal|cristobal|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24396|Cristobal Este|cristobal-este|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24397|Escobal|escobal|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24398|Limón|limon-24398|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24399|Nueva Providencia|nueva-providencia|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24400|Puerto Pilón|puerto-pilon|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24401|Sabanitas|sabanitas|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24402|Salamanca|salamanca|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24403|San Juan|san-juan-24403|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24404|Santa Rosa|santa-rosa-24404|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24405|Achiote|achiote|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24406|El Guabo|el-guabo|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24407|La Encantada|la-encantada|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24408|Nuevo Chagres|nuevo-chagres|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24409|Palmas Bellas|palmas-bellas|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24410|Piña|pina|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24411|Salud|salud|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24412|Coclé del Norte|cocle-del-norte|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24413|El Guásimo|el-guasimo|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24414|Gobea|gobea|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24415|Miguel de la Borda|miguel-de-la-borda|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24416|Río Indio|rio-indio-24416|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24417|Cacique|cacique|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24418|Garrote|garrote|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24419|Isla Grande|isla-grande|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24420|María Chiquita|maria-chiquita|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24421|Portobelo|portobelo|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24422|Cuango|cuango|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24423|Miramar|miramar-24423|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24424|Nombre de Dios|nombre-de-dios|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24425|Palenque|palenque|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24426|Palmira|palmira-24426|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24427|Playa Chiquita|playa-chiquita|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24428|Santa Isabel|santa-isabel|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24429|Viento Frío|viento-frio|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24430|San José del General|san-jose-del-general|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24431|San Juan de Turbe|san-juan-de-turbe|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24432|Nueva Esperanza|nueva-esperanza|NULL|NULL|24389|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24434|Camogantí|camoganti|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24435|Chepigana|chepigana|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24436|Garachiné|garachine|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24437|Jaqué|jaque|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24438|La Palma|la-palma|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24439|Puerto Piña|puerto-pina|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24440|Sambú|sambu|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24441|Setegantí|seteganti|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24442|Taimatí|taimati|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24443|Tucutí|tucuti|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24444|Boca de Cupe|boca-de-cupe|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24445|El Real de Santa María|el-real-de-santa-maria|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24446|Metetí|meteti|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24447|Paya|paya|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24448|Pinogana|pinogana|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24449|Púcuro|pucuro|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24450|Yape|yape|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24451|Yaviza|yaviza|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24452|Wargandí|wargandi|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24453|Agua Fría|agua-fria|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24454|Cucunatí|cucunati|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24455|Río Congo|rio-congo|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24456|Río Congo Arriba|rio-congo-arriba|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24457|Río Iglesias|rio-iglesias|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24458|Santa Fe|santa-fe-24458|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24459|Zapallal|zapallal|NULL|NULL|24433|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24461|Chitré|chitre|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24462|La Arena|la-arena|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24463|Llano Bonito|llano-bonito|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24464|San Juan Bautista.|san-juan-bautista|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24465|Monagrillo|monagrillo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24466|Chepo|chepo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24467|Chumical|chumical|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24468|El Toro|el-toro|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24469|Las Minas|las-minas|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24470|Leones|leones|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24471|Quebrada del Rosario|quebrada-del-rosario|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24472|Quebrada El Ciprián|quebrada-el-ciprian|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24473|El Capurí|el-capuri|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24474|El Calabacito|el-calabacito|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24475|El Cedro|el-cedro|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24476|La Arena|la-arena-24476|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24477|La Pitaloza|la-pitaloza|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24478|Las Llanas|las-llanas|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24479|Los Cerritos|los-cerritos|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24480|Los Cerros de Paja|los-cerros-de-paja|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24481|Los Pozos|los-pozos|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24482|Cerro Largo|cerro-largo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24483|El Tijera|el-tijera|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24484|Entradero del Castillo|entradero-del-castillo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24485|Los Llanos|los-llanos|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24486|Llano Grande|llano-grande-24486|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24487|Menchaca|menchaca|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24488|Peñas Chatas|penas-chatas|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24489|Ocú|ocu|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24490|Cabuya|cabuya-24490|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24491|Los Castillos|los-castillos|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24492|Llano de la Cruz|llano-de-la-cruz|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24493|París|paris|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24494|Parita|parita|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24495|Portobelillo|portobelillo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24496|Potuga|potuga|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24497|El Barrero|el-barrero|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24498|El Pedregoso|el-pedregoso|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24499|El Ciruelo|el-ciruelo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24500|El Pájaro|el-pajaro|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24501|Las Cabras|las-cabras|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24502|Pesé|pese|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24503|Rincón Hondo|rincon-hondo|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24504|Sabanagrande|sabanagrande|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24505|Chupampa|chupampa|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24506|El Rincón|el-rincon|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24507|El Limón|el-limon|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24508|Los Canelos|los-canelos|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24509|Santa María|santa-maria|NULL|NULL|24460|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24511|El Espinal|el-espinal|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24512|El Hato|el-hato|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24513|El Macano|el-macano|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24514|Guararé|guarare|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24515|Guararé Arriba|guarare-arriba|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24516|La Enea|la-enea|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24517|La Pasera|la-pasera|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24518|Las Trancas|las-trancas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24519|Llano Abajo|llano-abajo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24520|Perales|perales|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24521|Bajo Corral|bajo-corral|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24522|Bayano|bayano|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24523|El Carate|el-carate|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24524|El Cocal|el-cocal|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24525|El Manantial|el-manantial|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24526|El Muñoz|el-munoz|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24527|El Pedregoso|el-pedregoso-24527|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24528|El Sesteadero|el-sesteadero|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24529|La Laja|la-laja|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24530|La Miel|la-miel|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24531|La Palma|la-palma-24531|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24532|La Tiza|la-tiza|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24533|Las Palmitas|las-palmitas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24534|Las Tablas Abajo|las-tablas-abajo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24535|Nuario|nuario|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24536|Palmira|palmira-24536|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24537|Peña Blanca|pena-blanca|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24538|Río Hondo|rio-hondo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24539|San José|san-jose-24539|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24540|San Miguel|san-miguel-24540|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24541|Las Tablas|las-tablas-24541|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24542|Santo Domingo|santo-domingo-24542|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24543|Valle Rico|valle-rico|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24544|Vallerriquito|vallerriquito|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24545|El Ejido|el-ejido|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24546|El Guásimo|el-guasimo-24546|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24547|La Colorada|la-colorada|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24548|La Espigadilla|la-espigadilla|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24549|La Villa de Los Santos|la-villa-de-los-santos|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24550|Las Cruces|las-cruces|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24551|Las Guabas|las-guabas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24552|Los Ángeles|los-angeles-24552|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24553|Los Olivos|los-olivos|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24554|Llano Largo|llano-largo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24555|Sabanagrande|sabanagrande-24555|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24556|Santa Ana|santa-ana-24556|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24557|Tres Quebradas|tres-quebradas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24558|Villa Lourdes|villa-lourdes|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24559|Agua Buena|agua-buena|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24560|Bahía Honda|bahia-honda|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24561|Bajos de Güera|bajos-de-guera|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24562|Corozal|corozal|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24563|Chupá|chupa|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24564|El Cedro|el-cedro-24564|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24565|Espino Amarillo|espino-amarillo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24566|La Mesa|la-mesa|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24567|Las Palmas|las-palmas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24568|Llano de Piedras|llano-de-piedras|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24569|Macaracas|macaracas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24570|Mogollón|mogollon|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24571|Los Asientos|los-asientos|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24572|Mariabé|mariabe|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24573|Oria Arriba|oria-arriba|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24574|Pedasí|pedasi|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24575|Purio|purio|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24576|El Cañafístulo|el-canafistulo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24577|Lajamina|lajamina|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24578|Paraíso|paraiso-24578|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24579|Paritilla|paritilla|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24580|Pocrí|pocri-24580|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24581|Altos de Güera|altos-de-guera|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24582|Cambutal|cambutal|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24583|Cañas|canas-24583|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24584|El Bebedero|el-bebedero|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24585|El Cacao|el-cacao|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24586|El Cortezo|el-cortezo|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24587|Flores|flores-24587|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24588|Guánico|guanico|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24589|Isla de Cañas|isla-de-canas|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24590|La Tronosa|la-tronosa|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24591|Tonosí|tonosi|NULL|NULL|24510|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24593|La Ensenada|la-ensenada|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24594|La Esmeralda|la-esmeralda|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24595|La Guinea|la-guinea|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24596|Pedro González|pedro-gonzalez|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24597|Saboga|saboga|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24598|San Miguel|san-miguel-24598|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24599|Cañita|canita|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24600|Chepillo|chepillo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24601|El Llano|el-llano|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24602|Las Margaritas|las-margaritas|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24603|Chepo|chepo-24603|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24604|Santa Cruz de Chinina|santa-cruz-de-chinina|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24605|Tortí|torti|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24606|Madugandí|madugandi|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24607|Brujas|brujas|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24608|Chimán|chiman|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24609|Gonzalo Vásquez|gonzalo-vasquez|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24610|Pásiga|pasiga|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24611|Unión Santeña|union-santena|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24612|24 de diciembre|24-de-diciembre|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24613|Alcalde Díaz|alcalde-diaz|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24614|Ancón|ancon|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24615|Betania|betania|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24616|Bella Vista|bella-vista-24616|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24617|Calidonia|calidonia|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24618|Caimitillo|caimitillo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24619|Chilibre|chilibre|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24620|Curundú|curundu|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24621|Don Bosco|don-bosco|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24622|El Chorrillo|el-chorrillo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24623|Ernesto Córdoba Campos|ernesto-cordoba-campos|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24624|Juan Díaz|juan-diaz-24624|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24625|Las Cumbres|las-cumbres|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24626|Las Garzas|las-garzas|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24627|Las Mañanitas|las-mananitas|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24628|Pacora|pacora|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24629|Parque Lefevre|parque-lefevre|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24630|Pedregal|pedregal-24630|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24631|Pueblo Nuevo|pueblo-nuevo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24632|Río Abajo|rio-abajo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24633|San Felipe|san-felipe|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24634|San Francisco|san-francisco-24634|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24635|San Martín|san-martin-24635|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24636|Santa Ana|santa-ana-24636|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24637|Tocumen|tocumen|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24638|Amelia Denis de Icaza|amelia-denis-de-icaza|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24639|Arnulfo Arias|arnulfo-arias|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24640|Belisario Frías|belisario-frias|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24641|Belisario Porras|belisario-porras|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24642|José Domingo Espinar|jose-domingo-espinar|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24643|Mateo Iturralde|mateo-iturralde|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24644|Omar Torrijos|omar-torrijos|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24645|Rufina Alfaro|rufina-alfaro|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24646|Victoriano Lorenzo|victoriano-lorenzo|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24647|Otoque Occidente|otoque-occidente|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24648|Otoque Oriente|otoque-oriente|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24649|Taboga|taboga|NULL|NULL|24592|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24651|Arraiján|arraijan|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24652|Burunga|burunga|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24653|Cerro Silvestre|cerro-silvestre|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24654|Juan Demóstenes Arosemena|juan-demostenes-arosemena|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24655|Nuevo Emperador|nuevo-emperador|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24656|Santa Clara|santa-clara-24656|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24657|Veracruz|veracruz|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24658|Vista Alegre|vista-alegre|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24659|Caimito|caimito|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24660|Campana|campana-24660|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24661|Capira|capira|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24662|Cermeño|cermeno|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24663|Cirí de Los Sotos|ciri-de-los-sotos|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24664|Cirí Grande|ciri-grande|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24665|El Cacao|el-cacao-24665|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24666|La Trinidad|la-trinidad|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24667|Las Ollas Arriba|las-ollas-arriba|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24668|Lídice|lidice|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24669|Villa Carmen|villa-carmen|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24670|Villa Rosario|villa-rosario|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24671|Santa Rosa|santa-rosa-24671|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24672|Bejuco|bejuco|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24673|Buenos Aires|buenos-aires-24673|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24674|Cabuya|cabuya-24674|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24675|Chame|chame|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24676|Chicá|chica|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24677|El Líbano|el-libano|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24678|Las Lajas|las-lajas-24678|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24679|Nueva Gorgona|nueva-gorgona|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24680|Punta Chame|punta-chame|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24681|Sajalices|sajalices|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24682|Sorá|sora|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24683|Amador|amador|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24684|Arosemena|arosemena|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24685|Barrio Balboa|barrio-balboa|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24686|Barrio Colón|barrio-colon|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24687|El Arado|el-arado|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24688|El Coco|el-coco-24688|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24689|Feuillet|feuillet|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24690|Guadalupe|guadalupe|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24691|Herrera|herrera|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24692|Hurtado|hurtado|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24693|Iturralde|iturralde|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24694|La Represa|la-represa|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24695|Los Díaz|los-diaz|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24696|Mendoza|mendoza-24696|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24697|Obaldía|obaldia|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24698|Playa Leona|playa-leona|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24699|Puerto Caimito|puerto-caimito|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24700|Santa Rita|santa-rita-24700|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24701|El Espino|el-espino|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24702|El Higo|el-higo|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24703|Guayabito|guayabito|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24704|La Ermita|la-ermita|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24705|La Laguna|la-laguna|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24706|Las Uvas|las-uvas|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24707|Los Llanitos|los-llanitos|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24708|San Carlos|san-carlos-24708|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24709|San José|san-jose-24709|NULL|NULL|24650|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24711|Atalaya|atalaya|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24712|El Barrito|el-barrito|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24713|La Carrillo|la-carrillo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24714|La Montañuela|la-montanuela|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24715|San Antonio|san-antonio|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24716|Barnizal|barnizal|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24717|Calobre|calobre|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24718|Chitra|chitra|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24719|El Cocla|el-cocla|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24720|El Potrero|el-potrero-24720|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24721|La Laguna|la-laguna-24721|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24722|La Raya de Calobre|la-raya-de-calobre|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24723|La Tetilla|la-tetilla|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24724|La Yeguada|la-yeguada|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24725|Las Guías|las-guias|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24726|Monjarás|monjaras|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24727|San José|san-jose-24727|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24728|Cañazas|canazas|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24729|Cerro de Plata|cerro-de-plata|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24730|El Aromillo|el-aromillo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24731|El Picador|el-picador|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24732|Las Cruces|las-cruces-24732|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24733|Los Valles|los-valles|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24734|San José|san-jose-24734|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24735|San Marcelo|san-marcelo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24736|Bisvalles|bisvalles|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24737|Boró|boro|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24738|El Higo|el-higo-24738|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24739|La Mesa|la-mesa-24739|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24740|Los Milagros|los-milagros|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24741|Llano Grande|llano-grande-24741|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24742|San Bartolo|san-bartolo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24743|Cerro de Casa|cerro-de-casa|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24744|Corozal|corozal-24744|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24745|El María|el-maria|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24746|El Prado|el-prado|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24747|El Rincón|el-rincon-24747|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24748|Las Palmas|las-palmas-24748|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24749|Lolá|lola|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24750|Manuel E. Amador Terrero|manuel-e-amador-terrero|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24751|Pixvae|pixvae|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24752|Puerto Vidal|puerto-vidal|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24753|San Martín de Porres|san-martin-de-porres|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24754|Viguí|vigui|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24755|Zapotillo|zapotillo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24756|Arenas|arenas|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24757|El Cacao|el-cacao-24757|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24758|Mariato|mariato|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24759|Quebro|quebro|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24760|Tebario|tebario|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24761|Cébaco|cebaco|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24762|Costa Hermosa|costa-hermosa|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24763|Gobernadora|gobernadora|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24764|La Garceana|la-garceana|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24765|Leones|leones-24765|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24766|Montijo|montijo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24767|Pilón|pilon|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24768|Unión del Norte|union-del-norte|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24769|Catorce de Noviembre|catorce-de-noviembre|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24770|Río de Jesús|rio-de-jesus|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24771|Las Huacas|las-huacas-24771|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24772|Los Castillos|los-castillos-24772|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24773|Utira|utira|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24774|Corral Falso|corral-falso|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24775|Los Hatillos|los-hatillos|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24776|Remance|remance|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24777|San Francisco|san-francisco-24777|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24778|San Juan|san-juan-24778|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24779|San José|san-jose-24779|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24780|Calovébora|calovebora|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24781|El Alto|el-alto|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24782|El Cuay|el-cuay|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24783|El Pantano|el-pantano|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24784|Gatuncito|gatuncito|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24785|Río Luis|rio-luis|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24786|Rubén Cantú|ruben-cantu|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24787|Santa Fe|santa-fe-24787|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24788|Canto del Llano|canto-del-llano|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24789|Carlos Santana Ávila|carlos-santana-avila|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24790|Edwin Fábrega|edwin-fabrega|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24791|La Colorada|la-colorada-24791|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24792|La Peña|la-pena|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24793|La Raya de Santa María|la-raya-de-santa-maria|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24794|Los Algarrobos|los-algarrobos-24794|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24795|Nuevo Santiago|nuevo-santiago|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24796|Ponuga|ponuga|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24797|San Martín de Porres|san-martin-de-porres-24797|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24798|San Pedro del Espino|san-pedro-del-espino|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24799|Santiago|santiago|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24800|Santiago Este|santiago-este|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24801|Santiago Sur|santiago-sur|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24802|Rodrigo Luque|rodrigo-luque|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24803|Urracá|urraca|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24804|Bahía Honda|bahia-honda-24804|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24805|Calidonia|calidonia-24805|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24806|Cativé|cative|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24807|El Marañón|el-maranon|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24808|Guarumal|guarumal-24808|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24809|Hicaco|hicaco|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24810|La Soledad|la-soledad|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24811|La Trinchera|la-trinchera|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24812|Quebrada de Oro|quebrada-de-oro|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24813|Río Grande|rio-grande-24813|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24814|Rodeo Viejo|rodeo-viejo|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|24815|Soná|sona|NULL|NULL|24710|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|26405|Ciudad de David|ciudad-david|NULL|NULL|NULL|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|26407|Tierras Altas|tierras-altas|NULL|NULL|NULL|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|26408|Boquete|boquete|NULL|NULL|NULL|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|26409|Bastimento|bastimento|NULL|NULL|NULL|NULL|NULL
+156|PA|PANAMA|Panama|Panamá|t|26410|Panama|cpanama|NULL|NULL|24592|NULL|NULL

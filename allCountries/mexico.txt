@@ -1,681 +1,681 @@
-130|MX|MEXICO|Mexico|Mexico|t285995|Aguascalientes|aguascalientes|\N|\N|9494|9495|\N
-130|MX|MEXICO|Mexico|Mexico|t285996|Asientos|asientos|\N|\N|9494|10160|\N
-130|MX|MEXICO|Mexico|Mexico|t285997|Calvillo|calvillo|\N|\N|9494|10383|\N
-130|MX|MEXICO|Mexico|Mexico|t285998|Cosío|cosio|\N|\N|9494|10684|\N
-130|MX|MEXICO|Mexico|Mexico|t285999|Jesús María |jesus-maria|\N|\N|9494|10770|\N
-130|MX|MEXICO|Mexico|Mexico|t286000|Pabellón de Arteaga|pabellon-de-arteaga|\N|\N|9494|11089|\N
-130|MX|MEXICO|Mexico|Mexico|t286001|Rincón de Romos|rincon-de-romos|\N|\N|9494|11346|\N
-130|MX|MEXICO|Mexico|Mexico|t286002|San Francisco de los Romo|san-francisco-de-los-romo|\N|\N|9494|12117|\N
-130|MX|MEXICO|Mexico|Mexico|t286003|Tepezalá|tepezala|\N|\N|9494|11782|\N
-130|MX|MEXICO|Mexico|Mexico|t286004|Rodolfo Sánchez T. (Maneadero)|rodolfo-sanchez-t-maneadero|\N|\N|12231|12232|\N
-130|MX|MEXICO|Mexico|Mexico|t286005|Ensenada|ensenada|\N|\N|12231|12232|\N
-130|MX|MEXICO|Mexico|Mexico|t286006|Mexicali|mexicali|\N|\N|12231|14673|\N
-130|MX|MEXICO|Mexico|Mexico|t286007|San Felipe|san-felipe|\N|\N|12231|14673|\N
-130|MX|MEXICO|Mexico|Mexico|t286008|Playas de Rosarito|playas-de-rosarito|\N|\N|12231|17892|\N
-130|MX|MEXICO|Mexico|Mexico|t286009|Tecate|tecate|\N|\N|12231|16623|\N
-130|MX|MEXICO|Mexico|Mexico|t286010|Tijuana|tijuana|\N|\N|12231|17345|\N
-130|MX|MEXICO|Mexico|Mexico|t286011|Ciudad Constitución|ciudad-constitucion|\N|\N|18180|18181|\N
-130|MX|MEXICO|Mexico|Mexico|t286012|Puerto Adolfo López Mateos|puerto-adolfo-lopez-mateos|\N|\N|18180|18181|\N
-130|MX|MEXICO|Mexico|Mexico|t286013|La Paz|la-paz|\N|\N|18180|20008|\N
-130|MX|MEXICO|Mexico|Mexico|t286014|Todos Santos|todos-santos|\N|\N|18180|20008|\N
-130|MX|MEXICO|Mexico|Mexico|t286015|Loreto|loreto|\N|\N|18180|21916|\N
-130|MX|MEXICO|Mexico|Mexico|t286016|San José del Cabo|san-jose-del-cabo|\N|\N|18180|21240|\N
-130|MX|MEXICO|Mexico|Mexico|t286017|Cabo San Lucas|cabo-san-lucas|\N|\N|18180|21240|\N
-130|MX|MEXICO|Mexico|Mexico|t286018|Heroica Mulegé|heroica-mulege|\N|\N|18180|19393|\N
-130|MX|MEXICO|Mexico|Mexico|t286019|Santa Rosalía|santa-rosalia|\N|\N|18180|19393|\N
-130|MX|MEXICO|Mexico|Mexico|t286020|San Ignacio|san-ignacio|\N|\N|18180|19393|\N
-130|MX|MEXICO|Mexico|Mexico|t286021|Villa Alberto Andrés Alvarado Arámburo|villa-alberto-andres-alvarado-aramburo|\N|\N|18180|19393|\N
-130|MX|MEXICO|Mexico|Mexico|t286022|Guerrero Negro|guerrero-negro|\N|\N|18180|19393|\N
-130|MX|MEXICO|Mexico|Mexico|t286023|Calkini|calkini|\N|\N|22134|22135|\N
-130|MX|MEXICO|Mexico|Mexico|t286024|San Francisco de Campeche|san-francisco-de-campeche|\N|\N|22134|22262|\N
-130|MX|MEXICO|Mexico|Mexico|t286025|Candelaria|candelaria|\N|\N|22134|25254|\N
-130|MX|MEXICO|Mexico|Mexico|t286026|Ciudad del Carmen|ciudad-del-carmen|\N|\N|22134|22635|\N
-130|MX|MEXICO|Mexico|Mexico|t286027|Sabancuy|sabancuy|\N|\N|22134|22635|\N
-130|MX|MEXICO|Mexico|Mexico|t286028|Champotón|champoton|\N|\N|22134|23611|\N
-130|MX|MEXICO|Mexico|Mexico|t286029|Escárcega|escarcega|\N|\N|22134|24665|\N
-130|MX|MEXICO|Mexico|Mexico|t286030|Hecelchakán|hecelchakan|\N|\N|22134|24104|\N
-130|MX|MEXICO|Mexico|Mexico|t286031|Pomuch|pomuch|\N|\N|22134|24104|\N
-130|MX|MEXICO|Mexico|Mexico|t286032|Hopelchén|hopelchen|\N|\N|22134|24169|\N
-130|MX|MEXICO|Mexico|Mexico|t286033|Acala|acala|\N|\N|38799|38939|\N
-130|MX|MEXICO|Mexico|Mexico|t286034|Arriaga|arriaga|\N|\N|38799|39930|\N
-130|MX|MEXICO|Mexico|Mexico|t286035|Cacahoatán|cacahoatan|\N|\N|38799|40929|\N
-130|MX|MEXICO|Mexico|Mexico|t286036|Chiapa de Corzo|chiapa-de-corzo|\N|\N|38799|43327|\N
-130|MX|MEXICO|Mexico|Mexico|t286037|Cintalapa de Figueroa|cintalapa-de-figueroa|\N|\N|38799|41236|\N
-130|MX|MEXICO|Mexico|Mexico|t286038|Comitán de Domínguez|comitan-de-dominguez|\N|\N|38799|41932|\N
-130|MX|MEXICO|Mexico|Mexico|t286039|Huixtla|huixtla|\N|\N|38799|45459|\N
-130|MX|MEXICO|Mexico|Mexico|t286040|Jiquipilas|jiquipilas|\N|\N|38799|46011|\N
-130|MX|MEXICO|Mexico|Mexico|t286041|Las Margaritas|las-margaritas|\N|\N|38799|47222|\N
-130|MX|MEXICO|Mexico|Mexico|t286042|Las Rosas|las-rosas|\N|\N|38799|52176|\N
-130|MX|MEXICO|Mexico|Mexico|t286043|Mapastepec|mapastepec|\N|\N|38799|46692|\N
-130|MX|MEXICO|Mexico|Mexico|t286044|Motozintla de Mendoza|motozintla-de-mendoza|\N|\N|38799|47875|\N
-130|MX|MEXICO|Mexico|Mexico|t286045|Ocosingo|ocosingo|\N|\N|38799|48221|\N
-130|MX|MEXICO|Mexico|Mexico|t286046|Ocozocoautla de Espinosa|ocozocoautla-de-espinosa|\N|\N|38799|49115|\N
-130|MX|MEXICO|Mexico|Mexico|t286047|Palenque|palenque|\N|\N|38799|50108|\N
-130|MX|MEXICO|Mexico|Mexico|t286048|Pichucalco|pichucalco|\N|\N|38799|50936|\N
-130|MX|MEXICO|Mexico|Mexico|t286049|Pijijiapan|pijijiapan|\N|\N|38799|51019|\N
-130|MX|MEXICO|Mexico|Mexico|t286050|Reforma|reforma|\N|\N|38799|52140|\N
-130|MX|MEXICO|Mexico|Mexico|t286051|San Cristóbal de las Casas|san-cristobal-de-las-casas|\N|\N|38799|52694|\N
-130|MX|MEXICO|Mexico|Mexico|t286052|Tapachula de Córdova y Ordóñez|tapachula-de-cordova-y-ordonez|\N|\N|38799|53904|\N
-130|MX|MEXICO|Mexico|Mexico|t286053|Puerto Madero (San Benito)|puerto-madero-san-benito|\N|\N|38799|53904|\N
-130|MX|MEXICO|Mexico|Mexico|t286054|Tonalá|tonala|\N|\N|38799|55069|\N
-130|MX|MEXICO|Mexico|Mexico|t286055|Tuxtla Gutiérrez|tuxtla-gutierrez|\N|\N|38799|56330|\N
-130|MX|MEXICO|Mexico|Mexico|t286056|Venustiano Carranza|venustiano-carranza|\N|\N|38799|56817|\N
-130|MX|MEXICO|Mexico|Mexico|t286057|Villaflores|villaflores|\N|\N|38799|58199|\N
-130|MX|MEXICO|Mexico|Mexico|t286058|Juan Aldama|juan-aldama|\N|\N|60202|60655|\N
-130|MX|MEXICO|Mexico|Mexico|t286059|Bachíniva|bachiniva|\N|\N|60202|61609|\N
-130|MX|MEXICO|Mexico|Mexico|t286060|Santa Rosalía de Camargo|santa-rosalia-de-camargo|\N|\N|60202|63417|\N
-130|MX|MEXICO|Mexico|Mexico|t286061|Chihuahua|chihuahua|\N|\N|60202|65577|\N
-130|MX|MEXICO|Mexico|Mexico|t286062|Cuauhtémoc|cuauhtemoc|\N|\N|60202|64807|\N
-130|MX|MEXICO|Mexico|Mexico|t286063|Colonia Anáhuac|colonia-anahuac|\N|\N|60202|64807|\N
-130|MX|MEXICO|Mexico|Mexico|t286064|Delicias|delicias|\N|\N|60202|66411|\N
-130|MX|MEXICO|Mexico|Mexico|t286065|Hidalgo del Parral|hidalgo-del-parral|\N|\N|60202|70560|\N
-130|MX|MEXICO|Mexico|Mexico|t286066|José Mariano Jiménez|jose-mariano-jimenez|\N|\N|60202|71150|\N
-130|MX|MEXICO|Mexico|Mexico|t286067|Juárez|juarez|\N|\N|60202|71548|\N
-130|MX|MEXICO|Mexico|Mexico|t286068|Madera|madera|\N|\N|60202|72007|\N
-130|MX|MEXICO|Mexico|Mexico|t286069|Nuevo Casas Grandes|nuevo-casas-grandes|\N|\N|60202|74598|\N
-130|MX|MEXICO|Mexico|Mexico|t286070|Manuel Ojinaga|manuel-ojinaga|\N|\N|60202|74930|\N
-130|MX|MEXICO|Mexico|Mexico|t286071|Saucillo|saucillo|\N|\N|60202|76458|\N
-130|MX|MEXICO|Mexico|Mexico|t286072|Ciudad de México|ciudad-de-mexico|\N|\N|78563|78867|\N
-130|MX|MEXICO|Mexico|Mexico|t286073|Ciudad Acuña|ciudad-acuna|\N|\N|25979|26023|\N
-130|MX|MEXICO|Mexico|Mexico|t286074|Allende|allende|\N|\N|25979|26338|\N
-130|MX|MEXICO|Mexico|Mexico|t286075|Arteaga|arteaga|\N|\N|25979|26483|\N
-130|MX|MEXICO|Mexico|Mexico|t286076|Castaños|castanos|\N|\N|25979|27261|\N
-130|MX|MEXICO|Mexico|Mexico|t286077|Cuatro Ciénegas de Carranza|cuatro-cienegas-de-carranza|\N|\N|25979|27511|\N
-130|MX|MEXICO|Mexico|Mexico|t286078|Francisco I. Madero (Chávez)|francisco-i-madero-chavez|\N|\N|25979|27813|\N
-130|MX|MEXICO|Mexico|Mexico|t286079|Frontera|frontera|\N|\N|25979|28016|\N
-130|MX|MEXICO|Mexico|Mexico|t286080|Matamoros|matamoros|\N|\N|25979|29112|\N
-130|MX|MEXICO|Mexico|Mexico|t286081|Monclova|monclova|\N|\N|25979|29394|\N
-130|MX|MEXICO|Mexico|Mexico|t286082|Morelos|morelos|\N|\N|25979|29767|\N
-130|MX|MEXICO|Mexico|Mexico|t286083|Ciudad Melchor Múzquiz|ciudad-melchor-muzquiz|\N|\N|25979|29925|\N
-130|MX|MEXICO|Mexico|Mexico|t286084|Nadadores|nadadores|\N|\N|25979|30535|\N
-130|MX|MEXICO|Mexico|Mexico|t286085|Nava|nava|\N|\N|25979|30642|\N
-130|MX|MEXICO|Mexico|Mexico|t286086|Parras de la Fuente|parras-de-la-fuente|\N|\N|25979|31342|\N
-130|MX|MEXICO|Mexico|Mexico|t286087|Piedras Negras|piedras-negras|\N|\N|25979|31711|\N
-130|MX|MEXICO|Mexico|Mexico|t286088|Ramos Arizpe|ramos-arizpe|\N|\N|25979|32013|\N
-130|MX|MEXICO|Mexico|Mexico|t286089|Sabinas|sabinas|\N|\N|25979|32465|\N
-130|MX|MEXICO|Mexico|Mexico|t286090|Saltillo|saltillo|\N|\N|25979|32856|\N
-130|MX|MEXICO|Mexico|Mexico|t286091|San Buenaventura|san-buenaventura|\N|\N|25979|33538|\N
-130|MX|MEXICO|Mexico|Mexico|t286092|Nueva Rosita|nueva-rosita|\N|\N|25979|33776|\N
-130|MX|MEXICO|Mexico|Mexico|t286093|San Pedro|san-pedro|\N|\N|25979|33927|\N
-130|MX|MEXICO|Mexico|Mexico|t286094|Torreón|torreon|\N|\N|25979|34541|\N
-130|MX|MEXICO|Mexico|Mexico|t286095|Viesca|viesca|\N|\N|25979|34650|\N
-130|MX|MEXICO|Mexico|Mexico|t286096|Zaragoza|zaragoza|\N|\N|25979|34998|\N
-130|MX|MEXICO|Mexico|Mexico|t286097|Ciudad de Armería|ciudad-de-armeria|\N|\N|35454|35455|\N
-130|MX|MEXICO|Mexico|Mexico|t286098|Colima|colima|\N|\N|35454|35650|\N
-130|MX|MEXICO|Mexico|Mexico|t286099|Manzanillo|manzanillo|\N|\N|35454|37239|\N
-130|MX|MEXICO|Mexico|Mexico|t286100|Tecoman|tecoman|\N|\N|35454|37824|\N
-130|MX|MEXICO|Mexico|Mexico|t286101|Ciudad de Villa de Álvarez|ciudad-de-villa-de-alvarez|\N|\N|35454|38547|\N
-130|MX|MEXICO|Mexico|Mexico|t286102|Canatlán|canatlan|\N|\N|79238|79239|\N
-130|MX|MEXICO|Mexico|Mexico|t286103|Victoria de Durango|victoria-de-durango|\N|\N|79238|79997|\N
-130|MX|MEXICO|Mexico|Mexico|t286104|Santa María del Oro|santa-maria-del-oro|\N|\N|79238|84278|\N
-130|MX|MEXICO|Mexico|Mexico|t286105|Gómez Palacio|gomez-palacio|\N|\N|79238|81180|\N
-130|MX|MEXICO|Mexico|Mexico|t286106|Ciudad Lerdo|ciudad-lerdo|\N|\N|79238|82242|\N
-130|MX|MEXICO|Mexico|Mexico|t286107|Nombre de Dios|nombre-de-dios|\N|\N|79238|83989|\N
-130|MX|MEXICO|Mexico|Mexico|t286108|Francisco I. Madero|francisco-i-madero|\N|\N|79238|84486|\N
-130|MX|MEXICO|Mexico|Mexico|t286109|Peñón Blanco|penon-blanco|\N|\N|79238|84547|\N
-130|MX|MEXICO|Mexico|Mexico|t286110|El Salto|el-salto|\N|\N|79238|84711|\N
-130|MX|MEXICO|Mexico|Mexico|t286111|San Juan del Río del Centauro del Norte|san-juan-del-rio-del-centauro-del-norte|\N|\N|79238|85984|\N
-130|MX|MEXICO|Mexico|Mexico|t286112|Santiago Papasquiaro|santiago-papasquiaro|\N|\N|79238|86214|\N
-130|MX|MEXICO|Mexico|Mexico|t286113|Vicente Guerrero|vicente-guerrero|\N|\N|79238|88086|\N
-130|MX|MEXICO|Mexico|Mexico|t286114|Abasolo|abasolo|\N|\N|88286|88287|\N
-130|MX|MEXICO|Mexico|Mexico|t286115|Acámbaro|acambaro|\N|\N|88286|88626|\N
-130|MX|MEXICO|Mexico|Mexico|t286116|Apaseo el Alto|apaseo-el-alto|\N|\N|88286|89530|\N
-130|MX|MEXICO|Mexico|Mexico|t286117|Apaseo el Grande|apaseo-el-grande|\N|\N|88286|89694|\N
-130|MX|MEXICO|Mexico|Mexico|t286118|Celaya|celaya|\N|\N|88286|89979|\N
-130|MX|MEXICO|Mexico|Mexico|t286119|Rincón de Tamayo|rincon-de-tamayo|\N|\N|88286|89979|\N
-130|MX|MEXICO|Mexico|Mexico|t286120|Comonfort|comonfort|\N|\N|88286|90776|\N
-130|MX|MEXICO|Mexico|Mexico|t286121|Empalme Escobedo (Escobedo)|empalme-escobedo-escobedo|\N|\N|88286|90776|\N
-130|MX|MEXICO|Mexico|Mexico|t286122|Cortazar|cortazar|\N|\N|88286|90994|\N
-130|MX|MEXICO|Mexico|Mexico|t286123|Cuerámaro|cueramaro|\N|\N|88286|91175|\N
-130|MX|MEXICO|Mexico|Mexico|t286124|Doctor Mora|doctor-mora|\N|\N|88286|91286|\N
-130|MX|MEXICO|Mexico|Mexico|t286125|Dolores Hidalgo|dolores-hidalgo|\N|\N|88286|91373|\N
-130|MX|MEXICO|Mexico|Mexico|t286126|Guanajuato|guanajuato|\N|\N|88286|91961|\N
-130|MX|MEXICO|Mexico|Mexico|t286127|Marfil|marfil|\N|\N|88286|91961|\N
-130|MX|MEXICO|Mexico|Mexico|t286128|Huanímaro|huanimaro|\N|\N|88286|92249|\N
-130|MX|MEXICO|Mexico|Mexico|t286129|Irapuato|irapuato|\N|\N|88286|92303|\N
-130|MX|MEXICO|Mexico|Mexico|t286130|Jaral del Progreso|jaral-del-progreso|\N|\N|88286|92860|\N
-130|MX|MEXICO|Mexico|Mexico|t286131|Jerécuaro|jerecuaro|\N|\N|88286|92933|\N
-130|MX|MEXICO|Mexico|Mexico|t286132|León de los Aldama|leon-de-los-aldama|\N|\N|88286|93128|\N
-130|MX|MEXICO|Mexico|Mexico|t286133|Ciudad Manuel Doblado|ciudad-manuel-doblado|\N|\N|88286|90428|\N
-130|MX|MEXICO|Mexico|Mexico|t286134|Moroleón|moroleon|\N|\N|88286|93825|\N
-130|MX|MEXICO|Mexico|Mexico|t286135|Pénjamo|penjamo|\N|\N|88286|94055|\N
-130|MX|MEXICO|Mexico|Mexico|t286136|Purísima de Bustos|purisima-de-bustos|\N|\N|88286|94705|\N
-130|MX|MEXICO|Mexico|Mexico|t286137|Romita|romita|\N|\N|88286|94840|\N
-130|MX|MEXICO|Mexico|Mexico|t286138|Salamanca|salamanca|\N|\N|88286|95192|\N
-130|MX|MEXICO|Mexico|Mexico|t286139|Salvatierra|salvatierra|\N|\N|88286|95649|\N
-130|MX|MEXICO|Mexico|Mexico|t286140|San Diego de la Unión|san-diego-de-la-union|\N|\N|88286|95777|\N
-130|MX|MEXICO|Mexico|Mexico|t286141|San Francisco del Rincón|san-francisco-del-rincon|\N|\N|88286|96530|\N
-130|MX|MEXICO|Mexico|Mexico|t286142|San José Iturbide|san-jose-iturbide|\N|\N|88286|96775|\N
-130|MX|MEXICO|Mexico|Mexico|t286143|San Luis de la Paz|san-luis-de-la-paz|\N|\N|88286|97033|\N
-130|MX|MEXICO|Mexico|Mexico|t286144|San miguel de Allende|san-miguel-de-allende|\N|\N|88286|88905|\N
-130|MX|MEXICO|Mexico|Mexico|t286145|Santa Cruz Juventino Rosas|santa-cruz-juventino-rosas|\N|\N|88286|97616|\N
-130|MX|MEXICO|Mexico|Mexico|t286146|Santiago Maravatío|santiago-maravatio|\N|\N|88286|97838|\N
-130|MX|MEXICO|Mexico|Mexico|t286147|Silao|silao|\N|\N|88286|97854|\N
-130|MX|MEXICO|Mexico|Mexico|t286148|Tarandacuao|tarandacuao|\N|\N|88286|98342|\N
-130|MX|MEXICO|Mexico|Mexico|t286149|Uriangato|uriangato|\N|\N|88286|98585|\N
-130|MX|MEXICO|Mexico|Mexico|t286150|Valle de Santiago|valle-de-santiago|\N|\N|88286|98645|\N
-130|MX|MEXICO|Mexico|Mexico|t286151|Villagrán|villagran|\N|\N|88286|99129|\N
-130|MX|MEXICO|Mexico|Mexico|t286152|Yuriria|yuriria|\N|\N|88286|99395|\N
-130|MX|MEXICO|Mexico|Mexico|t286153|Acapulco de Juárez|acapulco-de-juarez|\N|\N|99535|99536|\N
-130|MX|MEXICO|Mexico|Mexico|t286154|Ciudad Apaxtla de Castrejón|ciudad-apaxtla-de-castrejon|\N|\N|99535|100220|\N
-130|MX|MEXICO|Mexico|Mexico|t286155|Arcelia|arcelia|\N|\N|99535|100280|\N
-130|MX|MEXICO|Mexico|Mexico|t286156|Atoyac de Álvarez|atoyac-de-alvarez|\N|\N|99535|100601|\N
-130|MX|MEXICO|Mexico|Mexico|t286157|Ayutla de los Libres|ayutla-de-los-libres|\N|\N|99535|100831|\N
-130|MX|MEXICO|Mexico|Mexico|t286158|Azoyú|azoyu|\N|\N|99535|100988|\N
-130|MX|MEXICO|Mexico|Mexico|t286159|San Jerónimo de Juárez|san-jeronimo-de-juarez|\N|\N|99535|101075|\N
-130|MX|MEXICO|Mexico|Mexico|t286160|Buenavista de Cuellar|buenavista-de-cuellar|\N|\N|99535|101148|\N
-130|MX|MEXICO|Mexico|Mexico|t286161|Chilapa de Álvarez|chilapa-de-alvarez|\N|\N|99535|102863|\N
-130|MX|MEXICO|Mexico|Mexico|t286162|Chilpancingo de los Bravo|chilpancingo-de-los-bravo|\N|\N|99535|103073|\N
-130|MX|MEXICO|Mexico|Mexico|t286163|Ocotito|ocotito|\N|\N|99535|103073|\N
-130|MX|MEXICO|Mexico|Mexico|t286164|Copala|copala|\N|\N|99535|101514|\N
-130|MX|MEXICO|Mexico|Mexico|t286165|Coyuca de Benítez|coyuca-de-benitez|\N|\N|99535|101689|\N
-130|MX|MEXICO|Mexico|Mexico|t286166|Coyuca de Catalán|coyuca-de-catalan|\N|\N|99535|101870|\N
-130|MX|MEXICO|Mexico|Mexico|t286167|Cuajinicuilapa|cuajinicuilapa|\N|\N|99535|102331|\N
-130|MX|MEXICO|Mexico|Mexico|t286168|Cutzamala de Pinzón|cutzamala-de-pinzon|\N|\N|99535|102670|\N
-130|MX|MEXICO|Mexico|Mexico|t286169|Zumpango del Río|zumpango-del-rio|\N|\N|99535|108524|\N
-130|MX|MEXICO|Mexico|Mexico|t286170|Cruz Grande|cruz-grande|\N|\N|99535|103253|\N
-130|MX|MEXICO|Mexico|Mexico|t286171|Huamuxtitlan|huamuxtitlan|\N|\N|99535|103672|\N
-130|MX|MEXICO|Mexico|Mexico|t286172|Huitzuco|huitzuco|\N|\N|99535|103699|\N
-130|MX|MEXICO|Mexico|Mexico|t286173|Iguala de la Independencia|iguala-de-la-independencia|\N|\N|99535|103786|\N
-130|MX|MEXICO|Mexico|Mexico|t286174|Tierra Colorada|tierra-colorada|\N|\N|99535|104210|\N
-130|MX|MEXICO|Mexico|Mexico|t286175|La Unión|la-union|\N|\N|99535|107673|\N
-130|MX|MEXICO|Mexico|Mexico|t286176|Marquelia|marquelia|\N|\N|99535|108720|\N
-130|MX|MEXICO|Mexico|Mexico|t286177|Olinalá|olinala|\N|\N|99535|104615|\N
-130|MX|MEXICO|Mexico|Mexico|t286178|Petatlán|petatlan|\N|\N|99535|105105|\N
-130|MX|MEXICO|Mexico|Mexico|t286179|Ciudad Altamirano|ciudad-altamirano|\N|\N|99535|105523|\N
-130|MX|MEXICO|Mexico|Mexico|t286180|San Luis Acatlán|san-luis-acatlan|\N|\N|99535|105641|\N
-130|MX|MEXICO|Mexico|Mexico|t286181|San Marcos|san-marcos|\N|\N|99535|105760|\N
-130|MX|MEXICO|Mexico|Mexico|t286182|Taxco de Alarcón|taxco-de-alarcon|\N|\N|99535|106144|\N
-130|MX|MEXICO|Mexico|Mexico|t286183|Técpan de Galeana|tecpan-de-galeana|\N|\N|99535|106353|\N
-130|MX|MEXICO|Mexico|Mexico|t286184|San Luis San Pedro|san-luis-san-pedro|\N|\N|99535|106353|\N
-130|MX|MEXICO|Mexico|Mexico|t286185|San Luis de la Loma|san-luis-de-la-loma|\N|\N|99535|106353|\N
-130|MX|MEXICO|Mexico|Mexico|t286186|Teloloapan|teloloapan|\N|\N|99535|106838|\N
-130|MX|MEXICO|Mexico|Mexico|t286187|Tepecoacuilco de Trujano|tepecoacuilco-de-trujano|\N|\N|99535|107076|\N
-130|MX|MEXICO|Mexico|Mexico|t286188|Tixtla de Guerrero|tixtla-de-guerrero|\N|\N|99535|107209|\N
-130|MX|MEXICO|Mexico|Mexico|t286189|Tlalixtaquilla|tlalixtaquilla|\N|\N|99535|107467|\N
-130|MX|MEXICO|Mexico|Mexico|t286190|Tlapa de Comonfort|tlapa-de-comonfort|\N|\N|99535|107487|\N
-130|MX|MEXICO|Mexico|Mexico|t286191|Tlapehuala|tlapehuala|\N|\N|99535|107630|\N
-130|MX|MEXICO|Mexico|Mexico|t286192|Zihuatanejo|zihuatanejo|\N|\N|99535|103937|\N
-130|MX|MEXICO|Mexico|Mexico|t286193|Actopan|actopan|\N|\N|109086|109207|\N
-130|MX|MEXICO|Mexico|Mexico|t286194|Apan|apan|\N|\N|109086|109478|\N
-130|MX|MEXICO|Mexico|Mexico|t286195|Huejutla de Reyes|huejutla-de-reyes|\N|\N|109086|110707|\N
-130|MX|MEXICO|Mexico|Mexico|t286196|Ixmiquilpan|ixmiquilpan|\N|\N|109086|111031|\N
-130|MX|MEXICO|Mexico|Mexico|t286197|Pachuca de Soto|pachuca-de-soto|\N|\N|109086|112150|\N
-130|MX|MEXICO|Mexico|Mexico|t286198|Santiago Tulantepec|santiago-tulantepec|\N|\N|109086|112697|\N
-130|MX|MEXICO|Mexico|Mexico|t286199|Tepeapulco|tepeapulco|\N|\N|109086|113029|\N
-130|MX|MEXICO|Mexico|Mexico|t286200|Cd. de Fray Bernardino de Sahagún|cd-de-fray-bernardino-de-sahagun|\N|\N|109086|113029|\N
-130|MX|MEXICO|Mexico|Mexico|t286201|Tepeji del Rio|tepeji-del-rio|\N|\N|109086|113206|\N
-130|MX|MEXICO|Mexico|Mexico|t286202|Tizayuca|tizayuca|\N|\N|109086|113464|\N
-130|MX|MEXICO|Mexico|Mexico|t286203|Tlaxcoapan|tlaxcoapan|\N|\N|109086|113785|\N
-130|MX|MEXICO|Mexico|Mexico|t286204|Tula de Allende|tula-de-allende|\N|\N|109086|113838|\N
-130|MX|MEXICO|Mexico|Mexico|t286205|Cruz Azul|cruz-azul|\N|\N|109086|113838|\N
-130|MX|MEXICO|Mexico|Mexico|t286206|Tulancingo|tulancingo|\N|\N|109086|113915|\N
-130|MX|MEXICO|Mexico|Mexico|t286207|Zimapan|zimapan|\N|\N|109086|114298|\N
-130|MX|MEXICO|Mexico|Mexico|t286208|Acatlán de Juárez|acatlan-de-juarez|\N|\N|114463|114581|\N
-130|MX|MEXICO|Mexico|Mexico|t286209|Ahualulco de Mercado|ahualulco-de-mercado|\N|\N|114463|114636|\N
-130|MX|MEXICO|Mexico|Mexico|t286210|Ameca|ameca|\N|\N|114463|114828|\N
-130|MX|MEXICO|Mexico|Mexico|t286211|Arandas|arandas|\N|\N|114463|115039|\N
-130|MX|MEXICO|Mexico|Mexico|t286212|Atotonilco el Alto|atotonilco-el-alto|\N|\N|114463|115661|\N
-130|MX|MEXICO|Mexico|Mexico|t286213|Autlán de Navarro|autlan-de-navarro|\N|\N|114463|115920|\N
-130|MX|MEXICO|Mexico|Mexico|t286214|La Resolana|la-resolana|\N|\N|114463|117177|\N
-130|MX|MEXICO|Mexico|Mexico|t286215|Chapala|chapala|\N|\N|114463|118340|\N
-130|MX|MEXICO|Mexico|Mexico|t286216|Ajijic|ajijic|\N|\N|114463|118340|\N
-130|MX|MEXICO|Mexico|Mexico|t286217|Cihuatlán|cihuatlan|\N|\N|114463|117323|\N
-130|MX|MEXICO|Mexico|Mexico|t286218|Cocula|cocula|\N|\N|114463|117619|\N
-130|MX|MEXICO|Mexico|Mexico|t286219|Colotlán|colotlan|\N|\N|114463|117682|\N
-130|MX|MEXICO|Mexico|Mexico|t286220|El Grullo|el-grullo|\N|\N|114463|119338|\N
-130|MX|MEXICO|Mexico|Mexico|t286221|Las Pintitas|las-pintitas|\N|\N|114463|124829|\N
-130|MX|MEXICO|Mexico|Mexico|t286222|San José el Verde (El Verde)|san-jose-el-verde-el-verde|\N|\N|114463|124829|\N
-130|MX|MEXICO|Mexico|Mexico|t286223|El Quince (San José el Quince)|el-quince-san-jose-el-quince|\N|\N|114463|124829|\N
-130|MX|MEXICO|Mexico|Mexico|t286224|Etzatlán|etzatlan|\N|\N|114463|119243|\N
-130|MX|MEXICO|Mexico|Mexico|t286225|Guadalajara|guadalajara|\N|\N|114463|119670|\N
-130|MX|MEXICO|Mexico|Mexico|t286226|Huejuquilla el Alto|huejuquilla-el-alto|\N|\N|114463|119865|\N
-130|MX|MEXICO|Mexico|Mexico|t286227|Jalostotitlán|jalostotitlan|\N|\N|114463|120650|\N
-130|MX|MEXICO|Mexico|Mexico|t286228|Jamay|jamay|\N|\N|114463|120870|\N
-130|MX|MEXICO|Mexico|Mexico|t286229|Jocotepec|jocotepec|\N|\N|114463|121410|\N
-130|MX|MEXICO|Mexico|Mexico|t286230|La Barca|la-barca|\N|\N|114463|116492|\N
-130|MX|MEXICO|Mexico|Mexico|t286231|Lagos de Moreno|lagos-de-moreno|\N|\N|114463|121595|\N
-130|MX|MEXICO|Mexico|Mexico|t286232|Magdalena|magdalena|\N|\N|114463|122151|\N
-130|MX|MEXICO|Mexico|Mexico|t286233|Ocotlán|ocotlan|\N|\N|114463|123609|\N
-130|MX|MEXICO|Mexico|Mexico|t286234|Poncitlán|poncitlan|\N|\N|114463|124060|\N
-130|MX|MEXICO|Mexico|Mexico|t286235|Puerto Vallarta|puerto-vallarta|\N|\N|114463|124188|\N
-130|MX|MEXICO|Mexico|Mexico|t286236|San Diego de Alejandría|san-diego-de-alejandria|\N|\N|114463|125061|\N
-130|MX|MEXICO|Mexico|Mexico|t286237|San Ignacio Cerro Gordo|san-ignacio-cerro-gordo|\N|\N|114463|132820|\N
-130|MX|MEXICO|Mexico|Mexico|t286238|San Juan de los Lagos|san-juan-de-los-lagos|\N|\N|114463|125176|\N
-130|MX|MEXICO|Mexico|Mexico|t286239|San Julián|san-julian|\N|\N|114463|125451|\N
-130|MX|MEXICO|Mexico|Mexico|t286240|San Miguel el Alto|san-miguel-el-alto|\N|\N|114463|125867|\N
-130|MX|MEXICO|Mexico|Mexico|t286241|Tlaquepaque|tlaquepaque|\N|\N|114463|129417|\N
-130|MX|MEXICO|Mexico|Mexico|t286242|Sayula|sayula|\N|\N|114463|126350|\N
-130|MX|MEXICO|Mexico|Mexico|t286243|Tala|tala|\N|\N|114463|126459|\N
-130|MX|MEXICO|Mexico|Mexico|t286244|Talpa de Allende|talpa-de-allende|\N|\N|114463|126648|\N
-130|MX|MEXICO|Mexico|Mexico|t286245|Tamazula de Gordiano|tamazula-de-gordiano|\N|\N|114463|126917|\N
-130|MX|MEXICO|Mexico|Mexico|t286246|Tecalitlán|tecalitlan|\N|\N|114463|127409|\N
-130|MX|MEXICO|Mexico|Mexico|t286247|Teocaltiche|teocaltiche|\N|\N|114463|127946|\N
-130|MX|MEXICO|Mexico|Mexico|t286248|Tepatitlán de Morelos|tepatitlan-de-morelos|\N|\N|114463|128261|\N
-130|MX|MEXICO|Mexico|Mexico|t286249|Tequila|tequila|\N|\N|114463|128669|\N
-130|MX|MEXICO|Mexico|Mexico|t286250|Tlajomulco de Zúñiga|tlajomulco-de-zuniga|\N|\N|114463|129095|\N
-130|MX|MEXICO|Mexico|Mexico|t286251|Tototlán|tototlan|\N|\N|114463|130187|\N
-130|MX|MEXICO|Mexico|Mexico|t286252|Tuxpan|tuxpan|\N|\N|114463|130443|\N
-130|MX|MEXICO|Mexico|Mexico|t286253|Unión de San Antonio|union-de-san-antonio|\N|\N|114463|130625|\N
-130|MX|MEXICO|Mexico|Mexico|t286254|Valle de Guadalupe|valle-de-guadalupe|\N|\N|114463|130966|\N
-130|MX|MEXICO|Mexico|Mexico|t286255|Villa Corona|villa-corona|\N|\N|114463|131294|\N
-130|MX|MEXICO|Mexico|Mexico|t286256|Villa Hidalgo|villa-hidalgo|\N|\N|114463|131514|\N
-130|MX|MEXICO|Mexico|Mexico|t286257|Yahualica de González Gallo|yahualica-de-gonzalez-gallo|\N|\N|114463|131714|\N
-130|MX|MEXICO|Mexico|Mexico|t286258|Zacoalco de Torres|zacoalco-de-torres|\N|\N|114463|131957|\N
-130|MX|MEXICO|Mexico|Mexico|t286259|Zapopan|zapopan|\N|\N|114463|132013|\N
-130|MX|MEXICO|Mexico|Mexico|t286260|Zapotiltic|zapotiltic|\N|\N|114463|132348|\N
-130|MX|MEXICO|Mexico|Mexico|t286261|Ciudad Guzmán|ciudad-guzman|\N|\N|114463|117431|\N
-130|MX|MEXICO|Mexico|Mexico|t286262|Almoloya de Juárez|almoloya-de-juarez|\N|\N|132909|133157|\N
-130|MX|MEXICO|Mexico|Mexico|t286263|Amatepec|amatepec|\N|\N|132909|133306|\N
-130|MX|MEXICO|Mexico|Mexico|t286264|Ciudad Adolfo López Mateos|ciudad-adolfo-lopez-mateos|\N|\N|132909|133594|\N
-130|MX|MEXICO|Mexico|Mexico|t286265|Capulhuac|capulhuac|\N|\N|132909|133837|\N
-130|MX|MEXICO|Mexico|Mexico|t286266|Chalco de Díaz Covarrubias|chalco-de-diaz-covarrubias|\N|\N|132909|133972|\N
-130|MX|MEXICO|Mexico|Mexico|t286267|San Vicente Chicoloapan de Juárez|san-vicente-chicoloapan-de-juarez|\N|\N|132909|134112|\N
-130|MX|MEXICO|Mexico|Mexico|t286268|Chiconcuac|chiconcuac|\N|\N|132909|134130|\N
-130|MX|MEXICO|Mexico|Mexico|t286269|Chimalhuacán|chimalhuacan|\N|\N|132909|134133|\N
-130|MX|MEXICO|Mexico|Mexico|t286270|Coacalco de Berriozabal|coacalco-de-berriozabal|\N|\N|132909|133855|\N
-130|MX|MEXICO|Mexico|Mexico|t286271|Cuautitlán|cuautitlan|\N|\N|132909|133941|\N
-130|MX|MEXICO|Mexico|Mexico|t286272|Cuautitlán Izcalli|cuautitlan-izcalli|\N|\N|132909|137914|\N
-130|MX|MEXICO|Mexico|Mexico|t286273|Ecatepec de Morelos|ecatepec-de-morelos|\N|\N|132909|134172|\N
-130|MX|MEXICO|Mexico|Mexico|t286274|Huixquilucan de Degollado|huixquilucan-de-degollado|\N|\N|132909|134233|\N
-130|MX|MEXICO|Mexico|Mexico|t286275|Ixtapaluca|ixtapaluca|\N|\N|132909|134314|\N
-130|MX|MEXICO|Mexico|Mexico|t286276|Juchitepec de Mariano Riva Palacio|juchitepec-de-mariano-riva-palacio|\N|\N|132909|134765|\N
-130|MX|MEXICO|Mexico|Mexico|t286277|Los Reyes Acaquilpan (La Paz)|los-reyes-acaquilpan-la-paz|\N|\N|132909|135446|\N
-130|MX|MEXICO|Mexico|Mexico|t286278|Melchor Ocampo|melchor-ocampo|\N|\N|132909|134911|\N
-130|MX|MEXICO|Mexico|Mexico|t286279|Metepec|metepec|\N|\N|132909|134923|\N
-130|MX|MEXICO|Mexico|Mexico|t286280|Naucalpan de Juárez|naucalpan-de-juarez|\N|\N|132909|135000|\N
-130|MX|MEXICO|Mexico|Mexico|t286281|Ciudad Nezahualcoyotl|ciudad-nezahualcoyotl|\N|\N|132909|135059|\N
-130|MX|MEXICO|Mexico|Mexico|t286282|Villa Nicolás Romero|villa-nicolas-romero|\N|\N|132909|135096|\N
-130|MX|MEXICO|Mexico|Mexico|t286283|Ocoyoacac|ocoyoacac|\N|\N|132909|135156|\N
-130|MX|MEXICO|Mexico|Mexico|t286284|San Mateo Atenco|san-mateo-atenco|\N|\N|132909|135639|\N
-130|MX|MEXICO|Mexico|Mexico|t286285|Tecamac de Felipe Villanueva|tecamac-de-felipe-villanueva|\N|\N|132909|135806|\N
-130|MX|MEXICO|Mexico|Mexico|t286286|Tejupilco de Hidalgo|tejupilco-de-hidalgo|\N|\N|132909|135862|\N
-130|MX|MEXICO|Mexico|Mexico|t286287|Tepotzotlán|tepotzotlan|\N|\N|132909|136562|\N
-130|MX|MEXICO|Mexico|Mexico|t286288|Tequixquiac|tequixquiac|\N|\N|132909|136608|\N
-130|MX|MEXICO|Mexico|Mexico|t286289|Texcoco de Mora|texcoco-de-mora|\N|\N|132909|136665|\N
-130|MX|MEXICO|Mexico|Mexico|t286290|Tlalnepantla de Baz|tlalnepantla-de-baz|\N|\N|132909|136905|\N
-130|MX|MEXICO|Mexico|Mexico|t286291|Toluca de Lerdo|toluca-de-lerdo|\N|\N|132909|137099|\N
-130|MX|MEXICO|Mexico|Mexico|t286292|Santa Maria Tultepec|santa-maria-tultepec|\N|\N|132909|137236|\N
-130|MX|MEXICO|Mexico|Mexico|t286293|Tultitlán de Mariano Escobedo|tultitlan-de-mariano-escobedo|\N|\N|132909|137255|\N
-130|MX|MEXICO|Mexico|Mexico|t286294|Valle de Chalco Solidaridad|valle-de-chalco-solidaridad|\N|\N|132909|137927|\N
-130|MX|MEXICO|Mexico|Mexico|t286295|Xonacatlán|xonacatlan|\N|\N|132909|137635|\N
-130|MX|MEXICO|Mexico|Mexico|t286296|Zumpango|zumpango|\N|\N|132909|137832|\N
-130|MX|MEXICO|Mexico|Mexico|t286297|Apatzingán de la Constitución|apatzingan-de-la-constitucion|\N|\N|138297|138734|\N
-130|MX|MEXICO|Mexico|Mexico|t286298|Cotija de la Paz|cotija-de-la-paz|\N|\N|138297|141385|\N
-130|MX|MEXICO|Mexico|Mexico|t286299|Cuitzeo del Porvenir|cuitzeo-del-porvenir|\N|\N|138297|141478|\N
-130|MX|MEXICO|Mexico|Mexico|t286300|Ciudad Hidalgo|ciudad-hidalgo|\N|\N|138297|142250|\N
-130|MX|MEXICO|Mexico|Mexico|t286301|Huetamo de Núñez|huetamo-de-nunez|\N|\N|138297|142843|\N
-130|MX|MEXICO|Mexico|Mexico|t286302|Jacona de Plancarte|jacona-de-plancarte|\N|\N|138297|143353|\N
-130|MX|MEXICO|Mexico|Mexico|t286303|Jiquilpan de Juárez|jiquilpan-de-juarez|\N|\N|138297|143447|\N
-130|MX|MEXICO|Mexico|Mexico|t286304|La piedad de Cabadas|la-piedad-de-cabadas|\N|\N|138297|145789|\N
-130|MX|MEXICO|Mexico|Mexico|t286305|Ciudad Lázaro Cárdenas|ciudad-lazaro-cardenas|\N|\N|138297|144209|\N
-130|MX|MEXICO|Mexico|Mexico|t286306|Las Guacamayas|las-guacamayas|\N|\N|138297|144209|\N
-130|MX|MEXICO|Mexico|Mexico|t286307|Los Reyes de Salgado|los-reyes-de-salgado|\N|\N|138297|146118|\N
-130|MX|MEXICO|Mexico|Mexico|t286308|Maravatío de Ocampo|maravatio-de-ocampo|\N|\N|138297|144014|\N
-130|MX|MEXICO|Mexico|Mexico|t286309|Morelia|morelia|\N|\N|138297|144482|\N
-130|MX|MEXICO|Mexico|Mexico|t286310|Nueva Italia de Ruiz|nueva-italia-de-ruiz|\N|\N|138297|144854|\N
-130|MX|MEXICO|Mexico|Mexico|t286311|Paracho de Verduzco|paracho-de-verduzco|\N|\N|138297|145472|\N
-130|MX|MEXICO|Mexico|Mexico|t286312|Pátzcuaro|patzcuaro|\N|\N|138297|145511|\N
-130|MX|MEXICO|Mexico|Mexico|t286313|Puruándiro|puruandiro|\N|\N|138297|145967|\N
-130|MX|MEXICO|Mexico|Mexico|t286314|Sahuayo de Morelos|sahuayo-de-morelos|\N|\N|138297|146181|\N
-130|MX|MEXICO|Mexico|Mexico|t286315|Tacámbaro de Codallos|tacambaro-de-codallos|\N|\N|138297|146619|\N
-130|MX|MEXICO|Mexico|Mexico|t286316|Tangancícuaro de Arista|tangancicuaro-de-arista|\N|\N|138297|146991|\N
-130|MX|MEXICO|Mexico|Mexico|t286317|Uruapan|uruapan|\N|\N|138297|149245|\N
-130|MX|MEXICO|Mexico|Mexico|t286318|Yurécuaro|yurecuaro|\N|\N|138297|149664|\N
-130|MX|MEXICO|Mexico|Mexico|t286319|Zacapu|zacapu|\N|\N|138297|149694|\N
-130|MX|MEXICO|Mexico|Mexico|t286320|Zamora de Hidalgo|zamora-de-hidalgo|\N|\N|138297|149768|\N
-130|MX|MEXICO|Mexico|Mexico|t286321|Zinapécuaro de Figueroa|zinapecuaro-de-figueroa|\N|\N|138297|149935|\N
-130|MX|MEXICO|Mexico|Mexico|t286322|Heroica Zitácuaro|heroica-zitacuaro|\N|\N|138297|150088|\N
-130|MX|MEXICO|Mexico|Mexico|t286323|Cuautla (Cuautla de Morelos)|cuautla-cuautla-de-morelos|\N|\N|150301|150663|\N
-130|MX|MEXICO|Mexico|Mexico|t286324|Cuernavaca|cuernavaca|\N|\N|150301|150729|\N
-130|MX|MEXICO|Mexico|Mexico|t286325|Jojutla|jojutla|\N|\N|150301|150993|\N
-130|MX|MEXICO|Mexico|Mexico|t286326|Puente de Ixtla|puente-de-ixtla|\N|\N|150301|151259|\N
-130|MX|MEXICO|Mexico|Mexico|t286327|Santa Rosa Treinta|santa-rosa-treinta|\N|\N|150301|151639|\N
-130|MX|MEXICO|Mexico|Mexico|t286328|Tlaquiltenango|tlaquiltenango|\N|\N|150301|151733|\N
-130|MX|MEXICO|Mexico|Mexico|t286329|Zacatepec de Hidalgo|zacatepec-de-hidalgo|\N|\N|150301|152172|\N
-130|MX|MEXICO|Mexico|Mexico|t286330|Galeana|galeana|\N|\N|150301|152172|\N
-130|MX|MEXICO|Mexico|Mexico|t286331|Acaponeta|acaponeta|\N|\N|152239|152240|\N
-130|MX|MEXICO|Mexico|Mexico|t286332|Ahuacatlán|ahuacatlan|\N|\N|152239|152427|\N
-130|MX|MEXICO|Mexico|Mexico|t286333|Bucerías|bucerias|\N|\N|152239|156100|\N
-130|MX|MEXICO|Mexico|Mexico|t286334|Compostela|compostela|\N|\N|152239|152569|\N
-130|MX|MEXICO|Mexico|Mexico|t286335|Las Varas|las-varas|\N|\N|152239|152569|\N
-130|MX|MEXICO|Mexico|Mexico|t286336|La peñita de Jaltemba|la-penita-de-jaltemba|\N|\N|152239|152569|\N
-130|MX|MEXICO|Mexico|Mexico|t286337|Ixtlán del Río|ixtlan-del-rio|\N|\N|152239|153169|\N
-130|MX|MEXICO|Mexico|Mexico|t286338|Jala|jala|\N|\N|152239|153265|\N
-130|MX|MEXICO|Mexico|Mexico|t286339|Ruiz|ruiz|\N|\N|152239|154120|\N
-130|MX|MEXICO|Mexico|Mexico|t286340|San Blas|san-blas|\N|\N|152239|154219|\N
-130|MX|MEXICO|Mexico|Mexico|t286341|San pedro Lagunillas|san-pedro-lagunillas|\N|\N|152239|154358|\N
-130|MX|MEXICO|Mexico|Mexico|t286342|Santiago Ixcuintla|santiago-ixcuintla|\N|\N|152239|154574|\N
-130|MX|MEXICO|Mexico|Mexico|t286343|Villa Hidalgo (El Nuevo)|villa-hidalgo-el-nuevo|\N|\N|152239|154574|\N
-130|MX|MEXICO|Mexico|Mexico|t286344|Tecuala|tecuala|\N|\N|152239|154813|\N
-130|MX|MEXICO|Mexico|Mexico|t286345|Tepic|tepic|\N|\N|152239|154969|\N
-130|MX|MEXICO|Mexico|Mexico|t286346|Francisco I. Madero (Puga)|francisco-i-madero-puga|\N|\N|152239|154969|\N
-130|MX|MEXICO|Mexico|Mexico|t286347|Xalisco|xalisco|\N|\N|152239|153343|\N
-130|MX|MEXICO|Mexico|Mexico|t286348|Anáhuac|anahuac|\N|\N|156524|156884|\N
-130|MX|MEXICO|Mexico|Mexico|t286349|Ciudad Apodaca|ciudad-apodaca|\N|\N|156524|157562|\N
-130|MX|MEXICO|Mexico|Mexico|t286350|Cadereyta Jiménez|cadereyta-jimenez|\N|\N|156524|157984|\N
-130|MX|MEXICO|Mexico|Mexico|t286351|Ciénega de Flores|cienega-de-flores|\N|\N|156524|158634|\N
-130|MX|MEXICO|Mexico|Mexico|t286352|Doctor Arroyo|doctor-arroyo|\N|\N|156524|159341|\N
-130|MX|MEXICO|Mexico|Mexico|t286353|García|garcia|\N|\N|156524|160472|\N
-130|MX|MEXICO|Mexico|Mexico|t286354|Ciudad General Escobedo|ciudad-general-escobedo|\N|\N|156524|160902|\N
-130|MX|MEXICO|Mexico|Mexico|t286355|Guadalupe|guadalupe|\N|\N|156524|161746|\N
-130|MX|MEXICO|Mexico|Mexico|t286356|Hualahuises|hualahuises|\N|\N|156524|162002|\N
-130|MX|MEXICO|Mexico|Mexico|t286357|Ciudad Benito Juárez|ciudad-benito-juarez|\N|\N|156524|162182|\N
-130|MX|MEXICO|Mexico|Mexico|t286358|Linares|linares|\N|\N|156524|162503|\N
-130|MX|MEXICO|Mexico|Mexico|t286359|Montemorelos|montemorelos|\N|\N|156524|163438|\N
-130|MX|MEXICO|Mexico|Mexico|t286360|Monterrey|monterrey|\N|\N|156524|163982|\N
-130|MX|MEXICO|Mexico|Mexico|t286361|Ciudad Sabinas Hidalgo|ciudad-sabinas-hidalgo|\N|\N|156524|164659|\N
-130|MX|MEXICO|Mexico|Mexico|t286362|San Nicolás de los Garza|san-nicolas-de-los-garza|\N|\N|156524|165223|\N
-130|MX|MEXICO|Mexico|Mexico|t286363|San Pedro Garza García|san-pedro-garza-garcia|\N|\N|156524|160612|\N
-130|MX|MEXICO|Mexico|Mexico|t286364|Ciudad Santa Catarina|ciudad-santa-catarina|\N|\N|156524|165271|\N
-130|MX|MEXICO|Mexico|Mexico|t286365|Santiago|santiago|\N|\N|156524|165369|\N
-130|MX|MEXICO|Mexico|Mexico|t286366|El cercado|el-cercado|\N|\N|156524|165369|\N
-130|MX|MEXICO|Mexico|Mexico|t286367|Vicente Camalote|vicente-camalote|\N|\N|165935|165939|\N
-130|MX|MEXICO|Mexico|Mexico|t286368|Asunción Nochixtlán|asuncion-nochixtlan|\N|\N|165935|166212|\N
-130|MX|MEXICO|Mexico|Mexico|t286369|Chahuites|chahuites|\N|\N|165935|166732|\N
-130|MX|MEXICO|Mexico|Mexico|t286370|Ciudad Ixtepec|ciudad-ixtepec|\N|\N|165935|166468|\N
-130|MX|MEXICO|Mexico|Mexico|t286371|Cosolapa|cosolapa|\N|\N|165935|166613|\N
-130|MX|MEXICO|Mexico|Mexico|t286372|Cuilápam de Guerrero|cuilapam-de-guerrero|\N|\N|165935|166667|\N
-130|MX|MEXICO|Mexico|Mexico|t286373|Lagunas|lagunas|\N|\N|165935|166304|\N
-130|MX|MEXICO|Mexico|Mexico|t286374|Heroica Ciudad de Ejutla de Crespo|heroica-ciudad-de-ejutla-de-crespo|\N|\N|165935|166789|\N
-130|MX|MEXICO|Mexico|Mexico|t286375|Heroica Ciudad de Huajuapan de León|heroica-ciudad-de-huajuapan-de-leon|\N|\N|165935|167098|\N
-130|MX|MEXICO|Mexico|Mexico|t286376|Juchitán (Juchitán de Zaragoza)|juchitan-juchitan-de-zaragoza|\N|\N|165935|167318|\N
-130|MX|MEXICO|Mexico|Mexico|t286377|Heroica Ciudad de Tlaxiaco|heroica-ciudad-de-tlaxiaco|\N|\N|165935|175172|\N
-130|MX|MEXICO|Mexico|Mexico|t286378|Loma Bonita|loma-bonita|\N|\N|165935|167491|\N
-130|MX|MEXICO|Mexico|Mexico|t286379|Mariscala de Juárez|mariscala-de-juarez|\N|\N|165935|167838|\N
-130|MX|MEXICO|Mexico|Mexico|t286380|Matías Romero Avendaño|matias-romero-avendano|\N|\N|165935|167858|\N
-130|MX|MEXICO|Mexico|Mexico|t286381|Miahuatlán de Porfirio Díaz|miahuatlan-de-porfirio-diaz|\N|\N|165935|168146|\N
-130|MX|MEXICO|Mexico|Mexico|t286382|Natividad|natividad|\N|\N|165935|168274|\N
-130|MX|MEXICO|Mexico|Mexico|t286383|El Camarón|el-camaron|\N|\N|165935|168279|\N
-130|MX|MEXICO|Mexico|Mexico|t286384|Oaxaca|oaxaca|\N|\N|165935|168385|\N
-130|MX|MEXICO|Mexico|Mexico|t286385|Ocotlán de Morelos|ocotlan-de-morelos|\N|\N|165935|168418|\N
-130|MX|MEXICO|Mexico|Mexico|t286386|Putla Villa de Guerrero|putla-villa-de-guerrero|\N|\N|165935|168624|\N
-130|MX|MEXICO|Mexico|Mexico|t286387|Salina Cruz|salina-cruz|\N|\N|165935|168748|\N
-130|MX|MEXICO|Mexico|Mexico|t286388|San Antonio de la Cal|san-antonio-de-la-cal|\N|\N|165935|169188|\N
-130|MX|MEXICO|Mexico|Mexico|t286389|San Blas Atempa|san-blas-atempa|\N|\N|165935|169399|\N
-130|MX|MEXICO|Mexico|Mexico|t286390|San Felipe Jalapa de Díaz|san-felipe-jalapa-de-diaz|\N|\N|165935|169610|\N
-130|MX|MEXICO|Mexico|Mexico|t286391|San Francisco Ixhuatán|san-francisco-ixhuatan|\N|\N|165935|169856|\N
-130|MX|MEXICO|Mexico|Mexico|t286392|San Francisco Telixtlahuaca|san-francisco-telixtlahuaca|\N|\N|165935|169931|\N
-130|MX|MEXICO|Mexico|Mexico|t286393|San Juan Bautista Cuicatlán|san-juan-bautista-cuicatlan|\N|\N|165935|170470|\N
-130|MX|MEXICO|Mexico|Mexico|t286394|San Juan Bautista lo de Soto|san-juan-bautista-lo-de-soto|\N|\N|165935|170518|\N
-130|MX|MEXICO|Mexico|Mexico|t286395|San Juan Bautista Tuxtepec|san-juan-bautista-tuxtepec|\N|\N|165935|170549|\N
-130|MX|MEXICO|Mexico|Mexico|t286396|San Juan Bautista Valle Nacional|san-juan-bautista-valle-nacional|\N|\N|165935|179017|\N
-130|MX|MEXICO|Mexico|Mexico|t286397|San Juan Cacahuatepec|san-juan-cacahuatepec|\N|\N|165935|170799|\N
-130|MX|MEXICO|Mexico|Mexico|t286398|San Miguel el Grande|san-miguel-el-grande|\N|\N|165935|172500|\N
-130|MX|MEXICO|Mexico|Mexico|t286399|San Pablo Huitzo|san-pablo-huitzo|\N|\N|165935|173057|\N
-130|MX|MEXICO|Mexico|Mexico|t286400|San Pablo Villa de Mitla|san-pablo-villa-de-mitla|\N|\N|165935|173106|\N
-130|MX|MEXICO|Mexico|Mexico|t286401|San Pedro Pochutla|san-pedro-pochutla|\N|\N|165935|173481|\N
-130|MX|MEXICO|Mexico|Mexico|t286402|San Pedro Tapanatepec|san-pedro-tapanatepec|\N|\N|165935|173698|\N
-130|MX|MEXICO|Mexico|Mexico|t286403|San Pedro Totolapa|san-pedro-totolapa|\N|\N|165935|173935|\N
-130|MX|MEXICO|Mexico|Mexico|t286404|San Sebastián Tecomaxtlahuaca|san-sebastian-tecomaxtlahuaca|\N|\N|165935|174351|\N
-130|MX|MEXICO|Mexico|Mexico|t286405|El Rosario|el-rosario|\N|\N|165935|174420|\N
-130|MX|MEXICO|Mexico|Mexico|t286406|Santa Cruz Itundujia|santa-cruz-itundujia|\N|\N|165935|174743|\N
-130|MX|MEXICO|Mexico|Mexico|t286407|Santa Lucia del Camino|santa-lucia-del-camino|\N|\N|165935|175089|\N
-130|MX|MEXICO|Mexico|Mexico|t286408|Santa María Huatulco|santa-maria-huatulco|\N|\N|165935|175755|\N
-130|MX|MEXICO|Mexico|Mexico|t286409|Huatulco|huatulco|\N|\N|165935|175755|\N
-130|MX|MEXICO|Mexico|Mexico|t286410|Santiago Jamiltepec|santiago-jamiltepec|\N|\N|165935|176858|\N
-130|MX|MEXICO|Mexico|Mexico|t286411|Santiago Juxtlahuaca|santiago-juxtlahuaca|\N|\N|165935|176954|\N
-130|MX|MEXICO|Mexico|Mexico|t286412|Santiago Pinotepa Nacional|santiago-pinotepa-nacional|\N|\N|165935|177248|\N
-130|MX|MEXICO|Mexico|Mexico|t286413|Santiago Suchilquitongo|santiago-suchilquitongo|\N|\N|165935|177405|\N
-130|MX|MEXICO|Mexico|Mexico|t286414|Santo Domingo Tehuantepec|santo-domingo-tehuantepec|\N|\N|165935|178211|\N
-130|MX|MEXICO|Mexico|Mexico|t286415|Teotitlán de Flores Magón|teotitlan-de-flores-magon|\N|\N|165935|178763|\N
-130|MX|MEXICO|Mexico|Mexico|t286416|Tlacolula de Matamoros|tlacolula-de-matamoros|\N|\N|165935|178887|\N
-130|MX|MEXICO|Mexico|Mexico|t286417|Unión Hidalgo|union-hidalgo|\N|\N|165935|178987|\N
-130|MX|MEXICO|Mexico|Mexico|t286418|Villa de Tamazulápam del Progreso|villa-de-tamazulapam-del-progreso|\N|\N|165935|178710|\N
-130|MX|MEXICO|Mexico|Mexico|t286419|Villa de Zaachila|villa-de-zaachila|\N|\N|165935|179125|\N
-130|MX|MEXICO|Mexico|Mexico|t286420|Villa Sola de Vega|villa-sola-de-vega|\N|\N|165935|172635|\N
-130|MX|MEXICO|Mexico|Mexico|t286421|Zimatlán de Álvarez|zimatlan-de-alvarez|\N|\N|165935|179231|\N
-130|MX|MEXICO|Mexico|Mexico|t286422|Acatlán de Osorio|acatlan-de-osorio|\N|\N|179305|179460|\N
-130|MX|MEXICO|Mexico|Mexico|t286423|Amozoc|amozoc|\N|\N|179305|179836|\N
-130|MX|MEXICO|Mexico|Mexico|t286424|Atlixco|atlixco|\N|\N|179305|179956|\N
-130|MX|MEXICO|Mexico|Mexico|t286425|Ciudad Serdán|ciudad-serdan|\N|\N|179305|180819|\N
-130|MX|MEXICO|Mexico|Mexico|t286426|Cuautlancingo|cuautlancingo|\N|\N|179305|180545|\N
-130|MX|MEXICO|Mexico|Mexico|t286427|Huauchinango|huauchinango|\N|\N|179305|181938|\N
-130|MX|MEXICO|Mexico|Mexico|t286428|Izúcar de Matamoros|izucar-de-matamoros|\N|\N|179305|182586|\N
-130|MX|MEXICO|Mexico|Mexico|t286429|Puebla|puebla|\N|\N|179305|183638|\N
-130|MX|MEXICO|Mexico|Mexico|t286430|San Andrés Cholula|san-andres-cholula|\N|\N|179305|183927|\N
-130|MX|MEXICO|Mexico|Mexico|t286431|San Martín Texmelucan de Labastida|san-martin-texmelucan-de-labastida|\N|\N|179305|184106|\N
-130|MX|MEXICO|Mexico|Mexico|t286432|San Pedro Cholula|san-pedro-cholula|\N|\N|179305|184284|\N
-130|MX|MEXICO|Mexico|Mexico|t286433|Tecamachalco|tecamachalco|\N|\N|179305|184719|\N
-130|MX|MEXICO|Mexico|Mexico|t286434|Tehuacan|tehuacan|\N|\N|179305|184828|\N
-130|MX|MEXICO|Mexico|Mexico|t286435|Tepeaca|tepeaca|\N|\N|179305|185182|\N
-130|MX|MEXICO|Mexico|Mexico|t286436|Teziutlan|teziutlan|\N|\N|179305|185491|\N
-130|MX|MEXICO|Mexico|Mexico|t286437|Xicotepec|xicotepec|\N|\N|179305|186430|\N
-130|MX|MEXICO|Mexico|Mexico|t286438|Zacatlán|zacatlan|\N|\N|179305|186806|\N
-130|MX|MEXICO|Mexico|Mexico|t286439|El Pueblito|el-pueblito|\N|\N|187255|188246|\N
-130|MX|MEXICO|Mexico|Mexico|t286440|Querétaro|queretaro|\N|\N|187255|189784|\N
-130|MX|MEXICO|Mexico|Mexico|t286441|San Juan del Rio|san-juan-del-rio|\N|\N|187255|190166|\N
-130|MX|MEXICO|Mexico|Mexico|t286442|Bacalar|bacalar|\N|\N|190758|193818|\N
-130|MX|MEXICO|Mexico|Mexico|t286443|Cancún|cancun|\N|\N|190758|192502|\N
-130|MX|MEXICO|Mexico|Mexico|t286444|Cozumel|cozumel|\N|\N|190758|190759|\N
-130|MX|MEXICO|Mexico|Mexico|t286445|Felipe Carrillo Puerto|felipe-carrillo-puerto|\N|\N|190758|190953|\N
-130|MX|MEXICO|Mexico|Mexico|t286446|Isla Mujeres|isla-mujeres|\N|\N|190758|191284|\N
-130|MX|MEXICO|Mexico|Mexico|t286447|Kantunilkín|kantunilkin|\N|\N|190758|193059|\N
-130|MX|MEXICO|Mexico|Mexico|t286448|Chetumal|chetumal|\N|\N|190758|191462|\N
-130|MX|MEXICO|Mexico|Mexico|t286449|Playa del Carmen|playa-del-carmen|\N|\N|190758|193235|\N
-130|MX|MEXICO|Mexico|Mexico|t286450|Cárdenas|cardenas|\N|\N|194533|194984|\N
-130|MX|MEXICO|Mexico|Mexico|t286451|Cedral|cedral|\N|\N|194533|195205|\N
-130|MX|MEXICO|Mexico|Mexico|t286452|Cerritos|cerritos|\N|\N|194533|195333|\N
-130|MX|MEXICO|Mexico|Mexico|t286453|Charcas|charcas|\N|\N|194533|196687|\N
-130|MX|MEXICO|Mexico|Mexico|t286454|Ciudad del Maíz|ciudad-del-maiz|\N|\N|194533|195426|\N
-130|MX|MEXICO|Mexico|Mexico|t286455|Fracción el Refugio|fraccion-el-refugio|\N|\N|194533|195572|\N
-130|MX|MEXICO|Mexico|Mexico|t286456|Ciudad Valles|ciudad-valles|\N|\N|194533|195922|\N
-130|MX|MEXICO|Mexico|Mexico|t286457|Ébano|ebano|\N|\N|194533|196907|\N
-130|MX|MEXICO|Mexico|Mexico|t286458|El Naranjo|el-naranjo|\N|\N|194533|203476|\N
-130|MX|MEXICO|Mexico|Mexico|t286459|Matehuala|matehuala|\N|\N|194533|197358|\N
-130|MX|MEXICO|Mexico|Mexico|t286460|Rioverde|rioverde|\N|\N|194533|197952|\N
-130|MX|MEXICO|Mexico|Mexico|t286461|Salinas de Hidalgo|salinas-de-hidalgo|\N|\N|194533|198329|\N
-130|MX|MEXICO|Mexico|Mexico|t286462|San Luis Potosí|san-luis-potosi|\N|\N|194533|198626|\N
-130|MX|MEXICO|Mexico|Mexico|t286463|Santa María del Río|santa-maria-del-rio|\N|\N|194533|199306|\N
-130|MX|MEXICO|Mexico|Mexico|t286464|Soledad de Graciano Sánchez|soledad-de-graciano-sanchez|\N|\N|194533|199958|\N
-130|MX|MEXICO|Mexico|Mexico|t286465|Tamasopo|tamasopo|\N|\N|194533|200161|\N
-130|MX|MEXICO|Mexico|Mexico|t286466|Tamazunchale|tamazunchale|\N|\N|194533|200382|\N
-130|MX|MEXICO|Mexico|Mexico|t286467|Tamuin|tamuin|\N|\N|194533|200928|\N
-130|MX|MEXICO|Mexico|Mexico|t286468|Tierra Nueva|tierra-nueva|\N|\N|194533|201652|\N
-130|MX|MEXICO|Mexico|Mexico|t286469|Villa de Reyes|villa-de-reyes|\N|\N|194533|202413|\N
-130|MX|MEXICO|Mexico|Mexico|t286470|Los Mochis|los-mochis|\N|\N|203611|203612|\N
-130|MX|MEXICO|Mexico|Mexico|t286471|Ahome|ahome|\N|\N|203611|203612|\N
-130|MX|MEXICO|Mexico|Mexico|t286472|Higuera de Zaragoza|higuera-de-zaragoza|\N|\N|203611|203612|\N
-130|MX|MEXICO|Mexico|Mexico|t286473|Topolobampo|topolobampo|\N|\N|203611|203612|\N
-130|MX|MEXICO|Mexico|Mexico|t286474|Angostura|angostura|\N|\N|203611|204153|\N
-130|MX|MEXICO|Mexico|Mexico|t286475|Choix|choix|\N|\N|203611|206620|\N
-130|MX|MEXICO|Mexico|Mexico|t286476|Cosalá|cosala|\N|\N|203611|205132|\N
-130|MX|MEXICO|Mexico|Mexico|t286477|Culiacán Rosales|culiacan-rosales|\N|\N|203611|205286|\N
-130|MX|MEXICO|Mexico|Mexico|t286478|Aguaruto|aguaruto|\N|\N|203611|205286|\N
-130|MX|MEXICO|Mexico|Mexico|t286479|Quila|quila|\N|\N|203611|205286|\N
-130|MX|MEXICO|Mexico|Mexico|t286480|La Cruz|la-cruz|\N|\N|203611|207014|\N
-130|MX|MEXICO|Mexico|Mexico|t286481|Escuinapa de Hidalgo|escuinapa-de-hidalgo|\N|\N|203611|207193|\N
-130|MX|MEXICO|Mexico|Mexico|t286482|Guasave|guasave|\N|\N|203611|207912|\N
-130|MX|MEXICO|Mexico|Mexico|t286483|Mazatlán|mazatlan|\N|\N|203611|208573|\N
-130|MX|MEXICO|Mexico|Mexico|t286484|Villa Unión|villa-union|\N|\N|203611|208573|\N
-130|MX|MEXICO|Mexico|Mexico|t286485|Mocorito|mocorito|\N|\N|203611|209172|\N
-130|MX|MEXICO|Mexico|Mexico|t286486|Navolato|navolato|\N|\N|203611|211135|\N
-130|MX|MEXICO|Mexico|Mexico|t286487|Lic. Benito Juárez (Campo Gobierno)|lic-benito-juarez-campo-gobierno|\N|\N|203611|211135|\N
-130|MX|MEXICO|Mexico|Mexico|t286488|El rosario|el-rosario-22a06ef6-215c-41e0-a755-12f0a63ec830|\N|\N|203611|209552|\N
-130|MX|MEXICO|Mexico|Mexico|t286489|Guamúchil|guamuchil|\N|\N|203611|209952|\N
-130|MX|MEXICO|Mexico|Mexico|t286490|Sinaloa de Leyva|sinaloa-de-leyva|\N|\N|203611|210475|\N
-130|MX|MEXICO|Mexico|Mexico|t286491|Estación Naranjo|estacion-naranjo|\N|\N|203611|210475|\N
-130|MX|MEXICO|Mexico|Mexico|t286492|Agua Prieta|agua-prieta|\N|\N|211609|211637|\N
-130|MX|MEXICO|Mexico|Mexico|t286493|Heroica Caborca|heroica-caborca|\N|\N|211609|214026|\N
-130|MX|MEXICO|Mexico|Mexico|t286494|Ciudad Obregón|ciudad-obregon|\N|\N|211609|214608|\N
-130|MX|MEXICO|Mexico|Mexico|t286495|Heroica Ciudad de Cananea|heroica-ciudad-de-cananea|\N|\N|211609|216274|\N
-130|MX|MEXICO|Mexico|Mexico|t286496|Empalme|empalme|\N|\N|211609|217158|\N
-130|MX|MEXICO|Mexico|Mexico|t286497|Sonoita|sonoita|\N|\N|211609|226756|\N
-130|MX|MEXICO|Mexico|Mexico|t286498|Heroica Guaymas|heroica-guaymas|\N|\N|211609|217867|\N
-130|MX|MEXICO|Mexico|Mexico|t286499|Hermosillo|hermosillo|\N|\N|211609|218440|\N
-130|MX|MEXICO|Mexico|Mexico|t286500|Huatabampo|huatabampo|\N|\N|211609|219925|\N
-130|MX|MEXICO|Mexico|Mexico|t286501|Magdalena de Kino|magdalena-de-kino|\N|\N|211609|220428|\N
-130|MX|MEXICO|Mexico|Mexico|t286502|Navojoa|navojoa|\N|\N|211609|221428|\N
-130|MX|MEXICO|Mexico|Mexico|t286503|Heroica Nogales|heroica-nogales|\N|\N|211609|221943|\N
-130|MX|MEXICO|Mexico|Mexico|t286504|Puerto Peñasco|puerto-penasco|\N|\N|211609|222779|\N
-130|MX|MEXICO|Mexico|Mexico|t286505|San Luis Río Colorado|san-luis-rio-colorado|\N|\N|211609|223917|\N
-130|MX|MEXICO|Mexico|Mexico|t286506|Villahermosa|villahermosa|\N|\N|227404|228174|\N
-130|MX|MEXICO|Mexico|Mexico|t286507|Comalcalco|comalcalco|\N|\N|227404|228386|\N
-130|MX|MEXICO|Mexico|Mexico|t286508|Cunduacán|cunduacan|\N|\N|227404|228505|\N
-130|MX|MEXICO|Mexico|Mexico|t286509|Emiliano Zapata|emiliano-zapata|\N|\N|227404|228621|\N
-130|MX|MEXICO|Mexico|Mexico|t286510|Huimanguillo|huimanguillo|\N|\N|227404|228708|\N
-130|MX|MEXICO|Mexico|Mexico|t286511|Jalpa de Méndez|jalpa-de-mendez|\N|\N|227404|229122|\N
-130|MX|MEXICO|Mexico|Mexico|t286512|Macuspana|macuspana|\N|\N|227404|229358|\N
-130|MX|MEXICO|Mexico|Mexico|t286513|Paraíso|paraiso|\N|\N|227404|229655|\N
-130|MX|MEXICO|Mexico|Mexico|t286514|Teapa|teapa|\N|\N|227404|229794|\N
-130|MX|MEXICO|Mexico|Mexico|t286515|Tenosique de Pino Suárez|tenosique-de-pino-suarez|\N|\N|227404|229852|\N
-130|MX|MEXICO|Mexico|Mexico|t286516|Altamira|altamira|\N|\N|229991|230874|\N
-130|MX|MEXICO|Mexico|Mexico|t286517|Ciudad Camargo|ciudad-camargo|\N|\N|229991|231758|\N
-130|MX|MEXICO|Mexico|Mexico|t286518|Ciudad Madero|ciudad-madero|\N|\N|229991|232417|\N
-130|MX|MEXICO|Mexico|Mexico|t286519|Ciudad Mante|ciudad-mante|\N|\N|229991|235169|\N
-130|MX|MEXICO|Mexico|Mexico|t286520|González|gonzalez|\N|\N|229991|232755|\N
-130|MX|MEXICO|Mexico|Mexico|t286521|Estación Manuel (Úrsulo Galván)|estacion-manuel-ursulo-galvan|\N|\N|229991|232755|\N
-130|MX|MEXICO|Mexico|Mexico|t286522|Nueva Ciudad Guerrero|nueva-ciudad-guerrero|\N|\N|229991|233682|\N
-130|MX|MEXICO|Mexico|Mexico|t286523|Ciudad Gustavo Díaz Ordaz|ciudad-gustavo-diaz-ordaz|\N|\N|229991|233949|\N
-130|MX|MEXICO|Mexico|Mexico|t286524|Jaumave|jaumave|\N|\N|229991|234425|\N
-130|MX|MEXICO|Mexico|Mexico|t286525|Heroica Matamoros|heroica-matamoros|\N|\N|229991|235572|\N
-130|MX|MEXICO|Mexico|Mexico|t286526|Ciudad Miguel Alemán|ciudad-miguel-aleman|\N|\N|229991|237137|\N
-130|MX|MEXICO|Mexico|Mexico|t286527|Nuevo Laredo|nuevo-laredo|\N|\N|229991|237302|\N
-130|MX|MEXICO|Mexico|Mexico|t286528|Reynosa|reynosa|\N|\N|229991|238042|\N
-130|MX|MEXICO|Mexico|Mexico|t286529|Ciudad Río Bravo|ciudad-rio-bravo|\N|\N|229991|238753|\N
-130|MX|MEXICO|Mexico|Mexico|t286530|San Fernando|san-fernando|\N|\N|229991|239681|\N
-130|MX|MEXICO|Mexico|Mexico|t286531|Soto la Marina|soto-la-marina|\N|\N|229991|240434|\N
-130|MX|MEXICO|Mexico|Mexico|t286532|Tampico|tampico|\N|\N|229991|241163|\N
-130|MX|MEXICO|Mexico|Mexico|t286533|Ciudad Tula|ciudad-tula|\N|\N|229991|241171|\N
-130|MX|MEXICO|Mexico|Mexico|t286534|Valle Hermoso|valle-hermoso|\N|\N|229991|241337|\N
-130|MX|MEXICO|Mexico|Mexico|t286535|Ciudad Victoria|ciudad-victoria|\N|\N|229991|241687|\N
-130|MX|MEXICO|Mexico|Mexico|t286536|Xicoténcatl|xicotencatl|\N|\N|229991|242443|\N
-130|MX|MEXICO|Mexico|Mexico|t286537|Apizaco|apizaco|\N|\N|242707|242892|\N
-130|MX|MEXICO|Mexico|Mexico|t286538|Calpulalpan|calpulalpan|\N|\N|242707|242922|\N
-130|MX|MEXICO|Mexico|Mexico|t286539|Chiautempan|chiautempan|\N|\N|242707|243156|\N
-130|MX|MEXICO|Mexico|Mexico|t286540|Huamantla|huamantla|\N|\N|242707|243255|\N
-130|MX|MEXICO|Mexico|Mexico|t286541|Villa Vicente Guerrero|villa-vicente-guerrero|\N|\N|242707|243833|\N
-130|MX|MEXICO|Mexico|Mexico|t286542|Tlaxcala (Tlaxcala de Xicotencatl)|tlaxcala-tlaxcala-de-xicotencatl|\N|\N|242707|244112|\N
-130|MX|MEXICO|Mexico|Mexico|t286543|Acayucan|acayucan|\N|\N|244709|244779|\N
-130|MX|MEXICO|Mexico|Mexico|t286544|Agua dulce|agua-dulce|\N|\N|244709|269089|\N
-130|MX|MEXICO|Mexico|Mexico|t286545|Altotonga|altotonga|\N|\N|244709|245846|\N
-130|MX|MEXICO|Mexico|Mexico|t286546|Alvarado|alvarado|\N|\N|244709|245953|\N
-130|MX|MEXICO|Mexico|Mexico|t286547|Paraje Nuevo|paraje-nuevo|\N|\N|244709|246419|\N
-130|MX|MEXICO|Mexico|Mexico|t286548|Ángel R. Cabada|angel-r-cabada|\N|\N|244709|246509|\N
-130|MX|MEXICO|Mexico|Mexico|t286549|Atoyac|atoyac|\N|\N|244709|246895|\N
-130|MX|MEXICO|Mexico|Mexico|t286550|General Miguel Alemán (Potrero Nuevo)|general-miguel-aleman-potrero-nuevo|\N|\N|244709|246895|\N
-130|MX|MEXICO|Mexico|Mexico|t286551|Banderilla|banderilla|\N|\N|244709|247298|\N
-130|MX|MEXICO|Mexico|Mexico|t286552|Boca del RÍo|boca-del-rio|\N|\N|244709|247419|\N
-130|MX|MEXICO|Mexico|Mexico|t286553|Carlos A. Carrillo|carlos-a-carrillo|\N|\N|244709|269703|\N
-130|MX|MEXICO|Mexico|Mexico|t286554|Catemaco|catemaco|\N|\N|244709|247586|\N
-130|MX|MEXICO|Mexico|Mexico|t286555|Cazones de Herrera|cazones-de-herrera|\N|\N|244709|247961|\N
-130|MX|MEXICO|Mexico|Mexico|t286556|Cerro Azul|cerro-azul|\N|\N|244709|248050|\N
-130|MX|MEXICO|Mexico|Mexico|t286557|Coatepec|coatepec|\N|\N|244709|248198|\N
-130|MX|MEXICO|Mexico|Mexico|t286558|Coatzacoalcos|coatzacoalcos|\N|\N|244709|248360|\N
-130|MX|MEXICO|Mexico|Mexico|t286559|Coatzintla|coatzintla|\N|\N|244709|248456|\N
-130|MX|MEXICO|Mexico|Mexico|t286560|Córdoba|cordoba|\N|\N|244709|248770|\N
-130|MX|MEXICO|Mexico|Mexico|t286561|Cosamaloapan|cosamaloapan|\N|\N|244709|248887|\N
-130|MX|MEXICO|Mexico|Mexico|t286562|Cosoleacaque|cosoleacaque|\N|\N|244709|249132|\N
-130|MX|MEXICO|Mexico|Mexico|t286563|Cuitláhuac|cuitlahuac|\N|\N|244709|249633|\N
-130|MX|MEXICO|Mexico|Mexico|t286564|El Higo|el-higo|\N|\N|244709|269187|\N
-130|MX|MEXICO|Mexico|Mexico|t286565|Fortín de las Flores|fortin-de-las-flores|\N|\N|244709|251751|\N
-130|MX|MEXICO|Mexico|Mexico|t286566|Gutiérrez Zamora|gutierrez-zamora|\N|\N|244709|251828|\N
-130|MX|MEXICO|Mexico|Mexico|t286567|Huatusco de Chicuellar|huatusco-de-chicuellar|\N|\N|244709|252099|\N
-130|MX|MEXICO|Mexico|Mexico|t286568|Huayacocotla|huayacocotla|\N|\N|244709|252177|\N
-130|MX|MEXICO|Mexico|Mexico|t286569|Juan Díaz Covarrubias|juan-diaz-covarrubias|\N|\N|244709|252287|\N
-130|MX|MEXICO|Mexico|Mexico|t286570|Huiloapan de Cuauhtémoc|huiloapan-de-cuauhtemoc|\N|\N|244709|252436|\N
-130|MX|MEXICO|Mexico|Mexico|t286571|Isla|isla|\N|\N|244709|252532|\N
-130|MX|MEXICO|Mexico|Mexico|t286572|Ixtaczoquitlán|ixtaczoquitlan|\N|\N|244709|253462|\N
-130|MX|MEXICO|Mexico|Mexico|t286573|Jáltipan de Morelos|jaltipan-de-morelos|\N|\N|244709|253668|\N
-130|MX|MEXICO|Mexico|Mexico|t286574|Juan Rodríguez Clara|juan-rodriguez-clara|\N|\N|244709|254387|\N
-130|MX|MEXICO|Mexico|Mexico|t286575|José Cardel|jose-cardel|\N|\N|244709|246733|\N
-130|MX|MEXICO|Mexico|Mexico|t286576|Las Choapas|las-choapas|\N|\N|244709|250605|\N
-130|MX|MEXICO|Mexico|Mexico|t286577|Lerdo de Tejada|lerdo-de-tejada|\N|\N|244709|254768|\N
-130|MX|MEXICO|Mexico|Mexico|t286578|Minatitlán|minatitlan|\N|\N|244709|255597|\N
-130|MX|MEXICO|Mexico|Mexico|t286579|Cuichapa|cuichapa|\N|\N|244709|256199|\N
-130|MX|MEXICO|Mexico|Mexico|t286580|Naranjos|naranjos|\N|\N|244709|246300|\N
-130|MX|MEXICO|Mexico|Mexico|t286581|Nogales|nogales|\N|\N|244709|256601|\N
-130|MX|MEXICO|Mexico|Mexico|t286582|Orizaba|orizaba|\N|\N|244709|256789|\N
-130|MX|MEXICO|Mexico|Mexico|t286583|Pánuco|panuco|\N|\N|244709|257846|\N
-130|MX|MEXICO|Mexico|Mexico|t286584|Papantla de Olarte|papantla-de-olarte|\N|\N|244709|258728|\N
-130|MX|MEXICO|Mexico|Mexico|t286585|Paso de Ovejas|paso-de-ovejas|\N|\N|244709|259295|\N
-130|MX|MEXICO|Mexico|Mexico|t286586|Paso del Macho|paso-del-macho|\N|\N|244709|259137|\N
-130|MX|MEXICO|Mexico|Mexico|t286587|Platón Sánchez|platon-sanchez|\N|\N|244709|259611|\N
-130|MX|MEXICO|Mexico|Mexico|t286588|Playa Vicente|playa-vicente|\N|\N|244709|259777|\N
-130|MX|MEXICO|Mexico|Mexico|t286589|Poza Rica de Hidalgo|poza-rica-de-hidalgo|\N|\N|244709|260099|\N
-130|MX|MEXICO|Mexico|Mexico|t286590|Río Blanco|rio-blanco|\N|\N|244709|260506|\N
-130|MX|MEXICO|Mexico|Mexico|t286591|San Andrés Tuxtla|san-andres-tuxtla|\N|\N|244709|260565|\N
-130|MX|MEXICO|Mexico|Mexico|t286592|Sihuapan|sihuapan|\N|\N|244709|260565|\N
-130|MX|MEXICO|Mexico|Mexico|t286593|San Rafael|san-rafael|\N|\N|244709|270045|\N
-130|MX|MEXICO|Mexico|Mexico|t286594|Santiago Tuxtla|santiago-tuxtla|\N|\N|244709|261138|\N
-130|MX|MEXICO|Mexico|Mexico|t286595|Soledad de Doblado|soledad-de-doblado|\N|\N|244709|261859|\N
-130|MX|MEXICO|Mexico|Mexico|t286596|Tampico Alto|tampico-alto|\N|\N|244709|262531|\N
-130|MX|MEXICO|Mexico|Mexico|t286597|Tantoyuca|tantoyuca|\N|\N|244709|263046|\N
-130|MX|MEXICO|Mexico|Mexico|t286598|Tempoal de Sánchez|tempoal-de-sanchez|\N|\N|244709|264478|\N
-130|MX|MEXICO|Mexico|Mexico|t286599|Tezonapa|tezonapa|\N|\N|244709|265686|\N
-130|MX|MEXICO|Mexico|Mexico|t286600|Tierra Blanca|tierra-blanca|\N|\N|244709|265837|\N
-130|MX|MEXICO|Mexico|Mexico|t286601|Tihuatlán|tihuatlan|\N|\N|244709|266305|\N
-130|MX|MEXICO|Mexico|Mexico|t286602|Tlacojalpan|tlacojalpan|\N|\N|244709|266727|\N
-130|MX|MEXICO|Mexico|Mexico|t286603|Tlapacoyan|tlapacoyan|\N|\N|244709|267414|\N
-130|MX|MEXICO|Mexico|Mexico|t286604|Tres Valles|tres-valles|\N|\N|244709|269371|\N
-130|MX|MEXICO|Mexico|Mexico|t286605|Túxpam de Rodríguez Cano|tuxpam-de-rodriguez-cano|\N|\N|244709|267634|\N
-130|MX|MEXICO|Mexico|Mexico|t286606|Veracruz|veracruz|\N|\N|244709|268390|\N
-130|MX|MEXICO|Mexico|Mexico|t286607|Xalapa-Enríquez|xalapa-enriquez|\N|\N|244709|253583|\N
-130|MX|MEXICO|Mexico|Mexico|t286608|Yecuatla|yecuatla|\N|\N|244709|268590|\N
-130|MX|MEXICO|Mexico|Mexico|t286609|Kanasín|kanasin|\N|\N|270287|272819|\N
-130|MX|MEXICO|Mexico|Mexico|t286610|Mérida|merida|\N|\N|270287|273303|\N
-130|MX|MEXICO|Mexico|Mexico|t286611|Motul de Carrillo Puerto|motul-de-carrillo-puerto|\N|\N|270287|273720|\N
-130|MX|MEXICO|Mexico|Mexico|t286612|Ticul|ticul|\N|\N|270287|276359|\N
-130|MX|MEXICO|Mexico|Mexico|t286613|Tizimín|tizimin|\N|\N|270287|276771|\N
-130|MX|MEXICO|Mexico|Mexico|t286614|Valladolid|valladolid|\N|\N|270287|278129|\N
-130|MX|MEXICO|Mexico|Mexico|t286615|Víctor Rosales|victor-rosales|\N|\N|278739|278928|\N
-130|MX|MEXICO|Mexico|Mexico|t286616|Ciudad Cuauhtémoc|ciudad-cuauhtemoc|\N|\N|278739|279223|\N
-130|MX|MEXICO|Mexico|Mexico|t286617|Fresnillo|fresnillo|\N|\N|278739|279384|\N
-130|MX|MEXICO|Mexico|Mexico|t286618|Jalpa|jalpa|\N|\N|278739|280882|\N
-130|MX|MEXICO|Mexico|Mexico|t286619|Jerez de García Salinas|jerez-de-garcia-salinas|\N|\N|278739|281095|\N
-130|MX|MEXICO|Mexico|Mexico|t286620|Luis Moya|luis-moya|\N|\N|278739|281643|\N
-130|MX|MEXICO|Mexico|Mexico|t286621|Moyahua de Estrada|moyahua-de-estrada|\N|\N|278739|282613|\N
-130|MX|MEXICO|Mexico|Mexico|t286622|Nochistlán de Mejía|nochistlan-de-mejia|\N|\N|278739|282702|\N
-130|MX|MEXICO|Mexico|Mexico|t286623|Ojocaliente|ojocaliente|\N|\N|278739|282963|\N
-130|MX|MEXICO|Mexico|Mexico|t286624|Río Grande|rio-grande|\N|\N|278739|283667|\N
-130|MX|MEXICO|Mexico|Mexico|t286625|Sombrerete|sombrerete|\N|\N|278739|283925|\N
-130|MX|MEXICO|Mexico|Mexico|t286626|Valparaíso|valparaiso|\N|\N|278739|284653|\N
-130|MX|MEXICO|Mexico|Mexico|t286627|Villa de Cos|villa-de-cos|\N|\N|278739|285049|\N
-130|MX|MEXICO|Mexico|Mexico|t286628|Villanueva|villanueva|\N|\N|278739|285630|\N
-130|MX|MEXICO|Mexico|Mexico|t286629|Zacatecas|zacatecas|\N|\N|278739|285805|\N
-130|MX|MEXICO|Mexico|Mexico|t286630|Aculco|aculco|\N|\N|132909|133047|\N
-130|MX|MEXICO|Mexico|Mexico|t286632|Peña de Bernal|pena-de-bernal|\N|\N|187255|188440|\N
-130|MX|MEXICO|Mexico|Mexico|t286633|Valle de Bravo|valle-de-bravo|\N|\N|132909|137268|\N
-130|MX|MEXICO|Mexico|Mexico|t286634|Tequisquiapan|tequisquiapan|\N|\N|187255|190460|\N
-130|MX|MEXICO|Mexico|Mexico|t286635|Tequesquitengo|tequesquitengo|\N|\N|150301|150993|\N
-130|MX|MEXICO|Mexico|Mexico|t286636|Malinalco|malinalco|\N|\N|132909|134868|134869
-130|MX|MEXICO|Mexico|Mexico|t286637|Tepoztlán|tepoztlan|\N|\N|150301|151467|151468
-130|MX|MEXICO|Mexico|Mexico|t286638|Puerto Escondido|puerto-escondido|\N|\N|165935|173368|173377
-130|MX|MEXICO|Mexico|Mexico|t286640|Chacahua|chacahua|\N|\N|165935|176266|\N
-130|MX|MEXICO|Mexico|Mexico|t286641|San José de Manialtepec|san-jose-de-manialtepec|\N|\N|165935|173957|\N
-130|MX|MEXICO|Mexico|Mexico|t286642|San Juan Teotihuacan |san-juan-teotihuacan|\N|\N|132909|136451|136458
-130|MX|MEXICO|Mexico|Mexico|t286643|Tolantongo|tolantongo|\N|\N|109086|109877|\N
-130|MX|MEXICO|Mexico|Mexico|t286644|Cacahuamilpa|cacahuamilpa|\N|\N|99535|105478|\N
-130|MX|MEXICO|Mexico|Mexico|t286645|Tenancingo de Degollado|tenancingo-de-degollado|\N|\N|132909|136303|\N
-130|MX|MEXICO|Mexico|Mexico|t286646|El Fuerte|el-fuerte|\N|\N|203611|\N|\N
-130|MX|MEXICO|Mexico|Mexico|t286647|San Carlos|san-carlos|\N|\N|211609|217867|\N
-130|MX|MEXICO|Mexico|Mexico|t286648|Cempoala|cempoala|\N|\N|244709|268147|\N
-130|MX|MEXICO|Mexico|Mexico|t286649|Xochimilco|xochimilco|\N|\N|78563|79131|79132
-130|MX|MEXICO|Mexico|Mexico|t286650|Villa de Corona|villa-de-corona|\N|\N|114463|131294|131295
-130|MX|MEXICO|Mexico|Mexico|t286651|Xilitla|xilitla|\N|\N|194533|202864|202865
-130|MX|MEXICO|Mexico|Mexico|t286652|Tulum|tulum|\N|\N|190758|193497|193498
-130|MX|MEXICO|Mexico|Mexico|t286653|Holbox|holbox|\N|\N|190758|193059|193069
-130|MX|MEXICO|Mexico|Mexico|t286654|Creel|creel|\N|\N|60202|62712|62733
-130|MX|MEXICO|Mexico|Mexico|t286655|Mexiquillo|mexiquillo|\N|\N|79238|84711|\N
-130|MX|MEXICO|Mexico|Mexico|t286656|Mapimí|mapimi|\N|\N|79238|82684|\N
-130|MX|MEXICO|Mexico|Mexico|t286657|Cuetzalan|cuetzalan|\N|\N|179305|180596|\N
-130|MX|MEXICO|Mexico|Mexico|t286658|Chautla|chautla|\N|\N|179305|184411|\N
-130|MX|MEXICO|Mexico|Mexico|t286659|Tasquillo|tasquillo|\N|\N|109086|112855|\N
-130|MX|MEXICO|Mexico|Mexico|t286660|San Juan Chamula|san-juan-chamula|\N|\N|38799|42990|\N
-130|MX|MEXICO|Mexico|Mexico|t286661|Tlacotalpan|tlacotalpan|\N|\N|244709|266798|266799
-130|MX|MEXICO|Mexico|Mexico|t286662|Jalcomulco|jalcomulco|\N|\N|244709|253652|\N
-130|MX|MEXICO|Mexico|Mexico|t286663|Chichen Itza|chichen-itza|\N|\N|270287|\N|\N
-130|MX|MEXICO|Mexico|Mexico|t286664|Cobá|coba|\N|\N|190758|\N|\N
-130|MX|MEXICO|Mexico|Mexico|t286665|Mahahual|mahahual|\N|\N|190758|191462|\N
-130|MX|MEXICO|Mexico|Mexico|t286666|Progreso|progreso|\N|\N|270287|274455|\N
-130|MX|MEXICO|Mexico|Mexico|t286667|Xcalak|xcalak|\N|\N|190758|191462|\N
-130|MX|MEXICO|Mexico|Mexico|t286668|Xpu Há|xpu-ha|\N|\N|190758|193235|\N
-130|MX|MEXICO|Mexico|Mexico|t286669|San Sebastián|san-sebastian|\N|\N|114463|126146|126147
-130|MX|MEXICO|Mexico|Mexico|t286670|Talpa de Allende|talpa-de-allende-53290a00-3fdd-452b-a1ad-885b9846df33|\N|\N|114463|126648|\N
-130|MX|MEXICO|Mexico|Mexico|t286671|Sayulita|sayulita|\N|\N|152239|156100|156153
-130|MX|MEXICO|Mexico|Mexico|t286672|San Pancho|san-pancho|\N|\N|152239|156100|\N
-130|MX|MEXICO|Mexico|Mexico|t286673|Cocoyoc|cocoyoc|\N|\N|150301|150663|\N
-130|MX|MEXICO|Mexico|Mexico|t286674|Nuevo Vallarta|nuevo-vallarta|\N|\N|114463|\N|\N
-130|MX|MEXICO|Mexico|Mexico|t286675|Antigua|antigua|\N|\N|244709|\N|\N
-130|MX|MEXICO|Mexico|Mexico|t286676|Puerto Aventuras|puerto-aventuras|\N|\N|190758|193235|\N
-130|MX|MEXICO|Mexico|Mexico|t286677|Calakmul|calakmul|\N|\N|22134|25029|\N
+130|MX|MEXICO|Mexico|Mexico|t|285995|Aguascalientes|aguascalientes|\N|\N|9494|9495|\N
+130|MX|MEXICO|Mexico|Mexico|t|285996|Asientos|asientos|\N|\N|9494|10160|\N
+130|MX|MEXICO|Mexico|Mexico|t|285997|Calvillo|calvillo|\N|\N|9494|10383|\N
+130|MX|MEXICO|Mexico|Mexico|t|285998|Cosío|cosio|\N|\N|9494|10684|\N
+130|MX|MEXICO|Mexico|Mexico|t|285999|Jesús María |jesus-maria|\N|\N|9494|10770|\N
+130|MX|MEXICO|Mexico|Mexico|t|286000|Pabellón de Arteaga|pabellon-de-arteaga|\N|\N|9494|11089|\N
+130|MX|MEXICO|Mexico|Mexico|t|286001|Rincón de Romos|rincon-de-romos|\N|\N|9494|11346|\N
+130|MX|MEXICO|Mexico|Mexico|t|286002|San Francisco de los Romo|san-francisco-de-los-romo|\N|\N|9494|12117|\N
+130|MX|MEXICO|Mexico|Mexico|t|286003|Tepezalá|tepezala|\N|\N|9494|11782|\N
+130|MX|MEXICO|Mexico|Mexico|t|286004|Rodolfo Sánchez T. (Maneadero)|rodolfo-sanchez-t-maneadero|\N|\N|12231|12232|\N
+130|MX|MEXICO|Mexico|Mexico|t|286005|Ensenada|ensenada|\N|\N|12231|12232|\N
+130|MX|MEXICO|Mexico|Mexico|t|286006|Mexicali|mexicali|\N|\N|12231|14673|\N
+130|MX|MEXICO|Mexico|Mexico|t|286007|San Felipe|san-felipe|\N|\N|12231|14673|\N
+130|MX|MEXICO|Mexico|Mexico|t|286008|Playas de Rosarito|playas-de-rosarito|\N|\N|12231|17892|\N
+130|MX|MEXICO|Mexico|Mexico|t|286009|Tecate|tecate|\N|\N|12231|16623|\N
+130|MX|MEXICO|Mexico|Mexico|t|286010|Tijuana|tijuana|\N|\N|12231|17345|\N
+130|MX|MEXICO|Mexico|Mexico|t|286011|Ciudad Constitución|ciudad-constitucion|\N|\N|18180|18181|\N
+130|MX|MEXICO|Mexico|Mexico|t|286012|Puerto Adolfo López Mateos|puerto-adolfo-lopez-mateos|\N|\N|18180|18181|\N
+130|MX|MEXICO|Mexico|Mexico|t|286013|La Paz|la-paz|\N|\N|18180|20008|\N
+130|MX|MEXICO|Mexico|Mexico|t|286014|Todos Santos|todos-santos|\N|\N|18180|20008|\N
+130|MX|MEXICO|Mexico|Mexico|t|286015|Loreto|loreto|\N|\N|18180|21916|\N
+130|MX|MEXICO|Mexico|Mexico|t|286016|San José del Cabo|san-jose-del-cabo|\N|\N|18180|21240|\N
+130|MX|MEXICO|Mexico|Mexico|t|286017|Cabo San Lucas|cabo-san-lucas|\N|\N|18180|21240|\N
+130|MX|MEXICO|Mexico|Mexico|t|286018|Heroica Mulegé|heroica-mulege|\N|\N|18180|19393|\N
+130|MX|MEXICO|Mexico|Mexico|t|286019|Santa Rosalía|santa-rosalia|\N|\N|18180|19393|\N
+130|MX|MEXICO|Mexico|Mexico|t|286020|San Ignacio|san-ignacio|\N|\N|18180|19393|\N
+130|MX|MEXICO|Mexico|Mexico|t|286021|Villa Alberto Andrés Alvarado Arámburo|villa-alberto-andres-alvarado-aramburo|\N|\N|18180|19393|\N
+130|MX|MEXICO|Mexico|Mexico|t|286022|Guerrero Negro|guerrero-negro|\N|\N|18180|19393|\N
+130|MX|MEXICO|Mexico|Mexico|t|286023|Calkini|calkini|\N|\N|22134|22135|\N
+130|MX|MEXICO|Mexico|Mexico|t|286024|San Francisco de Campeche|san-francisco-de-campeche|\N|\N|22134|22262|\N
+130|MX|MEXICO|Mexico|Mexico|t|286025|Candelaria|candelaria|\N|\N|22134|25254|\N
+130|MX|MEXICO|Mexico|Mexico|t|286026|Ciudad del Carmen|ciudad-del-carmen|\N|\N|22134|22635|\N
+130|MX|MEXICO|Mexico|Mexico|t|286027|Sabancuy|sabancuy|\N|\N|22134|22635|\N
+130|MX|MEXICO|Mexico|Mexico|t|286028|Champotón|champoton|\N|\N|22134|23611|\N
+130|MX|MEXICO|Mexico|Mexico|t|286029|Escárcega|escarcega|\N|\N|22134|24665|\N
+130|MX|MEXICO|Mexico|Mexico|t|286030|Hecelchakán|hecelchakan|\N|\N|22134|24104|\N
+130|MX|MEXICO|Mexico|Mexico|t|286031|Pomuch|pomuch|\N|\N|22134|24104|\N
+130|MX|MEXICO|Mexico|Mexico|t|286032|Hopelchén|hopelchen|\N|\N|22134|24169|\N
+130|MX|MEXICO|Mexico|Mexico|t|286033|Acala|acala|\N|\N|38799|38939|\N
+130|MX|MEXICO|Mexico|Mexico|t|286034|Arriaga|arriaga|\N|\N|38799|39930|\N
+130|MX|MEXICO|Mexico|Mexico|t|286035|Cacahoatán|cacahoatan|\N|\N|38799|40929|\N
+130|MX|MEXICO|Mexico|Mexico|t|286036|Chiapa de Corzo|chiapa-de-corzo|\N|\N|38799|43327|\N
+130|MX|MEXICO|Mexico|Mexico|t|286037|Cintalapa de Figueroa|cintalapa-de-figueroa|\N|\N|38799|41236|\N
+130|MX|MEXICO|Mexico|Mexico|t|286038|Comitán de Domínguez|comitan-de-dominguez|\N|\N|38799|41932|\N
+130|MX|MEXICO|Mexico|Mexico|t|286039|Huixtla|huixtla|\N|\N|38799|45459|\N
+130|MX|MEXICO|Mexico|Mexico|t|286040|Jiquipilas|jiquipilas|\N|\N|38799|46011|\N
+130|MX|MEXICO|Mexico|Mexico|t|286041|Las Margaritas|las-margaritas|\N|\N|38799|47222|\N
+130|MX|MEXICO|Mexico|Mexico|t|286042|Las Rosas|las-rosas|\N|\N|38799|52176|\N
+130|MX|MEXICO|Mexico|Mexico|t|286043|Mapastepec|mapastepec|\N|\N|38799|46692|\N
+130|MX|MEXICO|Mexico|Mexico|t|286044|Motozintla de Mendoza|motozintla-de-mendoza|\N|\N|38799|47875|\N
+130|MX|MEXICO|Mexico|Mexico|t|286045|Ocosingo|ocosingo|\N|\N|38799|48221|\N
+130|MX|MEXICO|Mexico|Mexico|t|286046|Ocozocoautla de Espinosa|ocozocoautla-de-espinosa|\N|\N|38799|49115|\N
+130|MX|MEXICO|Mexico|Mexico|t|286047|Palenque|palenque|\N|\N|38799|50108|\N
+130|MX|MEXICO|Mexico|Mexico|t|286048|Pichucalco|pichucalco|\N|\N|38799|50936|\N
+130|MX|MEXICO|Mexico|Mexico|t|286049|Pijijiapan|pijijiapan|\N|\N|38799|51019|\N
+130|MX|MEXICO|Mexico|Mexico|t|286050|Reforma|reforma|\N|\N|38799|52140|\N
+130|MX|MEXICO|Mexico|Mexico|t|286051|San Cristóbal de las Casas|san-cristobal-de-las-casas|\N|\N|38799|52694|\N
+130|MX|MEXICO|Mexico|Mexico|t|286052|Tapachula de Córdova y Ordóñez|tapachula-de-cordova-y-ordonez|\N|\N|38799|53904|\N
+130|MX|MEXICO|Mexico|Mexico|t|286053|Puerto Madero (San Benito)|puerto-madero-san-benito|\N|\N|38799|53904|\N
+130|MX|MEXICO|Mexico|Mexico|t|286054|Tonalá|tonala|\N|\N|38799|55069|\N
+130|MX|MEXICO|Mexico|Mexico|t|286055|Tuxtla Gutiérrez|tuxtla-gutierrez|\N|\N|38799|56330|\N
+130|MX|MEXICO|Mexico|Mexico|t|286056|Venustiano Carranza|venustiano-carranza|\N|\N|38799|56817|\N
+130|MX|MEXICO|Mexico|Mexico|t|286057|Villaflores|villaflores|\N|\N|38799|58199|\N
+130|MX|MEXICO|Mexico|Mexico|t|286058|Juan Aldama|juan-aldama|\N|\N|60202|60655|\N
+130|MX|MEXICO|Mexico|Mexico|t|286059|Bachíniva|bachiniva|\N|\N|60202|61609|\N
+130|MX|MEXICO|Mexico|Mexico|t|286060|Santa Rosalía de Camargo|santa-rosalia-de-camargo|\N|\N|60202|63417|\N
+130|MX|MEXICO|Mexico|Mexico|t|286061|Chihuahua|chihuahua|\N|\N|60202|65577|\N
+130|MX|MEXICO|Mexico|Mexico|t|286062|Cuauhtémoc|cuauhtemoc|\N|\N|60202|64807|\N
+130|MX|MEXICO|Mexico|Mexico|t|286063|Colonia Anáhuac|colonia-anahuac|\N|\N|60202|64807|\N
+130|MX|MEXICO|Mexico|Mexico|t|286064|Delicias|delicias|\N|\N|60202|66411|\N
+130|MX|MEXICO|Mexico|Mexico|t|286065|Hidalgo del Parral|hidalgo-del-parral|\N|\N|60202|70560|\N
+130|MX|MEXICO|Mexico|Mexico|t|286066|José Mariano Jiménez|jose-mariano-jimenez|\N|\N|60202|71150|\N
+130|MX|MEXICO|Mexico|Mexico|t|286067|Juárez|juarez|\N|\N|60202|71548|\N
+130|MX|MEXICO|Mexico|Mexico|t|286068|Madera|madera|\N|\N|60202|72007|\N
+130|MX|MEXICO|Mexico|Mexico|t|286069|Nuevo Casas Grandes|nuevo-casas-grandes|\N|\N|60202|74598|\N
+130|MX|MEXICO|Mexico|Mexico|t|286070|Manuel Ojinaga|manuel-ojinaga|\N|\N|60202|74930|\N
+130|MX|MEXICO|Mexico|Mexico|t|286071|Saucillo|saucillo|\N|\N|60202|76458|\N
+130|MX|MEXICO|Mexico|Mexico|t|286072|Ciudad de México|ciudad-de-mexico|\N|\N|78563|78867|\N
+130|MX|MEXICO|Mexico|Mexico|t|286073|Ciudad Acuña|ciudad-acuna|\N|\N|25979|26023|\N
+130|MX|MEXICO|Mexico|Mexico|t|286074|Allende|allende|\N|\N|25979|26338|\N
+130|MX|MEXICO|Mexico|Mexico|t|286075|Arteaga|arteaga|\N|\N|25979|26483|\N
+130|MX|MEXICO|Mexico|Mexico|t|286076|Castaños|castanos|\N|\N|25979|27261|\N
+130|MX|MEXICO|Mexico|Mexico|t|286077|Cuatro Ciénegas de Carranza|cuatro-cienegas-de-carranza|\N|\N|25979|27511|\N
+130|MX|MEXICO|Mexico|Mexico|t|286078|Francisco I. Madero (Chávez)|francisco-i-madero-chavez|\N|\N|25979|27813|\N
+130|MX|MEXICO|Mexico|Mexico|t|286079|Frontera|frontera|\N|\N|25979|28016|\N
+130|MX|MEXICO|Mexico|Mexico|t|286080|Matamoros|matamoros|\N|\N|25979|29112|\N
+130|MX|MEXICO|Mexico|Mexico|t|286081|Monclova|monclova|\N|\N|25979|29394|\N
+130|MX|MEXICO|Mexico|Mexico|t|286082|Morelos|morelos|\N|\N|25979|29767|\N
+130|MX|MEXICO|Mexico|Mexico|t|286083|Ciudad Melchor Múzquiz|ciudad-melchor-muzquiz|\N|\N|25979|29925|\N
+130|MX|MEXICO|Mexico|Mexico|t|286084|Nadadores|nadadores|\N|\N|25979|30535|\N
+130|MX|MEXICO|Mexico|Mexico|t|286085|Nava|nava|\N|\N|25979|30642|\N
+130|MX|MEXICO|Mexico|Mexico|t|286086|Parras de la Fuente|parras-de-la-fuente|\N|\N|25979|31342|\N
+130|MX|MEXICO|Mexico|Mexico|t|286087|Piedras Negras|piedras-negras|\N|\N|25979|31711|\N
+130|MX|MEXICO|Mexico|Mexico|t|286088|Ramos Arizpe|ramos-arizpe|\N|\N|25979|32013|\N
+130|MX|MEXICO|Mexico|Mexico|t|286089|Sabinas|sabinas|\N|\N|25979|32465|\N
+130|MX|MEXICO|Mexico|Mexico|t|286090|Saltillo|saltillo|\N|\N|25979|32856|\N
+130|MX|MEXICO|Mexico|Mexico|t|286091|San Buenaventura|san-buenaventura|\N|\N|25979|33538|\N
+130|MX|MEXICO|Mexico|Mexico|t|286092|Nueva Rosita|nueva-rosita|\N|\N|25979|33776|\N
+130|MX|MEXICO|Mexico|Mexico|t|286093|San Pedro|san-pedro|\N|\N|25979|33927|\N
+130|MX|MEXICO|Mexico|Mexico|t|286094|Torreón|torreon|\N|\N|25979|34541|\N
+130|MX|MEXICO|Mexico|Mexico|t|286095|Viesca|viesca|\N|\N|25979|34650|\N
+130|MX|MEXICO|Mexico|Mexico|t|286096|Zaragoza|zaragoza|\N|\N|25979|34998|\N
+130|MX|MEXICO|Mexico|Mexico|t|286097|Ciudad de Armería|ciudad-de-armeria|\N|\N|35454|35455|\N
+130|MX|MEXICO|Mexico|Mexico|t|286098|Colima|colima|\N|\N|35454|35650|\N
+130|MX|MEXICO|Mexico|Mexico|t|286099|Manzanillo|manzanillo|\N|\N|35454|37239|\N
+130|MX|MEXICO|Mexico|Mexico|t|286100|Tecoman|tecoman|\N|\N|35454|37824|\N
+130|MX|MEXICO|Mexico|Mexico|t|286101|Ciudad de Villa de Álvarez|ciudad-de-villa-de-alvarez|\N|\N|35454|38547|\N
+130|MX|MEXICO|Mexico|Mexico|t|286102|Canatlán|canatlan|\N|\N|79238|79239|\N
+130|MX|MEXICO|Mexico|Mexico|t|286103|Victoria de Durango|victoria-de-durango|\N|\N|79238|79997|\N
+130|MX|MEXICO|Mexico|Mexico|t|286104|Santa María del Oro|santa-maria-del-oro|\N|\N|79238|84278|\N
+130|MX|MEXICO|Mexico|Mexico|t|286105|Gómez Palacio|gomez-palacio|\N|\N|79238|81180|\N
+130|MX|MEXICO|Mexico|Mexico|t|286106|Ciudad Lerdo|ciudad-lerdo|\N|\N|79238|82242|\N
+130|MX|MEXICO|Mexico|Mexico|t|286107|Nombre de Dios|nombre-de-dios|\N|\N|79238|83989|\N
+130|MX|MEXICO|Mexico|Mexico|t|286108|Francisco I. Madero|francisco-i-madero|\N|\N|79238|84486|\N
+130|MX|MEXICO|Mexico|Mexico|t|286109|Peñón Blanco|penon-blanco|\N|\N|79238|84547|\N
+130|MX|MEXICO|Mexico|Mexico|t|286110|El Salto|el-salto|\N|\N|79238|84711|\N
+130|MX|MEXICO|Mexico|Mexico|t|286111|San Juan del Río del Centauro del Norte|san-juan-del-rio-del-centauro-del-norte|\N|\N|79238|85984|\N
+130|MX|MEXICO|Mexico|Mexico|t|286112|Santiago Papasquiaro|santiago-papasquiaro|\N|\N|79238|86214|\N
+130|MX|MEXICO|Mexico|Mexico|t|286113|Vicente Guerrero|vicente-guerrero|\N|\N|79238|88086|\N
+130|MX|MEXICO|Mexico|Mexico|t|286114|Abasolo|abasolo|\N|\N|88286|88287|\N
+130|MX|MEXICO|Mexico|Mexico|t|286115|Acámbaro|acambaro|\N|\N|88286|88626|\N
+130|MX|MEXICO|Mexico|Mexico|t|286116|Apaseo el Alto|apaseo-el-alto|\N|\N|88286|89530|\N
+130|MX|MEXICO|Mexico|Mexico|t|286117|Apaseo el Grande|apaseo-el-grande|\N|\N|88286|89694|\N
+130|MX|MEXICO|Mexico|Mexico|t|286118|Celaya|celaya|\N|\N|88286|89979|\N
+130|MX|MEXICO|Mexico|Mexico|t|286119|Rincón de Tamayo|rincon-de-tamayo|\N|\N|88286|89979|\N
+130|MX|MEXICO|Mexico|Mexico|t|286120|Comonfort|comonfort|\N|\N|88286|90776|\N
+130|MX|MEXICO|Mexico|Mexico|t|286121|Empalme Escobedo (Escobedo)|empalme-escobedo-escobedo|\N|\N|88286|90776|\N
+130|MX|MEXICO|Mexico|Mexico|t|286122|Cortazar|cortazar|\N|\N|88286|90994|\N
+130|MX|MEXICO|Mexico|Mexico|t|286123|Cuerámaro|cueramaro|\N|\N|88286|91175|\N
+130|MX|MEXICO|Mexico|Mexico|t|286124|Doctor Mora|doctor-mora|\N|\N|88286|91286|\N
+130|MX|MEXICO|Mexico|Mexico|t|286125|Dolores Hidalgo|dolores-hidalgo|\N|\N|88286|91373|\N
+130|MX|MEXICO|Mexico|Mexico|t|286126|Guanajuato|guanajuato|\N|\N|88286|91961|\N
+130|MX|MEXICO|Mexico|Mexico|t|286127|Marfil|marfil|\N|\N|88286|91961|\N
+130|MX|MEXICO|Mexico|Mexico|t|286128|Huanímaro|huanimaro|\N|\N|88286|92249|\N
+130|MX|MEXICO|Mexico|Mexico|t|286129|Irapuato|irapuato|\N|\N|88286|92303|\N
+130|MX|MEXICO|Mexico|Mexico|t|286130|Jaral del Progreso|jaral-del-progreso|\N|\N|88286|92860|\N
+130|MX|MEXICO|Mexico|Mexico|t|286131|Jerécuaro|jerecuaro|\N|\N|88286|92933|\N
+130|MX|MEXICO|Mexico|Mexico|t|286132|León de los Aldama|leon-de-los-aldama|\N|\N|88286|93128|\N
+130|MX|MEXICO|Mexico|Mexico|t|286133|Ciudad Manuel Doblado|ciudad-manuel-doblado|\N|\N|88286|90428|\N
+130|MX|MEXICO|Mexico|Mexico|t|286134|Moroleón|moroleon|\N|\N|88286|93825|\N
+130|MX|MEXICO|Mexico|Mexico|t|286135|Pénjamo|penjamo|\N|\N|88286|94055|\N
+130|MX|MEXICO|Mexico|Mexico|t|286136|Purísima de Bustos|purisima-de-bustos|\N|\N|88286|94705|\N
+130|MX|MEXICO|Mexico|Mexico|t|286137|Romita|romita|\N|\N|88286|94840|\N
+130|MX|MEXICO|Mexico|Mexico|t|286138|Salamanca|salamanca|\N|\N|88286|95192|\N
+130|MX|MEXICO|Mexico|Mexico|t|286139|Salvatierra|salvatierra|\N|\N|88286|95649|\N
+130|MX|MEXICO|Mexico|Mexico|t|286140|San Diego de la Unión|san-diego-de-la-union|\N|\N|88286|95777|\N
+130|MX|MEXICO|Mexico|Mexico|t|286141|San Francisco del Rincón|san-francisco-del-rincon|\N|\N|88286|96530|\N
+130|MX|MEXICO|Mexico|Mexico|t|286142|San José Iturbide|san-jose-iturbide|\N|\N|88286|96775|\N
+130|MX|MEXICO|Mexico|Mexico|t|286143|San Luis de la Paz|san-luis-de-la-paz|\N|\N|88286|97033|\N
+130|MX|MEXICO|Mexico|Mexico|t|286144|San miguel de Allende|san-miguel-de-allende|\N|\N|88286|88905|\N
+130|MX|MEXICO|Mexico|Mexico|t|286145|Santa Cruz Juventino Rosas|santa-cruz-juventino-rosas|\N|\N|88286|97616|\N
+130|MX|MEXICO|Mexico|Mexico|t|286146|Santiago Maravatío|santiago-maravatio|\N|\N|88286|97838|\N
+130|MX|MEXICO|Mexico|Mexico|t|286147|Silao|silao|\N|\N|88286|97854|\N
+130|MX|MEXICO|Mexico|Mexico|t|286148|Tarandacuao|tarandacuao|\N|\N|88286|98342|\N
+130|MX|MEXICO|Mexico|Mexico|t|286149|Uriangato|uriangato|\N|\N|88286|98585|\N
+130|MX|MEXICO|Mexico|Mexico|t|286150|Valle de Santiago|valle-de-santiago|\N|\N|88286|98645|\N
+130|MX|MEXICO|Mexico|Mexico|t|286151|Villagrán|villagran|\N|\N|88286|99129|\N
+130|MX|MEXICO|Mexico|Mexico|t|286152|Yuriria|yuriria|\N|\N|88286|99395|\N
+130|MX|MEXICO|Mexico|Mexico|t|286153|Acapulco de Juárez|acapulco-de-juarez|\N|\N|99535|99536|\N
+130|MX|MEXICO|Mexico|Mexico|t|286154|Ciudad Apaxtla de Castrejón|ciudad-apaxtla-de-castrejon|\N|\N|99535|100220|\N
+130|MX|MEXICO|Mexico|Mexico|t|286155|Arcelia|arcelia|\N|\N|99535|100280|\N
+130|MX|MEXICO|Mexico|Mexico|t|286156|Atoyac de Álvarez|atoyac-de-alvarez|\N|\N|99535|100601|\N
+130|MX|MEXICO|Mexico|Mexico|t|286157|Ayutla de los Libres|ayutla-de-los-libres|\N|\N|99535|100831|\N
+130|MX|MEXICO|Mexico|Mexico|t|286158|Azoyú|azoyu|\N|\N|99535|100988|\N
+130|MX|MEXICO|Mexico|Mexico|t|286159|San Jerónimo de Juárez|san-jeronimo-de-juarez|\N|\N|99535|101075|\N
+130|MX|MEXICO|Mexico|Mexico|t|286160|Buenavista de Cuellar|buenavista-de-cuellar|\N|\N|99535|101148|\N
+130|MX|MEXICO|Mexico|Mexico|t|286161|Chilapa de Álvarez|chilapa-de-alvarez|\N|\N|99535|102863|\N
+130|MX|MEXICO|Mexico|Mexico|t|286162|Chilpancingo de los Bravo|chilpancingo-de-los-bravo|\N|\N|99535|103073|\N
+130|MX|MEXICO|Mexico|Mexico|t|286163|Ocotito|ocotito|\N|\N|99535|103073|\N
+130|MX|MEXICO|Mexico|Mexico|t|286164|Copala|copala|\N|\N|99535|101514|\N
+130|MX|MEXICO|Mexico|Mexico|t|286165|Coyuca de Benítez|coyuca-de-benitez|\N|\N|99535|101689|\N
+130|MX|MEXICO|Mexico|Mexico|t|286166|Coyuca de Catalán|coyuca-de-catalan|\N|\N|99535|101870|\N
+130|MX|MEXICO|Mexico|Mexico|t|286167|Cuajinicuilapa|cuajinicuilapa|\N|\N|99535|102331|\N
+130|MX|MEXICO|Mexico|Mexico|t|286168|Cutzamala de Pinzón|cutzamala-de-pinzon|\N|\N|99535|102670|\N
+130|MX|MEXICO|Mexico|Mexico|t|286169|Zumpango del Río|zumpango-del-rio|\N|\N|99535|108524|\N
+130|MX|MEXICO|Mexico|Mexico|t|286170|Cruz Grande|cruz-grande|\N|\N|99535|103253|\N
+130|MX|MEXICO|Mexico|Mexico|t|286171|Huamuxtitlan|huamuxtitlan|\N|\N|99535|103672|\N
+130|MX|MEXICO|Mexico|Mexico|t|286172|Huitzuco|huitzuco|\N|\N|99535|103699|\N
+130|MX|MEXICO|Mexico|Mexico|t|286173|Iguala de la Independencia|iguala-de-la-independencia|\N|\N|99535|103786|\N
+130|MX|MEXICO|Mexico|Mexico|t|286174|Tierra Colorada|tierra-colorada|\N|\N|99535|104210|\N
+130|MX|MEXICO|Mexico|Mexico|t|286175|La Unión|la-union|\N|\N|99535|107673|\N
+130|MX|MEXICO|Mexico|Mexico|t|286176|Marquelia|marquelia|\N|\N|99535|108720|\N
+130|MX|MEXICO|Mexico|Mexico|t|286177|Olinalá|olinala|\N|\N|99535|104615|\N
+130|MX|MEXICO|Mexico|Mexico|t|286178|Petatlán|petatlan|\N|\N|99535|105105|\N
+130|MX|MEXICO|Mexico|Mexico|t|286179|Ciudad Altamirano|ciudad-altamirano|\N|\N|99535|105523|\N
+130|MX|MEXICO|Mexico|Mexico|t|286180|San Luis Acatlán|san-luis-acatlan|\N|\N|99535|105641|\N
+130|MX|MEXICO|Mexico|Mexico|t|286181|San Marcos|san-marcos|\N|\N|99535|105760|\N
+130|MX|MEXICO|Mexico|Mexico|t|286182|Taxco de Alarcón|taxco-de-alarcon|\N|\N|99535|106144|\N
+130|MX|MEXICO|Mexico|Mexico|t|286183|Técpan de Galeana|tecpan-de-galeana|\N|\N|99535|106353|\N
+130|MX|MEXICO|Mexico|Mexico|t|286184|San Luis San Pedro|san-luis-san-pedro|\N|\N|99535|106353|\N
+130|MX|MEXICO|Mexico|Mexico|t|286185|San Luis de la Loma|san-luis-de-la-loma|\N|\N|99535|106353|\N
+130|MX|MEXICO|Mexico|Mexico|t|286186|Teloloapan|teloloapan|\N|\N|99535|106838|\N
+130|MX|MEXICO|Mexico|Mexico|t|286187|Tepecoacuilco de Trujano|tepecoacuilco-de-trujano|\N|\N|99535|107076|\N
+130|MX|MEXICO|Mexico|Mexico|t|286188|Tixtla de Guerrero|tixtla-de-guerrero|\N|\N|99535|107209|\N
+130|MX|MEXICO|Mexico|Mexico|t|286189|Tlalixtaquilla|tlalixtaquilla|\N|\N|99535|107467|\N
+130|MX|MEXICO|Mexico|Mexico|t|286190|Tlapa de Comonfort|tlapa-de-comonfort|\N|\N|99535|107487|\N
+130|MX|MEXICO|Mexico|Mexico|t|286191|Tlapehuala|tlapehuala|\N|\N|99535|107630|\N
+130|MX|MEXICO|Mexico|Mexico|t|286192|Zihuatanejo|zihuatanejo|\N|\N|99535|103937|\N
+130|MX|MEXICO|Mexico|Mexico|t|286193|Actopan|actopan|\N|\N|109086|109207|\N
+130|MX|MEXICO|Mexico|Mexico|t|286194|Apan|apan|\N|\N|109086|109478|\N
+130|MX|MEXICO|Mexico|Mexico|t|286195|Huejutla de Reyes|huejutla-de-reyes|\N|\N|109086|110707|\N
+130|MX|MEXICO|Mexico|Mexico|t|286196|Ixmiquilpan|ixmiquilpan|\N|\N|109086|111031|\N
+130|MX|MEXICO|Mexico|Mexico|t|286197|Pachuca de Soto|pachuca-de-soto|\N|\N|109086|112150|\N
+130|MX|MEXICO|Mexico|Mexico|t|286198|Santiago Tulantepec|santiago-tulantepec|\N|\N|109086|112697|\N
+130|MX|MEXICO|Mexico|Mexico|t|286199|Tepeapulco|tepeapulco|\N|\N|109086|113029|\N
+130|MX|MEXICO|Mexico|Mexico|t|286200|Cd. de Fray Bernardino de Sahagún|cd-de-fray-bernardino-de-sahagun|\N|\N|109086|113029|\N
+130|MX|MEXICO|Mexico|Mexico|t|286201|Tepeji del Rio|tepeji-del-rio|\N|\N|109086|113206|\N
+130|MX|MEXICO|Mexico|Mexico|t|286202|Tizayuca|tizayuca|\N|\N|109086|113464|\N
+130|MX|MEXICO|Mexico|Mexico|t|286203|Tlaxcoapan|tlaxcoapan|\N|\N|109086|113785|\N
+130|MX|MEXICO|Mexico|Mexico|t|286204|Tula de Allende|tula-de-allende|\N|\N|109086|113838|\N
+130|MX|MEXICO|Mexico|Mexico|t|286205|Cruz Azul|cruz-azul|\N|\N|109086|113838|\N
+130|MX|MEXICO|Mexico|Mexico|t|286206|Tulancingo|tulancingo|\N|\N|109086|113915|\N
+130|MX|MEXICO|Mexico|Mexico|t|286207|Zimapan|zimapan|\N|\N|109086|114298|\N
+130|MX|MEXICO|Mexico|Mexico|t|286208|Acatlán de Juárez|acatlan-de-juarez|\N|\N|114463|114581|\N
+130|MX|MEXICO|Mexico|Mexico|t|286209|Ahualulco de Mercado|ahualulco-de-mercado|\N|\N|114463|114636|\N
+130|MX|MEXICO|Mexico|Mexico|t|286210|Ameca|ameca|\N|\N|114463|114828|\N
+130|MX|MEXICO|Mexico|Mexico|t|286211|Arandas|arandas|\N|\N|114463|115039|\N
+130|MX|MEXICO|Mexico|Mexico|t|286212|Atotonilco el Alto|atotonilco-el-alto|\N|\N|114463|115661|\N
+130|MX|MEXICO|Mexico|Mexico|t|286213|Autlán de Navarro|autlan-de-navarro|\N|\N|114463|115920|\N
+130|MX|MEXICO|Mexico|Mexico|t|286214|La Resolana|la-resolana|\N|\N|114463|117177|\N
+130|MX|MEXICO|Mexico|Mexico|t|286215|Chapala|chapala|\N|\N|114463|118340|\N
+130|MX|MEXICO|Mexico|Mexico|t|286216|Ajijic|ajijic|\N|\N|114463|118340|\N
+130|MX|MEXICO|Mexico|Mexico|t|286217|Cihuatlán|cihuatlan|\N|\N|114463|117323|\N
+130|MX|MEXICO|Mexico|Mexico|t|286218|Cocula|cocula|\N|\N|114463|117619|\N
+130|MX|MEXICO|Mexico|Mexico|t|286219|Colotlán|colotlan|\N|\N|114463|117682|\N
+130|MX|MEXICO|Mexico|Mexico|t|286220|El Grullo|el-grullo|\N|\N|114463|119338|\N
+130|MX|MEXICO|Mexico|Mexico|t|286221|Las Pintitas|las-pintitas|\N|\N|114463|124829|\N
+130|MX|MEXICO|Mexico|Mexico|t|286222|San José el Verde (El Verde)|san-jose-el-verde-el-verde|\N|\N|114463|124829|\N
+130|MX|MEXICO|Mexico|Mexico|t|286223|El Quince (San José el Quince)|el-quince-san-jose-el-quince|\N|\N|114463|124829|\N
+130|MX|MEXICO|Mexico|Mexico|t|286224|Etzatlán|etzatlan|\N|\N|114463|119243|\N
+130|MX|MEXICO|Mexico|Mexico|t|286225|Guadalajara|guadalajara|\N|\N|114463|119670|\N
+130|MX|MEXICO|Mexico|Mexico|t|286226|Huejuquilla el Alto|huejuquilla-el-alto|\N|\N|114463|119865|\N
+130|MX|MEXICO|Mexico|Mexico|t|286227|Jalostotitlán|jalostotitlan|\N|\N|114463|120650|\N
+130|MX|MEXICO|Mexico|Mexico|t|286228|Jamay|jamay|\N|\N|114463|120870|\N
+130|MX|MEXICO|Mexico|Mexico|t|286229|Jocotepec|jocotepec|\N|\N|114463|121410|\N
+130|MX|MEXICO|Mexico|Mexico|t|286230|La Barca|la-barca|\N|\N|114463|116492|\N
+130|MX|MEXICO|Mexico|Mexico|t|286231|Lagos de Moreno|lagos-de-moreno|\N|\N|114463|121595|\N
+130|MX|MEXICO|Mexico|Mexico|t|286232|Magdalena|magdalena|\N|\N|114463|122151|\N
+130|MX|MEXICO|Mexico|Mexico|t|286233|Ocotlán|ocotlan|\N|\N|114463|123609|\N
+130|MX|MEXICO|Mexico|Mexico|t|286234|Poncitlán|poncitlan|\N|\N|114463|124060|\N
+130|MX|MEXICO|Mexico|Mexico|t|286235|Puerto Vallarta|puerto-vallarta|\N|\N|114463|124188|\N
+130|MX|MEXICO|Mexico|Mexico|t|286236|San Diego de Alejandría|san-diego-de-alejandria|\N|\N|114463|125061|\N
+130|MX|MEXICO|Mexico|Mexico|t|286237|San Ignacio Cerro Gordo|san-ignacio-cerro-gordo|\N|\N|114463|132820|\N
+130|MX|MEXICO|Mexico|Mexico|t|286238|San Juan de los Lagos|san-juan-de-los-lagos|\N|\N|114463|125176|\N
+130|MX|MEXICO|Mexico|Mexico|t|286239|San Julián|san-julian|\N|\N|114463|125451|\N
+130|MX|MEXICO|Mexico|Mexico|t|286240|San Miguel el Alto|san-miguel-el-alto|\N|\N|114463|125867|\N
+130|MX|MEXICO|Mexico|Mexico|t|286241|Tlaquepaque|tlaquepaque|\N|\N|114463|129417|\N
+130|MX|MEXICO|Mexico|Mexico|t|286242|Sayula|sayula|\N|\N|114463|126350|\N
+130|MX|MEXICO|Mexico|Mexico|t|286243|Tala|tala|\N|\N|114463|126459|\N
+130|MX|MEXICO|Mexico|Mexico|t|286244|Talpa de Allende|talpa-de-allende|\N|\N|114463|126648|\N
+130|MX|MEXICO|Mexico|Mexico|t|286245|Tamazula de Gordiano|tamazula-de-gordiano|\N|\N|114463|126917|\N
+130|MX|MEXICO|Mexico|Mexico|t|286246|Tecalitlán|tecalitlan|\N|\N|114463|127409|\N
+130|MX|MEXICO|Mexico|Mexico|t|286247|Teocaltiche|teocaltiche|\N|\N|114463|127946|\N
+130|MX|MEXICO|Mexico|Mexico|t|286248|Tepatitlán de Morelos|tepatitlan-de-morelos|\N|\N|114463|128261|\N
+130|MX|MEXICO|Mexico|Mexico|t|286249|Tequila|tequila|\N|\N|114463|128669|\N
+130|MX|MEXICO|Mexico|Mexico|t|286250|Tlajomulco de Zúñiga|tlajomulco-de-zuniga|\N|\N|114463|129095|\N
+130|MX|MEXICO|Mexico|Mexico|t|286251|Tototlán|tototlan|\N|\N|114463|130187|\N
+130|MX|MEXICO|Mexico|Mexico|t|286252|Tuxpan|tuxpan|\N|\N|114463|130443|\N
+130|MX|MEXICO|Mexico|Mexico|t|286253|Unión de San Antonio|union-de-san-antonio|\N|\N|114463|130625|\N
+130|MX|MEXICO|Mexico|Mexico|t|286254|Valle de Guadalupe|valle-de-guadalupe|\N|\N|114463|130966|\N
+130|MX|MEXICO|Mexico|Mexico|t|286255|Villa Corona|villa-corona|\N|\N|114463|131294|\N
+130|MX|MEXICO|Mexico|Mexico|t|286256|Villa Hidalgo|villa-hidalgo|\N|\N|114463|131514|\N
+130|MX|MEXICO|Mexico|Mexico|t|286257|Yahualica de González Gallo|yahualica-de-gonzalez-gallo|\N|\N|114463|131714|\N
+130|MX|MEXICO|Mexico|Mexico|t|286258|Zacoalco de Torres|zacoalco-de-torres|\N|\N|114463|131957|\N
+130|MX|MEXICO|Mexico|Mexico|t|286259|Zapopan|zapopan|\N|\N|114463|132013|\N
+130|MX|MEXICO|Mexico|Mexico|t|286260|Zapotiltic|zapotiltic|\N|\N|114463|132348|\N
+130|MX|MEXICO|Mexico|Mexico|t|286261|Ciudad Guzmán|ciudad-guzman|\N|\N|114463|117431|\N
+130|MX|MEXICO|Mexico|Mexico|t|286262|Almoloya de Juárez|almoloya-de-juarez|\N|\N|132909|133157|\N
+130|MX|MEXICO|Mexico|Mexico|t|286263|Amatepec|amatepec|\N|\N|132909|133306|\N
+130|MX|MEXICO|Mexico|Mexico|t|286264|Ciudad Adolfo López Mateos|ciudad-adolfo-lopez-mateos|\N|\N|132909|133594|\N
+130|MX|MEXICO|Mexico|Mexico|t|286265|Capulhuac|capulhuac|\N|\N|132909|133837|\N
+130|MX|MEXICO|Mexico|Mexico|t|286266|Chalco de Díaz Covarrubias|chalco-de-diaz-covarrubias|\N|\N|132909|133972|\N
+130|MX|MEXICO|Mexico|Mexico|t|286267|San Vicente Chicoloapan de Juárez|san-vicente-chicoloapan-de-juarez|\N|\N|132909|134112|\N
+130|MX|MEXICO|Mexico|Mexico|t|286268|Chiconcuac|chiconcuac|\N|\N|132909|134130|\N
+130|MX|MEXICO|Mexico|Mexico|t|286269|Chimalhuacán|chimalhuacan|\N|\N|132909|134133|\N
+130|MX|MEXICO|Mexico|Mexico|t|286270|Coacalco de Berriozabal|coacalco-de-berriozabal|\N|\N|132909|133855|\N
+130|MX|MEXICO|Mexico|Mexico|t|286271|Cuautitlán|cuautitlan|\N|\N|132909|133941|\N
+130|MX|MEXICO|Mexico|Mexico|t|286272|Cuautitlán Izcalli|cuautitlan-izcalli|\N|\N|132909|137914|\N
+130|MX|MEXICO|Mexico|Mexico|t|286273|Ecatepec de Morelos|ecatepec-de-morelos|\N|\N|132909|134172|\N
+130|MX|MEXICO|Mexico|Mexico|t|286274|Huixquilucan de Degollado|huixquilucan-de-degollado|\N|\N|132909|134233|\N
+130|MX|MEXICO|Mexico|Mexico|t|286275|Ixtapaluca|ixtapaluca|\N|\N|132909|134314|\N
+130|MX|MEXICO|Mexico|Mexico|t|286276|Juchitepec de Mariano Riva Palacio|juchitepec-de-mariano-riva-palacio|\N|\N|132909|134765|\N
+130|MX|MEXICO|Mexico|Mexico|t|286277|Los Reyes Acaquilpan (La Paz)|los-reyes-acaquilpan-la-paz|\N|\N|132909|135446|\N
+130|MX|MEXICO|Mexico|Mexico|t|286278|Melchor Ocampo|melchor-ocampo|\N|\N|132909|134911|\N
+130|MX|MEXICO|Mexico|Mexico|t|286279|Metepec|metepec|\N|\N|132909|134923|\N
+130|MX|MEXICO|Mexico|Mexico|t|286280|Naucalpan de Juárez|naucalpan-de-juarez|\N|\N|132909|135000|\N
+130|MX|MEXICO|Mexico|Mexico|t|286281|Ciudad Nezahualcoyotl|ciudad-nezahualcoyotl|\N|\N|132909|135059|\N
+130|MX|MEXICO|Mexico|Mexico|t|286282|Villa Nicolás Romero|villa-nicolas-romero|\N|\N|132909|135096|\N
+130|MX|MEXICO|Mexico|Mexico|t|286283|Ocoyoacac|ocoyoacac|\N|\N|132909|135156|\N
+130|MX|MEXICO|Mexico|Mexico|t|286284|San Mateo Atenco|san-mateo-atenco|\N|\N|132909|135639|\N
+130|MX|MEXICO|Mexico|Mexico|t|286285|Tecamac de Felipe Villanueva|tecamac-de-felipe-villanueva|\N|\N|132909|135806|\N
+130|MX|MEXICO|Mexico|Mexico|t|286286|Tejupilco de Hidalgo|tejupilco-de-hidalgo|\N|\N|132909|135862|\N
+130|MX|MEXICO|Mexico|Mexico|t|286287|Tepotzotlán|tepotzotlan|\N|\N|132909|136562|\N
+130|MX|MEXICO|Mexico|Mexico|t|286288|Tequixquiac|tequixquiac|\N|\N|132909|136608|\N
+130|MX|MEXICO|Mexico|Mexico|t|286289|Texcoco de Mora|texcoco-de-mora|\N|\N|132909|136665|\N
+130|MX|MEXICO|Mexico|Mexico|t|286290|Tlalnepantla de Baz|tlalnepantla-de-baz|\N|\N|132909|136905|\N
+130|MX|MEXICO|Mexico|Mexico|t|286291|Toluca de Lerdo|toluca-de-lerdo|\N|\N|132909|137099|\N
+130|MX|MEXICO|Mexico|Mexico|t|286292|Santa Maria Tultepec|santa-maria-tultepec|\N|\N|132909|137236|\N
+130|MX|MEXICO|Mexico|Mexico|t|286293|Tultitlán de Mariano Escobedo|tultitlan-de-mariano-escobedo|\N|\N|132909|137255|\N
+130|MX|MEXICO|Mexico|Mexico|t|286294|Valle de Chalco Solidaridad|valle-de-chalco-solidaridad|\N|\N|132909|137927|\N
+130|MX|MEXICO|Mexico|Mexico|t|286295|Xonacatlán|xonacatlan|\N|\N|132909|137635|\N
+130|MX|MEXICO|Mexico|Mexico|t|286296|Zumpango|zumpango|\N|\N|132909|137832|\N
+130|MX|MEXICO|Mexico|Mexico|t|286297|Apatzingán de la Constitución|apatzingan-de-la-constitucion|\N|\N|138297|138734|\N
+130|MX|MEXICO|Mexico|Mexico|t|286298|Cotija de la Paz|cotija-de-la-paz|\N|\N|138297|141385|\N
+130|MX|MEXICO|Mexico|Mexico|t|286299|Cuitzeo del Porvenir|cuitzeo-del-porvenir|\N|\N|138297|141478|\N
+130|MX|MEXICO|Mexico|Mexico|t|286300|Ciudad Hidalgo|ciudad-hidalgo|\N|\N|138297|142250|\N
+130|MX|MEXICO|Mexico|Mexico|t|286301|Huetamo de Núñez|huetamo-de-nunez|\N|\N|138297|142843|\N
+130|MX|MEXICO|Mexico|Mexico|t|286302|Jacona de Plancarte|jacona-de-plancarte|\N|\N|138297|143353|\N
+130|MX|MEXICO|Mexico|Mexico|t|286303|Jiquilpan de Juárez|jiquilpan-de-juarez|\N|\N|138297|143447|\N
+130|MX|MEXICO|Mexico|Mexico|t|286304|La piedad de Cabadas|la-piedad-de-cabadas|\N|\N|138297|145789|\N
+130|MX|MEXICO|Mexico|Mexico|t|286305|Ciudad Lázaro Cárdenas|ciudad-lazaro-cardenas|\N|\N|138297|144209|\N
+130|MX|MEXICO|Mexico|Mexico|t|286306|Las Guacamayas|las-guacamayas|\N|\N|138297|144209|\N
+130|MX|MEXICO|Mexico|Mexico|t|286307|Los Reyes de Salgado|los-reyes-de-salgado|\N|\N|138297|146118|\N
+130|MX|MEXICO|Mexico|Mexico|t|286308|Maravatío de Ocampo|maravatio-de-ocampo|\N|\N|138297|144014|\N
+130|MX|MEXICO|Mexico|Mexico|t|286309|Morelia|morelia|\N|\N|138297|144482|\N
+130|MX|MEXICO|Mexico|Mexico|t|286310|Nueva Italia de Ruiz|nueva-italia-de-ruiz|\N|\N|138297|144854|\N
+130|MX|MEXICO|Mexico|Mexico|t|286311|Paracho de Verduzco|paracho-de-verduzco|\N|\N|138297|145472|\N
+130|MX|MEXICO|Mexico|Mexico|t|286312|Pátzcuaro|patzcuaro|\N|\N|138297|145511|\N
+130|MX|MEXICO|Mexico|Mexico|t|286313|Puruándiro|puruandiro|\N|\N|138297|145967|\N
+130|MX|MEXICO|Mexico|Mexico|t|286314|Sahuayo de Morelos|sahuayo-de-morelos|\N|\N|138297|146181|\N
+130|MX|MEXICO|Mexico|Mexico|t|286315|Tacámbaro de Codallos|tacambaro-de-codallos|\N|\N|138297|146619|\N
+130|MX|MEXICO|Mexico|Mexico|t|286316|Tangancícuaro de Arista|tangancicuaro-de-arista|\N|\N|138297|146991|\N
+130|MX|MEXICO|Mexico|Mexico|t|286317|Uruapan|uruapan|\N|\N|138297|149245|\N
+130|MX|MEXICO|Mexico|Mexico|t|286318|Yurécuaro|yurecuaro|\N|\N|138297|149664|\N
+130|MX|MEXICO|Mexico|Mexico|t|286319|Zacapu|zacapu|\N|\N|138297|149694|\N
+130|MX|MEXICO|Mexico|Mexico|t|286320|Zamora de Hidalgo|zamora-de-hidalgo|\N|\N|138297|149768|\N
+130|MX|MEXICO|Mexico|Mexico|t|286321|Zinapécuaro de Figueroa|zinapecuaro-de-figueroa|\N|\N|138297|149935|\N
+130|MX|MEXICO|Mexico|Mexico|t|286322|Heroica Zitácuaro|heroica-zitacuaro|\N|\N|138297|150088|\N
+130|MX|MEXICO|Mexico|Mexico|t|286323|Cuautla (Cuautla de Morelos)|cuautla-cuautla-de-morelos|\N|\N|150301|150663|\N
+130|MX|MEXICO|Mexico|Mexico|t|286324|Cuernavaca|cuernavaca|\N|\N|150301|150729|\N
+130|MX|MEXICO|Mexico|Mexico|t|286325|Jojutla|jojutla|\N|\N|150301|150993|\N
+130|MX|MEXICO|Mexico|Mexico|t|286326|Puente de Ixtla|puente-de-ixtla|\N|\N|150301|151259|\N
+130|MX|MEXICO|Mexico|Mexico|t|286327|Santa Rosa Treinta|santa-rosa-treinta|\N|\N|150301|151639|\N
+130|MX|MEXICO|Mexico|Mexico|t|286328|Tlaquiltenango|tlaquiltenango|\N|\N|150301|151733|\N
+130|MX|MEXICO|Mexico|Mexico|t|286329|Zacatepec de Hidalgo|zacatepec-de-hidalgo|\N|\N|150301|152172|\N
+130|MX|MEXICO|Mexico|Mexico|t|286330|Galeana|galeana|\N|\N|150301|152172|\N
+130|MX|MEXICO|Mexico|Mexico|t|286331|Acaponeta|acaponeta|\N|\N|152239|152240|\N
+130|MX|MEXICO|Mexico|Mexico|t|286332|Ahuacatlán|ahuacatlan|\N|\N|152239|152427|\N
+130|MX|MEXICO|Mexico|Mexico|t|286333|Bucerías|bucerias|\N|\N|152239|156100|\N
+130|MX|MEXICO|Mexico|Mexico|t|286334|Compostela|compostela|\N|\N|152239|152569|\N
+130|MX|MEXICO|Mexico|Mexico|t|286335|Las Varas|las-varas|\N|\N|152239|152569|\N
+130|MX|MEXICO|Mexico|Mexico|t|286336|La peñita de Jaltemba|la-penita-de-jaltemba|\N|\N|152239|152569|\N
+130|MX|MEXICO|Mexico|Mexico|t|286337|Ixtlán del Río|ixtlan-del-rio|\N|\N|152239|153169|\N
+130|MX|MEXICO|Mexico|Mexico|t|286338|Jala|jala|\N|\N|152239|153265|\N
+130|MX|MEXICO|Mexico|Mexico|t|286339|Ruiz|ruiz|\N|\N|152239|154120|\N
+130|MX|MEXICO|Mexico|Mexico|t|286340|San Blas|san-blas|\N|\N|152239|154219|\N
+130|MX|MEXICO|Mexico|Mexico|t|286341|San pedro Lagunillas|san-pedro-lagunillas|\N|\N|152239|154358|\N
+130|MX|MEXICO|Mexico|Mexico|t|286342|Santiago Ixcuintla|santiago-ixcuintla|\N|\N|152239|154574|\N
+130|MX|MEXICO|Mexico|Mexico|t|286343|Villa Hidalgo (El Nuevo)|villa-hidalgo-el-nuevo|\N|\N|152239|154574|\N
+130|MX|MEXICO|Mexico|Mexico|t|286344|Tecuala|tecuala|\N|\N|152239|154813|\N
+130|MX|MEXICO|Mexico|Mexico|t|286345|Tepic|tepic|\N|\N|152239|154969|\N
+130|MX|MEXICO|Mexico|Mexico|t|286346|Francisco I. Madero (Puga)|francisco-i-madero-puga|\N|\N|152239|154969|\N
+130|MX|MEXICO|Mexico|Mexico|t|286347|Xalisco|xalisco|\N|\N|152239|153343|\N
+130|MX|MEXICO|Mexico|Mexico|t|286348|Anáhuac|anahuac|\N|\N|156524|156884|\N
+130|MX|MEXICO|Mexico|Mexico|t|286349|Ciudad Apodaca|ciudad-apodaca|\N|\N|156524|157562|\N
+130|MX|MEXICO|Mexico|Mexico|t|286350|Cadereyta Jiménez|cadereyta-jimenez|\N|\N|156524|157984|\N
+130|MX|MEXICO|Mexico|Mexico|t|286351|Ciénega de Flores|cienega-de-flores|\N|\N|156524|158634|\N
+130|MX|MEXICO|Mexico|Mexico|t|286352|Doctor Arroyo|doctor-arroyo|\N|\N|156524|159341|\N
+130|MX|MEXICO|Mexico|Mexico|t|286353|García|garcia|\N|\N|156524|160472|\N
+130|MX|MEXICO|Mexico|Mexico|t|286354|Ciudad General Escobedo|ciudad-general-escobedo|\N|\N|156524|160902|\N
+130|MX|MEXICO|Mexico|Mexico|t|286355|Guadalupe|guadalupe|\N|\N|156524|161746|\N
+130|MX|MEXICO|Mexico|Mexico|t|286356|Hualahuises|hualahuises|\N|\N|156524|162002|\N
+130|MX|MEXICO|Mexico|Mexico|t|286357|Ciudad Benito Juárez|ciudad-benito-juarez|\N|\N|156524|162182|\N
+130|MX|MEXICO|Mexico|Mexico|t|286358|Linares|linares|\N|\N|156524|162503|\N
+130|MX|MEXICO|Mexico|Mexico|t|286359|Montemorelos|montemorelos|\N|\N|156524|163438|\N
+130|MX|MEXICO|Mexico|Mexico|t|286360|Monterrey|monterrey|\N|\N|156524|163982|\N
+130|MX|MEXICO|Mexico|Mexico|t|286361|Ciudad Sabinas Hidalgo|ciudad-sabinas-hidalgo|\N|\N|156524|164659|\N
+130|MX|MEXICO|Mexico|Mexico|t|286362|San Nicolás de los Garza|san-nicolas-de-los-garza|\N|\N|156524|165223|\N
+130|MX|MEXICO|Mexico|Mexico|t|286363|San Pedro Garza García|san-pedro-garza-garcia|\N|\N|156524|160612|\N
+130|MX|MEXICO|Mexico|Mexico|t|286364|Ciudad Santa Catarina|ciudad-santa-catarina|\N|\N|156524|165271|\N
+130|MX|MEXICO|Mexico|Mexico|t|286365|Santiago|santiago|\N|\N|156524|165369|\N
+130|MX|MEXICO|Mexico|Mexico|t|286366|El cercado|el-cercado|\N|\N|156524|165369|\N
+130|MX|MEXICO|Mexico|Mexico|t|286367|Vicente Camalote|vicente-camalote|\N|\N|165935|165939|\N
+130|MX|MEXICO|Mexico|Mexico|t|286368|Asunción Nochixtlán|asuncion-nochixtlan|\N|\N|165935|166212|\N
+130|MX|MEXICO|Mexico|Mexico|t|286369|Chahuites|chahuites|\N|\N|165935|166732|\N
+130|MX|MEXICO|Mexico|Mexico|t|286370|Ciudad Ixtepec|ciudad-ixtepec|\N|\N|165935|166468|\N
+130|MX|MEXICO|Mexico|Mexico|t|286371|Cosolapa|cosolapa|\N|\N|165935|166613|\N
+130|MX|MEXICO|Mexico|Mexico|t|286372|Cuilápam de Guerrero|cuilapam-de-guerrero|\N|\N|165935|166667|\N
+130|MX|MEXICO|Mexico|Mexico|t|286373|Lagunas|lagunas|\N|\N|165935|166304|\N
+130|MX|MEXICO|Mexico|Mexico|t|286374|Heroica Ciudad de Ejutla de Crespo|heroica-ciudad-de-ejutla-de-crespo|\N|\N|165935|166789|\N
+130|MX|MEXICO|Mexico|Mexico|t|286375|Heroica Ciudad de Huajuapan de León|heroica-ciudad-de-huajuapan-de-leon|\N|\N|165935|167098|\N
+130|MX|MEXICO|Mexico|Mexico|t|286376|Juchitán (Juchitán de Zaragoza)|juchitan-juchitan-de-zaragoza|\N|\N|165935|167318|\N
+130|MX|MEXICO|Mexico|Mexico|t|286377|Heroica Ciudad de Tlaxiaco|heroica-ciudad-de-tlaxiaco|\N|\N|165935|175172|\N
+130|MX|MEXICO|Mexico|Mexico|t|286378|Loma Bonita|loma-bonita|\N|\N|165935|167491|\N
+130|MX|MEXICO|Mexico|Mexico|t|286379|Mariscala de Juárez|mariscala-de-juarez|\N|\N|165935|167838|\N
+130|MX|MEXICO|Mexico|Mexico|t|286380|Matías Romero Avendaño|matias-romero-avendano|\N|\N|165935|167858|\N
+130|MX|MEXICO|Mexico|Mexico|t|286381|Miahuatlán de Porfirio Díaz|miahuatlan-de-porfirio-diaz|\N|\N|165935|168146|\N
+130|MX|MEXICO|Mexico|Mexico|t|286382|Natividad|natividad|\N|\N|165935|168274|\N
+130|MX|MEXICO|Mexico|Mexico|t|286383|El Camarón|el-camaron|\N|\N|165935|168279|\N
+130|MX|MEXICO|Mexico|Mexico|t|286384|Oaxaca|oaxaca|\N|\N|165935|168385|\N
+130|MX|MEXICO|Mexico|Mexico|t|286385|Ocotlán de Morelos|ocotlan-de-morelos|\N|\N|165935|168418|\N
+130|MX|MEXICO|Mexico|Mexico|t|286386|Putla Villa de Guerrero|putla-villa-de-guerrero|\N|\N|165935|168624|\N
+130|MX|MEXICO|Mexico|Mexico|t|286387|Salina Cruz|salina-cruz|\N|\N|165935|168748|\N
+130|MX|MEXICO|Mexico|Mexico|t|286388|San Antonio de la Cal|san-antonio-de-la-cal|\N|\N|165935|169188|\N
+130|MX|MEXICO|Mexico|Mexico|t|286389|San Blas Atempa|san-blas-atempa|\N|\N|165935|169399|\N
+130|MX|MEXICO|Mexico|Mexico|t|286390|San Felipe Jalapa de Díaz|san-felipe-jalapa-de-diaz|\N|\N|165935|169610|\N
+130|MX|MEXICO|Mexico|Mexico|t|286391|San Francisco Ixhuatán|san-francisco-ixhuatan|\N|\N|165935|169856|\N
+130|MX|MEXICO|Mexico|Mexico|t|286392|San Francisco Telixtlahuaca|san-francisco-telixtlahuaca|\N|\N|165935|169931|\N
+130|MX|MEXICO|Mexico|Mexico|t|286393|San Juan Bautista Cuicatlán|san-juan-bautista-cuicatlan|\N|\N|165935|170470|\N
+130|MX|MEXICO|Mexico|Mexico|t|286394|San Juan Bautista lo de Soto|san-juan-bautista-lo-de-soto|\N|\N|165935|170518|\N
+130|MX|MEXICO|Mexico|Mexico|t|286395|San Juan Bautista Tuxtepec|san-juan-bautista-tuxtepec|\N|\N|165935|170549|\N
+130|MX|MEXICO|Mexico|Mexico|t|286396|San Juan Bautista Valle Nacional|san-juan-bautista-valle-nacional|\N|\N|165935|179017|\N
+130|MX|MEXICO|Mexico|Mexico|t|286397|San Juan Cacahuatepec|san-juan-cacahuatepec|\N|\N|165935|170799|\N
+130|MX|MEXICO|Mexico|Mexico|t|286398|San Miguel el Grande|san-miguel-el-grande|\N|\N|165935|172500|\N
+130|MX|MEXICO|Mexico|Mexico|t|286399|San Pablo Huitzo|san-pablo-huitzo|\N|\N|165935|173057|\N
+130|MX|MEXICO|Mexico|Mexico|t|286400|San Pablo Villa de Mitla|san-pablo-villa-de-mitla|\N|\N|165935|173106|\N
+130|MX|MEXICO|Mexico|Mexico|t|286401|San Pedro Pochutla|san-pedro-pochutla|\N|\N|165935|173481|\N
+130|MX|MEXICO|Mexico|Mexico|t|286402|San Pedro Tapanatepec|san-pedro-tapanatepec|\N|\N|165935|173698|\N
+130|MX|MEXICO|Mexico|Mexico|t|286403|San Pedro Totolapa|san-pedro-totolapa|\N|\N|165935|173935|\N
+130|MX|MEXICO|Mexico|Mexico|t|286404|San Sebastián Tecomaxtlahuaca|san-sebastian-tecomaxtlahuaca|\N|\N|165935|174351|\N
+130|MX|MEXICO|Mexico|Mexico|t|286405|El Rosario|el-rosario|\N|\N|165935|174420|\N
+130|MX|MEXICO|Mexico|Mexico|t|286406|Santa Cruz Itundujia|santa-cruz-itundujia|\N|\N|165935|174743|\N
+130|MX|MEXICO|Mexico|Mexico|t|286407|Santa Lucia del Camino|santa-lucia-del-camino|\N|\N|165935|175089|\N
+130|MX|MEXICO|Mexico|Mexico|t|286408|Santa María Huatulco|santa-maria-huatulco|\N|\N|165935|175755|\N
+130|MX|MEXICO|Mexico|Mexico|t|286409|Huatulco|huatulco|\N|\N|165935|175755|\N
+130|MX|MEXICO|Mexico|Mexico|t|286410|Santiago Jamiltepec|santiago-jamiltepec|\N|\N|165935|176858|\N
+130|MX|MEXICO|Mexico|Mexico|t|286411|Santiago Juxtlahuaca|santiago-juxtlahuaca|\N|\N|165935|176954|\N
+130|MX|MEXICO|Mexico|Mexico|t|286412|Santiago Pinotepa Nacional|santiago-pinotepa-nacional|\N|\N|165935|177248|\N
+130|MX|MEXICO|Mexico|Mexico|t|286413|Santiago Suchilquitongo|santiago-suchilquitongo|\N|\N|165935|177405|\N
+130|MX|MEXICO|Mexico|Mexico|t|286414|Santo Domingo Tehuantepec|santo-domingo-tehuantepec|\N|\N|165935|178211|\N
+130|MX|MEXICO|Mexico|Mexico|t|286415|Teotitlán de Flores Magón|teotitlan-de-flores-magon|\N|\N|165935|178763|\N
+130|MX|MEXICO|Mexico|Mexico|t|286416|Tlacolula de Matamoros|tlacolula-de-matamoros|\N|\N|165935|178887|\N
+130|MX|MEXICO|Mexico|Mexico|t|286417|Unión Hidalgo|union-hidalgo|\N|\N|165935|178987|\N
+130|MX|MEXICO|Mexico|Mexico|t|286418|Villa de Tamazulápam del Progreso|villa-de-tamazulapam-del-progreso|\N|\N|165935|178710|\N
+130|MX|MEXICO|Mexico|Mexico|t|286419|Villa de Zaachila|villa-de-zaachila|\N|\N|165935|179125|\N
+130|MX|MEXICO|Mexico|Mexico|t|286420|Villa Sola de Vega|villa-sola-de-vega|\N|\N|165935|172635|\N
+130|MX|MEXICO|Mexico|Mexico|t|286421|Zimatlán de Álvarez|zimatlan-de-alvarez|\N|\N|165935|179231|\N
+130|MX|MEXICO|Mexico|Mexico|t|286422|Acatlán de Osorio|acatlan-de-osorio|\N|\N|179305|179460|\N
+130|MX|MEXICO|Mexico|Mexico|t|286423|Amozoc|amozoc|\N|\N|179305|179836|\N
+130|MX|MEXICO|Mexico|Mexico|t|286424|Atlixco|atlixco|\N|\N|179305|179956|\N
+130|MX|MEXICO|Mexico|Mexico|t|286425|Ciudad Serdán|ciudad-serdan|\N|\N|179305|180819|\N
+130|MX|MEXICO|Mexico|Mexico|t|286426|Cuautlancingo|cuautlancingo|\N|\N|179305|180545|\N
+130|MX|MEXICO|Mexico|Mexico|t|286427|Huauchinango|huauchinango|\N|\N|179305|181938|\N
+130|MX|MEXICO|Mexico|Mexico|t|286428|Izúcar de Matamoros|izucar-de-matamoros|\N|\N|179305|182586|\N
+130|MX|MEXICO|Mexico|Mexico|t|286429|Puebla|puebla|\N|\N|179305|183638|\N
+130|MX|MEXICO|Mexico|Mexico|t|286430|San Andrés Cholula|san-andres-cholula|\N|\N|179305|183927|\N
+130|MX|MEXICO|Mexico|Mexico|t|286431|San Martín Texmelucan de Labastida|san-martin-texmelucan-de-labastida|\N|\N|179305|184106|\N
+130|MX|MEXICO|Mexico|Mexico|t|286432|San Pedro Cholula|san-pedro-cholula|\N|\N|179305|184284|\N
+130|MX|MEXICO|Mexico|Mexico|t|286433|Tecamachalco|tecamachalco|\N|\N|179305|184719|\N
+130|MX|MEXICO|Mexico|Mexico|t|286434|Tehuacan|tehuacan|\N|\N|179305|184828|\N
+130|MX|MEXICO|Mexico|Mexico|t|286435|Tepeaca|tepeaca|\N|\N|179305|185182|\N
+130|MX|MEXICO|Mexico|Mexico|t|286436|Teziutlan|teziutlan|\N|\N|179305|185491|\N
+130|MX|MEXICO|Mexico|Mexico|t|286437|Xicotepec|xicotepec|\N|\N|179305|186430|\N
+130|MX|MEXICO|Mexico|Mexico|t|286438|Zacatlán|zacatlan|\N|\N|179305|186806|\N
+130|MX|MEXICO|Mexico|Mexico|t|286439|El Pueblito|el-pueblito|\N|\N|187255|188246|\N
+130|MX|MEXICO|Mexico|Mexico|t|286440|Querétaro|queretaro|\N|\N|187255|189784|\N
+130|MX|MEXICO|Mexico|Mexico|t|286441|San Juan del Rio|san-juan-del-rio|\N|\N|187255|190166|\N
+130|MX|MEXICO|Mexico|Mexico|t|286442|Bacalar|bacalar|\N|\N|190758|193818|\N
+130|MX|MEXICO|Mexico|Mexico|t|286443|Cancún|cancun|\N|\N|190758|192502|\N
+130|MX|MEXICO|Mexico|Mexico|t|286444|Cozumel|cozumel|\N|\N|190758|190759|\N
+130|MX|MEXICO|Mexico|Mexico|t|286445|Felipe Carrillo Puerto|felipe-carrillo-puerto|\N|\N|190758|190953|\N
+130|MX|MEXICO|Mexico|Mexico|t|286446|Isla Mujeres|isla-mujeres|\N|\N|190758|191284|\N
+130|MX|MEXICO|Mexico|Mexico|t|286447|Kantunilkín|kantunilkin|\N|\N|190758|193059|\N
+130|MX|MEXICO|Mexico|Mexico|t|286448|Chetumal|chetumal|\N|\N|190758|191462|\N
+130|MX|MEXICO|Mexico|Mexico|t|286449|Playa del Carmen|playa-del-carmen|\N|\N|190758|193235|\N
+130|MX|MEXICO|Mexico|Mexico|t|286450|Cárdenas|cardenas|\N|\N|194533|194984|\N
+130|MX|MEXICO|Mexico|Mexico|t|286451|Cedral|cedral|\N|\N|194533|195205|\N
+130|MX|MEXICO|Mexico|Mexico|t|286452|Cerritos|cerritos|\N|\N|194533|195333|\N
+130|MX|MEXICO|Mexico|Mexico|t|286453|Charcas|charcas|\N|\N|194533|196687|\N
+130|MX|MEXICO|Mexico|Mexico|t|286454|Ciudad del Maíz|ciudad-del-maiz|\N|\N|194533|195426|\N
+130|MX|MEXICO|Mexico|Mexico|t|286455|Fracción el Refugio|fraccion-el-refugio|\N|\N|194533|195572|\N
+130|MX|MEXICO|Mexico|Mexico|t|286456|Ciudad Valles|ciudad-valles|\N|\N|194533|195922|\N
+130|MX|MEXICO|Mexico|Mexico|t|286457|Ébano|ebano|\N|\N|194533|196907|\N
+130|MX|MEXICO|Mexico|Mexico|t|286458|El Naranjo|el-naranjo|\N|\N|194533|203476|\N
+130|MX|MEXICO|Mexico|Mexico|t|286459|Matehuala|matehuala|\N|\N|194533|197358|\N
+130|MX|MEXICO|Mexico|Mexico|t|286460|Rioverde|rioverde|\N|\N|194533|197952|\N
+130|MX|MEXICO|Mexico|Mexico|t|286461|Salinas de Hidalgo|salinas-de-hidalgo|\N|\N|194533|198329|\N
+130|MX|MEXICO|Mexico|Mexico|t|286462|San Luis Potosí|san-luis-potosi|\N|\N|194533|198626|\N
+130|MX|MEXICO|Mexico|Mexico|t|286463|Santa María del Río|santa-maria-del-rio|\N|\N|194533|199306|\N
+130|MX|MEXICO|Mexico|Mexico|t|286464|Soledad de Graciano Sánchez|soledad-de-graciano-sanchez|\N|\N|194533|199958|\N
+130|MX|MEXICO|Mexico|Mexico|t|286465|Tamasopo|tamasopo|\N|\N|194533|200161|\N
+130|MX|MEXICO|Mexico|Mexico|t|286466|Tamazunchale|tamazunchale|\N|\N|194533|200382|\N
+130|MX|MEXICO|Mexico|Mexico|t|286467|Tamuin|tamuin|\N|\N|194533|200928|\N
+130|MX|MEXICO|Mexico|Mexico|t|286468|Tierra Nueva|tierra-nueva|\N|\N|194533|201652|\N
+130|MX|MEXICO|Mexico|Mexico|t|286469|Villa de Reyes|villa-de-reyes|\N|\N|194533|202413|\N
+130|MX|MEXICO|Mexico|Mexico|t|286470|Los Mochis|los-mochis|\N|\N|203611|203612|\N
+130|MX|MEXICO|Mexico|Mexico|t|286471|Ahome|ahome|\N|\N|203611|203612|\N
+130|MX|MEXICO|Mexico|Mexico|t|286472|Higuera de Zaragoza|higuera-de-zaragoza|\N|\N|203611|203612|\N
+130|MX|MEXICO|Mexico|Mexico|t|286473|Topolobampo|topolobampo|\N|\N|203611|203612|\N
+130|MX|MEXICO|Mexico|Mexico|t|286474|Angostura|angostura|\N|\N|203611|204153|\N
+130|MX|MEXICO|Mexico|Mexico|t|286475|Choix|choix|\N|\N|203611|206620|\N
+130|MX|MEXICO|Mexico|Mexico|t|286476|Cosalá|cosala|\N|\N|203611|205132|\N
+130|MX|MEXICO|Mexico|Mexico|t|286477|Culiacán Rosales|culiacan-rosales|\N|\N|203611|205286|\N
+130|MX|MEXICO|Mexico|Mexico|t|286478|Aguaruto|aguaruto|\N|\N|203611|205286|\N
+130|MX|MEXICO|Mexico|Mexico|t|286479|Quila|quila|\N|\N|203611|205286|\N
+130|MX|MEXICO|Mexico|Mexico|t|286480|La Cruz|la-cruz|\N|\N|203611|207014|\N
+130|MX|MEXICO|Mexico|Mexico|t|286481|Escuinapa de Hidalgo|escuinapa-de-hidalgo|\N|\N|203611|207193|\N
+130|MX|MEXICO|Mexico|Mexico|t|286482|Guasave|guasave|\N|\N|203611|207912|\N
+130|MX|MEXICO|Mexico|Mexico|t|286483|Mazatlán|mazatlan|\N|\N|203611|208573|\N
+130|MX|MEXICO|Mexico|Mexico|t|286484|Villa Unión|villa-union|\N|\N|203611|208573|\N
+130|MX|MEXICO|Mexico|Mexico|t|286485|Mocorito|mocorito|\N|\N|203611|209172|\N
+130|MX|MEXICO|Mexico|Mexico|t|286486|Navolato|navolato|\N|\N|203611|211135|\N
+130|MX|MEXICO|Mexico|Mexico|t|286487|Lic. Benito Juárez (Campo Gobierno)|lic-benito-juarez-campo-gobierno|\N|\N|203611|211135|\N
+130|MX|MEXICO|Mexico|Mexico|t|286488|El rosario|el-rosario-22a06ef6-215c-41e0-a755-12f0a63ec830|\N|\N|203611|209552|\N
+130|MX|MEXICO|Mexico|Mexico|t|286489|Guamúchil|guamuchil|\N|\N|203611|209952|\N
+130|MX|MEXICO|Mexico|Mexico|t|286490|Sinaloa de Leyva|sinaloa-de-leyva|\N|\N|203611|210475|\N
+130|MX|MEXICO|Mexico|Mexico|t|286491|Estación Naranjo|estacion-naranjo|\N|\N|203611|210475|\N
+130|MX|MEXICO|Mexico|Mexico|t|286492|Agua Prieta|agua-prieta|\N|\N|211609|211637|\N
+130|MX|MEXICO|Mexico|Mexico|t|286493|Heroica Caborca|heroica-caborca|\N|\N|211609|214026|\N
+130|MX|MEXICO|Mexico|Mexico|t|286494|Ciudad Obregón|ciudad-obregon|\N|\N|211609|214608|\N
+130|MX|MEXICO|Mexico|Mexico|t|286495|Heroica Ciudad de Cananea|heroica-ciudad-de-cananea|\N|\N|211609|216274|\N
+130|MX|MEXICO|Mexico|Mexico|t|286496|Empalme|empalme|\N|\N|211609|217158|\N
+130|MX|MEXICO|Mexico|Mexico|t|286497|Sonoita|sonoita|\N|\N|211609|226756|\N
+130|MX|MEXICO|Mexico|Mexico|t|286498|Heroica Guaymas|heroica-guaymas|\N|\N|211609|217867|\N
+130|MX|MEXICO|Mexico|Mexico|t|286499|Hermosillo|hermosillo|\N|\N|211609|218440|\N
+130|MX|MEXICO|Mexico|Mexico|t|286500|Huatabampo|huatabampo|\N|\N|211609|219925|\N
+130|MX|MEXICO|Mexico|Mexico|t|286501|Magdalena de Kino|magdalena-de-kino|\N|\N|211609|220428|\N
+130|MX|MEXICO|Mexico|Mexico|t|286502|Navojoa|navojoa|\N|\N|211609|221428|\N
+130|MX|MEXICO|Mexico|Mexico|t|286503|Heroica Nogales|heroica-nogales|\N|\N|211609|221943|\N
+130|MX|MEXICO|Mexico|Mexico|t|286504|Puerto Peñasco|puerto-penasco|\N|\N|211609|222779|\N
+130|MX|MEXICO|Mexico|Mexico|t|286505|San Luis Río Colorado|san-luis-rio-colorado|\N|\N|211609|223917|\N
+130|MX|MEXICO|Mexico|Mexico|t|286506|Villahermosa|villahermosa|\N|\N|227404|228174|\N
+130|MX|MEXICO|Mexico|Mexico|t|286507|Comalcalco|comalcalco|\N|\N|227404|228386|\N
+130|MX|MEXICO|Mexico|Mexico|t|286508|Cunduacán|cunduacan|\N|\N|227404|228505|\N
+130|MX|MEXICO|Mexico|Mexico|t|286509|Emiliano Zapata|emiliano-zapata|\N|\N|227404|228621|\N
+130|MX|MEXICO|Mexico|Mexico|t|286510|Huimanguillo|huimanguillo|\N|\N|227404|228708|\N
+130|MX|MEXICO|Mexico|Mexico|t|286511|Jalpa de Méndez|jalpa-de-mendez|\N|\N|227404|229122|\N
+130|MX|MEXICO|Mexico|Mexico|t|286512|Macuspana|macuspana|\N|\N|227404|229358|\N
+130|MX|MEXICO|Mexico|Mexico|t|286513|Paraíso|paraiso|\N|\N|227404|229655|\N
+130|MX|MEXICO|Mexico|Mexico|t|286514|Teapa|teapa|\N|\N|227404|229794|\N
+130|MX|MEXICO|Mexico|Mexico|t|286515|Tenosique de Pino Suárez|tenosique-de-pino-suarez|\N|\N|227404|229852|\N
+130|MX|MEXICO|Mexico|Mexico|t|286516|Altamira|altamira|\N|\N|229991|230874|\N
+130|MX|MEXICO|Mexico|Mexico|t|286517|Ciudad Camargo|ciudad-camargo|\N|\N|229991|231758|\N
+130|MX|MEXICO|Mexico|Mexico|t|286518|Ciudad Madero|ciudad-madero|\N|\N|229991|232417|\N
+130|MX|MEXICO|Mexico|Mexico|t|286519|Ciudad Mante|ciudad-mante|\N|\N|229991|235169|\N
+130|MX|MEXICO|Mexico|Mexico|t|286520|González|gonzalez|\N|\N|229991|232755|\N
+130|MX|MEXICO|Mexico|Mexico|t|286521|Estación Manuel (Úrsulo Galván)|estacion-manuel-ursulo-galvan|\N|\N|229991|232755|\N
+130|MX|MEXICO|Mexico|Mexico|t|286522|Nueva Ciudad Guerrero|nueva-ciudad-guerrero|\N|\N|229991|233682|\N
+130|MX|MEXICO|Mexico|Mexico|t|286523|Ciudad Gustavo Díaz Ordaz|ciudad-gustavo-diaz-ordaz|\N|\N|229991|233949|\N
+130|MX|MEXICO|Mexico|Mexico|t|286524|Jaumave|jaumave|\N|\N|229991|234425|\N
+130|MX|MEXICO|Mexico|Mexico|t|286525|Heroica Matamoros|heroica-matamoros|\N|\N|229991|235572|\N
+130|MX|MEXICO|Mexico|Mexico|t|286526|Ciudad Miguel Alemán|ciudad-miguel-aleman|\N|\N|229991|237137|\N
+130|MX|MEXICO|Mexico|Mexico|t|286527|Nuevo Laredo|nuevo-laredo|\N|\N|229991|237302|\N
+130|MX|MEXICO|Mexico|Mexico|t|286528|Reynosa|reynosa|\N|\N|229991|238042|\N
+130|MX|MEXICO|Mexico|Mexico|t|286529|Ciudad Río Bravo|ciudad-rio-bravo|\N|\N|229991|238753|\N
+130|MX|MEXICO|Mexico|Mexico|t|286530|San Fernando|san-fernando|\N|\N|229991|239681|\N
+130|MX|MEXICO|Mexico|Mexico|t|286531|Soto la Marina|soto-la-marina|\N|\N|229991|240434|\N
+130|MX|MEXICO|Mexico|Mexico|t|286532|Tampico|tampico|\N|\N|229991|241163|\N
+130|MX|MEXICO|Mexico|Mexico|t|286533|Ciudad Tula|ciudad-tula|\N|\N|229991|241171|\N
+130|MX|MEXICO|Mexico|Mexico|t|286534|Valle Hermoso|valle-hermoso|\N|\N|229991|241337|\N
+130|MX|MEXICO|Mexico|Mexico|t|286535|Ciudad Victoria|ciudad-victoria|\N|\N|229991|241687|\N
+130|MX|MEXICO|Mexico|Mexico|t|286536|Xicoténcatl|xicotencatl|\N|\N|229991|242443|\N
+130|MX|MEXICO|Mexico|Mexico|t|286537|Apizaco|apizaco|\N|\N|242707|242892|\N
+130|MX|MEXICO|Mexico|Mexico|t|286538|Calpulalpan|calpulalpan|\N|\N|242707|242922|\N
+130|MX|MEXICO|Mexico|Mexico|t|286539|Chiautempan|chiautempan|\N|\N|242707|243156|\N
+130|MX|MEXICO|Mexico|Mexico|t|286540|Huamantla|huamantla|\N|\N|242707|243255|\N
+130|MX|MEXICO|Mexico|Mexico|t|286541|Villa Vicente Guerrero|villa-vicente-guerrero|\N|\N|242707|243833|\N
+130|MX|MEXICO|Mexico|Mexico|t|286542|Tlaxcala (Tlaxcala de Xicotencatl)|tlaxcala-tlaxcala-de-xicotencatl|\N|\N|242707|244112|\N
+130|MX|MEXICO|Mexico|Mexico|t|286543|Acayucan|acayucan|\N|\N|244709|244779|\N
+130|MX|MEXICO|Mexico|Mexico|t|286544|Agua dulce|agua-dulce|\N|\N|244709|269089|\N
+130|MX|MEXICO|Mexico|Mexico|t|286545|Altotonga|altotonga|\N|\N|244709|245846|\N
+130|MX|MEXICO|Mexico|Mexico|t|286546|Alvarado|alvarado|\N|\N|244709|245953|\N
+130|MX|MEXICO|Mexico|Mexico|t|286547|Paraje Nuevo|paraje-nuevo|\N|\N|244709|246419|\N
+130|MX|MEXICO|Mexico|Mexico|t|286548|Ángel R. Cabada|angel-r-cabada|\N|\N|244709|246509|\N
+130|MX|MEXICO|Mexico|Mexico|t|286549|Atoyac|atoyac|\N|\N|244709|246895|\N
+130|MX|MEXICO|Mexico|Mexico|t|286550|General Miguel Alemán (Potrero Nuevo)|general-miguel-aleman-potrero-nuevo|\N|\N|244709|246895|\N
+130|MX|MEXICO|Mexico|Mexico|t|286551|Banderilla|banderilla|\N|\N|244709|247298|\N
+130|MX|MEXICO|Mexico|Mexico|t|286552|Boca del RÍo|boca-del-rio|\N|\N|244709|247419|\N
+130|MX|MEXICO|Mexico|Mexico|t|286553|Carlos A. Carrillo|carlos-a-carrillo|\N|\N|244709|269703|\N
+130|MX|MEXICO|Mexico|Mexico|t|286554|Catemaco|catemaco|\N|\N|244709|247586|\N
+130|MX|MEXICO|Mexico|Mexico|t|286555|Cazones de Herrera|cazones-de-herrera|\N|\N|244709|247961|\N
+130|MX|MEXICO|Mexico|Mexico|t|286556|Cerro Azul|cerro-azul|\N|\N|244709|248050|\N
+130|MX|MEXICO|Mexico|Mexico|t|286557|Coatepec|coatepec|\N|\N|244709|248198|\N
+130|MX|MEXICO|Mexico|Mexico|t|286558|Coatzacoalcos|coatzacoalcos|\N|\N|244709|248360|\N
+130|MX|MEXICO|Mexico|Mexico|t|286559|Coatzintla|coatzintla|\N|\N|244709|248456|\N
+130|MX|MEXICO|Mexico|Mexico|t|286560|Córdoba|cordoba|\N|\N|244709|248770|\N
+130|MX|MEXICO|Mexico|Mexico|t|286561|Cosamaloapan|cosamaloapan|\N|\N|244709|248887|\N
+130|MX|MEXICO|Mexico|Mexico|t|286562|Cosoleacaque|cosoleacaque|\N|\N|244709|249132|\N
+130|MX|MEXICO|Mexico|Mexico|t|286563|Cuitláhuac|cuitlahuac|\N|\N|244709|249633|\N
+130|MX|MEXICO|Mexico|Mexico|t|286564|El Higo|el-higo|\N|\N|244709|269187|\N
+130|MX|MEXICO|Mexico|Mexico|t|286565|Fortín de las Flores|fortin-de-las-flores|\N|\N|244709|251751|\N
+130|MX|MEXICO|Mexico|Mexico|t|286566|Gutiérrez Zamora|gutierrez-zamora|\N|\N|244709|251828|\N
+130|MX|MEXICO|Mexico|Mexico|t|286567|Huatusco de Chicuellar|huatusco-de-chicuellar|\N|\N|244709|252099|\N
+130|MX|MEXICO|Mexico|Mexico|t|286568|Huayacocotla|huayacocotla|\N|\N|244709|252177|\N
+130|MX|MEXICO|Mexico|Mexico|t|286569|Juan Díaz Covarrubias|juan-diaz-covarrubias|\N|\N|244709|252287|\N
+130|MX|MEXICO|Mexico|Mexico|t|286570|Huiloapan de Cuauhtémoc|huiloapan-de-cuauhtemoc|\N|\N|244709|252436|\N
+130|MX|MEXICO|Mexico|Mexico|t|286571|Isla|isla|\N|\N|244709|252532|\N
+130|MX|MEXICO|Mexico|Mexico|t|286572|Ixtaczoquitlán|ixtaczoquitlan|\N|\N|244709|253462|\N
+130|MX|MEXICO|Mexico|Mexico|t|286573|Jáltipan de Morelos|jaltipan-de-morelos|\N|\N|244709|253668|\N
+130|MX|MEXICO|Mexico|Mexico|t|286574|Juan Rodríguez Clara|juan-rodriguez-clara|\N|\N|244709|254387|\N
+130|MX|MEXICO|Mexico|Mexico|t|286575|José Cardel|jose-cardel|\N|\N|244709|246733|\N
+130|MX|MEXICO|Mexico|Mexico|t|286576|Las Choapas|las-choapas|\N|\N|244709|250605|\N
+130|MX|MEXICO|Mexico|Mexico|t|286577|Lerdo de Tejada|lerdo-de-tejada|\N|\N|244709|254768|\N
+130|MX|MEXICO|Mexico|Mexico|t|286578|Minatitlán|minatitlan|\N|\N|244709|255597|\N
+130|MX|MEXICO|Mexico|Mexico|t|286579|Cuichapa|cuichapa|\N|\N|244709|256199|\N
+130|MX|MEXICO|Mexico|Mexico|t|286580|Naranjos|naranjos|\N|\N|244709|246300|\N
+130|MX|MEXICO|Mexico|Mexico|t|286581|Nogales|nogales|\N|\N|244709|256601|\N
+130|MX|MEXICO|Mexico|Mexico|t|286582|Orizaba|orizaba|\N|\N|244709|256789|\N
+130|MX|MEXICO|Mexico|Mexico|t|286583|Pánuco|panuco|\N|\N|244709|257846|\N
+130|MX|MEXICO|Mexico|Mexico|t|286584|Papantla de Olarte|papantla-de-olarte|\N|\N|244709|258728|\N
+130|MX|MEXICO|Mexico|Mexico|t|286585|Paso de Ovejas|paso-de-ovejas|\N|\N|244709|259295|\N
+130|MX|MEXICO|Mexico|Mexico|t|286586|Paso del Macho|paso-del-macho|\N|\N|244709|259137|\N
+130|MX|MEXICO|Mexico|Mexico|t|286587|Platón Sánchez|platon-sanchez|\N|\N|244709|259611|\N
+130|MX|MEXICO|Mexico|Mexico|t|286588|Playa Vicente|playa-vicente|\N|\N|244709|259777|\N
+130|MX|MEXICO|Mexico|Mexico|t|286589|Poza Rica de Hidalgo|poza-rica-de-hidalgo|\N|\N|244709|260099|\N
+130|MX|MEXICO|Mexico|Mexico|t|286590|Río Blanco|rio-blanco|\N|\N|244709|260506|\N
+130|MX|MEXICO|Mexico|Mexico|t|286591|San Andrés Tuxtla|san-andres-tuxtla|\N|\N|244709|260565|\N
+130|MX|MEXICO|Mexico|Mexico|t|286592|Sihuapan|sihuapan|\N|\N|244709|260565|\N
+130|MX|MEXICO|Mexico|Mexico|t|286593|San Rafael|san-rafael|\N|\N|244709|270045|\N
+130|MX|MEXICO|Mexico|Mexico|t|286594|Santiago Tuxtla|santiago-tuxtla|\N|\N|244709|261138|\N
+130|MX|MEXICO|Mexico|Mexico|t|286595|Soledad de Doblado|soledad-de-doblado|\N|\N|244709|261859|\N
+130|MX|MEXICO|Mexico|Mexico|t|286596|Tampico Alto|tampico-alto|\N|\N|244709|262531|\N
+130|MX|MEXICO|Mexico|Mexico|t|286597|Tantoyuca|tantoyuca|\N|\N|244709|263046|\N
+130|MX|MEXICO|Mexico|Mexico|t|286598|Tempoal de Sánchez|tempoal-de-sanchez|\N|\N|244709|264478|\N
+130|MX|MEXICO|Mexico|Mexico|t|286599|Tezonapa|tezonapa|\N|\N|244709|265686|\N
+130|MX|MEXICO|Mexico|Mexico|t|286600|Tierra Blanca|tierra-blanca|\N|\N|244709|265837|\N
+130|MX|MEXICO|Mexico|Mexico|t|286601|Tihuatlán|tihuatlan|\N|\N|244709|266305|\N
+130|MX|MEXICO|Mexico|Mexico|t|286602|Tlacojalpan|tlacojalpan|\N|\N|244709|266727|\N
+130|MX|MEXICO|Mexico|Mexico|t|286603|Tlapacoyan|tlapacoyan|\N|\N|244709|267414|\N
+130|MX|MEXICO|Mexico|Mexico|t|286604|Tres Valles|tres-valles|\N|\N|244709|269371|\N
+130|MX|MEXICO|Mexico|Mexico|t|286605|Túxpam de Rodríguez Cano|tuxpam-de-rodriguez-cano|\N|\N|244709|267634|\N
+130|MX|MEXICO|Mexico|Mexico|t|286606|Veracruz|veracruz|\N|\N|244709|268390|\N
+130|MX|MEXICO|Mexico|Mexico|t|286607|Xalapa-Enríquez|xalapa-enriquez|\N|\N|244709|253583|\N
+130|MX|MEXICO|Mexico|Mexico|t|286608|Yecuatla|yecuatla|\N|\N|244709|268590|\N
+130|MX|MEXICO|Mexico|Mexico|t|286609|Kanasín|kanasin|\N|\N|270287|272819|\N
+130|MX|MEXICO|Mexico|Mexico|t|286610|Mérida|merida|\N|\N|270287|273303|\N
+130|MX|MEXICO|Mexico|Mexico|t|286611|Motul de Carrillo Puerto|motul-de-carrillo-puerto|\N|\N|270287|273720|\N
+130|MX|MEXICO|Mexico|Mexico|t|286612|Ticul|ticul|\N|\N|270287|276359|\N
+130|MX|MEXICO|Mexico|Mexico|t|286613|Tizimín|tizimin|\N|\N|270287|276771|\N
+130|MX|MEXICO|Mexico|Mexico|t|286614|Valladolid|valladolid|\N|\N|270287|278129|\N
+130|MX|MEXICO|Mexico|Mexico|t|286615|Víctor Rosales|victor-rosales|\N|\N|278739|278928|\N
+130|MX|MEXICO|Mexico|Mexico|t|286616|Ciudad Cuauhtémoc|ciudad-cuauhtemoc|\N|\N|278739|279223|\N
+130|MX|MEXICO|Mexico|Mexico|t|286617|Fresnillo|fresnillo|\N|\N|278739|279384|\N
+130|MX|MEXICO|Mexico|Mexico|t|286618|Jalpa|jalpa|\N|\N|278739|280882|\N
+130|MX|MEXICO|Mexico|Mexico|t|286619|Jerez de García Salinas|jerez-de-garcia-salinas|\N|\N|278739|281095|\N
+130|MX|MEXICO|Mexico|Mexico|t|286620|Luis Moya|luis-moya|\N|\N|278739|281643|\N
+130|MX|MEXICO|Mexico|Mexico|t|286621|Moyahua de Estrada|moyahua-de-estrada|\N|\N|278739|282613|\N
+130|MX|MEXICO|Mexico|Mexico|t|286622|Nochistlán de Mejía|nochistlan-de-mejia|\N|\N|278739|282702|\N
+130|MX|MEXICO|Mexico|Mexico|t|286623|Ojocaliente|ojocaliente|\N|\N|278739|282963|\N
+130|MX|MEXICO|Mexico|Mexico|t|286624|Río Grande|rio-grande|\N|\N|278739|283667|\N
+130|MX|MEXICO|Mexico|Mexico|t|286625|Sombrerete|sombrerete|\N|\N|278739|283925|\N
+130|MX|MEXICO|Mexico|Mexico|t|286626|Valparaíso|valparaiso|\N|\N|278739|284653|\N
+130|MX|MEXICO|Mexico|Mexico|t|286627|Villa de Cos|villa-de-cos|\N|\N|278739|285049|\N
+130|MX|MEXICO|Mexico|Mexico|t|286628|Villanueva|villanueva|\N|\N|278739|285630|\N
+130|MX|MEXICO|Mexico|Mexico|t|286629|Zacatecas|zacatecas|\N|\N|278739|285805|\N
+130|MX|MEXICO|Mexico|Mexico|t|286630|Aculco|aculco|\N|\N|132909|133047|\N
+130|MX|MEXICO|Mexico|Mexico|t|286632|Peña de Bernal|pena-de-bernal|\N|\N|187255|188440|\N
+130|MX|MEXICO|Mexico|Mexico|t|286633|Valle de Bravo|valle-de-bravo|\N|\N|132909|137268|\N
+130|MX|MEXICO|Mexico|Mexico|t|286634|Tequisquiapan|tequisquiapan|\N|\N|187255|190460|\N
+130|MX|MEXICO|Mexico|Mexico|t|286635|Tequesquitengo|tequesquitengo|\N|\N|150301|150993|\N
+130|MX|MEXICO|Mexico|Mexico|t|286636|Malinalco|malinalco|\N|\N|132909|134868|134869
+130|MX|MEXICO|Mexico|Mexico|t|286637|Tepoztlán|tepoztlan|\N|\N|150301|151467|151468
+130|MX|MEXICO|Mexico|Mexico|t|286638|Puerto Escondido|puerto-escondido|\N|\N|165935|173368|173377
+130|MX|MEXICO|Mexico|Mexico|t|286640|Chacahua|chacahua|\N|\N|165935|176266|\N
+130|MX|MEXICO|Mexico|Mexico|t|286641|San José de Manialtepec|san-jose-de-manialtepec|\N|\N|165935|173957|\N
+130|MX|MEXICO|Mexico|Mexico|t|286642|San Juan Teotihuacan |san-juan-teotihuacan|\N|\N|132909|136451|136458
+130|MX|MEXICO|Mexico|Mexico|t|286643|Tolantongo|tolantongo|\N|\N|109086|109877|\N
+130|MX|MEXICO|Mexico|Mexico|t|286644|Cacahuamilpa|cacahuamilpa|\N|\N|99535|105478|\N
+130|MX|MEXICO|Mexico|Mexico|t|286645|Tenancingo de Degollado|tenancingo-de-degollado|\N|\N|132909|136303|\N
+130|MX|MEXICO|Mexico|Mexico|t|286646|El Fuerte|el-fuerte|\N|\N|203611|\N|\N
+130|MX|MEXICO|Mexico|Mexico|t|286647|San Carlos|san-carlos|\N|\N|211609|217867|\N
+130|MX|MEXICO|Mexico|Mexico|t|286648|Cempoala|cempoala|\N|\N|244709|268147|\N
+130|MX|MEXICO|Mexico|Mexico|t|286649|Xochimilco|xochimilco|\N|\N|78563|79131|79132
+130|MX|MEXICO|Mexico|Mexico|t|286650|Villa de Corona|villa-de-corona|\N|\N|114463|131294|131295
+130|MX|MEXICO|Mexico|Mexico|t|286651|Xilitla|xilitla|\N|\N|194533|202864|202865
+130|MX|MEXICO|Mexico|Mexico|t|286652|Tulum|tulum|\N|\N|190758|193497|193498
+130|MX|MEXICO|Mexico|Mexico|t|286653|Holbox|holbox|\N|\N|190758|193059|193069
+130|MX|MEXICO|Mexico|Mexico|t|286654|Creel|creel|\N|\N|60202|62712|62733
+130|MX|MEXICO|Mexico|Mexico|t|286655|Mexiquillo|mexiquillo|\N|\N|79238|84711|\N
+130|MX|MEXICO|Mexico|Mexico|t|286656|Mapimí|mapimi|\N|\N|79238|82684|\N
+130|MX|MEXICO|Mexico|Mexico|t|286657|Cuetzalan|cuetzalan|\N|\N|179305|180596|\N
+130|MX|MEXICO|Mexico|Mexico|t|286658|Chautla|chautla|\N|\N|179305|184411|\N
+130|MX|MEXICO|Mexico|Mexico|t|286659|Tasquillo|tasquillo|\N|\N|109086|112855|\N
+130|MX|MEXICO|Mexico|Mexico|t|286660|San Juan Chamula|san-juan-chamula|\N|\N|38799|42990|\N
+130|MX|MEXICO|Mexico|Mexico|t|286661|Tlacotalpan|tlacotalpan|\N|\N|244709|266798|266799
+130|MX|MEXICO|Mexico|Mexico|t|286662|Jalcomulco|jalcomulco|\N|\N|244709|253652|\N
+130|MX|MEXICO|Mexico|Mexico|t|286663|Chichen Itza|chichen-itza|\N|\N|270287|\N|\N
+130|MX|MEXICO|Mexico|Mexico|t|286664|Cobá|coba|\N|\N|190758|\N|\N
+130|MX|MEXICO|Mexico|Mexico|t|286665|Mahahual|mahahual|\N|\N|190758|191462|\N
+130|MX|MEXICO|Mexico|Mexico|t|286666|Progreso|progreso|\N|\N|270287|274455|\N
+130|MX|MEXICO|Mexico|Mexico|t|286667|Xcalak|xcalak|\N|\N|190758|191462|\N
+130|MX|MEXICO|Mexico|Mexico|t|286668|Xpu Há|xpu-ha|\N|\N|190758|193235|\N
+130|MX|MEXICO|Mexico|Mexico|t|286669|San Sebastián|san-sebastian|\N|\N|114463|126146|126147
+130|MX|MEXICO|Mexico|Mexico|t|286670|Talpa de Allende|talpa-de-allende-53290a00-3fdd-452b-a1ad-885b9846df33|\N|\N|114463|126648|\N
+130|MX|MEXICO|Mexico|Mexico|t|286671|Sayulita|sayulita|\N|\N|152239|156100|156153
+130|MX|MEXICO|Mexico|Mexico|t|286672|San Pancho|san-pancho|\N|\N|152239|156100|\N
+130|MX|MEXICO|Mexico|Mexico|t|286673|Cocoyoc|cocoyoc|\N|\N|150301|150663|\N
+130|MX|MEXICO|Mexico|Mexico|t|286674|Nuevo Vallarta|nuevo-vallarta|\N|\N|114463|\N|\N
+130|MX|MEXICO|Mexico|Mexico|t|286675|Antigua|antigua|\N|\N|244709|\N|\N
+130|MX|MEXICO|Mexico|Mexico|t|286676|Puerto Aventuras|puerto-aventuras|\N|\N|190758|193235|\N
+130|MX|MEXICO|Mexico|Mexico|t|286677|Calakmul|calakmul|\N|\N|22134|25029|\N

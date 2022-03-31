@@ -235,9 +235,9 @@ class Software:
         # Personal output
         if key_country not in self.output:
             self.output[key_country] = []
-            self.output[key_country].append(country_info+city_info)
+            self.output[key_country].append(country_info+"|"+city_info)
         else:
-            self.output[key_country].append(country_info+city_info)
+            self.output[key_country].append(country_info+"|"+city_info)
 
         if key_country not in self.specifed_mauricio_output:
             self.specifed_mauricio_output[key_country] = []

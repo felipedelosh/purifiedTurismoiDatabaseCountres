@@ -1,142 +1,142 @@
-188|ES|ESPANA|España|España|t8180|Almería|almeria|37.1035|-2.3024|1|2|\N
-188|ES|ESPANA|España|España|t8181|Cádiz|cadiz|36.527|-6.2884|1|105|\N
-188|ES|ESPANA|España|España|t8182|Córdoba|cordoba|37.8882|-4.7794|1|150|\N
-188|ES|ESPANA|España|España|t8183|Granada|granada|37.1773|-3.5985|1|226|\N
-188|ES|ESPANA|España|España|t8184|Huelva|huelva|37.2614|-6.9447|1|395|\N
-188|ES|ESPANA|España|España|t8185|Jaén|jaen|37.7795|-3.7849|1|475|\N
-188|ES|ESPANA|España|España|t8186|Málaga|malaga|36.7212|-4.4213|1|573|\N
-188|ES|ESPANA|España|España|t8187|Sevilla|sevilla|37.389|-5.9844|1|674|\N
-188|ES|ESPANA|España|España|t8188|Huesca|huesca|42.1318|-0.4078|780|781|\N
-188|ES|ESPANA|España|España|t8189|Teruel|teruel|40.3456|-1.1064|780|984|\N
-188|ES|ESPANA|España|España|t8190|Zaragoza|zaragoza|41.6488|-0.8897|780|1221|\N
-188|ES|ESPANA|España|España|t8192|Santander|santander|43.4623|-3.8099|1686|1687|\N
-188|ES|ESPANA|España|España|t8193|Ávila|avila|40.6421|-4.6657|2715|2716|\N
-188|ES|ESPANA|España|España|t8194|Albacete|albacete|38.9944|-1.8585|1790|1791|\N
-188|ES|ESPANA|España|España|t8195|Ciudad Real|ciudad-real|38.9831|-3.9671|1790|1879|\N
-188|ES|ESPANA|España|España|t8196|Cuenca|cuenca|40.0703|-2.1374|1790|1982|\N
-188|ES|ESPANA|España|España|t8197|Guadalajara|guadalajara|40.6324|-3.1601|1790|2221|\N
-188|ES|ESPANA|España|España|t8198|Toledo|toledo|39.8628|-4.0273|1790|2510|\N
-188|ES|ESPANA|España|España|t8199|Burgos|burgos|42.3439|-3.6969|2715|2965|\N
-188|ES|ESPANA|España|España|t8200|León|leon|42.5987|-5.567|2715|3337|\N
-188|ES|ESPANA|España|España|t8201|Palencia|palencia|42.0096|-4.5288|2715|3549|\N
-188|ES|ESPANA|España|España|t8202|Salamanca|salamanca|40.9701|-5.6635|2715|3741|\N
-188|ES|ESPANA|España|España|t8203|Soria|soria|41.7665|-2.479|2715|4314|\N
-188|ES|ESPANA|España|España|t8204|Valladolid|valladolid|41.6522|-4.7245|2715|4498|\N
-188|ES|ESPANA|España|España|t8205|Segovia|segovia|40.9429|-4.1088|2715|4104|\N
-188|ES|ESPANA|España|España|t8206|Barcelona|barcelona|41.385|2.1734|4973|4974|\N
-188|ES|ESPANA|España|España|t8208|Gerona|gerona|42.0407|2.9375|4973|5286|\N
-188|ES|ESPANA|España|España|t8210|Lérida|lerida|41.6175|0.62|4973|5508|\N
-188|ES|ESPANA|España|España|t8211|Tarragona|tarragona|41.1188|1.2444|4973|5740|\N
-188|ES|ESPANA|España|España|t8213|Ceuta|ceuta|35.8893|-5.3213|8178|8212|\N
-188|ES|ESPANA|España|España|t8219|Badajoz|badajoz|38.8794|-6.9706|5924|5925|\N
-188|ES|ESPANA|España|España|t8220|Cáceres|caceres|39.4752|-6.3722|5924|6090|\N
-188|ES|ESPANA|España|España|t8221|La Coruña|la-coruna|43.3623|-8.4115|6310|6311|\N
-188|ES|ESPANA|España|España|t8222|Lugo|lugo|43.0097|-7.5567|6310|6406|\N
-188|ES|ESPANA|España|España|t8223|Orense|orense|42.3357|-7.8638|6310|6474|\N
-188|ES|ESPANA|España|España|t8224|Pontevedra|pontevedra|42.4298|-8.6446|6310|6567|\N
-188|ES|ESPANA|España|España|t8226|Palma de Mallorca|palma-de-mallorca|39.5696|2.6501|6630|6631|\N
-188|ES|ESPANA|España|España|t8233|Logroño|la-rioja|42.4653|-2.4801|6699|6700|\N
-188|ES|ESPANA|España|España|t8234|Madrid|madrid|40.4167|-3.7037|6875|6876|\N
-188|ES|ESPANA|España|España|t8236|Melilla|melilla|35.2922|-2.938|8179|8235|\N
-188|ES|ESPANA|España|España|t8237|Murcia|murcia|37.9922|-1.1306|7056|7057|\N
-188|ES|ESPANA|España|España|t8239|Pamplona|navarra|42.8125|-1.6457|7103|7104|\N
-188|ES|ESPANA|España|España|t8240|Vitoria|vitoria|42.8591|-2.6818|7377|7378|\N
-188|ES|ESPANA|España|España|t8242|San Sebastián|san-sebastian|43.3183|-1.9812|7377|7430|\N
-188|ES|ESPANA|España|España|t8245|Oviedo|oviedo|43.3619|-5.8493|1515|1516|\N
-188|ES|ESPANA|España|España|t8246|Valencia|valencia|39.4699|-0.3762|7632|7911|\N
-188|ES|ESPANA|España|España|t8294|Alicante|alicante|38.346|-0.4906|7632|7633|\N
-188|ES|ESPANA|España|España|t8295|Castellón de la Plana|castellon-de-la-plana|39.9863|-0.0513|7632|7775|\N
-188|ES|ESPANA|España|España|t8296|Las Palmas de Gran Canaria|las-palmas-de-gran-canaria|28.1235|-15.4362|1595|1596|\N
-188|ES|ESPANA|España|España|t8305|Bilbao|bilbao|43.263|-2.9349|7377|7519|\N
-188|ES|ESPANA|España|España|t8311|Zamora|zamora|41.5034|-5.7467|2715|4724|\N
-188|ES|ESPANA|España|España|t8312|Santa Cruz de Tenerife|santa-cruz-de-tenerife|28.4636|-16.2518|1595|1631|\N
-188|ES|ESPANA|España|España|t9403|Santiago de Compostela|santiago-de-compostela|\N|\N|6310|6311|\N
-188|ES|ESPANA|España|España|t9404|Vigo|vigo|\N|\N|6310|6567|\N
-188|ES|ESPANA|España|España|t9405|Gijón|gijon|\N|\N|1515|1516|\N
-188|ES|ESPANA|España|España|t9406|Avilés|aviles|\N|\N|1515|1516|\N
-188|ES|ESPANA|España|España|t9407|Llanes|llanes|\N|\N|1515|1516|\N
-188|ES|ESPANA|España|España|t9408|Sitges|sitges|\N|\N|4973|4974|\N
-188|ES|ESPANA|España|España|t9409|Lloret de Mar|lloret-de-mar|\N|\N|4973|5286|\N
-188|ES|ESPANA|España|España|t9410|Rosas|rosas|\N|\N|4973|5286|\N
-188|ES|ESPANA|España|España|t9411|Tossa de Mar|tossa-de-mar|\N|\N|4973|5286|\N
-188|ES|ESPANA|España|España|t9412|Salou|salou|\N|\N|4973|5740|\N
-188|ES|ESPANA|España|España|t9413|Cambrils|cambrils|\N|\N|4973|5740|\N
-188|ES|ESPANA|España|España|t9414|Calviá|calvia|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9415|Pollensa|pollensa|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9416|Alcudia|alcudia|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9417|Ciudadela|ciudadela|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9418|Sant Antoni de Portmany|sant-antoni-de-portmany|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9419|Santa Eulalia del Río|santa-eulalia-del-rio|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9420|Ibiza|ibiza|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9421|Menorca|menorca|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9422|Formentera|formentera|\N|\N|6630|6631|\N
-188|ES|ESPANA|España|España|t9423|Adeje|adeje|\N|\N|1595|1631|\N
-188|ES|ESPANA|España|España|t9424|Puerto de la Cruz|puerto-de-la-cruz|\N|\N|1595|1631|\N
-188|ES|ESPANA|España|España|t9425|La Palma|la-palma|\N|\N|1595|1631|\N
-188|ES|ESPANA|España|España|t9426|La Gomera|la-gomera|\N|\N|1595|1631|\N
-188|ES|ESPANA|España|España|t9427|Maspalomas|maspalomas|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9428|Fuerteventura|fuerteventura|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9429|Lanzarote|lanzarote|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9430|La Oliva|la-oliva|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9431|Puerto del Carmen|puerto-del-carmen|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9432|Playa Blanca|playa-blanca|\N|\N|1595|1596|\N
-188|ES|ESPANA|España|España|t9433|Benidorm|benidorm|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9434|Javea|javea|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9435|Denia|denia|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9436|Calpe|calpe|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9437|Torrevieja|torrevieja|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9438|Moraira|moraira|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9439|Altea|altea|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9440|Guardamar del Segura|guardamar-del-segura|\N|\N|7632|7633|\N
-188|ES|ESPANA|España|España|t9441|Peñíscola|peniscola|\N|\N|7632|7775|\N
-188|ES|ESPANA|España|España|t9442|Oliva|oliva|\N|\N|7632|7911|\N
-188|ES|ESPANA|España|España|t9443|Gandía|gandia|\N|\N|7632|7911|\N
-188|ES|ESPANA|España|España|t9444|Marbella|marbella|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9445|Nerja|nerja|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9446|Benalmádena|benalmadena|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9447|Estepona|estepona|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9448|Fuengirola|fuengirola|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9449|Torremolinos|torremolinos|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9450|Mijas|mijas|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9451|Puerto Banús|puerto-banus|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9452|Ronda|ronda|\N|\N|1|573|\N
-188|ES|ESPANA|España|España|t9453|Sanlúcar de Barrameda|sanlucar-de-barrameda|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9454|Conil de la Frontera|conil-de-la-frontera|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9455|Tarifa|tarifa|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9456|Jerez de la Frontera|jerez-de-la-frontera|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9457|Chiclana de la Frontera|chiclana-de-la-frontera|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9458|Chipiona|chipiona|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9459|El Puerto de Santa María|el-puerto-de-santa-maria|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9460|Algeciras|algeciras|\N|\N|1|105|\N
-188|ES|ESPANA|España|España|t9461|Mojácar|mojacar|\N|\N|1|2|\N
-188|ES|ESPANA|España|España|t9462|Vera|vera|\N|\N|1|2|\N
-188|ES|ESPANA|España|España|t9463|Roquetas de Mar|roquetas-de-mar|\N|\N|1|2|\N
-188|ES|ESPANA|España|España|t9464|Almuñécar|almunecar|\N|\N|1|226|\N
-188|ES|ESPANA|España|España|t9465|Motril|motril|\N|\N|1|226|\N
-188|ES|ESPANA|España|España|t9466|Ayamonte|ayamonte|\N|\N|1|395|\N
-188|ES|ESPANA|España|España|t9467|Matalascañas|matalascanas|\N|\N|1|395|\N
-188|ES|ESPANA|España|España|t9468|Punta Umbría|punta-umbria|\N|\N|1|395|\N
-188|ES|ESPANA|España|España|t9469|Isla Cristina|isla-cristina|\N|\N|1|395|\N
-188|ES|ESPANA|España|España|t9470|Islantilla|islantilla|\N|\N|1|395|\N
-188|ES|ESPANA|España|España|t9471|Mérida|merida|\N|\N|5924|5925|\N
-188|ES|ESPANA|España|España|t9472|Aranjuez|aranjuez|40.0333|-3.6166|6875|6876|6887
-188|ES|ESPANA|España|España|t9473|Villanueva de la Cañada|villanueva-de-la-canada|40.4467|-4.00495|6875|6876|7048
-188|ES|ESPANA|España|España|t9474|Ciudad Rodrigo|rodrigo|40.5969|-6.5225|2715|3741|\N
-188|ES|ESPANA|España|España|t9475|El Escorial|el-escorial|40.5847|-4.1269|6875|6876|\N
-188|ES|ESPANA|España|España|t9476|Ribadesella|ribadesella|43.4459|-5.0834|1515|1516|\N
-188|ES|ESPANA|España|España|t9478|Collado Villalba|collado-villalba|40.6333|-4.00833|6875|6876|\N
-188|ES|ESPANA|España|España|t9479|Cercedilla|cercedilla|40.7411|-4.05694|6875|6876|\N
-188|ES|ESPANA|España|España|t9480|Becerril de la Sierra|becerril-de-la-sierra|40.7075|-3.99277|6875|6876|\N
-188|ES|ESPANA|España|España|t9481|Navacerrada|navacerrada|40.7331|-4.02222|6875|6876|\N
-188|ES|ESPANA|España|España|t9482|Cartagena|cartagena|37.6|-0.981944|7056|7057|\N
-188|ES|ESPANA|España|España|t9483|Villacarrillo|villacarrillo|\N|\N|1|475|\N
-188|ES|ESPANA|España|España|t9484|Baeza|baeza|\N|\N|1|475|\N
-188|ES|ESPANA|España|España|t9485|Úbeda|ubeda|\N|\N|1|475|\N
-188|ES|ESPANA|España|España|t9486|Cazorla|cazorla|\N|\N|1|475|\N
-188|ES|ESPANA|España|España|t9487|Haro|haro|\N|\N|6699|6700|\N
-188|ES|ESPANA|España|España|t9488|Cambados|cambados|42.505|-8.80782|6310|6567|\N
-188|ES|ESPANA|España|España|t9489|Combarro|combarro|42.4319|-8.70649|6310|6567|\N
-188|ES|ESPANA|España|España|t9490|El Grove|el-grove|42.4785|-8.88778|6310|6567|\N
-188|ES|ESPANA|España|España|t9491|Finisterre|finisterre|42|-9|6310|6311|\N
-188|ES|ESPANA|España|España|t9492|Mugía|mugia|43|-9|6310|6311|\N
-188|ES|ESPANA|España|España|t9493|Muros|muros|42.7754|-9.05934|6310|6311|\N
+188|ES|ESPANA|España|España|t|8180|Almería|almeria|37.1035|-2.3024|1|2|\N
+188|ES|ESPANA|España|España|t|8181|Cádiz|cadiz|36.527|-6.2884|1|105|\N
+188|ES|ESPANA|España|España|t|8182|Córdoba|cordoba|37.8882|-4.7794|1|150|\N
+188|ES|ESPANA|España|España|t|8183|Granada|granada|37.1773|-3.5985|1|226|\N
+188|ES|ESPANA|España|España|t|8184|Huelva|huelva|37.2614|-6.9447|1|395|\N
+188|ES|ESPANA|España|España|t|8185|Jaén|jaen|37.7795|-3.7849|1|475|\N
+188|ES|ESPANA|España|España|t|8186|Málaga|malaga|36.7212|-4.4213|1|573|\N
+188|ES|ESPANA|España|España|t|8187|Sevilla|sevilla|37.389|-5.9844|1|674|\N
+188|ES|ESPANA|España|España|t|8188|Huesca|huesca|42.1318|-0.4078|780|781|\N
+188|ES|ESPANA|España|España|t|8189|Teruel|teruel|40.3456|-1.1064|780|984|\N
+188|ES|ESPANA|España|España|t|8190|Zaragoza|zaragoza|41.6488|-0.8897|780|1221|\N
+188|ES|ESPANA|España|España|t|8192|Santander|santander|43.4623|-3.8099|1686|1687|\N
+188|ES|ESPANA|España|España|t|8193|Ávila|avila|40.6421|-4.6657|2715|2716|\N
+188|ES|ESPANA|España|España|t|8194|Albacete|albacete|38.9944|-1.8585|1790|1791|\N
+188|ES|ESPANA|España|España|t|8195|Ciudad Real|ciudad-real|38.9831|-3.9671|1790|1879|\N
+188|ES|ESPANA|España|España|t|8196|Cuenca|cuenca|40.0703|-2.1374|1790|1982|\N
+188|ES|ESPANA|España|España|t|8197|Guadalajara|guadalajara|40.6324|-3.1601|1790|2221|\N
+188|ES|ESPANA|España|España|t|8198|Toledo|toledo|39.8628|-4.0273|1790|2510|\N
+188|ES|ESPANA|España|España|t|8199|Burgos|burgos|42.3439|-3.6969|2715|2965|\N
+188|ES|ESPANA|España|España|t|8200|León|leon|42.5987|-5.567|2715|3337|\N
+188|ES|ESPANA|España|España|t|8201|Palencia|palencia|42.0096|-4.5288|2715|3549|\N
+188|ES|ESPANA|España|España|t|8202|Salamanca|salamanca|40.9701|-5.6635|2715|3741|\N
+188|ES|ESPANA|España|España|t|8203|Soria|soria|41.7665|-2.479|2715|4314|\N
+188|ES|ESPANA|España|España|t|8204|Valladolid|valladolid|41.6522|-4.7245|2715|4498|\N
+188|ES|ESPANA|España|España|t|8205|Segovia|segovia|40.9429|-4.1088|2715|4104|\N
+188|ES|ESPANA|España|España|t|8206|Barcelona|barcelona|41.385|2.1734|4973|4974|\N
+188|ES|ESPANA|España|España|t|8208|Gerona|gerona|42.0407|2.9375|4973|5286|\N
+188|ES|ESPANA|España|España|t|8210|Lérida|lerida|41.6175|0.62|4973|5508|\N
+188|ES|ESPANA|España|España|t|8211|Tarragona|tarragona|41.1188|1.2444|4973|5740|\N
+188|ES|ESPANA|España|España|t|8213|Ceuta|ceuta|35.8893|-5.3213|8178|8212|\N
+188|ES|ESPANA|España|España|t|8219|Badajoz|badajoz|38.8794|-6.9706|5924|5925|\N
+188|ES|ESPANA|España|España|t|8220|Cáceres|caceres|39.4752|-6.3722|5924|6090|\N
+188|ES|ESPANA|España|España|t|8221|La Coruña|la-coruna|43.3623|-8.4115|6310|6311|\N
+188|ES|ESPANA|España|España|t|8222|Lugo|lugo|43.0097|-7.5567|6310|6406|\N
+188|ES|ESPANA|España|España|t|8223|Orense|orense|42.3357|-7.8638|6310|6474|\N
+188|ES|ESPANA|España|España|t|8224|Pontevedra|pontevedra|42.4298|-8.6446|6310|6567|\N
+188|ES|ESPANA|España|España|t|8226|Palma de Mallorca|palma-de-mallorca|39.5696|2.6501|6630|6631|\N
+188|ES|ESPANA|España|España|t|8233|Logroño|la-rioja|42.4653|-2.4801|6699|6700|\N
+188|ES|ESPANA|España|España|t|8234|Madrid|madrid|40.4167|-3.7037|6875|6876|\N
+188|ES|ESPANA|España|España|t|8236|Melilla|melilla|35.2922|-2.938|8179|8235|\N
+188|ES|ESPANA|España|España|t|8237|Murcia|murcia|37.9922|-1.1306|7056|7057|\N
+188|ES|ESPANA|España|España|t|8239|Pamplona|navarra|42.8125|-1.6457|7103|7104|\N
+188|ES|ESPANA|España|España|t|8240|Vitoria|vitoria|42.8591|-2.6818|7377|7378|\N
+188|ES|ESPANA|España|España|t|8242|San Sebastián|san-sebastian|43.3183|-1.9812|7377|7430|\N
+188|ES|ESPANA|España|España|t|8245|Oviedo|oviedo|43.3619|-5.8493|1515|1516|\N
+188|ES|ESPANA|España|España|t|8246|Valencia|valencia|39.4699|-0.3762|7632|7911|\N
+188|ES|ESPANA|España|España|t|8294|Alicante|alicante|38.346|-0.4906|7632|7633|\N
+188|ES|ESPANA|España|España|t|8295|Castellón de la Plana|castellon-de-la-plana|39.9863|-0.0513|7632|7775|\N
+188|ES|ESPANA|España|España|t|8296|Las Palmas de Gran Canaria|las-palmas-de-gran-canaria|28.1235|-15.4362|1595|1596|\N
+188|ES|ESPANA|España|España|t|8305|Bilbao|bilbao|43.263|-2.9349|7377|7519|\N
+188|ES|ESPANA|España|España|t|8311|Zamora|zamora|41.5034|-5.7467|2715|4724|\N
+188|ES|ESPANA|España|España|t|8312|Santa Cruz de Tenerife|santa-cruz-de-tenerife|28.4636|-16.2518|1595|1631|\N
+188|ES|ESPANA|España|España|t|9403|Santiago de Compostela|santiago-de-compostela|\N|\N|6310|6311|\N
+188|ES|ESPANA|España|España|t|9404|Vigo|vigo|\N|\N|6310|6567|\N
+188|ES|ESPANA|España|España|t|9405|Gijón|gijon|\N|\N|1515|1516|\N
+188|ES|ESPANA|España|España|t|9406|Avilés|aviles|\N|\N|1515|1516|\N
+188|ES|ESPANA|España|España|t|9407|Llanes|llanes|\N|\N|1515|1516|\N
+188|ES|ESPANA|España|España|t|9408|Sitges|sitges|\N|\N|4973|4974|\N
+188|ES|ESPANA|España|España|t|9409|Lloret de Mar|lloret-de-mar|\N|\N|4973|5286|\N
+188|ES|ESPANA|España|España|t|9410|Rosas|rosas|\N|\N|4973|5286|\N
+188|ES|ESPANA|España|España|t|9411|Tossa de Mar|tossa-de-mar|\N|\N|4973|5286|\N
+188|ES|ESPANA|España|España|t|9412|Salou|salou|\N|\N|4973|5740|\N
+188|ES|ESPANA|España|España|t|9413|Cambrils|cambrils|\N|\N|4973|5740|\N
+188|ES|ESPANA|España|España|t|9414|Calviá|calvia|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9415|Pollensa|pollensa|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9416|Alcudia|alcudia|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9417|Ciudadela|ciudadela|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9418|Sant Antoni de Portmany|sant-antoni-de-portmany|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9419|Santa Eulalia del Río|santa-eulalia-del-rio|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9420|Ibiza|ibiza|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9421|Menorca|menorca|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9422|Formentera|formentera|\N|\N|6630|6631|\N
+188|ES|ESPANA|España|España|t|9423|Adeje|adeje|\N|\N|1595|1631|\N
+188|ES|ESPANA|España|España|t|9424|Puerto de la Cruz|puerto-de-la-cruz|\N|\N|1595|1631|\N
+188|ES|ESPANA|España|España|t|9425|La Palma|la-palma|\N|\N|1595|1631|\N
+188|ES|ESPANA|España|España|t|9426|La Gomera|la-gomera|\N|\N|1595|1631|\N
+188|ES|ESPANA|España|España|t|9427|Maspalomas|maspalomas|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9428|Fuerteventura|fuerteventura|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9429|Lanzarote|lanzarote|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9430|La Oliva|la-oliva|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9431|Puerto del Carmen|puerto-del-carmen|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9432|Playa Blanca|playa-blanca|\N|\N|1595|1596|\N
+188|ES|ESPANA|España|España|t|9433|Benidorm|benidorm|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9434|Javea|javea|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9435|Denia|denia|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9436|Calpe|calpe|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9437|Torrevieja|torrevieja|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9438|Moraira|moraira|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9439|Altea|altea|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9440|Guardamar del Segura|guardamar-del-segura|\N|\N|7632|7633|\N
+188|ES|ESPANA|España|España|t|9441|Peñíscola|peniscola|\N|\N|7632|7775|\N
+188|ES|ESPANA|España|España|t|9442|Oliva|oliva|\N|\N|7632|7911|\N
+188|ES|ESPANA|España|España|t|9443|Gandía|gandia|\N|\N|7632|7911|\N
+188|ES|ESPANA|España|España|t|9444|Marbella|marbella|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9445|Nerja|nerja|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9446|Benalmádena|benalmadena|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9447|Estepona|estepona|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9448|Fuengirola|fuengirola|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9449|Torremolinos|torremolinos|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9450|Mijas|mijas|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9451|Puerto Banús|puerto-banus|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9452|Ronda|ronda|\N|\N|1|573|\N
+188|ES|ESPANA|España|España|t|9453|Sanlúcar de Barrameda|sanlucar-de-barrameda|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9454|Conil de la Frontera|conil-de-la-frontera|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9455|Tarifa|tarifa|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9456|Jerez de la Frontera|jerez-de-la-frontera|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9457|Chiclana de la Frontera|chiclana-de-la-frontera|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9458|Chipiona|chipiona|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9459|El Puerto de Santa María|el-puerto-de-santa-maria|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9460|Algeciras|algeciras|\N|\N|1|105|\N
+188|ES|ESPANA|España|España|t|9461|Mojácar|mojacar|\N|\N|1|2|\N
+188|ES|ESPANA|España|España|t|9462|Vera|vera|\N|\N|1|2|\N
+188|ES|ESPANA|España|España|t|9463|Roquetas de Mar|roquetas-de-mar|\N|\N|1|2|\N
+188|ES|ESPANA|España|España|t|9464|Almuñécar|almunecar|\N|\N|1|226|\N
+188|ES|ESPANA|España|España|t|9465|Motril|motril|\N|\N|1|226|\N
+188|ES|ESPANA|España|España|t|9466|Ayamonte|ayamonte|\N|\N|1|395|\N
+188|ES|ESPANA|España|España|t|9467|Matalascañas|matalascanas|\N|\N|1|395|\N
+188|ES|ESPANA|España|España|t|9468|Punta Umbría|punta-umbria|\N|\N|1|395|\N
+188|ES|ESPANA|España|España|t|9469|Isla Cristina|isla-cristina|\N|\N|1|395|\N
+188|ES|ESPANA|España|España|t|9470|Islantilla|islantilla|\N|\N|1|395|\N
+188|ES|ESPANA|España|España|t|9471|Mérida|merida|\N|\N|5924|5925|\N
+188|ES|ESPANA|España|España|t|9472|Aranjuez|aranjuez|40.0333|-3.6166|6875|6876|6887
+188|ES|ESPANA|España|España|t|9473|Villanueva de la Cañada|villanueva-de-la-canada|40.4467|-4.00495|6875|6876|7048
+188|ES|ESPANA|España|España|t|9474|Ciudad Rodrigo|rodrigo|40.5969|-6.5225|2715|3741|\N
+188|ES|ESPANA|España|España|t|9475|El Escorial|el-escorial|40.5847|-4.1269|6875|6876|\N
+188|ES|ESPANA|España|España|t|9476|Ribadesella|ribadesella|43.4459|-5.0834|1515|1516|\N
+188|ES|ESPANA|España|España|t|9478|Collado Villalba|collado-villalba|40.6333|-4.00833|6875|6876|\N
+188|ES|ESPANA|España|España|t|9479|Cercedilla|cercedilla|40.7411|-4.05694|6875|6876|\N
+188|ES|ESPANA|España|España|t|9480|Becerril de la Sierra|becerril-de-la-sierra|40.7075|-3.99277|6875|6876|\N
+188|ES|ESPANA|España|España|t|9481|Navacerrada|navacerrada|40.7331|-4.02222|6875|6876|\N
+188|ES|ESPANA|España|España|t|9482|Cartagena|cartagena|37.6|-0.981944|7056|7057|\N
+188|ES|ESPANA|España|España|t|9483|Villacarrillo|villacarrillo|\N|\N|1|475|\N
+188|ES|ESPANA|España|España|t|9484|Baeza|baeza|\N|\N|1|475|\N
+188|ES|ESPANA|España|España|t|9485|Úbeda|ubeda|\N|\N|1|475|\N
+188|ES|ESPANA|España|España|t|9486|Cazorla|cazorla|\N|\N|1|475|\N
+188|ES|ESPANA|España|España|t|9487|Haro|haro|\N|\N|6699|6700|\N
+188|ES|ESPANA|España|España|t|9488|Cambados|cambados|42.505|-8.80782|6310|6567|\N
+188|ES|ESPANA|España|España|t|9489|Combarro|combarro|42.4319|-8.70649|6310|6567|\N
+188|ES|ESPANA|España|España|t|9490|El Grove|el-grove|42.4785|-8.88778|6310|6567|\N
+188|ES|ESPANA|España|España|t|9491|Finisterre|finisterre|42|-9|6310|6311|\N
+188|ES|ESPANA|España|España|t|9492|Mugía|mugia|43|-9|6310|6311|\N
+188|ES|ESPANA|España|España|t|9493|Muros|muros|42.7754|-9.05934|6310|6311|\N

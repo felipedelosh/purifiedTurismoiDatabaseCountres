@@ -1,255 +1,255 @@
-158|PY|PARAGUAY|Paraguay|Paraguay|t25644|Puerto Casado|puerto-casado|NULL|NULL|25643|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25645|Capitán Carmelo Peralta|capitan-carmelo-peralta|NULL|NULL|25643|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25646|Fuerte Olimpo|fuerte-olimpo|NULL|NULL|25643|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25647|Bahía Negra|bahia-negra|NULL|NULL|25643|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25649|Ciudad del Este|ciudad-del-este|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25650|Presidente Franco|presidente-franco|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25651|Minga Guazú|minga-guazu|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25652|Hernandarias|hernandarias|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25653|Itakyry|itakyry|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25654|Santa Rita|santa-rita-25654|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25655|Juan Emilio O'Leary|juan-emilio-o-leary|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25656|Doctor Juan León Mallorquín|doctor-juan-leon-mallorquin|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25657|Minga Porá|minga-pora|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25658|San Alberto|san-alberto|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25659|Yguazú|yguazu|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25660|San Cristóbal|san-cristobal-25660|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25661|Los Cedrales|los-cedrales|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25662|Ñacunday|nacunday|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25663|Doctor Raúl Peña|doctor-raul-pena|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25664|Mbaracayú|mbaracayu|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25665|Tavapy|tavapy|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25666|Santa Rosa del Monday|santa-rosa-del-monday|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25667|Iruña|iruna|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25668|Naranjal|naranjal|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25669|Domingo Martínez de Irala|domingo-martinez-de-irala|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25670|Santa Fe del Paraná|santa-fe-del-parana|NULL|NULL|25648|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25672|Pedro Juan Caballero|pedro-juan-caballero|NULL|NULL|25671|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25673|Capitán Bado|capitan-bado|NULL|NULL|25671|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25674|Bella Vista Norte|bella-vista-norte|NULL|NULL|25671|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25675|Zanja Pytá|zanja-pyta|NULL|NULL|25671|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25676|Karapaí|karapai|NULL|NULL|25671|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25678|Mariscal José Félix Estigarribia|mariscal-jose-felix-estigarribia|NULL|NULL|25677|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25679|Filadelfia|filadelfia|NULL|NULL|25677|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25680|Loma Plata|loma-plata|NULL|NULL|25677|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25682|Caaguazú|caaguazu|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25683|Coronel Oviedo|coronel-oviedo|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25684|Doctor Juan Eulogio Estigarribia|doctor-juan-eulogio-estigarribia|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25685|Yhú|yhu|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25686|Repatriación|repatriacion|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25687|Doctor Juan Manuel Frutos|doctor-juan-manuel-frutos|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25688|San José de los Arroyos|san-jose-de-los-arroyos|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25689|San Joaquín|san-joaquin|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25690|Raúl Arsenio Oviedo|raul-arsenio-oviedo|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25691|Carayaó|carayao|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25692|Tembiaporá|tembiapora|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25693|Santa Rosa del Mbutuy|santa-rosa-del-mbutuy|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25694|Vaquería|vaqueria|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25695|José Domingo Ocampos|jose-domingo-ocampos|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25696|Tres de Febrero|tres-de-febrero|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25697|R. I. Tres Corrales|r-i-tres-corrales|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25698|Doctor Cecilio Báez|doctor-cecilio-baez|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25699|Mariscal Francisco Solano López|mariscal-francisco-solano-lopez|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25700|Simón Bolívar|simon-bolivar|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25701|La Pastora|la-pastora|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25702|Nueva Toledo|nueva-toledo|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25703|Nueva Londres|nueva-londres|NULL|NULL|25681|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25705|San Juan Nepomuceno|san-juan-nepomuceno|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25706|Abaí|abai|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25707|Caazapá|caazapa|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25708|Yuty|yuty|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25709|Tres de Mayo|tres-de-mayo|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25710|Tavaí|tavai|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25711|Fulgencio Yegros|fulgencio-yegros|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25712|General Higinio Morínigo|general-higinio-morinigo|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25713|Buena Vista|buena-vista-25713|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25714|Doctor Moisés Santiago Bertoni|doctor-moises-santiago-bertoni|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25715|Maciel|maciel|NULL|NULL|25704|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25717|Curuguaty|curuguaty|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25718|Salto del Guairá|salto-del-guaira|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25719|Yasy Cañy|yasy-cany|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25720|Villa Ygatimí|villa-ygatimi|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25721|Ybyrarobaná|ybyrarobana|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25722|Nueva Esperanza|nueva-esperanza-25722|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25723|General Francisco Caballero Álvarez|general-francisco-caballero-alvarez|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25724|Yby Pytá|yby-pyta|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25725|Corpus Christi|corpus-christi|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25726|La Paloma del Espíritu Santo|la-paloma-del-espiritu-santo|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25727|Katueté|katuete|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25728|Ypejhú|ypejhu|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25729|Itanará|itanara|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25730|Maracaná|maracana|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25731|Puerto Adela|puerto-adela|NULL|NULL|25716|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25733|Luque|luque|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25734|San Lorenzo|san-lorenzo-25734|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25735|Capiatá|capiata|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25736|Lambaré|lambare|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25737|Fernando de la Mora|fernando-de-la-mora|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25738|Limpio|limpio|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25739|Ñemby|nemby|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25740|Itauguá|itaugua|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25741|Mariano Roque Alonso|mariano-roque-alonso|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25742|Itá|ita|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25743|Villa Elisa|villa-elisa|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25744|Areguá|aregua|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25745|San Antonio|san-antonio-25745|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25746|Julián Augusto Saldívar|julian-augusto-saldivar|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25747|Ypané|ypane|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25748|Villeta|villeta|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25749|Guarambaré|guarambare|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25750|Ypacaraí|ypacarai|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25751|Nueva Italia|nueva-italia|NULL|NULL|25732|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25753|Concepción|concepcion-25753|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25754|Horqueta|horqueta|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25755|Yby Yaú|yby-yau|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25756|Loreto|loreto|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25757|Belén|belen-25757|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25758|San Lázaro|san-lazaro|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25759|Azotey|azotey|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25760|Sargento José Félix López|sargento-jose-felix-lopez|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25761|San Alfredo|san-alfredo|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25762|Paso Barreto|paso-barreto|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25763|San Carlos del Apa|san-carlos-del-apa|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25764|Arroyito|arroyito|NULL|NULL|25752|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25766|Caacupé|caacupe|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25767|Tobatí|tobati|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25768|Piribebuy|piribebuy|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25769|Arroyos y Esteros|arroyos-y-esteros|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25770|Eusebio Ayala|eusebio-ayala|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25771|Emboscada|emboscada|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25772|Atyrá|atyra|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25773|Altos|altos|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25774|Caraguatay|caraguatay|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25775|San Bernardino|san-bernardino-25775|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25776|Itacurubí de la Cordillera|itacurubi-de-la-cordillera|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25777|Isla Pucú|isla-pucu|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25778|Valenzuela|valenzuela|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25779|Juan de Mena|juan-de-mena|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25780|Primero de Marzo|primero-de-marzo|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25781|Santa Elena|santa-elena|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25782|San José Obrero|san-jose-obrero|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25783|Mbocayaty del Yhaguy|mbocayaty-del-yhaguy|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25784|Nueva Colombia|nueva-colombia|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25785|Loma Grande|loma-grande|NULL|NULL|25765|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25787|Villarrica|villarrica|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25788|Independencia|independencia|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25789|Paso Yobái|paso-yobai|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25790|Capitán Mauricio José Troche|capitan-mauricio-jose-troche|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25791|Borja|borja|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25792|Iturbe|iturbe|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25793|Mbocayaty del Guairá|mbocayaty-del-guaira|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25794|General Eugenio Alejandrino Garay|general-eugenio-alejandrino-garay|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25795|Itapé|itape|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25796|José A. Fassardi|jose-a-fassardi|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25797|Coronel Martínez|coronel-martinez|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25798|Félix Pérez Cardozo|felix-perez-cardozo|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25799|Natalicio Talavera|natalicio-talavera|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25800|Yataity del Guairá|yataity-del-guaira|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25801|Ñumí|numi|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25802|Tebicuary|tebicuary|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25803|San Salvador|san-salvador|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25804|Doctor Bottrell|doctor-bottrell|NULL|NULL|25786|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25806|Encarnación|encarnacion|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25807|Cambyretá|cambyreta|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25808|San Pedro del Paraná|san-pedro-del-parana|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25809|Tomás Romero Pereira|tomas-romero-pereira|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25810|Edelira|edelira|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25811|San Rafael del Paraná|san-rafael-del-parana|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25812|Natalio|natalio|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25813|Coronel José Félix Bogado|coronel-jose-felix-bogado|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25814|Carlos Antonio López|carlos-antonio-lopez|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25815|Alto Verá|alto-vera|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25816|Obligado|obligado|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25817|Itapúa Poty|itapua-poty|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25818|Mayor Julio Dionisio Otaño|mayor-julio-dionisio-otano|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25819|Hohenau|hohenau|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25820|Capitán Meza|capitan-meza|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25821|Bella Vista|bella-vista-25821|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25822|Capitán Miranda|capitan-miranda|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25823|Yatytay|yatytay|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25824|General Artigas|general-artigas|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25825|Fram|fram|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25826|San Cosme y Damián|san-cosme-y-damian|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25827|San Juan del Paraná|san-juan-del-parana|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25828|Trinidad|trinidad-25828|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25829|Pirapó|pirapo|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25830|Carmen del Paraná|carmen-del-parana|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25831|General Delgado|general-delgado|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25832|Nueva Alborada|nueva-alborada|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25833|Jesús|jesus|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25834|José Leandro Oviedo|jose-leandro-oviedo|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25835|La Paz|la-paz-25835|NULL|NULL|25805|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25837|San Ignacio Guazú|san-ignacio-guazu|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25838|San Juan Bautista|san-juan-bautista-25838|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25839|Ayolas|ayolas|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25840|Santa Rosa de Lima|santa-rosa-de-lima-25840|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25841|Santa María de Fe|santa-maria-de-fe|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25842|Santiago|santiago-25842|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25843|San Miguel|san-miguel-25843|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25844|San Patricio|san-patricio|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25845|Villa Florida|villa-florida|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25846|Yabebyry|yabebyry|NULL|NULL|25836|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25848|Pilar|pilar-25848|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25849|Alberdi|alberdi|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25850|San Juan Bautista del Ñeembucú|san-juan-bautista-del-neembucu|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25851|Cerrito|cerrito|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25852|Mayor José de Jesús Martínez|mayor-jose-de-jesus-martinez|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25853|General José Eduvigis Díaz|general-jose-eduvigis-diaz|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25854|Tacuaras|tacuaras|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25855|Villa Oliva|villa-oliva|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25856|Laureles|laureles|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25857|Humaitá|humaita|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25858|Isla Umbú|isla-umbu|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25859|Villalbín|villalbin|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25860|Guazú Cuá|guazu-cua|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25861|Paso de Patria|paso-de-patria|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25862|Desmochados|desmochados|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25863|Villa Franca|villa-franca|NULL|NULL|25847|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25865|Carapeguá|carapegua|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25866|Yaguarón|yaguaron|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25867|Ybycuí|ybycui|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25868|Paraguarí|paraguari|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25869|Quiindy|quiindy|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25870|Pirayú|pirayu|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25871|Acahay|acahay|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25872|Mbuyapey|mbuyapey|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25873|San Roque González de Santa Cruz|san-roque-gonzalez-de-santa-cruz|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25874|Escobar|escobar|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25875|Caapucú|caapucu|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25876|Quyquyhó|quyquyho|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25877|Ybytymí|ybytymi|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25878|General Bernardino Caballero|general-bernardino-caballero|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25879|Sapucai|sapucai|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25880|La Colmena|la-colmena|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25881|Tebicuarymí|tebicuarymi|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25882|María Antonia|maria-antonia|NULL|NULL|25864|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25884|Villa Hayes|villa-hayes|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25885|Teniente Primero Manuel Irala Fernández|teniente-primero-manuel-irala-fernandez|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25886|Benjamín Aceval|benjamin-aceval|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25887|Puerto Pinasco|puerto-pinasco|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25888|Nanawa|nanawa|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25889|José Falcón|jose-falcon|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25890|Teniente Esteban Martínez|teniente-esteban-martinez|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25891|General José María Bruguez|general-jose-maria-bruguez|NULL|NULL|25883|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25893|San Estanislao|san-estanislao|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25894|Capiibary|capiibary|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25895|Santa Rosa del Aguaray|santa-rosa-del-aguaray|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25896|San Pedro de Ycuamandiyú|san-pedro-de-ycuamandiyu|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25897|Guayaibí|guayaibi|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25898|Choré|chore|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25899|General Isidoro Resquín|general-isidoro-resquin|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25900|Liberación|liberacion|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25901|General Elizardo Aquino|general-elizardo-aquino|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25902|Tacuatí|tacuati|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25903|Yrybucuá|yrybucua|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25904|Yataity del Norte|yataity-del-norte|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25905|Lima|lima|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25906|Itacurubí del Rosario|itacurubi-del-rosario|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25907|Villa del Rosario|villa-del-rosario|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25908|25 de diciembre|25-de-diciembre|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25909|Unión|union|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25910|Nueva Germania|nueva-germania|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25911|Antequera|antequera|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25912|San Pablo|san-pablo-25912|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25913|San Vicente Pancholo|san-vicente-pancholo|NULL|NULL|25892|NULL|NULL
-158|PY|PARAGUAY|Paraguay|Paraguay|t25915|Asunción|asuncion|NULL|NULL|25914|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25644|Puerto Casado|puerto-casado|NULL|NULL|25643|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25645|Capitán Carmelo Peralta|capitan-carmelo-peralta|NULL|NULL|25643|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25646|Fuerte Olimpo|fuerte-olimpo|NULL|NULL|25643|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25647|Bahía Negra|bahia-negra|NULL|NULL|25643|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25649|Ciudad del Este|ciudad-del-este|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25650|Presidente Franco|presidente-franco|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25651|Minga Guazú|minga-guazu|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25652|Hernandarias|hernandarias|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25653|Itakyry|itakyry|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25654|Santa Rita|santa-rita-25654|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25655|Juan Emilio O'Leary|juan-emilio-o-leary|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25656|Doctor Juan León Mallorquín|doctor-juan-leon-mallorquin|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25657|Minga Porá|minga-pora|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25658|San Alberto|san-alberto|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25659|Yguazú|yguazu|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25660|San Cristóbal|san-cristobal-25660|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25661|Los Cedrales|los-cedrales|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25662|Ñacunday|nacunday|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25663|Doctor Raúl Peña|doctor-raul-pena|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25664|Mbaracayú|mbaracayu|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25665|Tavapy|tavapy|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25666|Santa Rosa del Monday|santa-rosa-del-monday|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25667|Iruña|iruna|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25668|Naranjal|naranjal|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25669|Domingo Martínez de Irala|domingo-martinez-de-irala|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25670|Santa Fe del Paraná|santa-fe-del-parana|NULL|NULL|25648|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25672|Pedro Juan Caballero|pedro-juan-caballero|NULL|NULL|25671|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25673|Capitán Bado|capitan-bado|NULL|NULL|25671|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25674|Bella Vista Norte|bella-vista-norte|NULL|NULL|25671|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25675|Zanja Pytá|zanja-pyta|NULL|NULL|25671|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25676|Karapaí|karapai|NULL|NULL|25671|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25678|Mariscal José Félix Estigarribia|mariscal-jose-felix-estigarribia|NULL|NULL|25677|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25679|Filadelfia|filadelfia|NULL|NULL|25677|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25680|Loma Plata|loma-plata|NULL|NULL|25677|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25682|Caaguazú|caaguazu|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25683|Coronel Oviedo|coronel-oviedo|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25684|Doctor Juan Eulogio Estigarribia|doctor-juan-eulogio-estigarribia|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25685|Yhú|yhu|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25686|Repatriación|repatriacion|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25687|Doctor Juan Manuel Frutos|doctor-juan-manuel-frutos|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25688|San José de los Arroyos|san-jose-de-los-arroyos|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25689|San Joaquín|san-joaquin|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25690|Raúl Arsenio Oviedo|raul-arsenio-oviedo|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25691|Carayaó|carayao|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25692|Tembiaporá|tembiapora|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25693|Santa Rosa del Mbutuy|santa-rosa-del-mbutuy|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25694|Vaquería|vaqueria|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25695|José Domingo Ocampos|jose-domingo-ocampos|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25696|Tres de Febrero|tres-de-febrero|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25697|R. I. Tres Corrales|r-i-tres-corrales|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25698|Doctor Cecilio Báez|doctor-cecilio-baez|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25699|Mariscal Francisco Solano López|mariscal-francisco-solano-lopez|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25700|Simón Bolívar|simon-bolivar|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25701|La Pastora|la-pastora|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25702|Nueva Toledo|nueva-toledo|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25703|Nueva Londres|nueva-londres|NULL|NULL|25681|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25705|San Juan Nepomuceno|san-juan-nepomuceno|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25706|Abaí|abai|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25707|Caazapá|caazapa|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25708|Yuty|yuty|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25709|Tres de Mayo|tres-de-mayo|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25710|Tavaí|tavai|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25711|Fulgencio Yegros|fulgencio-yegros|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25712|General Higinio Morínigo|general-higinio-morinigo|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25713|Buena Vista|buena-vista-25713|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25714|Doctor Moisés Santiago Bertoni|doctor-moises-santiago-bertoni|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25715|Maciel|maciel|NULL|NULL|25704|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25717|Curuguaty|curuguaty|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25718|Salto del Guairá|salto-del-guaira|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25719|Yasy Cañy|yasy-cany|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25720|Villa Ygatimí|villa-ygatimi|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25721|Ybyrarobaná|ybyrarobana|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25722|Nueva Esperanza|nueva-esperanza-25722|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25723|General Francisco Caballero Álvarez|general-francisco-caballero-alvarez|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25724|Yby Pytá|yby-pyta|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25725|Corpus Christi|corpus-christi|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25726|La Paloma del Espíritu Santo|la-paloma-del-espiritu-santo|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25727|Katueté|katuete|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25728|Ypejhú|ypejhu|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25729|Itanará|itanara|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25730|Maracaná|maracana|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25731|Puerto Adela|puerto-adela|NULL|NULL|25716|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25733|Luque|luque|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25734|San Lorenzo|san-lorenzo-25734|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25735|Capiatá|capiata|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25736|Lambaré|lambare|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25737|Fernando de la Mora|fernando-de-la-mora|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25738|Limpio|limpio|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25739|Ñemby|nemby|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25740|Itauguá|itaugua|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25741|Mariano Roque Alonso|mariano-roque-alonso|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25742|Itá|ita|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25743|Villa Elisa|villa-elisa|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25744|Areguá|aregua|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25745|San Antonio|san-antonio-25745|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25746|Julián Augusto Saldívar|julian-augusto-saldivar|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25747|Ypané|ypane|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25748|Villeta|villeta|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25749|Guarambaré|guarambare|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25750|Ypacaraí|ypacarai|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25751|Nueva Italia|nueva-italia|NULL|NULL|25732|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25753|Concepción|concepcion-25753|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25754|Horqueta|horqueta|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25755|Yby Yaú|yby-yau|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25756|Loreto|loreto|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25757|Belén|belen-25757|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25758|San Lázaro|san-lazaro|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25759|Azotey|azotey|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25760|Sargento José Félix López|sargento-jose-felix-lopez|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25761|San Alfredo|san-alfredo|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25762|Paso Barreto|paso-barreto|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25763|San Carlos del Apa|san-carlos-del-apa|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25764|Arroyito|arroyito|NULL|NULL|25752|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25766|Caacupé|caacupe|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25767|Tobatí|tobati|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25768|Piribebuy|piribebuy|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25769|Arroyos y Esteros|arroyos-y-esteros|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25770|Eusebio Ayala|eusebio-ayala|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25771|Emboscada|emboscada|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25772|Atyrá|atyra|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25773|Altos|altos|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25774|Caraguatay|caraguatay|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25775|San Bernardino|san-bernardino-25775|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25776|Itacurubí de la Cordillera|itacurubi-de-la-cordillera|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25777|Isla Pucú|isla-pucu|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25778|Valenzuela|valenzuela|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25779|Juan de Mena|juan-de-mena|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25780|Primero de Marzo|primero-de-marzo|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25781|Santa Elena|santa-elena|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25782|San José Obrero|san-jose-obrero|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25783|Mbocayaty del Yhaguy|mbocayaty-del-yhaguy|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25784|Nueva Colombia|nueva-colombia|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25785|Loma Grande|loma-grande|NULL|NULL|25765|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25787|Villarrica|villarrica|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25788|Independencia|independencia|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25789|Paso Yobái|paso-yobai|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25790|Capitán Mauricio José Troche|capitan-mauricio-jose-troche|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25791|Borja|borja|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25792|Iturbe|iturbe|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25793|Mbocayaty del Guairá|mbocayaty-del-guaira|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25794|General Eugenio Alejandrino Garay|general-eugenio-alejandrino-garay|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25795|Itapé|itape|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25796|José A. Fassardi|jose-a-fassardi|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25797|Coronel Martínez|coronel-martinez|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25798|Félix Pérez Cardozo|felix-perez-cardozo|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25799|Natalicio Talavera|natalicio-talavera|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25800|Yataity del Guairá|yataity-del-guaira|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25801|Ñumí|numi|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25802|Tebicuary|tebicuary|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25803|San Salvador|san-salvador|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25804|Doctor Bottrell|doctor-bottrell|NULL|NULL|25786|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25806|Encarnación|encarnacion|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25807|Cambyretá|cambyreta|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25808|San Pedro del Paraná|san-pedro-del-parana|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25809|Tomás Romero Pereira|tomas-romero-pereira|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25810|Edelira|edelira|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25811|San Rafael del Paraná|san-rafael-del-parana|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25812|Natalio|natalio|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25813|Coronel José Félix Bogado|coronel-jose-felix-bogado|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25814|Carlos Antonio López|carlos-antonio-lopez|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25815|Alto Verá|alto-vera|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25816|Obligado|obligado|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25817|Itapúa Poty|itapua-poty|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25818|Mayor Julio Dionisio Otaño|mayor-julio-dionisio-otano|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25819|Hohenau|hohenau|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25820|Capitán Meza|capitan-meza|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25821|Bella Vista|bella-vista-25821|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25822|Capitán Miranda|capitan-miranda|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25823|Yatytay|yatytay|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25824|General Artigas|general-artigas|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25825|Fram|fram|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25826|San Cosme y Damián|san-cosme-y-damian|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25827|San Juan del Paraná|san-juan-del-parana|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25828|Trinidad|trinidad-25828|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25829|Pirapó|pirapo|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25830|Carmen del Paraná|carmen-del-parana|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25831|General Delgado|general-delgado|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25832|Nueva Alborada|nueva-alborada|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25833|Jesús|jesus|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25834|José Leandro Oviedo|jose-leandro-oviedo|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25835|La Paz|la-paz-25835|NULL|NULL|25805|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25837|San Ignacio Guazú|san-ignacio-guazu|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25838|San Juan Bautista|san-juan-bautista-25838|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25839|Ayolas|ayolas|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25840|Santa Rosa de Lima|santa-rosa-de-lima-25840|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25841|Santa María de Fe|santa-maria-de-fe|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25842|Santiago|santiago-25842|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25843|San Miguel|san-miguel-25843|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25844|San Patricio|san-patricio|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25845|Villa Florida|villa-florida|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25846|Yabebyry|yabebyry|NULL|NULL|25836|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25848|Pilar|pilar-25848|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25849|Alberdi|alberdi|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25850|San Juan Bautista del Ñeembucú|san-juan-bautista-del-neembucu|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25851|Cerrito|cerrito|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25852|Mayor José de Jesús Martínez|mayor-jose-de-jesus-martinez|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25853|General José Eduvigis Díaz|general-jose-eduvigis-diaz|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25854|Tacuaras|tacuaras|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25855|Villa Oliva|villa-oliva|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25856|Laureles|laureles|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25857|Humaitá|humaita|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25858|Isla Umbú|isla-umbu|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25859|Villalbín|villalbin|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25860|Guazú Cuá|guazu-cua|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25861|Paso de Patria|paso-de-patria|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25862|Desmochados|desmochados|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25863|Villa Franca|villa-franca|NULL|NULL|25847|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25865|Carapeguá|carapegua|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25866|Yaguarón|yaguaron|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25867|Ybycuí|ybycui|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25868|Paraguarí|paraguari|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25869|Quiindy|quiindy|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25870|Pirayú|pirayu|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25871|Acahay|acahay|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25872|Mbuyapey|mbuyapey|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25873|San Roque González de Santa Cruz|san-roque-gonzalez-de-santa-cruz|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25874|Escobar|escobar|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25875|Caapucú|caapucu|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25876|Quyquyhó|quyquyho|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25877|Ybytymí|ybytymi|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25878|General Bernardino Caballero|general-bernardino-caballero|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25879|Sapucai|sapucai|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25880|La Colmena|la-colmena|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25881|Tebicuarymí|tebicuarymi|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25882|María Antonia|maria-antonia|NULL|NULL|25864|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25884|Villa Hayes|villa-hayes|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25885|Teniente Primero Manuel Irala Fernández|teniente-primero-manuel-irala-fernandez|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25886|Benjamín Aceval|benjamin-aceval|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25887|Puerto Pinasco|puerto-pinasco|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25888|Nanawa|nanawa|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25889|José Falcón|jose-falcon|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25890|Teniente Esteban Martínez|teniente-esteban-martinez|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25891|General José María Bruguez|general-jose-maria-bruguez|NULL|NULL|25883|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25893|San Estanislao|san-estanislao|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25894|Capiibary|capiibary|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25895|Santa Rosa del Aguaray|santa-rosa-del-aguaray|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25896|San Pedro de Ycuamandiyú|san-pedro-de-ycuamandiyu|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25897|Guayaibí|guayaibi|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25898|Choré|chore|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25899|General Isidoro Resquín|general-isidoro-resquin|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25900|Liberación|liberacion|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25901|General Elizardo Aquino|general-elizardo-aquino|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25902|Tacuatí|tacuati|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25903|Yrybucuá|yrybucua|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25904|Yataity del Norte|yataity-del-norte|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25905|Lima|lima|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25906|Itacurubí del Rosario|itacurubi-del-rosario|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25907|Villa del Rosario|villa-del-rosario|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25908|25 de diciembre|25-de-diciembre|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25909|Unión|union|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25910|Nueva Germania|nueva-germania|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25911|Antequera|antequera|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25912|San Pablo|san-pablo-25912|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25913|San Vicente Pancholo|san-vicente-pancholo|NULL|NULL|25892|NULL|NULL
+158|PY|PARAGUAY|Paraguay|Paraguay|t|25915|Asunción|asuncion|NULL|NULL|25914|NULL|NULL

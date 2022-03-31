@@ -1,207 +1,207 @@
-159|PE|PERU|Peru|Perú|t20702|Bagua|bagua|-5.639|-78.5319|1|24|25
-159|PE|PERU|Peru|Perú|t20703|Jumbilla|jumbilla|-5.90411|-77.7982|1|31|\N
-159|PE|PERU|Peru|Perú|t20704|Chachapoyas|chachapoyas|-6.22912|-77.8726|1|2|\N
-159|PE|PERU|Peru|Perú|t20705|Santa María de Nievas|santa-maria-de-nievas|-4.59694|-77.8626|1|81|\N
-159|PE|PERU|Peru|Perú|t20706|Lámud|lamud|-6.16467|-77.9448|1|44|\N
-159|PE|PERU|Peru|Perú|t20707|Mendoza|mendoza|-6.39698|-77.4807|1|68|69
-159|PE|PERU|Peru|Perú|t20708|Bagua Grande|bagua-grande|-5.75448|-78.4419|1|85|\N
-159|PE|PERU|Peru|Perú|t20709|Aija|aija|-9.78022|-77.6108|93|107|\N
-159|PE|PERU|Peru|Perú|t20710|Llamellín|llamellin|-9.10104|-77.0168|93|249|\N
-159|PE|PERU|Peru|Perú|t20711|Chacas|chacas|-9.16296|-77.3665|93|2401|\N
-159|PE|PERU|Peru|Perú|t20712|Chiquián|chiquian|-10.1512|-77.1571|93|2402|114
-159|PE|PERU|Peru|Perú|t20713|Carhuaz|carhuaz|-9.28176|-77.6462|93|129|\N
-159|PE|PERU|Peru|Perú|t20714|San Luis|san-luis|-9.09485|-77.3287|93|256|\N
-159|PE|PERU|Peru|Perú|t20715|Casma|casma|-9.47598|-78.3056|93|141|142
-159|PE|PERU|Peru|Perú|t20716|Corongo|corongo|-9.09527|-77.329|93|146|147
-159|PE|PERU|Peru|Perú|t20717|Huaraz|huaraz|-9.53008|-77.5289|93|94|\N
-159|PE|PERU|Peru|Perú|t20718|Huari|huari|-9.34955|-77.1733|93|165|\N
-159|PE|PERU|Peru|Perú|t20719|Huarmey|huarmey|-10.0688|-78.1522|93|263|\N
-159|PE|PERU|Peru|Perú|t20720|Caraz|caraz|-9.04853|-77.81|93|154|\N
-159|PE|PERU|Peru|Perú|t20721|Piscobamba|piscobamba|-8.86539|-77.3575|93|182|\N
-159|PE|PERU|Peru|Perú|t20722|Ocros|ocros|-10.4039|-77.3969|93|269|276
-159|PE|PERU|Peru|Perú|t20723|Cabana|cabana|-8.39289|-78.0091|93|191|\N
-159|PE|PERU|Peru|Perú|t20724|Pomabamba|pomabamba|-8.82053|-77.4604|93|203|\N
-159|PE|PERU|Peru|Perú|t20725|Recuay|recuay|-9.72206|-77.4561|93|208|\N
-159|PE|PERU|Peru|Perú|t20726|Chimbote|chimbote|-9.07455|-78.5936|93|219|\N
-159|PE|PERU|Peru|Perú|t20727|Sihuas|sihuas|-8.55586|-77.6306|93|229|\N
-159|PE|PERU|Peru|Perú|t20728|Yungay|yungay|-8.55565|-77.6307|93|240|\N
-159|PE|PERU|Peru|Perú|t20729|Abancay|abancay|-13.6373|-72.8789|280|281|\N
-159|PE|PERU|Peru|Perú|t20730|Andahuaylas|andahuaylas|-13.6564|-73.39|280|309|\N
-159|PE|PERU|Peru|Perú|t20731|Antabamba|antabamba|-14.3649|-72.8775|280|329|\N
-159|PE|PERU|Peru|Perú|t20732|Chalhuanca|chalhuanca|-14.2947|-73.2441|280|291|\N
-159|PE|PERU|Peru|Perú|t20733|Chincheros|chincheros|-13.518|-73.7235|280|359|\N
-159|PE|PERU|Peru|Perú|t20734|Tambobamba|tambobamba|-13.9463|-72.1744|280|337|\N
-159|PE|PERU|Peru|Perú|t20735|Chuquibambilla|chuquibambilla|-14.1053|-72.7076|280|344|\N
-159|PE|PERU|Peru|Perú|t20736|Arequipa|arequipa|-16.3988|-71.5369|368|369|\N
-159|PE|PERU|Peru|Perú|t20737|Camaná|camana|-16.6249|-72.7116|368|420|\N
-159|PE|PERU|Peru|Perú|t20738|Caravelí|caraveli|-15.7722|-73.3655|368|429|\N
-159|PE|PERU|Peru|Perú|t20739|Aplao|aplao|-16.0765|-72.4921|368|443|\N
-159|PE|PERU|Peru|Perú|t20740|Chivay|chivay|-15.6367|-71.6021|368|399|\N
-159|PE|PERU|Peru|Perú|t20741|Chuquibamba|chuquibamba|-15.8392|-72.6515|368|458|\N
-159|PE|PERU|Peru|Perú|t20742|Mollendo|mollendo|-17.0304|-72.0148|368|467|\N
-159|PE|PERU|Peru|Perú|t20743|Cotahuasi|cotahuasi|-15.2106|-72.8928|368|474|475
-159|PE|PERU|Peru|Perú|t20744|Cangallo|cangallo|-13.6294|-74.1436|486|503|\N
-159|PE|PERU|Peru|Perú|t20745|Ayacucho|ayacucho|-13.1604|-74.2258|486|487|\N
-159|PE|PERU|Peru|Perú|t20746|Huanca Sancos|huanca-sancos|-13.92|-74.334|486|573|577
-159|PE|PERU|Peru|Perú|t20747|Huanta|huanta|-12.9386|-74.2476|486|510|\N
-159|PE|PERU|Peru|Perú|t20748|San Miguel|san-miguel|-13.0126|-73.9811|486|519|\N
-159|PE|PERU|Peru|Perú|t20749|Puquio|puquio|-14.694|-74.1242|486|529|\N
-159|PE|PERU|Peru|Perú|t20750|Coracora|coracora|-15.017|-73.78|486|551|\N
-159|PE|PERU|Peru|Perú|t20751|Pausa|pausa|-15.2789|-73.3444|486|587|588
-159|PE|PERU|Peru|Perú|t20752|Querobamba|querobamba|-14.0113|-73.8388|486|598|599
-159|PE|PERU|Peru|Perú|t20753|Huancapi|huancapi|-13.7526|-74.0664|486|560|\N
-159|PE|PERU|Peru|Perú|t20754|Vilcashuamán|vilcashuaman|-13.6531|-73.954|486|2403|\N
-159|PE|PERU|Peru|Perú|t20755|Cajabamba|cajabamba|-7.62373|-78.046|610|624|625
-159|PE|PERU|Peru|Perú|t20756|Cajamarca|cajamarca|-7.15704|-78.5175|610|611|\N
-159|PE|PERU|Peru|Perú|t20757|Celendín|celendin|-6.86551|-78.1455|610|629|\N
-159|PE|PERU|Peru|Perú|t20758|Chota|chota|-6.56107|-78.6507|610|667|\N
-159|PE|PERU|Peru|Perú|t20759|Contumazá|contumaza|-7.36632|-78.805|610|642|643
-159|PE|PERU|Peru|Perú|t20760|Cutervo|cutervo|-6.37736|-78.8183|610|651|652
-159|PE|PERU|Peru|Perú|t20761|Bambamarca|bambamarca|-6.68106|-78.5214|610|687|688
-159|PE|PERU|Peru|Perú|t20762|Jaén|jaen|-5.70876|-78.8077|610|691|\N
-159|PE|PERU|Peru|Perú|t20763|San Ignacio|san-ignacio|-5.14637|-79.0024|610|730|\N
-159|PE|PERU|Peru|Perú|t20764|San Marcos|san-marcos|-7.33565|-78.1697|610|738|\N
-159|PE|PERU|Peru|Perú|t20765|San Miguel de Pallaques|san-miguel-de-pallaques|-7.00035|-78.8514|610|716|\N
-159|PE|PERU|Peru|Perú|t20766|San Pablo|san-pablo|-7.11278|-78.8208|610|746|\N
-159|PE|PERU|Peru|Perú|t20767|Santa Cruz de Succhabamba|santa-cruz-de-succhabamba|-6.71175|-78.9363|610|704|\N
-159|PE|PERU|Peru|Perú|t20768|Callao|callao|-12.0629|-77.149|2406|2404|\N
-159|PE|PERU|Peru|Perú|t20769|Acomayo|acomayo|-13.9193|-71.6833|751|761|\N
-159|PE|PERU|Peru|Perú|t20770|Anta|anta|-13.4794|-72.1114|751|769|\N
-159|PE|PERU|Peru|Perú|t20771|Calca|calca|-13.3218|-71.9561|751|779|\N
-159|PE|PERU|Peru|Perú|t20772|Yanaoca|yanaoca|-14.2172|-71.432|751|788|789
-159|PE|PERU|Peru|Perú|t20773|Sicuani|sicuani|-14.272|-71.2268|751|797|\N
-159|PE|PERU|Peru|Perú|t20774|Santo Tomás|santo-tomas|-14.4502|-72.0818|751|806|\N
-159|PE|PERU|Peru|Perú|t20775|Cusco|cusco|-13.5168|-71.9788|751|752|\N
-159|PE|PERU|Peru|Perú|t20776|Espinar|espinar|-14.793|-71.4126|751|815|\N
-159|PE|PERU|Peru|Perú|t20777|Quillabamba|quillabamba|-12.8634|-72.6929|751|824|825
-159|PE|PERU|Peru|Perú|t20778|Paruro|paruro|-13.7614|-71.8473|751|835|\N
-159|PE|PERU|Peru|Perú|t20779|Paucartambo|paucartambo|-13.3173|-71.5969|751|845|\N
-159|PE|PERU|Peru|Perú|t20780|Urcos|urcos|-13.6856|-71.623|751|852|\N
-159|PE|PERU|Peru|Perú|t20781|Urubamba|urubamba|-13.3061|-72.116|751|865|\N
-159|PE|PERU|Peru|Perú|t20782|Acobamba|acobamba|-12.8424|-74.5693|873|894|895
-159|PE|PERU|Peru|Perú|t20783|Lircay|lircay|-12.9897|-74.7205|873|903|\N
-159|PE|PERU|Peru|Perú|t20784|Castrovirreyna|castrovirreyna|-13.2834|-75.3191|873|916|917
-159|PE|PERU|Peru|Perú|t20785|Churcampa|churcampa|-12.7374|-74.4316|873|964|965
-159|PE|PERU|Peru|Perú|t20786|Huancavelica|huancavelica|-12.7872|-74.9731|873|874|\N
-159|PE|PERU|Peru|Perú|t20787|Huaytará|huaytara|-13.6045|-75.3531|873|947|\N
-159|PE|PERU|Peru|Perú|t20788|Pampas|pampas|-12.3986|-74.8683|873|930|\N
-159|PE|PERU|Peru|Perú|t20789|Ambo|ambo|-10.1293|-76.2045|976|990|\N
-159|PE|PERU|Peru|Perú|t20790|La Unión|la-union|-9.77012|-76.7847|976|999|1000
-159|PE|PERU|Peru|Perú|t20791|Huacaybamba|huacaybamba|-9.0953|-76.8367|976|1043|1044
-159|PE|PERU|Peru|Perú|t20792|Llata|llata|-9.55036|-76.8156|976|1009|\N
-159|PE|PERU|Peru|Perú|t20793|Huánuco|huanuco|-9.92947|-76.2397|976|977|\N
-159|PE|PERU|Peru|Perú|t20794|Jesús|jesus|-10.0336|-76.582|976|1048|1049
-159|PE|PERU|Peru|Perú|t20795|Tingo María|tingo-maria|-9.29841|-76.0003|976|1025|1026
-159|PE|PERU|Peru|Perú|t20796|Huacrachuco|huacrachuco|-8.63964|-77.0687|976|1021|1022
-159|PE|PERU|Peru|Perú|t20797|Panao|panao|-9.89849|-75.9939|976|1032|\N
-159|PE|PERU|Peru|Perú|t20798|Puerto Inca|puerto-inca|-9.37717|-74.9649|976|1037|\N
-159|PE|PERU|Peru|Perú|t20799|Chavinillo|chavinillo|-9.78138|-76.5827|976|1056|1057
-159|PE|PERU|Peru|Perú|t20800|Chincha Alta|chincha-alta|-13.4176|-76.1326|1065|1081|\N
-159|PE|PERU|Peru|Perú|t20801|Ica|ica|-14.064|-75.7291|1065|1066|\N
-159|PE|PERU|Peru|Perú|t20802|Nazca|nazca|-14.8277|-74.9371|1065|1093|\N
-159|PE|PERU|Peru|Perú|t20803|Palpa|palpa|-14.5337|-75.1852|1065|1108|\N
-159|PE|PERU|Peru|Perú|t20804|Pisco|pisco|-13.71|-76.2031|1065|1099|\N
-159|PE|PERU|Peru|Perú|t20805|La Merced|la-merced|-11.0623|-75.3351|1114|1230|1231
-159|PE|PERU|Peru|Perú|t20806|Chupaca|chupaca|-12.0618|-75.2877|1114|1237|\N
-159|PE|PERU|Peru|Perú|t20807|Concepción|concepcion|-11.9186|-75.3129|1114|1144|\N
-159|PE|PERU|Peru|Perú|t20808|Huancayo|huancayo|-12.0681|-75.2101|1114|1115|1116
-159|PE|PERU|Peru|Perú|t20809|Jauja|jauja|-11.7753|-75.5|1114|1160|\N
-159|PE|PERU|Peru|Perú|t20810|Junín|junin|-11.1616|-75.9982|1114|1195|\N
-159|PE|PERU|Peru|Perú|t20811|Satipo|satipo|-11.254|-74.6366|1114|1221|\N
-159|PE|PERU|Peru|Perú|t20812|Tarma|tarma|-11.4201|-75.6876|1114|1200|\N
-159|PE|PERU|Peru|Perú|t20813|La Oroya|la-oroya|-11.5163|-75.8999|1114|1210|\N
-159|PE|PERU|Peru|Perú|t20814|Ascope|ascope|-7.71383|-79.1074|1247|1316|1317
-159|PE|PERU|Peru|Perú|t20815|Bolívar|bolivar|-7.15406|-77.7012|1247|1260|\N
-159|PE|PERU|Peru|Perú|t20816|Chepén|chepen|-7.22718|-79.4298|1247|1325|\N
-159|PE|PERU|Peru|Perú|t20817|Cascas|cascas|-7.47948|-78.8194|1247|1334|\N
-159|PE|PERU|Peru|Perú|t20818|Julcán|julcan|-8.04261|-78.4867|1247|1329|1330
-159|PE|PERU|Peru|Perú|t20819|Otuzco|otuzco|-7.90254|-78.5656|1247|1276|\N
-159|PE|PERU|Peru|Perú|t20820|San Pedro de Lloc|san-pedro-de-lloc|-7.43199|-79.5043|1247|1287|\N
-159|PE|PERU|Peru|Perú|t20821|Tayabamba|tayabamba|-8.27731|-77.2965|1247|1293|1294
-159|PE|PERU|Peru|Perú|t20822|Huamachuco|huamachuco|-7.81209|-78.0488|1247|1267|\N
-159|PE|PERU|Peru|Perú|t20823|Santiago de Chuco|santiago-de-chuco|-8.15308|-78.1771|1247|1307|1308
-159|PE|PERU|Peru|Perú|t20824|Trujillo|trujillo|-8.11185|-79.0287|1247|1248|\N
-159|PE|PERU|Peru|Perú|t20825|Virú|viru|-8.41434|-78.7524|1247|1339|1340
-159|PE|PERU|Peru|Perú|t20826|Chiclayo|chiclayo|-6.76034|-79.835|1343|1344|\N
-159|PE|PERU|Peru|Perú|t20827|Ferreñafe|ferrenafe|-6.63918|-79.788|1343|1365|\N
-159|PE|PERU|Peru|Perú|t20828|Lambayeque|lambayeque|-6.70408|-79.9062|1343|1372|\N
-159|PE|PERU|Peru|Perú|t20829|Barranca|barranca|-10.7541|-77.7608|1385|1554|\N
-159|PE|PERU|Peru|Perú|t20830|Cajatambo|cajatambo|-10.473|-76.9928|1385|1430|\N
-159|PE|PERU|Peru|Perú|t20831|San Vicente de Cañete|san-vicente-de-canete|-13.0778|-76.3874|1385|1444|1445
-159|PE|PERU|Peru|Perú|t20832|Canta|canta|-11.467|-76.6247|1385|1436|\N
-159|PE|PERU|Peru|Perú|t20833|Huaral|huaral|-11.4954|-77.2072|1385|1541|\N
-159|PE|PERU|Peru|Perú|t20834|Matucana|matucana|-11.8447|-76.3861|1385|1474|1475
-159|PE|PERU|Peru|Perú|t20835|Huacho|huacho|-11.1085|-77.6104|1385|1461|1462
-159|PE|PERU|Peru|Perú|t20836|Lima|lima|-12.046|-77.0307|1385|1386|\N
-159|PE|PERU|Peru|Perú|t20837|Oyón|oyon|-10.6681|-76.7732|1385|1560|\N
-159|PE|PERU|Peru|Perú|t20838|Yauyos|yauyos|-12.464|-75.9232|1385|1507|1508
-159|PE|PERU|Peru|Perú|t20839|Yurimaguas|yurimaguas|-5.89527|-76.1044|1567|1582|\N
-159|PE|PERU|Peru|Perú|t20840|San Lorenzo|san-lorenzo|-5.91698|-76.167|1567|1619|\N
-159|PE|PERU|Peru|Perú|t20841|Nauta|nauta|-4.50812|-73.579|1567|1589|\N
-159|PE|PERU|Peru|Perú|t20842|Caballococha|caballococha|-3.90597|-70.5168|1567|1614|\N
-159|PE|PERU|Peru|Perú|t20843|Iquitos|iquitos|-3.74926|-73.2443|1567|1568|\N
-159|PE|PERU|Peru|Perú|t20844|Requena|requena|-5.06075|-73.85|1567|1595|\N
-159|PE|PERU|Peru|Perú|t20845|Contamana|contamana|-7.3506|-75.0092|1567|1607|\N
-159|PE|PERU|Peru|Perú|t20846|Salvación|salvacion|-12.8364|-71.3609|1626|1632|\N
-159|PE|PERU|Peru|Perú|t20847|Iñapari|inapari|-10.945|-69.5773|1626|1637|\N
-159|PE|PERU|Peru|Perú|t20848|Puerto Maldonado|puerto-maldonado|-12.5943|-69.1766|1626|1627|\N
-159|PE|PERU|Peru|Perú|t20849|Omate|omate|-16.6752|-70.9705|1641|1649|1650
-159|PE|PERU|Peru|Perú|t20850|Ilo|ilo|-17.6459|-71.3453|1641|1661|\N
-159|PE|PERU|Peru|Perú|t20851|Moquegua|moquegua|-17.1938|-70.9347|1641|1642|\N
-159|PE|PERU|Peru|Perú|t20852|Yanahuanca|yanahuanca|-10.4915|-76.5144|1665|1680|\N
-159|PE|PERU|Peru|Perú|t20853|Oxapampa|oxapampa|-10.576|-75.403|1665|1689|1690
-159|PE|PERU|Peru|Perú|t20854|Cerro de Pasco|cerro-de-pasco|-10.6837|-76.2567|1665|1666|\N
-159|PE|PERU|Peru|Perú|t20855|Ayabaca|ayabaca|-4.63907|-79.7143|1698|1709|\N
-159|PE|PERU|Peru|Perú|t20856|Huancabamba|huancabamba|-5.23924|-79.4506|1698|1720|\N
-159|PE|PERU|Peru|Perú|t20857|Chulucanas|chulucanas|-5.09654|-80.1609|1698|1729|1730
-159|PE|PERU|Peru|Perú|t20858|Paita|paita|-5.08511|-81.1137|1698|1740|\N
-159|PE|PERU|Peru|Perú|t20859|Piura|piura|-5.19711|-80.6267|1698|1699|\N
-159|PE|PERU|Peru|Perú|t20860|Sechura|sechura|-5.55754|-80.8223|1698|1764|\N
-159|PE|PERU|Peru|Perú|t20861|Sullana|sullana|-4.8901|-80.6874|1698|1748|\N
-159|PE|PERU|Peru|Perú|t20862|Talara|talara|-4.57985|-81.2718|1698|1757|1758
-159|PE|PERU|Peru|Perú|t20863|Azángaro|azangaro|-14.9096|-70.1956|1771|1788|\N
-159|PE|PERU|Peru|Perú|t20864|Macusani|macusani|-14.0681|-70.434|1771|1804|\N
-159|PE|PERU|Peru|Perú|t20865|Juli|juli|-16.2133|-69.4592|1771|1815|\N
-159|PE|PERU|Peru|Perú|t20866|Ilave|ilave|-16.0868|-69.6386|1771|1883|\N
-159|PE|PERU|Peru|Perú|t20867|Huancané|huancane|-15.2019|-69.7612|1771|1823|1824
-159|PE|PERU|Peru|Perú|t20868|Lampa|lampa|-15.3644|-70.3666|1771|1832|\N
-159|PE|PERU|Peru|Perú|t20869|Ayaviri|ayaviri|-14.8819|-70.5901|1771|1843|\N
-159|PE|PERU|Peru|Perú|t20870|Moho|moho|-15.3608|-69.4999|1771|1889|\N
-159|PE|PERU|Peru|Perú|t20871|Puno|puno|-15.8406|-70.0279|1771|1772|\N
-159|PE|PERU|Peru|Perú|t20872|Putina|putina|-14.9142|-69.8685|1771|1877|1878
-159|PE|PERU|Peru|Perú|t20873|Juliaca|juliaca|-15.4964|-70.1315|1771|2405|1865
-159|PE|PERU|Peru|Perú|t20874|Sandia|sandia|-14.2364|-69.4343|1771|1853|\N
-159|PE|PERU|Peru|Perú|t20875|Yunguyo|yunguyo|-16.2442|-69.0928|1771|1869|\N
-159|PE|PERU|Peru|Perú|t20876|Bellavista|bellavista|-7.06685|-76.5848|1894|1952|\N
-159|PE|PERU|Peru|Perú|t20877|San José de Sisa|san-jose-de-sisa|-6.61379|-76.6949|1894|1976|\N
-159|PE|PERU|Peru|Perú|t20878|Saposoa|saposoa|-6.93639|-76.7718|1894|1902|\N
-159|PE|PERU|Peru|Perú|t20879|Lamas|lamas|-6.42186|-76.5161|1894|1909|\N
-159|PE|PERU|Peru|Perú|t20880|Juanjuí|juanjui|-7.18039|-76.7264|1894|1921|\N
-159|PE|PERU|Peru|Perú|t20881|Moyobamba|moyobamba|-6.03473|-76.9747|1894|1895|\N
-159|PE|PERU|Peru|Perú|t20882|Picota|picota|-6.92069|-76.3303|1894|1965|\N
-159|PE|PERU|Peru|Perú|t20883|Rioja|rioja|-6.06112|-77.1684|1894|1927|\N
-159|PE|PERU|Peru|Perú|t20884|Tarapoto|tarapoto|-6.48776|-76.3599|1894|1937|\N
-159|PE|PERU|Peru|Perú|t20885|Tocache|tocache|-8.18871|-76.5102|1894|1959|\N
-159|PE|PERU|Peru|Perú|t20886|Candarave|candarave|-17.2682|-70.2504|1982|2007|\N
-159|PE|PERU|Peru|Perú|t20887|Locumba|locumba|-17.6139|-70.7624|1982|2003|\N
-159|PE|PERU|Peru|Perú|t20888|Tacna|tacna|-18.0138|-70.2509|1982|1983|\N
-159|PE|PERU|Peru|Perú|t20889|Tarata|tarata|-17.4748|-70.0321|1982|1994|1995
-159|PE|PERU|Peru|Perú|t20890|Zorritos|zorritos|-3.68043|-80.68|2014|2022|2023
-159|PE|PERU|Peru|Perú|t20891|Tumbes|tumbes|-3.57075|-80.4596|2014|2015|2016
-159|PE|PERU|Peru|Perú|t20892|Zarumilla|zarumilla|-3.50074|-80.2751|2014|2026|\N
-159|PE|PERU|Peru|Perú|t20893|Atalaya|atalaya|-10.7297|-73.7548|2031|2044|2045
-159|PE|PERU|Peru|Perú|t20894|Pucallpa|pucallpa|-8.38328|-74.5323|2031|2032|2033
-159|PE|PERU|Peru|Perú|t20896|Puerto Esperanza|puerto-esperanza|-9.77266|-70.7099|2031|2049|\N
-159|PE|PERU|Peru|Perú|t21030|Aguaytia|aguaytia|-9.0362|-75.5074|2031|2040|\N
-159|PE|PERU|Peru|Perú|t21320|Aguas Calientes|aguas-calientes|-13.1547|-72.5253|751|865|869
-159|PE|PERU|Peru|Perú|t21323|Barrio Wayku|barrio-wayku|-6.4263|-76.5204|1894|1909|1910
-159|PE|PERU|Peru|Perú|t21324|Cachiche|cachiche|-14.0946|-75.7365|1065|1066|1080
-159|PE|PERU|Peru|Perú|t21330|Padre Cocha|padre-cocha|-3.69855|-73.2778|1567|1568|1578
-159|PE|PERU|Peru|Perú|t21341|Tomayquichua|tomayquichua|-10.0776|-76.2128|976|990|998
-159|PE|PERU|Peru|Perú|t21350|Achoma Yunque|achoma-yunque|-15.6637|-71.6716|368|399|418
-159|PE|PERU|Peru|Perú|t21359|Chosica|chosica|-11.9378|-76.6966|1385|1386|1398
-159|PE|PERU|Peru|Perú|t21361|Catapalla|catapalla|-12.9176|-76.105|1385|1507|1451
-159|PE|PERU|Peru|Perú|t21415|Mancora|mancora|\N|\N|1698|\N|\N
-159|PE|PERU|Peru|Perú|t21416|Vichayito|vichayito|\N|\N|1698|\N|\N
-159|PE|PERU|Peru|Perú|t21417|Punta Sal|punta-sal|\N|\N|1698|\N|\N
-159|PE|PERU|Peru|Perú|t21418|Zorritos|zorritos--2|\N|\N|1698|\N|\N
+159|PE|PERU|Peru|Perú|t|20702|Bagua|bagua|-5.639|-78.5319|1|24|25
+159|PE|PERU|Peru|Perú|t|20703|Jumbilla|jumbilla|-5.90411|-77.7982|1|31|\N
+159|PE|PERU|Peru|Perú|t|20704|Chachapoyas|chachapoyas|-6.22912|-77.8726|1|2|\N
+159|PE|PERU|Peru|Perú|t|20705|Santa María de Nievas|santa-maria-de-nievas|-4.59694|-77.8626|1|81|\N
+159|PE|PERU|Peru|Perú|t|20706|Lámud|lamud|-6.16467|-77.9448|1|44|\N
+159|PE|PERU|Peru|Perú|t|20707|Mendoza|mendoza|-6.39698|-77.4807|1|68|69
+159|PE|PERU|Peru|Perú|t|20708|Bagua Grande|bagua-grande|-5.75448|-78.4419|1|85|\N
+159|PE|PERU|Peru|Perú|t|20709|Aija|aija|-9.78022|-77.6108|93|107|\N
+159|PE|PERU|Peru|Perú|t|20710|Llamellín|llamellin|-9.10104|-77.0168|93|249|\N
+159|PE|PERU|Peru|Perú|t|20711|Chacas|chacas|-9.16296|-77.3665|93|2401|\N
+159|PE|PERU|Peru|Perú|t|20712|Chiquián|chiquian|-10.1512|-77.1571|93|2402|114
+159|PE|PERU|Peru|Perú|t|20713|Carhuaz|carhuaz|-9.28176|-77.6462|93|129|\N
+159|PE|PERU|Peru|Perú|t|20714|San Luis|san-luis|-9.09485|-77.3287|93|256|\N
+159|PE|PERU|Peru|Perú|t|20715|Casma|casma|-9.47598|-78.3056|93|141|142
+159|PE|PERU|Peru|Perú|t|20716|Corongo|corongo|-9.09527|-77.329|93|146|147
+159|PE|PERU|Peru|Perú|t|20717|Huaraz|huaraz|-9.53008|-77.5289|93|94|\N
+159|PE|PERU|Peru|Perú|t|20718|Huari|huari|-9.34955|-77.1733|93|165|\N
+159|PE|PERU|Peru|Perú|t|20719|Huarmey|huarmey|-10.0688|-78.1522|93|263|\N
+159|PE|PERU|Peru|Perú|t|20720|Caraz|caraz|-9.04853|-77.81|93|154|\N
+159|PE|PERU|Peru|Perú|t|20721|Piscobamba|piscobamba|-8.86539|-77.3575|93|182|\N
+159|PE|PERU|Peru|Perú|t|20722|Ocros|ocros|-10.4039|-77.3969|93|269|276
+159|PE|PERU|Peru|Perú|t|20723|Cabana|cabana|-8.39289|-78.0091|93|191|\N
+159|PE|PERU|Peru|Perú|t|20724|Pomabamba|pomabamba|-8.82053|-77.4604|93|203|\N
+159|PE|PERU|Peru|Perú|t|20725|Recuay|recuay|-9.72206|-77.4561|93|208|\N
+159|PE|PERU|Peru|Perú|t|20726|Chimbote|chimbote|-9.07455|-78.5936|93|219|\N
+159|PE|PERU|Peru|Perú|t|20727|Sihuas|sihuas|-8.55586|-77.6306|93|229|\N
+159|PE|PERU|Peru|Perú|t|20728|Yungay|yungay|-8.55565|-77.6307|93|240|\N
+159|PE|PERU|Peru|Perú|t|20729|Abancay|abancay|-13.6373|-72.8789|280|281|\N
+159|PE|PERU|Peru|Perú|t|20730|Andahuaylas|andahuaylas|-13.6564|-73.39|280|309|\N
+159|PE|PERU|Peru|Perú|t|20731|Antabamba|antabamba|-14.3649|-72.8775|280|329|\N
+159|PE|PERU|Peru|Perú|t|20732|Chalhuanca|chalhuanca|-14.2947|-73.2441|280|291|\N
+159|PE|PERU|Peru|Perú|t|20733|Chincheros|chincheros|-13.518|-73.7235|280|359|\N
+159|PE|PERU|Peru|Perú|t|20734|Tambobamba|tambobamba|-13.9463|-72.1744|280|337|\N
+159|PE|PERU|Peru|Perú|t|20735|Chuquibambilla|chuquibambilla|-14.1053|-72.7076|280|344|\N
+159|PE|PERU|Peru|Perú|t|20736|Arequipa|arequipa|-16.3988|-71.5369|368|369|\N
+159|PE|PERU|Peru|Perú|t|20737|Camaná|camana|-16.6249|-72.7116|368|420|\N
+159|PE|PERU|Peru|Perú|t|20738|Caravelí|caraveli|-15.7722|-73.3655|368|429|\N
+159|PE|PERU|Peru|Perú|t|20739|Aplao|aplao|-16.0765|-72.4921|368|443|\N
+159|PE|PERU|Peru|Perú|t|20740|Chivay|chivay|-15.6367|-71.6021|368|399|\N
+159|PE|PERU|Peru|Perú|t|20741|Chuquibamba|chuquibamba|-15.8392|-72.6515|368|458|\N
+159|PE|PERU|Peru|Perú|t|20742|Mollendo|mollendo|-17.0304|-72.0148|368|467|\N
+159|PE|PERU|Peru|Perú|t|20743|Cotahuasi|cotahuasi|-15.2106|-72.8928|368|474|475
+159|PE|PERU|Peru|Perú|t|20744|Cangallo|cangallo|-13.6294|-74.1436|486|503|\N
+159|PE|PERU|Peru|Perú|t|20745|Ayacucho|ayacucho|-13.1604|-74.2258|486|487|\N
+159|PE|PERU|Peru|Perú|t|20746|Huanca Sancos|huanca-sancos|-13.92|-74.334|486|573|577
+159|PE|PERU|Peru|Perú|t|20747|Huanta|huanta|-12.9386|-74.2476|486|510|\N
+159|PE|PERU|Peru|Perú|t|20748|San Miguel|san-miguel|-13.0126|-73.9811|486|519|\N
+159|PE|PERU|Peru|Perú|t|20749|Puquio|puquio|-14.694|-74.1242|486|529|\N
+159|PE|PERU|Peru|Perú|t|20750|Coracora|coracora|-15.017|-73.78|486|551|\N
+159|PE|PERU|Peru|Perú|t|20751|Pausa|pausa|-15.2789|-73.3444|486|587|588
+159|PE|PERU|Peru|Perú|t|20752|Querobamba|querobamba|-14.0113|-73.8388|486|598|599
+159|PE|PERU|Peru|Perú|t|20753|Huancapi|huancapi|-13.7526|-74.0664|486|560|\N
+159|PE|PERU|Peru|Perú|t|20754|Vilcashuamán|vilcashuaman|-13.6531|-73.954|486|2403|\N
+159|PE|PERU|Peru|Perú|t|20755|Cajabamba|cajabamba|-7.62373|-78.046|610|624|625
+159|PE|PERU|Peru|Perú|t|20756|Cajamarca|cajamarca|-7.15704|-78.5175|610|611|\N
+159|PE|PERU|Peru|Perú|t|20757|Celendín|celendin|-6.86551|-78.1455|610|629|\N
+159|PE|PERU|Peru|Perú|t|20758|Chota|chota|-6.56107|-78.6507|610|667|\N
+159|PE|PERU|Peru|Perú|t|20759|Contumazá|contumaza|-7.36632|-78.805|610|642|643
+159|PE|PERU|Peru|Perú|t|20760|Cutervo|cutervo|-6.37736|-78.8183|610|651|652
+159|PE|PERU|Peru|Perú|t|20761|Bambamarca|bambamarca|-6.68106|-78.5214|610|687|688
+159|PE|PERU|Peru|Perú|t|20762|Jaén|jaen|-5.70876|-78.8077|610|691|\N
+159|PE|PERU|Peru|Perú|t|20763|San Ignacio|san-ignacio|-5.14637|-79.0024|610|730|\N
+159|PE|PERU|Peru|Perú|t|20764|San Marcos|san-marcos|-7.33565|-78.1697|610|738|\N
+159|PE|PERU|Peru|Perú|t|20765|San Miguel de Pallaques|san-miguel-de-pallaques|-7.00035|-78.8514|610|716|\N
+159|PE|PERU|Peru|Perú|t|20766|San Pablo|san-pablo|-7.11278|-78.8208|610|746|\N
+159|PE|PERU|Peru|Perú|t|20767|Santa Cruz de Succhabamba|santa-cruz-de-succhabamba|-6.71175|-78.9363|610|704|\N
+159|PE|PERU|Peru|Perú|t|20768|Callao|callao|-12.0629|-77.149|2406|2404|\N
+159|PE|PERU|Peru|Perú|t|20769|Acomayo|acomayo|-13.9193|-71.6833|751|761|\N
+159|PE|PERU|Peru|Perú|t|20770|Anta|anta|-13.4794|-72.1114|751|769|\N
+159|PE|PERU|Peru|Perú|t|20771|Calca|calca|-13.3218|-71.9561|751|779|\N
+159|PE|PERU|Peru|Perú|t|20772|Yanaoca|yanaoca|-14.2172|-71.432|751|788|789
+159|PE|PERU|Peru|Perú|t|20773|Sicuani|sicuani|-14.272|-71.2268|751|797|\N
+159|PE|PERU|Peru|Perú|t|20774|Santo Tomás|santo-tomas|-14.4502|-72.0818|751|806|\N
+159|PE|PERU|Peru|Perú|t|20775|Cusco|cusco|-13.5168|-71.9788|751|752|\N
+159|PE|PERU|Peru|Perú|t|20776|Espinar|espinar|-14.793|-71.4126|751|815|\N
+159|PE|PERU|Peru|Perú|t|20777|Quillabamba|quillabamba|-12.8634|-72.6929|751|824|825
+159|PE|PERU|Peru|Perú|t|20778|Paruro|paruro|-13.7614|-71.8473|751|835|\N
+159|PE|PERU|Peru|Perú|t|20779|Paucartambo|paucartambo|-13.3173|-71.5969|751|845|\N
+159|PE|PERU|Peru|Perú|t|20780|Urcos|urcos|-13.6856|-71.623|751|852|\N
+159|PE|PERU|Peru|Perú|t|20781|Urubamba|urubamba|-13.3061|-72.116|751|865|\N
+159|PE|PERU|Peru|Perú|t|20782|Acobamba|acobamba|-12.8424|-74.5693|873|894|895
+159|PE|PERU|Peru|Perú|t|20783|Lircay|lircay|-12.9897|-74.7205|873|903|\N
+159|PE|PERU|Peru|Perú|t|20784|Castrovirreyna|castrovirreyna|-13.2834|-75.3191|873|916|917
+159|PE|PERU|Peru|Perú|t|20785|Churcampa|churcampa|-12.7374|-74.4316|873|964|965
+159|PE|PERU|Peru|Perú|t|20786|Huancavelica|huancavelica|-12.7872|-74.9731|873|874|\N
+159|PE|PERU|Peru|Perú|t|20787|Huaytará|huaytara|-13.6045|-75.3531|873|947|\N
+159|PE|PERU|Peru|Perú|t|20788|Pampas|pampas|-12.3986|-74.8683|873|930|\N
+159|PE|PERU|Peru|Perú|t|20789|Ambo|ambo|-10.1293|-76.2045|976|990|\N
+159|PE|PERU|Peru|Perú|t|20790|La Unión|la-union|-9.77012|-76.7847|976|999|1000
+159|PE|PERU|Peru|Perú|t|20791|Huacaybamba|huacaybamba|-9.0953|-76.8367|976|1043|1044
+159|PE|PERU|Peru|Perú|t|20792|Llata|llata|-9.55036|-76.8156|976|1009|\N
+159|PE|PERU|Peru|Perú|t|20793|Huánuco|huanuco|-9.92947|-76.2397|976|977|\N
+159|PE|PERU|Peru|Perú|t|20794|Jesús|jesus|-10.0336|-76.582|976|1048|1049
+159|PE|PERU|Peru|Perú|t|20795|Tingo María|tingo-maria|-9.29841|-76.0003|976|1025|1026
+159|PE|PERU|Peru|Perú|t|20796|Huacrachuco|huacrachuco|-8.63964|-77.0687|976|1021|1022
+159|PE|PERU|Peru|Perú|t|20797|Panao|panao|-9.89849|-75.9939|976|1032|\N
+159|PE|PERU|Peru|Perú|t|20798|Puerto Inca|puerto-inca|-9.37717|-74.9649|976|1037|\N
+159|PE|PERU|Peru|Perú|t|20799|Chavinillo|chavinillo|-9.78138|-76.5827|976|1056|1057
+159|PE|PERU|Peru|Perú|t|20800|Chincha Alta|chincha-alta|-13.4176|-76.1326|1065|1081|\N
+159|PE|PERU|Peru|Perú|t|20801|Ica|ica|-14.064|-75.7291|1065|1066|\N
+159|PE|PERU|Peru|Perú|t|20802|Nazca|nazca|-14.8277|-74.9371|1065|1093|\N
+159|PE|PERU|Peru|Perú|t|20803|Palpa|palpa|-14.5337|-75.1852|1065|1108|\N
+159|PE|PERU|Peru|Perú|t|20804|Pisco|pisco|-13.71|-76.2031|1065|1099|\N
+159|PE|PERU|Peru|Perú|t|20805|La Merced|la-merced|-11.0623|-75.3351|1114|1230|1231
+159|PE|PERU|Peru|Perú|t|20806|Chupaca|chupaca|-12.0618|-75.2877|1114|1237|\N
+159|PE|PERU|Peru|Perú|t|20807|Concepción|concepcion|-11.9186|-75.3129|1114|1144|\N
+159|PE|PERU|Peru|Perú|t|20808|Huancayo|huancayo|-12.0681|-75.2101|1114|1115|1116
+159|PE|PERU|Peru|Perú|t|20809|Jauja|jauja|-11.7753|-75.5|1114|1160|\N
+159|PE|PERU|Peru|Perú|t|20810|Junín|junin|-11.1616|-75.9982|1114|1195|\N
+159|PE|PERU|Peru|Perú|t|20811|Satipo|satipo|-11.254|-74.6366|1114|1221|\N
+159|PE|PERU|Peru|Perú|t|20812|Tarma|tarma|-11.4201|-75.6876|1114|1200|\N
+159|PE|PERU|Peru|Perú|t|20813|La Oroya|la-oroya|-11.5163|-75.8999|1114|1210|\N
+159|PE|PERU|Peru|Perú|t|20814|Ascope|ascope|-7.71383|-79.1074|1247|1316|1317
+159|PE|PERU|Peru|Perú|t|20815|Bolívar|bolivar|-7.15406|-77.7012|1247|1260|\N
+159|PE|PERU|Peru|Perú|t|20816|Chepén|chepen|-7.22718|-79.4298|1247|1325|\N
+159|PE|PERU|Peru|Perú|t|20817|Cascas|cascas|-7.47948|-78.8194|1247|1334|\N
+159|PE|PERU|Peru|Perú|t|20818|Julcán|julcan|-8.04261|-78.4867|1247|1329|1330
+159|PE|PERU|Peru|Perú|t|20819|Otuzco|otuzco|-7.90254|-78.5656|1247|1276|\N
+159|PE|PERU|Peru|Perú|t|20820|San Pedro de Lloc|san-pedro-de-lloc|-7.43199|-79.5043|1247|1287|\N
+159|PE|PERU|Peru|Perú|t|20821|Tayabamba|tayabamba|-8.27731|-77.2965|1247|1293|1294
+159|PE|PERU|Peru|Perú|t|20822|Huamachuco|huamachuco|-7.81209|-78.0488|1247|1267|\N
+159|PE|PERU|Peru|Perú|t|20823|Santiago de Chuco|santiago-de-chuco|-8.15308|-78.1771|1247|1307|1308
+159|PE|PERU|Peru|Perú|t|20824|Trujillo|trujillo|-8.11185|-79.0287|1247|1248|\N
+159|PE|PERU|Peru|Perú|t|20825|Virú|viru|-8.41434|-78.7524|1247|1339|1340
+159|PE|PERU|Peru|Perú|t|20826|Chiclayo|chiclayo|-6.76034|-79.835|1343|1344|\N
+159|PE|PERU|Peru|Perú|t|20827|Ferreñafe|ferrenafe|-6.63918|-79.788|1343|1365|\N
+159|PE|PERU|Peru|Perú|t|20828|Lambayeque|lambayeque|-6.70408|-79.9062|1343|1372|\N
+159|PE|PERU|Peru|Perú|t|20829|Barranca|barranca|-10.7541|-77.7608|1385|1554|\N
+159|PE|PERU|Peru|Perú|t|20830|Cajatambo|cajatambo|-10.473|-76.9928|1385|1430|\N
+159|PE|PERU|Peru|Perú|t|20831|San Vicente de Cañete|san-vicente-de-canete|-13.0778|-76.3874|1385|1444|1445
+159|PE|PERU|Peru|Perú|t|20832|Canta|canta|-11.467|-76.6247|1385|1436|\N
+159|PE|PERU|Peru|Perú|t|20833|Huaral|huaral|-11.4954|-77.2072|1385|1541|\N
+159|PE|PERU|Peru|Perú|t|20834|Matucana|matucana|-11.8447|-76.3861|1385|1474|1475
+159|PE|PERU|Peru|Perú|t|20835|Huacho|huacho|-11.1085|-77.6104|1385|1461|1462
+159|PE|PERU|Peru|Perú|t|20836|Lima|lima|-12.046|-77.0307|1385|1386|\N
+159|PE|PERU|Peru|Perú|t|20837|Oyón|oyon|-10.6681|-76.7732|1385|1560|\N
+159|PE|PERU|Peru|Perú|t|20838|Yauyos|yauyos|-12.464|-75.9232|1385|1507|1508
+159|PE|PERU|Peru|Perú|t|20839|Yurimaguas|yurimaguas|-5.89527|-76.1044|1567|1582|\N
+159|PE|PERU|Peru|Perú|t|20840|San Lorenzo|san-lorenzo|-5.91698|-76.167|1567|1619|\N
+159|PE|PERU|Peru|Perú|t|20841|Nauta|nauta|-4.50812|-73.579|1567|1589|\N
+159|PE|PERU|Peru|Perú|t|20842|Caballococha|caballococha|-3.90597|-70.5168|1567|1614|\N
+159|PE|PERU|Peru|Perú|t|20843|Iquitos|iquitos|-3.74926|-73.2443|1567|1568|\N
+159|PE|PERU|Peru|Perú|t|20844|Requena|requena|-5.06075|-73.85|1567|1595|\N
+159|PE|PERU|Peru|Perú|t|20845|Contamana|contamana|-7.3506|-75.0092|1567|1607|\N
+159|PE|PERU|Peru|Perú|t|20846|Salvación|salvacion|-12.8364|-71.3609|1626|1632|\N
+159|PE|PERU|Peru|Perú|t|20847|Iñapari|inapari|-10.945|-69.5773|1626|1637|\N
+159|PE|PERU|Peru|Perú|t|20848|Puerto Maldonado|puerto-maldonado|-12.5943|-69.1766|1626|1627|\N
+159|PE|PERU|Peru|Perú|t|20849|Omate|omate|-16.6752|-70.9705|1641|1649|1650
+159|PE|PERU|Peru|Perú|t|20850|Ilo|ilo|-17.6459|-71.3453|1641|1661|\N
+159|PE|PERU|Peru|Perú|t|20851|Moquegua|moquegua|-17.1938|-70.9347|1641|1642|\N
+159|PE|PERU|Peru|Perú|t|20852|Yanahuanca|yanahuanca|-10.4915|-76.5144|1665|1680|\N
+159|PE|PERU|Peru|Perú|t|20853|Oxapampa|oxapampa|-10.576|-75.403|1665|1689|1690
+159|PE|PERU|Peru|Perú|t|20854|Cerro de Pasco|cerro-de-pasco|-10.6837|-76.2567|1665|1666|\N
+159|PE|PERU|Peru|Perú|t|20855|Ayabaca|ayabaca|-4.63907|-79.7143|1698|1709|\N
+159|PE|PERU|Peru|Perú|t|20856|Huancabamba|huancabamba|-5.23924|-79.4506|1698|1720|\N
+159|PE|PERU|Peru|Perú|t|20857|Chulucanas|chulucanas|-5.09654|-80.1609|1698|1729|1730
+159|PE|PERU|Peru|Perú|t|20858|Paita|paita|-5.08511|-81.1137|1698|1740|\N
+159|PE|PERU|Peru|Perú|t|20859|Piura|piura|-5.19711|-80.6267|1698|1699|\N
+159|PE|PERU|Peru|Perú|t|20860|Sechura|sechura|-5.55754|-80.8223|1698|1764|\N
+159|PE|PERU|Peru|Perú|t|20861|Sullana|sullana|-4.8901|-80.6874|1698|1748|\N
+159|PE|PERU|Peru|Perú|t|20862|Talara|talara|-4.57985|-81.2718|1698|1757|1758
+159|PE|PERU|Peru|Perú|t|20863|Azángaro|azangaro|-14.9096|-70.1956|1771|1788|\N
+159|PE|PERU|Peru|Perú|t|20864|Macusani|macusani|-14.0681|-70.434|1771|1804|\N
+159|PE|PERU|Peru|Perú|t|20865|Juli|juli|-16.2133|-69.4592|1771|1815|\N
+159|PE|PERU|Peru|Perú|t|20866|Ilave|ilave|-16.0868|-69.6386|1771|1883|\N
+159|PE|PERU|Peru|Perú|t|20867|Huancané|huancane|-15.2019|-69.7612|1771|1823|1824
+159|PE|PERU|Peru|Perú|t|20868|Lampa|lampa|-15.3644|-70.3666|1771|1832|\N
+159|PE|PERU|Peru|Perú|t|20869|Ayaviri|ayaviri|-14.8819|-70.5901|1771|1843|\N
+159|PE|PERU|Peru|Perú|t|20870|Moho|moho|-15.3608|-69.4999|1771|1889|\N
+159|PE|PERU|Peru|Perú|t|20871|Puno|puno|-15.8406|-70.0279|1771|1772|\N
+159|PE|PERU|Peru|Perú|t|20872|Putina|putina|-14.9142|-69.8685|1771|1877|1878
+159|PE|PERU|Peru|Perú|t|20873|Juliaca|juliaca|-15.4964|-70.1315|1771|2405|1865
+159|PE|PERU|Peru|Perú|t|20874|Sandia|sandia|-14.2364|-69.4343|1771|1853|\N
+159|PE|PERU|Peru|Perú|t|20875|Yunguyo|yunguyo|-16.2442|-69.0928|1771|1869|\N
+159|PE|PERU|Peru|Perú|t|20876|Bellavista|bellavista|-7.06685|-76.5848|1894|1952|\N
+159|PE|PERU|Peru|Perú|t|20877|San José de Sisa|san-jose-de-sisa|-6.61379|-76.6949|1894|1976|\N
+159|PE|PERU|Peru|Perú|t|20878|Saposoa|saposoa|-6.93639|-76.7718|1894|1902|\N
+159|PE|PERU|Peru|Perú|t|20879|Lamas|lamas|-6.42186|-76.5161|1894|1909|\N
+159|PE|PERU|Peru|Perú|t|20880|Juanjuí|juanjui|-7.18039|-76.7264|1894|1921|\N
+159|PE|PERU|Peru|Perú|t|20881|Moyobamba|moyobamba|-6.03473|-76.9747|1894|1895|\N
+159|PE|PERU|Peru|Perú|t|20882|Picota|picota|-6.92069|-76.3303|1894|1965|\N
+159|PE|PERU|Peru|Perú|t|20883|Rioja|rioja|-6.06112|-77.1684|1894|1927|\N
+159|PE|PERU|Peru|Perú|t|20884|Tarapoto|tarapoto|-6.48776|-76.3599|1894|1937|\N
+159|PE|PERU|Peru|Perú|t|20885|Tocache|tocache|-8.18871|-76.5102|1894|1959|\N
+159|PE|PERU|Peru|Perú|t|20886|Candarave|candarave|-17.2682|-70.2504|1982|2007|\N
+159|PE|PERU|Peru|Perú|t|20887|Locumba|locumba|-17.6139|-70.7624|1982|2003|\N
+159|PE|PERU|Peru|Perú|t|20888|Tacna|tacna|-18.0138|-70.2509|1982|1983|\N
+159|PE|PERU|Peru|Perú|t|20889|Tarata|tarata|-17.4748|-70.0321|1982|1994|1995
+159|PE|PERU|Peru|Perú|t|20890|Zorritos|zorritos|-3.68043|-80.68|2014|2022|2023
+159|PE|PERU|Peru|Perú|t|20891|Tumbes|tumbes|-3.57075|-80.4596|2014|2015|2016
+159|PE|PERU|Peru|Perú|t|20892|Zarumilla|zarumilla|-3.50074|-80.2751|2014|2026|\N
+159|PE|PERU|Peru|Perú|t|20893|Atalaya|atalaya|-10.7297|-73.7548|2031|2044|2045
+159|PE|PERU|Peru|Perú|t|20894|Pucallpa|pucallpa|-8.38328|-74.5323|2031|2032|2033
+159|PE|PERU|Peru|Perú|t|20896|Puerto Esperanza|puerto-esperanza|-9.77266|-70.7099|2031|2049|\N
+159|PE|PERU|Peru|Perú|t|21030|Aguaytia|aguaytia|-9.0362|-75.5074|2031|2040|\N
+159|PE|PERU|Peru|Perú|t|21320|Aguas Calientes|aguas-calientes|-13.1547|-72.5253|751|865|869
+159|PE|PERU|Peru|Perú|t|21323|Barrio Wayku|barrio-wayku|-6.4263|-76.5204|1894|1909|1910
+159|PE|PERU|Peru|Perú|t|21324|Cachiche|cachiche|-14.0946|-75.7365|1065|1066|1080
+159|PE|PERU|Peru|Perú|t|21330|Padre Cocha|padre-cocha|-3.69855|-73.2778|1567|1568|1578
+159|PE|PERU|Peru|Perú|t|21341|Tomayquichua|tomayquichua|-10.0776|-76.2128|976|990|998
+159|PE|PERU|Peru|Perú|t|21350|Achoma Yunque|achoma-yunque|-15.6637|-71.6716|368|399|418
+159|PE|PERU|Peru|Perú|t|21359|Chosica|chosica|-11.9378|-76.6966|1385|1386|1398
+159|PE|PERU|Peru|Perú|t|21361|Catapalla|catapalla|-12.9176|-76.105|1385|1507|1451
+159|PE|PERU|Peru|Perú|t|21415|Mancora|mancora|\N|\N|1698|\N|\N
+159|PE|PERU|Peru|Perú|t|21416|Vichayito|vichayito|\N|\N|1698|\N|\N
+159|PE|PERU|Peru|Perú|t|21417|Punta Sal|punta-sal|\N|\N|1698|\N|\N
+159|PE|PERU|Peru|Perú|t|21418|Zorritos|zorritos--2|\N|\N|1698|\N|\N

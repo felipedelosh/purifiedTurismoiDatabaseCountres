@@ -1,0 +1,123 @@
+26263|Ciudad de Belice|ciudad-de-belice|NULL|NULL|26262|NULL|NULL
+26264|Cayo Ambergris|cayo-ambergris|NULL|NULL|26262|NULL|NULL
+26265|Cayo Caulker|cayo-caulker|NULL|NULL|26262|NULL|NULL
+26266|Cayo San Jorge|cayo-san-jorge|NULL|NULL|26262|NULL|NULL
+26267|Cayo Goff|cayo-goff|NULL|NULL|26262|NULL|NULL
+26269|Belmopán|belmopan|NULL|NULL|26268|NULL|NULL
+26270|San Ignacio|san-ignacio|NULL|NULL|26268|NULL|NULL
+26271|Benque Viejo del Carmen|benque-viejo-del-carmen|NULL|NULL|26268|NULL|NULL
+26272|San Antonio|san-antonio-26272|NULL|NULL|26268|NULL|NULL
+26273|Valle de Paz|valle-de-paz|NULL|NULL|26268|NULL|NULL
+26274|St. Margret's|st-margret-s|NULL|NULL|26268|NULL|NULL
+26275|Roaring Creek|roaring-creek|NULL|NULL|26268|NULL|NULL
+26276|Albaina|albaina|NULL|NULL|26268|NULL|NULL
+26277|San José Succotz|san-jose-succotz|NULL|NULL|26268|NULL|NULL
+26278|Arenal|arenal|NULL|NULL|26268|NULL|NULL
+26279|Buena Vista|buena-vista-26279|NULL|NULL|26268|NULL|NULL
+26280|Bullet Tree Falls|bullet-tree-falls|NULL|NULL|26268|NULL|NULL
+26281|Calla Creek|calla-creek|NULL|NULL|26268|NULL|NULL
+26282|Chorro|chorro|NULL|NULL|26268|NULL|NULL
+26283|Dry Creek Bank|dry-creek-bank|NULL|NULL|26268|NULL|NULL
+26284|Garbutt's Falls|garbutt-s-falls|NULL|NULL|26268|NULL|NULL
+26285|Spanish Lookout|spanish-lookout|NULL|NULL|26268|NULL|NULL
+26286|Toro|toro|NULL|NULL|26268|NULL|NULL
+26287|Vaca|vaca|NULL|NULL|26268|NULL|NULL
+26288|Providencien|providencien|NULL|NULL|26268|NULL|NULL
+26290|Corozal Town|corozal-town|NULL|NULL|26289|NULL|NULL
+26291|Benque Viejo|benque-viejo|NULL|NULL|26289|NULL|NULL
+26292|Calcutta|calcutta|NULL|NULL|26289|NULL|NULL
+26293|Campa Pita|campa-pita|NULL|NULL|26289|NULL|NULL
+26294|Chacan Chac Mol|chacan-chac-mol|NULL|NULL|26289|NULL|NULL
+26295|Chan Chen|chan-chen|NULL|NULL|26289|NULL|NULL
+26296|Chunch|chunch|NULL|NULL|26289|NULL|NULL
+26297|Chunox|chunox|NULL|NULL|26289|NULL|NULL
+26298|Cocos|cocos|NULL|NULL|26289|NULL|NULL
+26299|Consejo|consejo|NULL|NULL|26289|NULL|NULL
+26300|Copper Bank|copper-bank|NULL|NULL|26289|NULL|NULL
+26301|Corozalito|corozalito|NULL|NULL|26289|NULL|NULL
+26302|Cowpen|cowpen|NULL|NULL|26289|NULL|NULL
+26303|Estero|estero|NULL|NULL|26289|NULL|NULL
+26304|Laguna|laguna|NULL|NULL|26289|NULL|NULL
+26305|Libertad|libertad-26305|NULL|NULL|26289|NULL|NULL
+26306|Little Belize|little-belize|NULL|NULL|26289|NULL|NULL
+26307|Louisville|louisville|NULL|NULL|26289|NULL|NULL
+26308|Paraíso|paraiso-26308|NULL|NULL|26289|NULL|NULL
+26309|Patchacan|patchacan|NULL|NULL|26289|NULL|NULL
+26310|Progreso|progreso-26310|NULL|NULL|26289|NULL|NULL
+26311|Puebla Nueva|puebla-nueva|NULL|NULL|26289|NULL|NULL
+26312|Ranchito|ranchito|NULL|NULL|26289|NULL|NULL
+26313|Remate|remate|NULL|NULL|26289|NULL|NULL
+26314|San Joaquín|san-joaquin-26314|NULL|NULL|26289|NULL|NULL
+26315|Saltillo|saltillo|NULL|NULL|26289|NULL|NULL
+26316|Sarteneja|sarteneja|NULL|NULL|26289|NULL|NULL
+26317|Shipstern|shipstern|NULL|NULL|26289|NULL|NULL
+26318|Tacistal|tacistal|NULL|NULL|26289|NULL|NULL
+26319|Xaibe|xaibe|NULL|NULL|26289|NULL|NULL
+26320|Xcanluum|xcanluum|NULL|NULL|26289|NULL|NULL
+26322|Orange Walk Town|orange-walk-town|NULL|NULL|26321|NULL|NULL
+26323|August Pine Ridge|august-pine-ridge|NULL|NULL|26321|NULL|NULL
+26324|Blue Creek Village|blue-creek-village|NULL|NULL|26321|NULL|NULL
+26325|Carmelita|carmelita|NULL|NULL|26321|NULL|NULL
+26326|Esperanza|esperanza-26326|NULL|NULL|26321|NULL|NULL
+26327|Indian Church|indian-church|NULL|NULL|26321|NULL|NULL
+26328|Guinea Grass Town|guinea-grass-town|NULL|NULL|26321|NULL|NULL
+26329|Little Bermudian Landing|little-bermudian-landing|NULL|NULL|26321|NULL|NULL
+26330|Piedregal|piedregal|NULL|NULL|26321|NULL|NULL
+26331|Ramonal|ramonal|NULL|NULL|26321|NULL|NULL
+26332|Rancho|rancho|NULL|NULL|26321|NULL|NULL
+26333|Rejolla|rejolla|NULL|NULL|26321|NULL|NULL
+26334|San Antonio|san-antonio-26334|NULL|NULL|26321|NULL|NULL
+26335|San Carlos|san-carlos-26335|NULL|NULL|26321|NULL|NULL
+26336|San Esteban|san-esteban|NULL|NULL|26321|NULL|NULL
+26337|San Felipe|san-felipe-26337|NULL|NULL|26321|NULL|NULL
+26338|San José|san-jose-26338|NULL|NULL|26321|NULL|NULL
+26339|San Juan Bank|san-juan-bank|NULL|NULL|26321|NULL|NULL
+26340|San Lázaro|san-lazaro-26340|NULL|NULL|26321|NULL|NULL
+26341|San Pablo|san-pablo-26341|NULL|NULL|26321|NULL|NULL
+26342|San Román|san-roman|NULL|NULL|26321|NULL|NULL
+26343|Santa Cruz|santa-cruz-26343|NULL|NULL|26321|NULL|NULL
+26344|Shipyard|shipyard|NULL|NULL|26321|NULL|NULL
+26345|Trial Farm|trial-farm|NULL|NULL|26321|NULL|NULL
+26346|Trinidad|trinidad-26346|NULL|NULL|26321|NULL|NULL
+26347|Vaqueros|vaqueros|NULL|NULL|26321|NULL|NULL
+26348|Wamil|wamil|NULL|NULL|26321|NULL|NULL
+26349|Warrie Camp|warrie-camp|NULL|NULL|26321|NULL|NULL
+26350|Xcanha|xcanha|NULL|NULL|26321|NULL|NULL
+26351|Yo Creek|yo-creek|NULL|NULL|26321|NULL|NULL
+26353|Dangriga|dangriga|NULL|NULL|26352|NULL|NULL
+26354|Big Creek|big-creek|NULL|NULL|26352|NULL|NULL
+26355|Placencia|placencia|NULL|NULL|26352|NULL|NULL
+26356|Alta Vista|alta-vista|NULL|NULL|26352|NULL|NULL
+26357|Commerce Bight|commerce-bight|NULL|NULL|26352|NULL|NULL
+26358|Dancing Pool|dancing-pool|NULL|NULL|26352|NULL|NULL
+26359|Georgetown|georgetown|NULL|NULL|26352|NULL|NULL
+26360|Guana Church Bank|guana-church-bank|NULL|NULL|26352|NULL|NULL
+26361|High Sand|high-sand|NULL|NULL|26352|NULL|NULL
+26362|Independence and Mango Creek|independence-and-mango-creek|NULL|NULL|26352|NULL|NULL
+26363|Kendal|kendal|NULL|NULL|26352|NULL|NULL
+26364|Lagarto Bank|lagarto-bank|NULL|NULL|26352|NULL|NULL
+26365|Maya Mopan|maya-mopan|NULL|NULL|26352|NULL|NULL
+26366|Middle Bank|middle-bank|NULL|NULL|26352|NULL|NULL
+26367|Middlesex|middlesex|NULL|NULL|26352|NULL|NULL
+26368|Mullins River|mullins-river|NULL|NULL|26352|NULL|NULL
+26369|New Home|new-home|NULL|NULL|26352|NULL|NULL
+26370|Pomona|pomona|NULL|NULL|26352|NULL|NULL
+26371|Quarry Hill|quarry-hill|NULL|NULL|26352|NULL|NULL
+26372|Rancho Grande|rancho-grande|NULL|NULL|26352|NULL|NULL
+26373|Red Bank|red-bank|NULL|NULL|26352|NULL|NULL
+26374|Regalía|regalia|NULL|NULL|26352|NULL|NULL
+26375|Sarawina|sarawina|NULL|NULL|26352|NULL|NULL
+26376|Silver Creek Camp|silver-creek-camp|NULL|NULL|26352|NULL|NULL
+26377|Sittee|sittee|NULL|NULL|26352|NULL|NULL
+26378|Garífuna|garifuna|NULL|NULL|26352|NULL|NULL
+26379|Hopkins|hopkins|NULL|NULL|26352|NULL|NULL
+26381|Punta Gorda|punta-gorda|NULL|NULL|26380|NULL|NULL
+26382|Silver Creek|silver-creek|NULL|NULL|26380|NULL|NULL
+26383|Toledo Settlement|toledo-settlement|NULL|NULL|26380|NULL|NULL
+26384|Monkey River Town|monkey-river-town|NULL|NULL|26380|NULL|NULL
+26385|Big Falls|big-falls|NULL|NULL|26380|NULL|NULL
+26386|San Pedro Columbia|san-pedro-columbia|NULL|NULL|26380|NULL|NULL
+26387|Aguacate|aguacate|NULL|NULL|26380|NULL|NULL
+26388|Mango Creek|mango-creek|NULL|NULL|26380|NULL|NULL
+26389|Blue Creek|blue-creek|NULL|NULL|26380|NULL|NULL
+26390|Puerto de Big Creek|puerto-de-big-creek|NULL|NULL|26380|NULL|NULL

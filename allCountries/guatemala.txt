@@ -1,0 +1,341 @@
+82|GT|GUATEMALA|Guatemala|Guatemala|t24817|Cobán|coban|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24818|San Pedro Carchá|san-pedro-carcha|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24819|San Juan Chamelco|san-juan-chamelco|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24820|San Cristóbal Verapaz|san-cristobal-verapaz|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24821|Tactic|tactic|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24822|Tucuru|tucuru|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24823|Tamahú|tamahu|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24824|Panzós|panzos|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24825|Senahú|senahu|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24826|Cahabón|cahabon|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24827|Lanquín|lanquin|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24828|Chahal|chahal|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24829|Fray Bartolomé de las Casas|fray-bartolome-de-las-casas|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24830|Chisec|chisec|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24831|Santa Cruz Verapaz|santa-cruz-verapaz|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24832|Santa Catalina La Tinta|santa-catalina-la-tinta|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24833|Raxruhá|raxruha|NULL|NULL|24816|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24835|Cubulco|cubulco|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24836|Santa Cruz el Chol|santa-cruz-el-chol|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24837|Granados|granados|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24838|Purulhá|purulha|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24839|Rabinal|rabinal|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24840|Salamá|salama|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24841|San Miguel Chicaj|san-miguel-chicaj|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24842|San Jerónimo|san-jeronimo|NULL|NULL|24834|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24844|Chimaltenango|chimaltenango|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24845|San José Poaquíl|san-jose-poaquil|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24846|San Martín Jilotepeque|san-martin-jilotepeque|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24847|San Juan Comalapa|san-juan-comalapa|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24848|Santa Apolonia|santa-apolonia|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24849|Tecpán Guatemala|tecpan-guatemala|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24850|Patzún|patzun|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24851|Pochuta|pochuta|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24852|Patzicía|patzicia|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24853|Santa Cruz Balanyá|santa-cruz-balanya|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24854|Acatenango|acatenango|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24855|San Pedro Yepocapa|san-pedro-yepocapa|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24856|San Andrés Itzapa|san-andres-itzapa|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24857|Parramos|parramos|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24858|Zaragoza|zaragoza|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24859|El Tejar|el-tejar-24859|NULL|NULL|24843|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24861|Chiquimula|chiquimula|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24862|Jocotán|jocotan|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24863|Esquipulas|esquipulas|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24864|Camotán|camotan|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24865|Quezaltepeque|quezaltepeque|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24866|Olopa|olopa|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24867|Ipala|ipala|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24868|San Juan Ermita|san-juan-ermita|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24869|Concepción Las Minas|concepcion-las-minas|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24870|San Jacinto|san-jacinto|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24871|San José la Arada|san-jose-la-arada|NULL|NULL|24860|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24873|El Jícaro|el-jicaro|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24874|Guastatoya|guastatoya|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24875|Morazán|morazan|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24876|Sanarate|sanarate|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24877|Sansare|sansare|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24878|San Agustín Acasaguastlán|san-agustin-acasaguastlan|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24879|San Antonio La Paz|san-antonio-la-paz|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24880|San Cristóbal Acasaguastlán|san-cristobal-acasaguastlan|NULL|NULL|24872|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24882|Escuintla (Cabecera Departamental)|escuintla-cabecera-departamental|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24883|Guanagazapa|guanagazapa|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24884|Iztapa|iztapa|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24885|La Democracia|la-democracia|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24886|La Gomera|la-gomera|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24887|Masagua|masagua|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24888|Nueva Concepción|nueva-concepcion|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24889|Palín|palin|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24890|San José|san-jose-24890|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24891|San Vicente Pacaya|san-vicente-pacaya|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24892|Santa Lucía Cotzumalguapa|santa-lucia-cotzumalguapa|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24893|Sipacate|sipacate|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24894|Siquinalá|siquinala|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24895|Tiquisate|tiquisate|NULL|NULL|24881|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24897|Guatemala|guatemala|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24898|Villa Nueva|villa-nueva|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24899|Mixco|mixco|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24900|Santa Catarina Pinula|santa-catarina-pinula|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24901|San José Pinula|san-jose-pinula|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24902|San José del Golfo|san-jose-del-golfo|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24903|Palencia|palencia|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24904|Chinautla|chinautla|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24905|San Pedro Ayampuc|san-pedro-ayampuc|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24906|San Pedro Sacatepéquez|san-pedro-sacatepequez|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24907|San Juan Sacatepéquez|san-juan-sacatepequez|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24908|San Raymundo|san-raymundo|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24909|Chuarrancho|chuarrancho|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24910|Fraijanes|fraijanes|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24911|Amatitlán|amatitlan|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24912|Villa Canales|villa-canales|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24913|San Miguel Petapa|san-miguel-petapa|NULL|NULL|24896|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24915|Aguacatánmunicipio|aguacatanmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24916|Chiantlamunicipio|chiantlamunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24917|Colotenangomunicipio|colotenangomunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24918|Concepción Huista|concepcion-huista|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24919|Cuilco|cuilco|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24920|Huehuetenango|huehuetenango|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24921|Jacaltenangomunicipio|jacaltenangomunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24922|La Democraciamunicipio|la-democraciamunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24923|La Libertadmunicipio|la-libertadmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24924|Malacatancito|malacatancito|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24925|Nentón|nenton|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24926|Petatán|petatan|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24927|San Antonio Huista|san-antonio-huista|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24928|San Gaspar Ixchilmunicipio|san-gaspar-ixchilmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24929|Ixtahuacánmunicipio|ixtahuacanmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24930|San Juan Atitán|san-juan-atitan|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24931|San Juan Ixcoy|san-juan-ixcoy|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24932|San Mateo Ixtatánmunicipio​|san-mateo-ixtatanmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24933|San Miguel Acatán|san-miguel-acatan|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24934|San Pedro Necta|san-pedro-necta|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24935|San Pedro Solomamunicipio|san-pedro-solomamunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24936|San Rafael La Independencia|san-rafael-la-independencia|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24937|San Rafael Petzal|san-rafael-petzal|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24938|San Sebastián Coatán|san-sebastian-coatan|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24939|San Sebastián Huehuetenango|san-sebastian-huehuetenango|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24940|Santa Ana Huista.|santa-ana-huista|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24941|Santa Bárbara|santa-barbara-24941|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24942|Barillasmunicipio|barillasmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24943|Santa Eulalia|santa-eulalia|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24944|Santiago Chimaltenango|santiago-chimaltenango|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24945|Tectitánmunicipio|tectitanmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24946|Todos Santos Cuchumatánmunicipio|todos-santos-cuchumatanmunicipio|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24947|Unión Cantinil|union-cantinil|NULL|NULL|24914|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24949|Puerto Barrios|puerto-barrios|NULL|NULL|24948|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24950|Livingston|livingston|NULL|NULL|24948|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24951|El Estor|el-estor|NULL|NULL|24948|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24952|Morales|morales|NULL|NULL|24948|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24953|Los Amates|los-amates|NULL|NULL|24948|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24955|Jalapa|jalapa|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24956|Mataquescuintla|mataquescuintla|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24957|Monjas|monjas|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24958|San Carlos Alzatate|san-carlos-alzatate|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24959|San Luis Jilotepeque|san-luis-jilotepeque|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24960|San Pedro Pinula|san-pedro-pinula|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24961|San Manuel Chaparrón|san-manuel-chaparron|NULL|NULL|24954|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24963|Agua Blanca|agua-blanca|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24964|Asunción Mita|asuncion-mita|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24965|Atescatempa|atescatempa|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24966|Comapa|comapa|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24967|Conguaco|conguaco|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24968|El Adelanto|el-adelanto|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24969|El Progreso|el-progreso|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24970|Jalpatagua|jalpatagua|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24971|Jerez|jerez|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24972|Jutiapa|jutiapa|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24973|Moyuta|moyuta|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24974|Pasaco|pasaco|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24975|Quesada|quesada|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24976|San José Acatempa|san-jose-acatempa|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24977|Santa Catarina Mita|santa-catarina-mita|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24978|Yupiltepeque|yupiltepeque|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24979|Zapotitlán|zapotitlan|NULL|NULL|24962|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24981|Dolores|dolores|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24982|Flores|flores-24982|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24983|La Libertad|la-libertad|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24984|Melchor de Mencos|melchor-de-mencos|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24985|Poptún|poptun|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24986|San Andrés|san-andres-24986|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24987|San Benito|san-benito|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24988|San Francisco|san-francisco-24988|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24989|San José|san-jose-24989|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24990|San Luis|san-luis-24990|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24991|Santa Ana|santa-ana-24991|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24992|Sayaxché|sayaxche|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24993|Las Cruces|las-cruces-24993|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24994|El Chal|el-chal|NULL|NULL|24980|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24996|Almolonga|almolonga|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24997|Cabricán|cabrican|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24998|Cajolá|cajola|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t24999|Cantel|cantel|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25000|Coatepeque|coatepeque|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25001|Colomba|colomba|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25002|Concepción Chiquirichapa|concepcion-chiquirichapa|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25003|El Palmar|el-palmar-25003|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25004|Flores Costa Cuca|flores-costa-cuca|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25005|Génova|genova|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25006|Huitán|huitan|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25007|La Esperanza|la-esperanza|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25008|Olintepeque|olintepeque|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25009|Palestina de Los Altos|palestina-de-los-altos|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25010|Quetzaltenango|quetzaltenango|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25011|Salcajá|salcaja|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25012|San Carlos Sija|san-carlos-sija|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25013|San Juan Ostuncalco|san-juan-ostuncalco|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25014|San Francisco La Unión|san-francisco-la-union|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25015|San Martín Sacatepéquez|san-martin-sacatepequez|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25016|San Mateo|san-mateo-25016|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25017|San Miguel Sigüilá|san-miguel-siguila|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25018|Sibilia|sibilia|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25019|Zunil|zunil|NULL|NULL|24995|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25021|Canillá|canilla|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25022|Chajul|chajul|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25023|Chicamán|chicaman|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25024|Chiché|chiche|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25025|Chichicastenango|chichicastenango|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25026|Chinique|chinique|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25027|Cunén|cunen|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25028|Ixcán|ixcan|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25029|Joyabaj|joyabaj|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25030|Nebaj|nebaj|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25031|Pachalum|pachalum|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25032|Patzité|patzite|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25033|Sacapulas|sacapulas|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25034|San Andrés Sajcabajá|san-andres-sajcabaja|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25035|San Antonio Ilotenango|san-antonio-ilotenango|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25036|San Bartolomé Jocotenango|san-bartolome-jocotenango|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25037|San Juan Cotzal|san-juan-cotzal|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25038|San Pedro Jocopilas|san-pedro-jocopilas|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25039|Santa Cruz del Quiché|santa-cruz-del-quiche|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25040|Uspantán|uspantan|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25041|Zacualpa|zacualpa|NULL|NULL|25020|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25043|Champerico|champerico|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25044|El Asintal|el-asintal|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25045|Nuevo San Carlos|nuevo-san-carlos|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25046|Retalhuleu|retalhuleu|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25047|San Andrés Villa Seca|san-andres-villa-seca|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25048|San Felipe|san-felipe-25048|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25049|San Martín Zapotitlán|san-martin-zapotitlan|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25050|San Sebastián|san-sebastian|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25051|Santa Cruz Muluá|santa-cruz-mulua|NULL|NULL|25042|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25053|Alotenango|alotenango|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25054|Antigua Guatemala|antigua-guatemala|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25055|Ciudad Vieja|ciudad-vieja|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25056|Jocotenango|jocotenango|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25057|Magdalena Milpas Altas|magdalena-milpas-altas|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25058|Pastores|pastores|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25059|San Antonio Aguas Calientes|san-antonio-aguas-calientes|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25060|San Bartolomé Milpas Altas|san-bartolome-milpas-altas|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25061|San Lucas Sacatepéquez|san-lucas-sacatepequez|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25062|San Miguel Dueñas|san-miguel-duenas|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25063|Santa Catarina Barahona|santa-catarina-barahona|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25064|Santa Lucía Milpas Altas|santa-lucia-milpas-altas|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25065|Santa María de Jesús|santa-maria-de-jesus|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25066|Santiago Sacatepéquez|santiago-sacatepequez|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25067|Santo Domingo Xenacoj|santo-domingo-xenacoj|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25068|Sumpango|sumpango|NULL|NULL|25052|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25070|San Marcos (San Marcos)|san-marcos-san-marcos|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25071|Ayutla|ayutla|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25072|Catarina|catarina|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25073|Comitancillo|comitancillo|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25074|Concepción Tutuapa|concepcion-tutuapa|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25075|El Quetzal|el-quetzal|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25076|El Rodeo|el-rodeo|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25077|El Tumbador|el-tumbador|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25078|Ixchiguán|ixchiguan|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25079|La Reforma|la-reforma|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25080|Malacatán|malacatan|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25081|Nuevo Progreso|nuevo-progreso|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25082|Ocós|ocos|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25083|Pajapita|pajapita|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25084|Esquipulas Palo Gordo|esquipulas-palo-gordo|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25085|San Antonio Sacatepéquez|san-antonio-sacatepequez|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25086|San Cristóbal Cucho|san-cristobal-cucho|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25087|San José Ojetenam|san-jose-ojetenam|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25088|San Lorenzo|san-lorenzo-25088|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25089|San Miguel Ixtahuacán|san-miguel-ixtahuacan|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25090|San Pablo|san-pablo-25090|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25091|San Pedro Sacatepéquez|san-pedro-sacatepequez-25091|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25092|San Rafael Pie de la Cuesta|san-rafael-pie-de-la-cuesta|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25093|Sibinal|sibinal|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25094|Sipacapa|sipacapa|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25095|Tacaná|tacana|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25096|Tajumulco|tajumulco|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25097|Tejutla|tejutla|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25098|Río Blanco|rio-blanco|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25099|La Blanca|la-blanca|NULL|NULL|25069|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25101|Barberena|barberena|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25102|Casillas|casillas|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25103|Chiquimulilla|chiquimulilla|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25104|Cuilapa|cuilapa|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25105|Guazacapán|guazacapan|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25106|Monterrico|monterrico|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25107|Nueva Santa Rosa|nueva-santa-rosa|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25108|Oratorio|oratorio|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25109|Pueblo Nuevo Viñas|pueblo-nuevo-vinas|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25110|San Juan Tecuaco|san-juan-tecuaco|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25111|San Rafael Las Flores|san-rafael-las-flores|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25112|Santa Cruz Naranjo|santa-cruz-naranjo|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25113|Santa María Ixhuatán|santa-maria-ixhuatan|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25114|Santa Rosa de Lima|santa-rosa-de-lima|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25115|Taxisco|taxisco|NULL|NULL|25100|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25117|Sololá|solola|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25118|Concepción|concepcion-25118|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25119|Nahualá|nahuala|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25120|Panajachel|panajachel|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25121|San Andrés Semetabaj|san-andres-semetabaj|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25122|San Antonio Palopó|san-antonio-palopo|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25123|San José Chacayá|san-jose-chacaya|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25124|San Juan La Laguna|san-juan-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25125|San Lucas Tolimán|san-lucas-toliman|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25126|San Marcos La Laguna|san-marcos-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25127|San Pablo La Laguna|san-pablo-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25128|San Pedro La Laguna|san-pedro-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25129|Santa Catarina Ixtahuacán|santa-catarina-ixtahuacan|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25130|Santa Catarina Palopó|santa-catarina-palopo|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25131|Santa Clara La Laguna|santa-clara-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25132|Santa Cruz La Laguna|santa-cruz-la-laguna|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25133|Santa Lucía Utatlán|santa-lucia-utatlan|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25134|Santa María Visitación|santa-maria-visitacion|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25135|Santiago Atitlán|santiago-atitlan|NULL|NULL|25116|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25137|Chicacao|chicacao|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25138|Cuyotenango|cuyotenango|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25139|Mazatenango|mazatenango|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25140|Patulul|patulul|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25141|Pueblo Nuevo|pueblo-nuevo-25141|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25142|Río Bravo|rio-bravo|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25143|Samayac|samayac|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25144|San Antonio Suchitepéquez|san-antonio-suchitepequez|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25145|San Bernardino|san-bernardino|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25146|San Francisco Zapotitlán|san-francisco-zapotitlan|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25147|San Gabriel|san-gabriel|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25148|San José El Ídolo|san-jose-el-idolo|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25149|San José La Máquina|san-jose-la-maquina|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25150|San Juan Bautista|san-juan-bautista-25150|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25151|San Lorenzo|san-lorenzo-25151|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25152|San Miguel Panán|san-miguel-panan|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25153|San Pablo Jocopilas|san-pablo-jocopilas|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25154|Santa Bárbara|santa-barbara-25154|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25155|Santo Domingo Suchitepéquez|santo-domingo-suchitepequez|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25156|Santo Tomás La Unión|santo-tomas-la-union|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25157|Zunilito|zunilito|NULL|NULL|25136|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25159|Momostenango|momostenango|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25160|San Andrés Xecul|san-andres-xecul|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25161|San Bartolo|san-bartolo-25161|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25162|San Cristóbal Totonicapán|san-cristobal-totonicapan|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25163|San Francisco El Alto|san-francisco-el-alto|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25164|Santa Lucía La Reforma|santa-lucia-la-reforma|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25165|Santa María Chiquimula|santa-maria-chiquimula|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25166|Totonicapán|totonicapan|NULL|NULL|25158|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25168|Cabañas|cabanas|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25169|Estanzuela|estanzuela|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25170|Gualán|gualan|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25171|Huité|huite|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25172|La Unión|la-union-25172|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25173|Río Hondo|rio-hondo-25173|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25174|San Diego|san-diego|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25175|San Jorge22​|san-jorge22|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25176|Teculután|teculutan|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25177|Usumatlán|usumatlan|NULL|NULL|25167|NULL|NULL
+82|GT|GUATEMALA|Guatemala|Guatemala|t25178|Zacapa|zacapa|NULL|NULL|25167|NULL|NULL

@@ -1,0 +1,86 @@
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24118|Alajuela|alajuela|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24119|San Carlos|san-carlos|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24120|San Ramón|san-ramon|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24121|Grecia|grecia|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24122|Upala|upala|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24123|Naranjo|naranjo|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24124|Palmares|palmares|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24125|Poás|poas|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24126|Atenas|atenas|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24127|Los Chiles|los-chiles|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24128|Orotina|orotina|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24129|Sarchí|sarchi|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24130|Guatuso|guatuso|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24131|Zarcero|zarcero|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24132|Río Cuarto|rio-cuarto-24132|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24133|San Mateo|san-mateo|NULL|NULL|24117|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24135|Cartago|cartago|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24136|La Unión|la-union|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24137|Turrialba|turrialba|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24138|Paraíso|paraiso|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24139|Oreamuno|oreamuno|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24140|El Guarco|el-guarco|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24141|Jiménez|jimenez|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24142|Alvarado|alvarado|NULL|NULL|24134|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24144|Liberia|liberia|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24145|Santa Cruz|santa-cruz-24145|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24146|Nicoya|nicoya|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24147|Carrillo|carrillo|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24148|Cañas|canas|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24149|Tilarán|tilaran|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24150|Bagaces|bagaces|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24151|La Cruz|la-cruz|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24152|Abangares|abangares|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24153|Nandayure|nandayure|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24154|Hojancha|hojancha|NULL|NULL|24143|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24156|Heredia|heredia|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24157|Sarapiquí|sarapiqui|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24158|San Rafael|san-rafael-24158|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24159|Barva|barva|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24160|Santo Domingo|santo-domingo|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24161|Santa Bárbara|santa-barbara|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24162|San Pablo|san-pablo|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24163|Belén|belen|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24164|San Isidro|san-isidro-24164|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24165|Flores|flores|NULL|NULL|24155|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24167|Pococí|pococi|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24168|Limón|limon|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24169|Siquirres|siquirres|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24170|Guácimo|guacimo|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24171|Matina|matina|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24172|Talamanca|talamanca|NULL|NULL|24166|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24174|Puntarenas|puntarenas|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24175|Buenos Aires|buenos-aires-24175|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24176|Corredores|corredores|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24177|Golfito|golfito|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24178|Coto Brus|coto-brus|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24179|Osa|osa|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24180|Esparza|esparza|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24181|Quepos|quepos|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24182|Garabito|garabito|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24183|Parrita|parrita|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24184|Montes de Oro|montes-de-oro|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24186|San José|san-jose|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24187|Desamparados|desamparados|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24188|Pérez Zeledón|perez-zeledon|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24189|Goicoechea|goicoechea|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24190|Alajuelita|alajuelita|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24191|Curridabat|curridabat|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24192|Tibás|tibas|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24193|Vázquez de Coronado|vazquez-de-coronado|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24194|Aserrí|aserri|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24195|Moravia|moravia|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24196|Escazú|escazu|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24197|Montes de Oca|montes-de-oca|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24198|Santa Ana|santa-ana|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24199|Puriscal|puriscal|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24200|Mora|mora|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24201|Acosta|acosta|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24202|Tarrazú|tarrazu|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24203|León Cortés|leon-cortes|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24204|Dota|dota|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t24205|Turrubares|turrubares|NULL|NULL|24185|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t26392|Jaco|jaco|NULL|NULL|24173|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t26394|Monteverde|monteverde|NULL|NULL|26393|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t26395|Varadero|varadero|NULL|NULL|25418|NULL|NULL
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t26397|Punta Cana|punta-cana-cr|NULL|NULL|26396|NULL|NULL

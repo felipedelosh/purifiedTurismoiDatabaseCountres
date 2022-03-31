@@ -1,0 +1,156 @@
+25180|Azua de Compostela|azua-de-compostela|NULL|NULL|25179|NULL|NULL
+25181|Estebanía|estebania|NULL|NULL|25179|NULL|NULL
+25182|Guayabal|guayabal-25182|NULL|NULL|25179|NULL|NULL
+25183|Las Charcas|las-charcas|NULL|NULL|25179|NULL|NULL
+25184|Las Yayas de Viajama|las-yayas-de-viajama|NULL|NULL|25179|NULL|NULL
+25185|Padre Las Casas|padre-las-casas|NULL|NULL|25179|NULL|NULL
+25186|Peralta|peralta|NULL|NULL|25179|NULL|NULL
+25187|Pueblo Viejo|pueblo-viejo|NULL|NULL|25179|NULL|NULL
+25188|Sabana Yegua|sabana-yegua|NULL|NULL|25179|NULL|NULL
+25189|Tábara Arriba|tabara-arriba|NULL|NULL|25179|NULL|NULL
+25191|Neiba|neiba|NULL|NULL|25190|NULL|NULL
+25192|Galván|galvan|NULL|NULL|25190|NULL|NULL
+25193|Los Ríos|los-rios|NULL|NULL|25190|NULL|NULL
+25194|Tamayo|tamayo|NULL|NULL|25190|NULL|NULL
+25195|Villa Jaragua|villa-jaragua|NULL|NULL|25190|NULL|NULL
+25197|Santa Cruz de Barahona|santa-cruz-de-barahona|NULL|NULL|25196|NULL|NULL
+25198|Cabral|cabral|NULL|NULL|25196|NULL|NULL
+25199|El Peñón|el-penon|NULL|NULL|25196|NULL|NULL
+25200|Enriquillo|enriquillo|NULL|NULL|25196|NULL|NULL
+25201|Fundación|fundacion|NULL|NULL|25196|NULL|NULL
+25202|Jaquimeyes|jaquimeyes|NULL|NULL|25196|NULL|NULL
+25203|La Ciénaga|la-cienaga|NULL|NULL|25196|NULL|NULL
+25204|Las Salinas|las-salinas|NULL|NULL|25196|NULL|NULL
+25205|Paraíso|paraiso-25205|NULL|NULL|25196|NULL|NULL
+25206|Polo|polo|NULL|NULL|25196|NULL|NULL
+25207|Vicente Noble|vicente-noble|NULL|NULL|25196|NULL|NULL
+25209|Dajabón|dajabon|NULL|NULL|25208|NULL|NULL
+25210|El Pino|el-pino|NULL|NULL|25208|NULL|NULL
+25211|Loma de Cabrera|loma-de-cabrera|NULL|NULL|25208|NULL|NULL
+25212|Partido|partido|NULL|NULL|25208|NULL|NULL
+25213|Restauración|restauracion|NULL|NULL|25208|NULL|NULL
+25215|San Francisco de Macorís|san-francisco-de-macoris|NULL|NULL|25214|NULL|NULL
+25216|Arenoso|arenoso|NULL|NULL|25214|NULL|NULL
+25217|Castillo|castillo|NULL|NULL|25214|NULL|NULL
+25218|Eugenio María de Hostos|eugenio-maria-de-hostos|NULL|NULL|25214|NULL|NULL
+25219|Las Guáranas|las-guaranas|NULL|NULL|25214|NULL|NULL
+25220|Pimentel|pimentel|NULL|NULL|25214|NULL|NULL
+25221|Villa Riva|villa-riva|NULL|NULL|25214|NULL|NULL
+25223|Comendador|comendador|NULL|NULL|25222|NULL|NULL
+25224|Bánica|banica|NULL|NULL|25222|NULL|NULL
+25225|El Llano|el-llano-25225|NULL|NULL|25222|NULL|NULL
+25226|Hondo Valle|hondo-valle|NULL|NULL|25222|NULL|NULL
+25227|Juan Santiago|juan-santiago|NULL|NULL|25222|NULL|NULL
+25228|Pedro Santana|pedro-santana|NULL|NULL|25222|NULL|NULL
+25230|Santa Cruz de El Seibo|santa-cruz-de-el-seibo|NULL|NULL|25229|NULL|NULL
+25231|Miches|miches|NULL|NULL|25229|NULL|NULL
+25233|Moca|moca|NULL|NULL|25232|NULL|NULL
+25234|Cayetano Germosén|cayetano-germosen|NULL|NULL|25232|NULL|NULL
+25235|Gaspar Hernández|gaspar-hernandez|NULL|NULL|25232|NULL|NULL
+25236|Jamao al Norte|jamao-al-norte|NULL|NULL|25232|NULL|NULL
+25238|Hato Mayor del Rey|hato-mayor-del-rey|NULL|NULL|25237|NULL|NULL
+25239|El Valle|el-valle-25239|NULL|NULL|25237|NULL|NULL
+25240|Sabana de la Mar|sabana-de-la-mar|NULL|NULL|25237|NULL|NULL
+25242|Salcedo|salcedo|NULL|NULL|25241|NULL|NULL
+25243|Tenares|tenares|NULL|NULL|25241|NULL|NULL
+25244|Villa Tapia|villa-tapia|NULL|NULL|25241|NULL|NULL
+25246|Jimaní|jimani|NULL|NULL|25245|NULL|NULL
+25247|Cristóbal|cristobal-25247|NULL|NULL|25245|NULL|NULL
+25248|Duvergé|duverge|NULL|NULL|25245|NULL|NULL
+25249|La Descubierta|la-descubierta|NULL|NULL|25245|NULL|NULL
+25250|Mella|mella|NULL|NULL|25245|NULL|NULL
+25251|Postrer Río|postrer-rio|NULL|NULL|25245|NULL|NULL
+25253|Higuey|higuey|NULL|NULL|25252|NULL|NULL
+25254|San Rafael del Yuma|san-rafael-del-yuma|NULL|NULL|25252|NULL|NULL
+25256|La Romana|la-romana|NULL|NULL|25255|NULL|NULL
+25257|Guaymate|guaymate|NULL|NULL|25255|NULL|NULL
+25258|Villa Hermosa|villa-hermosa|NULL|NULL|25255|NULL|NULL
+25260|Concepción de La Vega|concepcion-de-la-vega|NULL|NULL|25259|NULL|NULL
+25261|Jarabacoa|jarabacoa|NULL|NULL|25259|NULL|NULL
+25262|Constanza|constanza|NULL|NULL|25259|NULL|NULL
+25263|Jima Abajo|jima-abajo|NULL|NULL|25259|NULL|NULL
+25265|Nagua|nagua|NULL|NULL|25264|NULL|NULL
+25266|Cabrera|cabrera|NULL|NULL|25264|NULL|NULL
+25267|El Factor|el-factor|NULL|NULL|25264|NULL|NULL
+25268|Río San Juan|rio-san-juan|NULL|NULL|25264|NULL|NULL
+25270|Bonao|bonao|NULL|NULL|25269|NULL|NULL
+25271|Maimón|maimon|NULL|NULL|25269|NULL|NULL
+25272|Piedra Blanca|piedra-blanca|NULL|NULL|25269|NULL|NULL
+25274|San Fernando de Monte Cristi.|san-fernando-de-monte-cristi|NULL|NULL|25273|NULL|NULL
+25275|Castañuela|castanuela|NULL|NULL|25273|NULL|NULL
+25276|Guayubín|guayubin|NULL|NULL|25273|NULL|NULL
+25277|Las Matas de Santa Cruz|las-matas-de-santa-cruz|NULL|NULL|25273|NULL|NULL
+25278|Pepillo Salcedo|pepillo-salcedo|NULL|NULL|25273|NULL|NULL
+25279|Villa Vásquez|villa-vasquez|NULL|NULL|25273|NULL|NULL
+25281|Monte Plata|monte-plata|NULL|NULL|25280|NULL|NULL
+25282|Bayaguana|bayaguana|NULL|NULL|25280|NULL|NULL
+25283|Peralvillo|peralvillo|NULL|NULL|25280|NULL|NULL
+25284|Sabana Grande de Boyá|sabana-grande-de-boya|NULL|NULL|25280|NULL|NULL
+25285|Yamasá|yamasa|NULL|NULL|25280|NULL|NULL
+25287|Pedernales|pedernales|NULL|NULL|25286|NULL|NULL
+25288|Oviedo|oviedo|NULL|NULL|25286|NULL|NULL
+25290|Baní|bani|NULL|NULL|25289|NULL|NULL
+25291|Nizao|nizao|NULL|NULL|25289|NULL|NULL
+25293|San Felipe de Puerto Plata|san-felipe-de-puerto-plata|NULL|NULL|25292|NULL|NULL
+25294|Altamira|altamira|NULL|NULL|25292|NULL|NULL
+25295|Guananico|guananico|NULL|NULL|25292|NULL|NULL
+25296|Imbert|imbert|NULL|NULL|25292|NULL|NULL
+25297|Los Hidalgos|los-hidalgos|NULL|NULL|25292|NULL|NULL
+25298|Luperón|luperon|NULL|NULL|25292|NULL|NULL
+25299|Sosúa|sosua|NULL|NULL|25292|NULL|NULL
+25300|Villa Isabela|villa-isabela|NULL|NULL|25292|NULL|NULL
+25301|Villa Montellano|villa-montellano|NULL|NULL|25292|NULL|NULL
+25303|Santa Bárbara de Samaná|santa-barbara-de-samana|NULL|NULL|25302|NULL|NULL
+25304|Las Terrenas|las-terrenas|NULL|NULL|25302|NULL|NULL
+25305|Sánchez|sanchez|NULL|NULL|25302|NULL|NULL
+25307|San Cristóbal|san-cristobal|NULL|NULL|25306|NULL|NULL
+25308|Bajos de Haina|bajos-de-haina|NULL|NULL|25306|NULL|NULL
+25309|Cambita Garabito|cambita-garabito|NULL|NULL|25306|NULL|NULL
+25310|Los Cacaos|los-cacaos|NULL|NULL|25306|NULL|NULL
+25311|Sabana Grande de Palenque|sabana-grande-de-palenque|NULL|NULL|25306|NULL|NULL
+25312|San Gregorio de Nigua|san-gregorio-de-nigua|NULL|NULL|25306|NULL|NULL
+25313|Villa Altagracia|villa-altagracia|NULL|NULL|25306|NULL|NULL
+25314|Yaguate|yaguate|NULL|NULL|25306|NULL|NULL
+25316|San José de Ocoa|san-jose-de-ocoa|NULL|NULL|25315|NULL|NULL
+25317|Rancho Arriba|rancho-arriba|NULL|NULL|25315|NULL|NULL
+25318|Sabana Larga|sabana-larga|NULL|NULL|25315|NULL|NULL
+25320|San Juan de la Maguana|san-juan-de-la-maguana|NULL|NULL|25319|NULL|NULL
+25321|Bohechío|bohechio|NULL|NULL|25319|NULL|NULL
+25322|El Cercado|el-cercado|NULL|NULL|25319|NULL|NULL
+25323|Juan de Herrera|juan-de-herrera|NULL|NULL|25319|NULL|NULL
+25324|Las Matas de Farfán|las-matas-de-farfan|NULL|NULL|25319|NULL|NULL
+25325|Vallejuelo|vallejuelo|NULL|NULL|25319|NULL|NULL
+25327|San Pedro de Macorís|san-pedro-de-macoris|NULL|NULL|25326|NULL|NULL
+25328|Consuelo|consuelo|NULL|NULL|25326|NULL|NULL
+25329|Guayacanes|guayacanes|NULL|NULL|25326|NULL|NULL
+25330|Quisqueya|quisqueya|NULL|NULL|25326|NULL|NULL
+25331|Ramón Santana|ramon-santana|NULL|NULL|25326|NULL|NULL
+25332|San José de Los Llanos|san-jose-de-los-llanos|NULL|NULL|25326|NULL|NULL
+25334|Cotuí|cotui|NULL|NULL|25333|NULL|NULL
+25335|Cevicos|cevicos|NULL|NULL|25333|NULL|NULL
+25336|Fantino|fantino|NULL|NULL|25333|NULL|NULL
+25337|La Mata|la-mata|NULL|NULL|25333|NULL|NULL
+25339|Santiago de los Caballeros|santiago-de-los-caballeros|NULL|NULL|25338|NULL|NULL
+25340|Tamboril|tamboril|NULL|NULL|25338|NULL|NULL
+25341|Villa Bisonó|villa-bisono|NULL|NULL|25338|NULL|NULL
+25342|San José de Las Matas|san-jose-de-las-matas|NULL|NULL|25338|NULL|NULL
+25343|Jánico|janico|NULL|NULL|25338|NULL|NULL
+25344|Licey al Medio|licey-al-medio|NULL|NULL|25338|NULL|NULL
+25345|Puñal|punal|NULL|NULL|25338|NULL|NULL
+25346|Sabana Iglesia|sabana-iglesia|NULL|NULL|25338|NULL|NULL
+25347|Villa González|villa-gonzalez|NULL|NULL|25338|NULL|NULL
+25349|San Ignacio de Sabaneta|san-ignacio-de-sabaneta|NULL|NULL|25348|NULL|NULL
+25350|Los Almácigos|los-almacigos|NULL|NULL|25348|NULL|NULL
+25351|Monción|moncion|NULL|NULL|25348|NULL|NULL
+25353|Distrito Nacional (principal ciudad)|distrito-nacional-principal-ciudad|NULL|NULL|25352|NULL|NULL
+25354|Santo Domingo Este|santo-domingo-este|NULL|NULL|25352|NULL|NULL
+25355|Santo Domingo Norte|santo-domingo-norte|NULL|NULL|25352|NULL|NULL
+25356|Santo Domingo Oeste|santo-domingo-oeste|NULL|NULL|25352|NULL|NULL
+25357|Boca chica|boca-chica-25357|NULL|NULL|25352|NULL|NULL
+25358|Pedro Brand|pedro-brand|NULL|NULL|25352|NULL|NULL
+25359|San Antonio de Guerra|san-antonio-de-guerra|NULL|NULL|25352|NULL|NULL
+25361|Mao|mao|NULL|NULL|25360|NULL|NULL
+25362|Esperanza|esperanza-25362|NULL|NULL|25360|NULL|NULL
+25363|Laguna Salada|laguna-salada|NULL|NULL|25360|NULL|NULL
+26398|Punta Cana|punta-cana|NULL|NULL|25252|NULL|NULL
+26403|Cabarete|puerto-plata|NULL|NULL|25292|NULL|NULL

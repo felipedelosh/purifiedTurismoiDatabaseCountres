@@ -1,0 +1,227 @@
+1|AF|AFGHANISTAN|Afganistán|Afganistán|t
+2|AL|ALBANIA|Albania|Albania|t
+3|DZ|ALGERIA|Algeria|Argelia|t
+4|AS|AMERICAN SAMOA|American Samoa|Samoa Americana|t
+5|AD|ANDORRA|Andorra|Andorra|t
+6|AO|ANGOLA|Angola|Angola|t
+109|LA|LAO PEOPLE'S DEMOCRATIC REPUBLIC|Lao People's Democratic Republic|República Democrática Popular Lao|t
+7|AI|ANGUILLA|Anguilla|Anguila|t
+8|AG|ANTIGUA AND BARBUDA|Antigua and Barbuda|Antigua y Barbuda|t
+10|AM|ARMENIA|Armenia|Armenia|t
+11|AW|ARUBA|Aruba|Aruba|t
+12|AU|AUSTRALIA|Australia|Australia|t
+13|AT|AUSTRIA|Austria|Austria|t
+14|AZ|AZERBAIJAN|Azerbaijan|Azerbaiyán|t
+15|BS|BAHAMAS|Bahamas|Bahamas|t
+16|BH|BAHRAIN|Bahrain|Bahrein|t
+17|BD|BANGLADESH|Bangladesh|Bangladesh|t
+18|BB|BARBADOS|Barbados|Barbados|t
+19|BY|BELARUS|Belarus|Bielorrusia|t
+20|BE|BELGIUM|Belgium|Bélgica|t
+22|BJ|BENIN|Benin|Benin|t
+23|BM|BERMUDA|Bermuda|Islas Bermudas|t
+24|BT|BHUTAN|Bhutan|Bután|t
+26|BA|BOSNIA AND HERZEGOVINA|Bosnia and Herzegovina|Bosnia y Herzegovina|t
+27|BW|BOTSWANA|Botswana|Botsuana|t
+28|BR|BRAZIL|Brazil|Brasil|t
+29|BN|BRUNEI DARUSSALAM|Brunei Darussalam|Brunei Darussalam|t
+30|BG|BULGARIA|Bulgaria|Bulgaria|t
+31|BF|BURKINA FASO|Burkina Faso|Burkina Faso|t
+32|BI|BURUNDI|Burundi|Burundi|t
+33|KH|CAMBODIA|Cambodia|Camboya|t
+34|CM|CAMEROON|Cameroon|Camerún|t
+35|CA|CANADA|Canada|Canadá|t
+36|CV|CAPE VERDE|Cape Verde|Cabo Verde|t
+37|KY|CAYMAN ISLANDS|Cayman Islands|Islas Caimán|t
+38|CF|CENTRAL AFRICAN REPUBLIC|Central African Republic|República Centroafricana|t
+39|TD|CHAD|Chad|Chad|t
+41|CN|CHINA|China|China|t
+43|KM|COMOROS|Comoros|Comoras|t
+44|CG|CONGO|Congo|Congo|t
+45|CD|"CONGO| THE DEMOCRATIC REPUBLIC OF THE"|"Congo| the Democratic Republic of the"|República Democrática del Congo|t
+46|CK|COOK ISLANDS|Cook Islands|Islas Cook|t
+48|CI|COTE D'IVOIRE|Cote D'Ivoire|Costa de Marfil|t
+49|HR|CROATIA|Croatia|Croacia|t
+51|CY|CYPRUS|Cyprus|Chipre|t
+52|CZ|CZECH REPUBLIC|Czech Republic|Republica Checa|t
+53|DK|DENMARK|Denmark|Dinamarca|t
+54|DJ|DJIBOUTI|Djibouti|Djibouti|t
+55|DM|DOMINICA|Dominica|Dominica|t
+58|EG|EGYPT|Egypt|Egipto|t
+59|SV|EL SALVADOR|El Salvador|El Salvador|t
+60|GQ|EQUATORIAL GUINEA|Equatorial Guinea|Guinea Ecuatorial|t
+61|ER|ERITREA|Eritrea|Eritrea|t
+62|EE|ESTONIA|Estonia|Estonia|t
+63|ET|ETHIOPIA|Ethiopia|Etiopía|t
+64|FK|FALKLAND ISLANDS (MALVINAS)|Falkland Islands (Malvinas)|Islas Malvinas (Falkland Islands)|t
+65|FO|FAROE ISLANDS|Faroe Islands|Islas Faroe|t
+66|FJ|FIJI|Fiji|Fiyi|t
+67|FI|FINLAND|Finland|Finlandia|t
+68|FR|FRANCE|France|Francia|t
+69|GF|FRENCH GUIANA|French Guiana|Guayana Francesa|t
+70|PF|FRENCH POLYNESIA|French Polynesia|Polinesia francés|t
+71|GA|GABON|Gabon|Gabón|t
+72|GM|GAMBIA|Gambia|Gambia|t
+73|GE|GEORGIA|Georgia|Georgia|t
+74|DE|GERMANY|Germany|Alemania|t
+75|GH|GHANA|Ghana|Ghana|t
+76|GI|GIBRALTAR|Gibraltar|Gibraltar|t
+77|GR|GREECE|Greece|Grecia|t
+78|GL|GREENLAND|Greenland|Groenlandia|t
+79|GD|GRENADA|Grenada|Granada|t
+80|GP|GUADELOUPE|Guadeloupe|Guadalupe|t
+81|GU|GUAM|Guam|Guam|t
+83|GN|GUINEA|Guinea|Guinea|t
+84|GW|GUINEA-BISSAU|Guinea-Bissau|Guinea-Bissau|t
+85|GY|GUYANA|Guyana|Guayana|t
+86|HT|HAITI|Haiti|Haití|t
+87|VA|HOLY SEE (VATICAN CITY STATE)|Holy See (Vatican City State)|Santa Sede (Estado de la Ciudad del Vaticano)|t
+88|HN|HONDURAS|Honduras|Honduras|t
+89|HK|HONG KONG|Hong Kong|Hong Kong|t
+90|HU|HUNGARY|Hungary|Hungría|t
+91|IS|ICELAND|Iceland|Islandia|t
+92|IN|INDIA|India|India|t
+93|ID|INDONESIA|Indonesia|Indonesia|t
+94|IR|"IRAN| ISLAMIC REPUBLIC OF"|"Iran| Islamic Republic of"|República Islámica de Irán|t
+95|IQ|IRAQ|Iraq|Irak|t
+96|IE|IRELAND|Ireland|Irlanda|t
+97|IL|ISRAEL|Israel|Israel|t
+98|IT|ITALY|Italy|Italia|t
+99|JM|JAMAICA|Jamaica|Jamaica|t
+100|JP|JAPAN|Japan|Japón|t
+101|JO|JORDAN|Jordan|Jordán|t
+102|KZ|KAZAKHSTAN|Kazakhstan|Kazajstán|t
+103|KE|KENYA|Kenya|Kenia|t
+104|KI|KIRIBATI|Kiribati|Kiribati|t
+105|KP|"KOREA| DEMOCRATIC PEOPLE'S REPUBLIC OF"|"Korea| Democratic People's Republic of"|República Popular Democrática de Corea|t
+106|KR|"KOREA| REPUBLIC OF"|"Korea| Republic of"|República de Corea|t
+107|KW|KUWAIT|Kuwait|Kuwait|t
+108|KG|KYRGYZSTAN|Kyrgyzstan|Kirguistán|t
+9|AR|ARGENTINA|Argentina|Argentina|t
+21|BZ|BELIZE|Belize|Belice|t
+110|LV|LATVIA|Latvia|Letonia|t
+111|LB|LEBANON|Lebanon|Líbano|t
+112|LS|LESOTHO|Lesotho|Lesoto|t
+113|LR|LIBERIA|Liberia|Liberia|t
+114|LY|LIBYAN ARAB JAMAHIRIYA|Libyan Arab Jamahiriya|Jamahiriya Árabe Libia|t
+115|LI|LIECHTENSTEIN|Liechtenstein|Liechtenstein|t
+116|LT|LITHUANIA|Lithuania|Lituania|t
+117|LU|LUXEMBOURG|Luxembourg|Luxemburgo|t
+118|MO|MACAO|Macao|Macao|t
+119|MK|"MACEDONIA| THE FORMER YUGOSLAV REPUBLIC OF"|"Macedonia| the Former Yugoslav Republic of"|Macedonia|t
+120|MG|MADAGASCAR|Madagascar|Madagascar|t
+121|MW|MALAWI|Malawi|Malawi|t
+122|MY|MALAYSIA|Malaysia|Malasia|t
+123|MV|MALDIVES|Maldives|Maldivas|t
+124|ML|MALI|Mali|Mali|t
+125|MT|MALTA|Malta|Malta|t
+126|MH|MARSHALL ISLANDS|Marshall Islands|Islas Marshall|t
+127|MQ|MARTINIQUE|Martinique|Martinica|t
+128|MR|MAURITANIA|Mauritania|Mauritania|t
+129|MU|MAURITIUS|Mauritius|Mauricio|t
+131|FM|"MICRONESIA| FEDERATED STATES OF"|"Micronesia| Federated States of"|Estados Federados de Micronesia|t
+132|MD|"MOLDOVA| REPUBLIC OF"|"Moldova| Republic of"|República de Moldavia|t
+133|MC|MONACO|Monaco|Mónaco|t
+134|MN|MONGOLIA|Mongolia|Mongolia|t
+135|MS|MONTSERRAT|Montserrat|Montserrat|t
+136|MA|MOROCCO|Morocco|Marruecos|t
+137|MZ|MOZAMBIQUE|Mozambique|Mozambique|t
+138|MM|MYANMAR|Myanmar|Myanmar|t
+139|NA|NAMIBIA|Namibia|Namibia|t
+140|NR|NAURU|Nauru|Nauru|t
+141|NP|NEPAL|Nepal|Nepal|t
+142|NL|NETHERLANDS|Netherlands|Países Bajos|t
+143|AN|NETHERLANDS ANTILLES|Netherlands Antilles|Antillas Holandesas|t
+144|NC|NEW CALEDONIA|New Caledonia|Nueva Caledonia|t
+145|NZ|NEW ZEALAND|New Zealand|Nueva Zelanda|t
+146|NI|NICARAGUA|Nicaragua|Nicaragua|t
+147|NE|NIGER|Niger|Níger|t
+148|NG|NIGERIA|Nigeria|Nigeria|t
+149|NU|NIUE|Niue|Niue|t
+150|NF|NORFOLK ISLAND|Norfolk Island|Isla Norfolk|t
+151|MP|NORTHERN MARIANA ISLANDS|Northern Mariana Islands|Islas Marianas del Norte|t
+152|NO|NORWAY|Norway|Noruega|t
+153|OM|OMAN|Oman|Omán|t
+154|PK|PAKISTAN|Pakistan|Pakistán|t
+155|PW|PALAU|Palau|Palau|t
+157|PG|PAPUA NEW GUINEA|Papua New Guinea|Papúa Nueva Guinea|t
+160|PH|PHILIPPINES|Philippines|Filipinas|t
+161|PN|PITCAIRN|Pitcairn|Pitcairn|t
+162|PL|POLAND|Poland|Polonia|t
+163|PT|PORTUGAL|Portugal|Portugal|t
+164|PR|PUERTO RICO|Puerto Rico|Puerto Rico|t
+165|QA|QATAR|Qatar|Katar|t
+166|RE|REUNION|Reunion|Reunión|t
+167|RO|ROMANIA|Romania|Rumania|t
+168|RU|RUSSIAN FEDERATION|Russian Federation|Federación Rusa|t
+169|RW|RWANDA|Rwanda|Ruanda|t
+170|SH|SAINT HELENA|Saint Helena|Santa helena|t
+171|KN|SAINT KITTS AND NEVIS|Saint Kitts and Nevis|San Cristóbal y Nieves|t
+172|LC|SAINT LUCIA|Saint Lucia|Santa Lucía|t
+173|PM|SAINT PIERRE AND MIQUELON|Saint Pierre and Miquelon|San Pedro y Miquelón|t
+174|VC|SAINT VINCENT AND THE GRENADINES|Saint Vincent and the Grenadines|San Vicente y las Granadinas|t
+175|WS|SAMOA|Samoa|Samoa|t
+176|SM|SAN MARINO|San Marino|San Marino|t
+177|ST|SAO TOME AND PRINCIPE|Sao Tome and Principe|Santo Tomé y Príncipe|t
+178|SA|SAUDI ARABIA|Saudi Arabia|Arabia Saudita|t
+179|SN|SENEGAL|Senegal|Senegal|t
+180|SC|SEYCHELLES|Seychelles|Seychelles|t
+181|SL|SIERRA LEONE|Sierra Leone|Sierra Leona|t
+182|SG|SINGAPORE|Singapore|Singapur|t
+183|SK|SLOVAKIA|Slovakia|Eslovaquia|t
+184|SI|SLOVENIA|Slovenia|Eslovenia|t
+185|SB|SOLOMON ISLANDS|Solomon Islands|Islas Salomón|t
+186|SO|SOMALIA|Somalia|Somalia|t
+187|ZA|SOUTH AFRICA|South Africa|Sudáfrica|t
+189|LK|SRI LANKA|Sri Lanka|Sri Lanka|t
+190|SD|SUDAN|Sudan|Sudán|t
+191|SR|SURINAME|Suriname|Surinam|t
+192|SJ|SVALBARD AND JAN MAYEN|Svalbard and Jan Mayen|Svalbard y Jan Mayen|t
+193|SZ|SWAZILAND|Swaziland|Swazilandia|t
+194|SE|SWEDEN|Sweden|Suecia|t
+195|CH|SWITZERLAND|Switzerland|Suiza|t
+196|SY|SYRIAN ARAB REPUBLIC|Syrian Arab Republic|República Árabe Siria|t
+197|TW|"TAIWAN| PROVINCE OF CHINA"|"Taiwan| Province of China"|"Taiwan| provincia de China"|t
+198|TJ|TAJIKISTAN|Tajikistan|Tayikistán|t
+199|TZ|"TANZANIA| UNITED REPUBLIC OF"|"Tanzania| United Republic of"|República Unida de Tanzania|t
+200|TH|THAILAND|Thailand|Tailandia|t
+201|TG|TOGO|Togo|Togo|t
+202|TK|TOKELAU|Tokelau|Tokelau|t
+203|TO|TONGA|Tonga|Tonga|t
+204|TT|TRINIDAD AND TOBAGO|Trinidad and Tobago|Trinidad y Tobago|t
+205|TN|TUNISIA|Tunisia|Túnez|t
+206|TR|TURKEY|Turkey|Turquía|t
+207|TM|TURKMENISTAN|Turkmenistan|Turkmenistán|t
+208|TC|TURKS AND CAICOS ISLANDS|Turks and Caicos Islands|Islas Turcas y Caicos|t
+209|TV|TUVALU|Tuvalu|Tuvalu|t
+210|UG|UGANDA|Uganda|Uganda|t
+211|UA|UKRAINE|Ukraine|Ucrania|t
+130|MX|MEXICO|Mexico|Mexico|t
+156|PA|PANAMA|Panama|Panamá|t
+212|AE|UNITED ARAB EMIRATES|United Arab Emirates|Emiratos Árabes Unidos|t
+213|GB|UNITED KINGDOM|United Kingdom|Reino Unido|t
+214|US|UNITED STATES|United States|Estados Unidos|t
+216|UZ|UZBEKISTAN|Uzbekistan|Uzbekistán|t
+217|VU|VANUATU|Vanuatu|Vanuatu|t
+218|VE|VENEZUELA|Venezuela|Venezuela|t
+219|VN|VIET NAM|Viet Nam|Vietnam|t
+220|VG|"VIRGIN ISLANDS| BRITISH"|"Virgin Islands| British"|Islas Vírgenes Británicas|t
+221|VI|"VIRGIN ISLANDS| U.S."|"Virgin Islands| U.s."|"Islas Vírgenes| EE. UU."|t
+222|WF|WALLIS AND FUTUNA|Wallis and Futuna|Wallis y Futuna|t
+223|EH|WESTERN SAHARA|Western Sahara|Sahara Occidental|t
+224|YE|YEMEN|Yemen|Yemen|t
+225|ZM|ZAMBIA|Zambia|Zambia|t
+226|ZW|ZIMBABWE|Zimbabwe|Zimbabue|t
+227|NN|NONE|No proporcionado|No proporcionado|f
+42|CO|COLOMBIA|Colombia|Colombia|t
+57|EC|ECUADOR|Ecuador|Ecuador|t
+188|ES|ESPANA|España|España|t
+159|PE|PERU|Peru|Perú|t
+40|CL|CHILE|Chile|Chile|t
+25|BO|BOLIVIA|Bolivia|Bolivia|t
+47|CR|COSTA RICA|Costa Rica|Costa Rica|t
+50|CU|CUBA|Cuba|Cuba|t
+56|DO|DOMINICAN REPUBLIC|Dominican Republic|República Dominicana|t
+82|GT|GUATEMALA|Guatemala|Guatemala|t
+158|PY|PARAGUAY|Paraguay|Paraguay|t
+215|UY|URUGUAY|Uruguay|Uruguay|t

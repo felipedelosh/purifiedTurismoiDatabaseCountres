@@ -1,0 +1,337 @@
+25|BO|BOLIVIA|Bolivia|Bolivia|t25917|Trinidad|trinidad-25917|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25918|San Javier|san-javier|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25919|Riberalta|riberalta|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25920|Guayaramerín|guayaramerin|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25921|Santos Reyes|santos-reyes|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25922|San Borja|san-borja|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25923|Santa Rosa|santa-rosa-25923|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25924|Rurrenabaque|rurrenabaque|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25925|Santa Ana del Yacuma|santa-ana-del-yacuma|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25926|Exaltación|exaltacion|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25927|San Ignacio de Moxos|san-ignacio-de-moxos|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25928|Nuestra Señora de Loreto|nuestra-senora-de-loreto|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25929|San Andrés|san-andres-25929|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25930|San Joaquín|san-joaquin-25930|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25931|San Ramón|san-ramon-25931|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25932|Puerto Siles|puerto-siles|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25933|Nuestra Señora de Magdalena|nuestra-senora-de-magdalena|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25934|Baures|baures|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25935|Huacaraje|huacaraje|NULL|NULL|25916|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25937|Azurduy|azurduy|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25938|Tarvita|tarvita|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25939|Villa Serrano|villa-serrano|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25940|Monteagudo|monteagudo|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25941|Huacareta|huacareta|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25942|Muyupampa|muyupampa|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25943|Huacaya|huacaya|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25944|Macharetí|machareti|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25945|Camargo|camargo|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25946|San Lucas|san-lucas|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25947|Incahuasi|incahuasi|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25948|Villa Charcas|villa-charcas|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25949|Sucre|sucre|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25950|Yotala|yotala|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25951|Poroma|poroma|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25952|Villa Abecia|villa-abecia|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25953|Culpina|culpina|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25954|Las Carreras|las-carreras|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25955|Padilla|padilla|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25956|Tomina|tomina|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25957|Sopachuy|sopachuy|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25958|Villa Alcalá|villa-alcala|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25959|El Villar|el-villar|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25960|Municipio de Tarabuco.|municipio-de-tarabuco|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25961|Municipio de Yamparáez|municipio-de-yamparaez|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25962|Municipio de Zudánez|municipio-de-zudanez|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25963|Municipio de Presto|municipio-de-presto|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25964|Municipio de Mojocoya .|municipio-de-mojocoya|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25965|Municipio de Icla.|municipio-de-icla|NULL|NULL|25936|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25967|Cochabamba|cochabamba|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25968|Sacaba|sacaba|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25969|Quillacollo|quillacollo|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25970|Villa Tunari|villa-tunari|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25971|Tiquipaya|tiquipaya|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25972|Colcapirhua|colcapirhua|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25973|Vinto|vinto|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25974|Puerto Villaroel|puerto-villaroel|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25975|Sipe Sipe|sipe-sipe|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25976|Entre Ríos|entre-rios-25976|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25977|Punata|punata|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25978|Mizque|mizque|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25979|Tapacari|tapacari|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25980|Independencia|independencia-25980|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25981|Aiquile|aiquile|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25982|Cliza|cliza|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25983|Chimoré|chimore|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25984|Tiraque|tiraque|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25985|Shinahota|shinahota|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25986|Colomi|colomi|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25987|Capinota|capinota|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25988|Cocapata|cocapata|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25989|Arbieto|arbieto|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25990|Totora|totora|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25991|San Benito|san-benito-25991|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25992|Morochata|morochata|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25993|Pocona|pocona|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25994|Arque|arque|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25995|Tacopaya|tacopaya|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25996|Pojo|pojo|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25997|Arani|arani|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25998|Vacas|vacas|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t25999|Tarata|tarata|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26000|Villa Rivero|villa-rivero|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26001|Bolívar|bolivar|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26002|Anzaldo|anzaldo|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26003|Toco|toco|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26004|Pasorapa|pasorapa|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26005|Santiváñez|santivanez|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26006|Omereque|omereque|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26007|Tolata|tolata|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26008|Vila Vila|vila-vila|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26009|Sacabamba|sacabamba|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26010|Sicaya|sicaya|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26011|Alalay|alalay|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26012|Cuchumuela|cuchumuela|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26013|Tacachi|tacachi|NULL|NULL|25966|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26015|El Alto|el-alto-26015|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26016|La Paz|la-paz-26016|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26017|Viacha|viacha|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26018|Caranavi|caranavi|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26019|Achacachi|achacachi|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26020|La Asunta|la-asunta|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26021|Sica Sica|sica-sica|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26022|Pucarani|pucarani|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26023|Palos Blancos|palos-blancos|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26024|Laja|laja|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26025|Sorata|sorata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26026|Patacamaya|patacamaya|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26027|Achocalla|achocalla|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26028|Apolo|apolo|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26029|Colquiri|colquiri|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26030|Coroico|coroico|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26031|Chulumani|chulumani|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26032|Batallas|batallas|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26033|Irupana|irupana|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26034|Coripata|coripata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26035|Palca|palca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26036|Mecapaca|mecapaca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26037|Mocomoco|mocomoco|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26038|Jesús de Machaca|jesus-de-machaca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26039|Copacabana|copacabana|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26040|Guanay|guanay|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26041|Inquisivi|inquisivi|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26042|Caquiaviri|caquiaviri|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26043|Carabuco|carabuco|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26044|Mapiri|mapiri|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26045|Ancoraimes|ancoraimes|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26046|Charazani|charazani|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26047|Sapahaqui|sapahaqui|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26048|Calamarca|calamarca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26049|Tiahuanacu|tiahuanacu|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26050|Chuma|chuma|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26051|Cairoma|cairoma|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26052|Puerto Acosta|puerto-acosta|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26053|Alto Beni|alto-beni|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26054|Luribay|luribay|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26055|Corocoro|corocoro|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26056|Cajuata|cajuata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26057|Tipuani|tipuani|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26058|Calacoto|calacoto|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26059|Colquencha|colquencha|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26060|Ixiamas|ixiamas|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26061|Teoponte|teoponte|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26062|Umala|umala|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26063|San Pedro de Curahuara|san-pedro-de-curahuara|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26064|San Buenaventura|san-buenaventura|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26065|Santiago de Huata|santiago-de-huata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26066|Ayata|ayata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26067|Quime|quime|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26068|Tacacoma|tacacoma|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26069|Puerto Pérez|puerto-perez|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26070|Huarina|huarina|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26071|Ichoca|ichoca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26072|Ayo Ayo|ayo-ayo|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26073|Yaco|yaco|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26074|Callapa|callapa|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26075|Guaqui|guaqui|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26076|Escoma|escoma|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26077|Papel Pampa|papel-pampa|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26078|Desaguadero|desaguadero|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26079|Pelechuco|pelechuco|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26080|Taraco|taraco|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26081|Yanacachi|yanacachi|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26082|Tito Yupanqui|tito-yupanqui|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26083|San Andrés de Machaca|san-andres-de-machaca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26084|San Pedro de Tiquina|san-pedro-de-tiquina|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26085|Aucapata|aucapata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26086|Villa Libertad Licoma|villa-libertad-licoma|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26087|Humanata|humanata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26088|Malla|malla|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26089|Waldo Ballivián|waldo-ballivian|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26090|Collana|collana|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26091|Chua Cocani|chua-cocani|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26092|Santiago de Machaca|santiago-de-machaca|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26093|Huatajata|huatajata|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26094|Comanche|comanche|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26095|Combaya|combaya|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26096|Curva|curva|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26097|Charaña|charana|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26098|Catacora|catacora|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26099|Quiabaya|quiabaya|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26100|Chacarilla|chacarilla|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26101|Nazacara de Pacajes|nazacara-de-pacajes|NULL|NULL|26014|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26103|Sabaya|sabaya|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26104|Chipaya|chipaya|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26105|Coipasa|coipasa|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26106|Corque|corque|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26107|Choquecota|choquecota|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26108|Oruro|oruro|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26109|Caracollo|caracollo|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26110|El Choro|el-choro|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26111|Soracachi|soracachi|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26112|Challapata|challapata|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26113|Santuario de Quillacas|santuario-de-quillacas|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26114|Salinas de Garci Mendoza|salinas-de-garci-mendoza|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26115|Pampa Aullagas|pampa-aullagas|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26116|Huachacalla|huachacalla|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26117|Cruz de Machacamarca|cruz-de-machacamarca|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26118|Escara|escara|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26119|Esmeralda|esmeralda-26119|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26120|Yunguyo del Litoral|yunguyo-del-litoral|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26121|Santiago de Huayllamarca|santiago-de-huayllamarca|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26122|Villa Huanuni|villa-huanuni|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26123|Machacamarca|machacamarca|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26124|Villa Poopó|villa-poopo|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26125|Antequera|antequera-26125|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26126|Pazña|pazna|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26127|La Rivera|la-rivera|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26128|Carangas|carangas|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26129|Todos Santos|todos-santos|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26130|Curahuara de Carangas|curahuara-de-carangas|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26131|Turco|turco|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26132|Totora|totora-26132|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26133|Toledo|toledo-26133|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26134|Santiago de Huari|santiago-de-huari|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26135|Andamarca|andamarca|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26136|Belén de Andamarca|belen-de-andamarca|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26137|Eucaliptus|eucaliptus|NULL|NULL|26102|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26139|Santa Rosa del Abuná|santa-rosa-del-abuna|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26140|Ingavi (Humaita)|ingavi-humaita|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26141|Nueva Esperanza|nueva-esperanza-26141|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26142|Santos Mercado|santos-mercado|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26143|Villa Nueva|villa-nueva-26143|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26144|Puerto Gonzalo Moreno|puerto-gonzalo-moreno|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26145|San Lorenzo|san-lorenzo-26145|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26146|Sena|sena|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26147|Puerto Rico|puerto-rico|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26148|Filadelfia|filadelfia-26148|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26149|San Pedro|san-pedro|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26150|Cobija|cobija|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26151|Porvenir|porvenir|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26152|Bella Flor|bella-flor|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26153|Bolpebra|bolpebra|NULL|NULL|26138|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26155|Sacaca|sacaca|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26156|Caripuyo|caripuyo|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26157|Uyuni|uyuni|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26158|Porco|porco|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26159|Tomave|tomave|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26160|Arampampa|arampampa|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26161|Acasio|acasio|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26162|San Pedro de Buena Vista|san-pedro-de-buena-vista|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26163|Toro Toro|toro-toro|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26164|Colquechaca|colquechaca|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26165|Ocurí|ocuri|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26166|Pocoata|pocoata|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26167|Ravelo|ravelo|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26168|Betanzos|betanzos|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26169|Chaquí|chaqui|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26170|Tacobamba|tacobamba|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26171|Llica|llica|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26172|Tahua|tahua|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26173|San Agustín|san-agustin|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26174|Puna|puna|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26175|Caiza «D»|caiza-d|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26176|Ckochas|ckochas|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26177|Villazón|villazon|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26178|Colcha «K»|colcha-k|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26179|San Pedro de Quemes|san-pedro-de-quemes|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26180|Cotagaita|cotagaita|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26181|Vitichi|vitichi|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26182|Uncía|uncia|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26183|Chayanta|chayanta|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26184|Llallagua|llallagua|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26185|Chuquiuta|chuquiuta|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26186|Tupiza|tupiza|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26187|Atocha|atocha|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26188|San Pablo de Lipez|san-pablo-de-lipez|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26189|Mojinete|mojinete|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26190|San Antonio de Esmoruco|san-antonio-de-esmoruco|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26191|Potosí|potosi|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26192|Belén de Urmiri|belen-de-urmiri|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26193|Tinguipaya|tinguipaya|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26194|Villa de Yocalla|villa-de-yocalla|NULL|NULL|26154|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26196|Santa Cruz de la Sierra|santa-cruz-de-la-sierra|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26197|Cotoca|cotoca|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26198|El Torno|el-torno|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26199|La Guardia|la-guardia|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26200|Porongo|porongo|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26201|San Matías|san-matias|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26202|San José de Chiquitos|san-jose-de-chiquitos|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26203|Pailón|pailon|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26204|Roboré|robore|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26205|Lagunillas|lagunillas|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26206|Boyuibe|boyuibe|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26207|Cabezas|cabezas|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26208|Camiri|camiri|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26209|Charagua|charagua|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26210|Cuevo|cuevo|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26211|Gutiérrez|gutierrez|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26212|Samaipata|samaipata|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26213|Mairana|mairana|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26214|Pampagrande|pampagrande|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26215|Quirusillas|quirusillas|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26216|Puerto Suárez|puerto-suarez|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26217|Carmen Rivero Tórrez|carmen-rivero-torrez|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26218|Puerto Quijarro|puerto-quijarro|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26219|Ascensión de Guarayos|ascension-de-guarayos|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26220|El Puente|el-puente|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26221|Urubichá|urubicha|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26222|Buena Vista|buena-vista-26222|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26223|San Carlos|san-carlos-26223|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26224|San Juan de Yapacaní|san-juan-de-yapacani|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26225|Yapacaní|yapacani|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26226|San Ignacio de Velasco|san-ignacio-de-velasco|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26227|San Miguel de Velasco|san-miguel-de-velasco|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26228|San Rafael de Velasco|san-rafael-de-velasco|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26229|Comarapa|comarapa|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26230|Saipina|saipina|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26231|Concepción|concepcion-26231|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26232|Cuatro Cañadas|cuatro-canadas|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26233|San Antonio del Lomerío|san-antonio-del-lomerio|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26234|San Julián|san-julian|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26235|San Ramón|san-ramon-26235|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26236|San Xavier|san-xavier|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26237|Montero|montero|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26238|General Agustín Saavedra|general-agustin-saavedra|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26239|Minero|minero|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26240|Fernández Alonso|fernandez-alonso|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26241|San Pedro|san-pedro-26241|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26242|Portachuelo|portachuelo|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26243|Colpa Bélgica|colpa-belgica|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26244|Santa Rosa del Sara|santa-rosa-del-sara|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26245|Vallegrande|vallegrande|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26246|El Trigal|el-trigal|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26247|Moro Moro|moro-moro|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26248|Postrervalle|postrervalle|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26249|Pucará|pucara|NULL|NULL|26195|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26251|Padcaya|padcaya|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26252|Bermejo|bermejo|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26253|Uriondo|uriondo|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26254|Yunchará|yunchara|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26255|Tarija|tarija|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26256|Yacuiba|yacuiba|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26257|Caraparí|carapari|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26258|Villamontes|villamontes|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26259|San Lorenzo|san-lorenzo-26259|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26260|El Puente|el-puente-26260|NULL|NULL|26250|NULL|NULL
+25|BO|BOLIVIA|Bolivia|Bolivia|t26261|Entre Ríos|entre-rios-26261|NULL|NULL|26250|NULL|NULL

@@ -1,0 +1,12 @@
+|1|ar|Argentina|USD|es|
+|2|cr|Costa Rica|USD|es|
+|3|pa|Panamá| USD|es|
+|4|gt|Guatemala|USD|es|
+|5|do|República Dominicana|USD|es|
+|6|cu|Cuba|USD|es|
+|7|uy|Uruguay|USD|es|
+|8|py|Paraguay|USD|es|
+|9|bo|Bolivia|USD|es|
+|10|bz|Belice|USD|es|
+|11|jm|Jamaica|JMD|en|
+|12|za|Sudafrica|USD|en|

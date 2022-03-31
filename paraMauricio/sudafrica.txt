@@ -1,0 +1,2 @@
+26401|Ciudad del Cabo|ciudad-del-cabo|NULL|NULL|26399|NULL|NULL
+26402|Johannesburgo|johannesburgo|NULL|NULL|26400|NULL|NULL

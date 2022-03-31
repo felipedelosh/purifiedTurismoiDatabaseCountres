@@ -1,0 +1,242 @@
+21829|Puerto Aisén|puerto-aisen|-45.4035|-72.6864|21415|21416|\N
+21830|Coihaique|coihaique|-45.5712|-72.0682|21415|21424|\N
+21831|Antofagasta|antofagasta|\N|\N|21430|21431|\N
+21832|Taltal|taltal|\N|\N|21430|21431|\N
+21833|Mejillones|mejillones|\N|\N|21430|21431|\N
+21834|Calama|calama|\N|\N|21430|21436|\N
+21835|María Elena|maria-elena|\N|\N|21430|21440|\N
+21836|Tocopilla|tocopilla|\N|\N|21430|21440|\N
+21837|Arica|arica|-18.4782|-70.3125|21443|21444|\N
+21838|Caldera|caldera|\N|\N|21450|21454|\N
+21839|Copiapó|copiapo|\N|\N|21450|21454|\N
+21840|Tierra Amarilla|tierra-amarilla|\N|\N|21450|21454|\N
+21841|Chañaral|chanaral|\N|\N|21450|21451|\N
+21842|Diego De Almagro|diego-de-almagro|\N|\N|21450|21451|\N
+21843|El Salvador|el-salvador|\N|\N|21450|21451|\N
+21844|Huasco|huasco|\N|\N|21450|21458|\N
+21845|Vallenar|vallenar|\N|\N|21450|21458|\N
+21846|Arauco|arauco|\N|\N|21567|21568|\N
+21847|Cañete|canete|\N|\N|21567|21568|\N
+21848|Curanilahue|curanilahue|\N|\N|21567|21568|\N
+21849|Lebu|lebu|\N|\N|21567|21568|\N
+21850|Los Álamos|los-alamos|\N|\N|21567|21568|\N
+21851|Cabrero|cabrero|\N|\N|21567|21576|\N
+21852|Monte Águila|monte-aguila|\N|\N|21567|21576|\N
+21853|La Laja|la-laja|\N|\N|21567|21576|\N
+21854|Los Ángeles|los-angeles|\N|\N|21567|21576|\N
+21855|Mulchén|mulchen|\N|\N|21567|21576|\N
+21856|Nacimiento|nacimiento|\N|\N|21567|21576|\N
+21857|San Rosendo|san-rosendo|\N|\N|21567|21576|\N
+21858|Santa Bárbara|santa-barbara|\N|\N|21567|21576|\N
+21859|Huépil|huepil|\N|\N|21567|21576|\N
+21860|Yumbel|yumbel|\N|\N|21567|21576|\N
+21861|Chiguayante|chiguayante|\N|\N|21567|21591|\N
+21862|Concepción|concepcion|\N|\N|21567|21591|\N
+21863|Coronel|coronel|\N|\N|21567|21591|\N
+21864|Hualpén|hualpen|\N|\N|21567|21591|\N
+21865|Hualqui|hualqui|\N|\N|21567|21591|\N
+21866|Lota|lota|\N|\N|21567|21591|\N
+21867|Penco|penco|\N|\N|21567|21591|\N
+21868|San Pedro De La Paz|san-pedro-de-la-paz|\N|\N|21567|21591|\N
+21869|Santa Juana|santa-juana|\N|\N|21567|21591|\N
+21870|Talcahuano|talcahuano|\N|\N|21567|21591|\N
+21871|Tomé|tome|\N|\N|21567|21591|\N
+21872|Bulnes|bulnes|\N|\N|21567|21604|\N
+21873|Chillán|chillan|\N|\N|21567|21604|\N
+21874|Chillán Viejo|chillan-viejo|\N|\N|21567|21604|\N
+21875|Coelemu|coelemu|\N|\N|21567|21604|\N
+21876|Coihueco|coihueco|\N|\N|21567|21604|\N
+21877|Quillón|quillon|\N|\N|21567|21604|\N
+21878|Quirihue|quirihue|\N|\N|21567|21604|\N
+21879|San Carlos|san-carlos|\N|\N|21567|21604|\N
+21880|Yungay|yungay|\N|\N|21567|21604|\N
+21881|Andacollo|andacollo|\N|\N|21463|21469|\N
+21882|Illapel|illapel|\N|\N|21463|21464|\N
+21883|Los Vilos|los-vilos|\N|\N|21463|21464|\N
+21884|Combarbalá|combarbala|\N|\N|21463|21476|\N
+21885|Coquimbo|coquimbo|\N|\N|21463|21469|\N
+21886|La Serena|la-serena|-29.903|-71.2514|21463|21469|\N
+21887|Vicuña|vicuna|\N|\N|21463|21469|\N
+21888|Ovalle|ovalle|\N|\N|21463|21476|\N
+21889|Monte Patria|monte-patria|\N|\N|21463|21476|\N
+21890|El Palqui|el-palqui|\N|\N|21463|21476|\N
+21891|Salamanca|salamanca|\N|\N|21463|21464|\N
+21892|Codegua|codegua|\N|\N|21626|21627|\N
+21893|Doñihue|donihue|\N|\N|21626|21627|\N
+21894|Lo Miranda|lo-miranda|\N|\N|21626|21627|\N
+21895|Graneros|graneros|\N|\N|21626|21627|\N
+21896|Las Cabras|las-cabras|\N|\N|21626|21627|\N
+21897|Machalí|machali|\N|\N|21626|21627|\N
+21898|San Francisco De Mostazal|san-francisco-de-mostazal|\N|\N|21626|21627|\N
+21899|Gultro|gultro|\N|\N|21626|21627|\N
+21900|Peumo|peumo|\N|\N|21626|21627|\N
+21901|Punta Diamante|punta-diamante|\N|\N|21626|21627|\N
+21902|Pichilemu|pichilemu|\N|\N|21626|21627|\N
+21903|Quinta De Tilcoco|quinta-de-tilcoco|\N|\N|21626|21627|\N
+21904|Rancagua|rancagua|\N|\N|21626|21627|\N
+21905|Rengo|rengo|\N|\N|21626|21627|\N
+21906|Requínoa|requinoa|\N|\N|21626|21627|\N
+21907|San Vicente De Taguatagua|san-vicente-de-taguatagua|\N|\N|21626|21627|\N
+21908|Nancagua|nancagua|\N|\N|21626|21652|\N
+21909|Palmilla|palmilla|\N|\N|21626|21652|\N
+21910|San Fernando|san-fernando|\N|\N|21626|21652|\N
+21911|Santa Cruz|santa-cruz|\N|\N|21626|21652|\N
+21912|Carahue|carahue|\N|\N|21482|21483|\N
+21913|Cunco|cunco|\N|\N|21482|21483|\N
+21914|Freire|freire|\N|\N|21482|21483|\N
+21915|Gorbea|gorbea|\N|\N|21482|21483|\N
+21916|Lautaro|lautaro|\N|\N|21482|21483|\N
+21917|Loncoche|loncoche|\N|\N|21482|21483|\N
+21918|Nueva Imperial|nueva-imperial|\N|\N|21482|21483|\N
+21919|Padre Las Casas|padre-las-casas|\N|\N|21482|21483|\N
+21920|Pitrufquén|pitrufquen|\N|\N|21482|21483|\N
+21921|Pucón|pucon|-39.2722|-71.9776|21482|21483|\N
+21922|Labranza|labranza|\N|\N|21482|21483|\N
+21923|Temuco|temuco|\N|\N|21482|21483|\N
+21924|Villarrica|villarrica|-39.282|-72.2307|21482|21483|\N
+21925|Angol|angol|\N|\N|21482|21505|\N
+21926|Collipulli|collipulli|\N|\N|21482|21505|\N
+21927|Curacautín|curacautin|\N|\N|21482|21505|\N
+21928|Purén|puren|\N|\N|21482|21505|\N
+21929|Renaico|renaico|\N|\N|21482|21505|\N
+21930|Traiguén|traiguen|\N|\N|21482|21505|\N
+21931|Victoria|victoria|\N|\N|21482|21505|\N
+21932|Ancud|ancud|\N|\N|21517|21518|\N
+21933|Castro|castro|\N|\N|21517|21518|\N
+21934|Quellón|quellon|\N|\N|21517|21518|\N
+21935|Calbuco|calbuco|\N|\N|21517|21529|\N
+21936|Fresia|fresia|\N|\N|21517|21529|\N
+21937|Frutillar|frutillar|\N|\N|21517|21529|\N
+21938|Llanquihue|llanquihue|\N|\N|21517|21529|\N
+21939|Los Muermos|los-muermos|\N|\N|21517|21529|\N
+21940|Puerto Montt|puerto-montt|\N|\N|21517|21529|\N
+21941|Puerto Varas|puerto-varas|\N|\N|21517|21529|\N
+21942|Osorno|osorno|\N|\N|21517|21539|\N
+21943|Purranque|purranque|\N|\N|21517|21539|\N
+21944|Río Negro|rio-negro|\N|\N|21517|21539|\N
+21945|Futrono|futrono|\N|\N|21552|21558|\N
+21946|La Unión|la-union|\N|\N|21552|21558|\N
+21947|Lanco|lanco|\N|\N|21552|21558|\N
+21948|Los Lagos|los-lagos|\N|\N|21552|21558|\N
+21949|San José De La Mariquina|san-jose-de-la-mariquina|\N|\N|21552|21558|\N
+21950|Paillaco|paillaco|\N|\N|21552|21558|\N
+21951|Panguipulli|panguipulli|\N|\N|21552|21558|\N
+21952|Río Bueno|rio-bueno|\N|\N|21552|21558|\N
+21953|Valdivia|valdivia|\N|\N|21552|21558|\N
+21954|Punta Arenas|punta-arenas|-53.1638|-70.917|21697|21701|\N
+21955|Puerto Natales|puerto-natales|\N|\N|21697|21710|\N
+21956|Cauquenes|cauquenes|\N|\N|21663|21664|\N
+21957|Curicó|curico|\N|\N|21663|21668|\N
+21958|Hualañé|hualane|\N|\N|21663|21668|\N
+21959|Molina|molina|\N|\N|21663|21668|\N
+21960|Teno|teno|\N|\N|21663|21668|\N
+21961|Linares|linares|\N|\N|21663|21678|\N
+21962|Longaví|longavi|\N|\N|21663|21678|\N
+21963|Parral|parral|\N|\N|21663|21678|\N
+21964|San Javier|san-javier|\N|\N|21663|21678|\N
+21965|Villa Alegre|villa-alegre|\N|\N|21663|21678|\N
+21966|Constitución|constitucion|\N|\N|21663|21686|\N
+21967|San Clemente|san-clemente|\N|\N|21663|21686|\N
+21968|Talca|talca|\N|\N|21663|21686|\N
+21969|Colina|colina|\N|\N|21713|21714|\N
+21970|Batuco|batuco|\N|\N|21713|21714|\N
+21971|Lampa|lampa|\N|\N|21713|21714|\N
+21972|Tiltil|tiltil|\N|\N|21713|21714|\N
+21973|Pirque|pirque|\N|\N|21713|21718|\N
+21974|Puente Alto|puente-alto|\N|\N|21713|21718|\N
+21975|San José De Maipo|san-jose-de-maipo|\N|\N|21713|21718|\N
+21976|Alto Jahuel|alto-jahuel|\N|\N|21713|21722|\N
+21977|Buin|buin|\N|\N|21713|21722|\N
+21978|Bajos De San Agustín|bajos-de-san-agustin|\N|\N|21713|21722|\N
+21979|Hospital|hospital|\N|\N|21713|21722|\N
+21980|Paine|paine|\N|\N|21713|21722|\N
+21981|San Bernardo|san-bernardo|\N|\N|21713|21722|\N
+21982|Curacaví|curacavi|\N|\N|21713|21727|\N
+21983|Melipilla|melipilla|\N|\N|21713|21727|\N
+21984|Cerrillos|cerrillos|\N|\N|21713|21733|\N
+21985|Cerro Navía|cerro-navia|\N|\N|21713|21733|\N
+21986|Conchalí|conchali|\N|\N|21713|21733|\N
+21987|El Bosque|el-bosque|\N|\N|21713|21733|\N
+21988|Estación Central|estacion-central|\N|\N|21713|21733|\N
+21989|Huechuraba|huechuraba|\N|\N|21713|21733|\N
+21990|Independencia|independencia|\N|\N|21713|21733|\N
+21991|La Cisterna|la-cisterna|\N|\N|21713|21733|\N
+21992|La Florida|la-florida|\N|\N|21713|21733|\N
+21993|La Granja|la-granja|\N|\N|21713|21733|\N
+21994|La Pintana|la-pintana|\N|\N|21713|21733|\N
+21995|La Reina|la-reina|\N|\N|21713|21733|\N
+21996|Las Condes|las-condes|\N|\N|21713|21733|\N
+21997|Lo Barnechea|lo-barnechea|\N|\N|21713|21733|\N
+21998|Lo Espejo|lo-espejo|\N|\N|21713|21733|\N
+21999|Lo Prado|lo-prado|\N|\N|21713|21733|\N
+22000|Macul|macul|\N|\N|21713|21733|\N
+22001|Maipú|maipu|\N|\N|21713|21733|\N
+22002|Ñuñoa|nunoa|\N|\N|21713|21733|\N
+22003|Pedro Aguirre Cerda|pedro-aguirre-cerda|\N|\N|21713|21733|\N
+22004|Peñalolén|penalolen|\N|\N|21713|21733|\N
+22005|Providencia|providencia|\N|\N|21713|21733|\N
+22006|Pudahuel|pudahuel|\N|\N|21713|21733|\N
+22007|Quilicura|quilicura|\N|\N|21713|21733|\N
+22008|Quinta Normal|quinta-normal|\N|\N|21713|21733|\N
+22009|Recoleta|recoleta|\N|\N|21713|21733|\N
+22010|Renca|renca|\N|\N|21713|21733|\N
+22011|San Joaquín|san-joaquin|\N|\N|21713|21733|\N
+22012|San Miguel|san-miguel|\N|\N|21713|21733|\N
+22013|San Ramón|san-ramon|\N|\N|21713|21733|\N
+22014|Santiago|santiago|-33.4488|-70.6692|21713|21733|\N
+22015|Vitacura|vitacura|\N|\N|21713|21733|\N
+22016|El Monte|el-monte|\N|\N|21713|21766|\N
+22017|Isla De Maipo|isla-de-maipo|\N|\N|21713|21766|\N
+22018|La Islita|la-islita|\N|\N|21713|21722|\N
+22019|Padre Hurtado|padre-hurtado|\N|\N|21713|21766|\N
+22020|Peñaflor|penaflor|\N|\N|21713|21766|\N
+22021|Talagante|talangate|\N|\N|21713|21766|\N
+22022|Alto Hospicio|alto-hospicio|\N|\N|21772|21773|\N
+22023|Iquique|iquique|-20.217|-70.1376|21772|21773|\N
+22024|Pozo Almonte|pozo-almonte|\N|\N|21772|21773|\N
+22025|Cabildo|cabildo|\N|\N|21782|21795|\N
+22026|Hanga Roa|hanga-roa|\N|\N|21782|21783|\N
+22027|Calle Larga|calle-larga|\N|\N|21782|21785|\N
+22028|Los Andes|los-andes|\N|\N|21782|21785|\N
+22029|Rinconada|rinconada|\N|\N|21782|21785|\N
+22030|San Esteban|san-esteban|\N|\N|21782|21785|\N
+22031|La Ligua|la-ligua|\N|\N|21782|21795|\N
+22032|La Calera|la-calera|\N|\N|21782|21801|\N
+22033|Hijuelas|hijuelas|\N|\N|21782|21801|\N
+22034|La Cruz|la-cruz|\N|\N|21782|21801|\N
+22035|Limache|limache|\N|\N|21782|21801|\N
+22036|Nogales|nogales|\N|\N|21782|21801|\N
+22037|El Melón|el-melon|\N|\N|21782|21801|\N
+22038|Olmué|olmue|\N|\N|21782|21801|\N
+22039|Quillota|quillota|\N|\N|21782|21801|\N
+22040|Algarrobo|algarrobo|\N|\N|21782|21807|\N
+22041|Cartagena|cartagena|\N|\N|21782|21807|\N
+22042|El Quisco|el-quisco|\N|\N|21782|21807|\N
+22043|El Tabo|el-tabo|\N|\N|21782|21807|\N
+22044|San Antonio|san-antonio|\N|\N|21782|21807|\N
+22045|Santo Domingo|santo-domingo|\N|\N|21782|21807|\N
+22046|Catemu|catemu|\N|\N|21782|21814|\N
+22047|Llaillay|llaillay|\N|\N|21782|21814|\N
+22048|Putaendo|putaendo|\N|\N|21782|21814|\N
+22049|Villa Los Almendros|villa-los-almendros|\N|\N|21782|21814|\N
+22050|Santa María|santa-maria|\N|\N|21782|21821|\N
+22051|Casablanca|casablanca|-33.319|-71.4076|21782|21821|\N
+22052|Concón|concon|\N|\N|21782|21821|\N
+22053|Las Ventanas|las-ventanas|\N|\N|21782|21821|\N
+22054|Quilpué|quilpue|\N|\N|21782|21821|\N
+22055|Quintero|quintero|\N|\N|21782|21821|\N
+22056|Placilla De Peñuelas|placilla-de-penuelas|\N|\N|21782|21821|\N
+22057|Valparaíso|valparaiso|-33.0472|-71.6126|21782|21821|\N
+22058|Villa Alemana|villa-alemana|\N|\N|21782|21821|\N
+22059|Viña Del Mar|vina-del-mar|-33.0247|-71.5523|21782|21821|\N
+22064|Poblado de Putre|poblado-de-putre|-18.1451|-69.523|21443|21447|21449
+22069|Arica|arica-0b1d435e-695d-40d5-853b-d399b683b3f7|\N|\N|21443|21444|\N
+22077|Poblado de Parinacota|poblado-de-parinacota|-18.2|-69.2667|21443|21447|21449
+22225|Chile chico|chile-chico|\N|\N|22224|\N|\N
+22226|Puerto Tranquilo|puerto-tranquilo|\N|\N|22224|\N|\N
+22227|San Pedro de Atacama|san-pedro-de-atacama|\N|\N|21430|\N|\N
+22228|Coyhaique|coyhaique|\N|\N|22224|\N|\N
+22229|Isla de Pascua|isla-de-pascua|\N|\N|21782|\N|\N
+22230|Torres de Paine|torres-de-paine|\N|\N|21697|\N|\N
+22231|Puerto Rio Tranquilo|puerto-rio-tranquilo|\N|\N|22224|\N|\N
+22233|Puerto Lopezo|puerto-lopez|\N|\N|\N|\N|\N

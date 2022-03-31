@@ -1,0 +1,164 @@
+57|EC|ECUADOR|Ecuador|Ecuador|t1815|Cuenca|cuenca|\N|\N|1|11|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1816|Girón|giron|\N|\N|1|52|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1817|Gualaceo|gualaceo|\N|\N|1|58|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1818|Nabón|nabon|\N|\N|1|68|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1819|Paute|paute|\N|\N|1|76|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1820|Pucará|pucara|\N|\N|1|84|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1821|San Fernando|san-fernando|\N|\N|1|87|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1822|Santa Isabel|santa-isabel|\N|\N|1|90|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1823|Sigsig|sigsig|\N|\N|1|99|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1824|Caluma|caluma|\N|\N|107|108|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1825|Chillanes|chillanes|\N|\N|107|110|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1826|Chimbo|chimbo|\N|\N|107|113|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1827|Echeandía|echeandia|\N|\N|107|119|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1828|Guaranda |guaranda|\N|\N|107|121|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1829|San Miguel|san-miguel|\N|\N|107|137|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1830|Azogues|azogues|\N|\N|145|146|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1831|Biblián|biblian|\N|\N|145|159|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1832|Cañar|canar|\N|\N|145|165|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1833|La Troncal|la-troncal|\N|\N|145|183|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1834|Bolívar|bolivar|\N|\N|189|194|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1835|Carchi|carchi|\N|\N|189|207|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1836|El Ángel|el-angel|\N|\N|189|201|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1837|San Gabriel|san-gabriel|\N|\N|189|212|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1838|Tulcán|tulcan|\N|\N|189|190|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1839|Alausí|alausi|\N|\N|233|234|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1840|Chambo|chambo|\N|\N|233|245|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1841|Chunchi|chunchi|\N|\N|233|247|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1842|Colta|colta|\N|\N|233|253|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1843|Guamote|guamote|\N|\N|233|263|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1844|Guano|guano|\N|\N|233|267|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1845|Pallatanga|pallatanga|\N|\N|233|276|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1846|Penipe|penipe|\N|\N|233|278|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1847|Riobamba|riobamba|\N|\N|233|285|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1848|Guayzimi|guayzimi|\N|\N|304|322|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1849|La Maná|la-mana|\N|\N|353|354|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1850|Latacunga|latacunga|\N|\N|353|360|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1851|Pangua|pangua|\N|\N|353|378|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1852|Pujilí|pujili|\N|\N|353|383|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1853|Salcedo|salcedo|\N|\N|353|391|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1854|Saquisilí|saquisili|\N|\N|353|398|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1855|Santo Domingo|santo-domingo|\N|\N|409|410|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1856|Arenillas|arenillas|\N|\N|427|428|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1857|Balsas|balsas|\N|\N|427|440|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1858|Chilla|chilla|\N|\N|427|443|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1859|El Guabo|el-guabo|\N|\N|427|445|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1860|Huaquillas|huaquillas|\N|\N|427|451|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1861|La Victoria|la-victoria|\N|\N|427|458|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1862|Machala|machala|\N|\N|427|465|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1863|Marcabelí|marcabeli|\N|\N|427|473|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1864|Pasaje|pasaje|\N|\N|427|476|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1865|Piñas|pinas|\N|\N|427|488|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1866|Santa Rosa|santa-rosa|\N|\N|427|504|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1867|Zaruma|zaruma|\N|\N|427|517|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1868|Esmeraldas(Ciudad)|esmeraldas-ciudad|\N|\N|528|552|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1869|Puerto Ayora|puerto-ayora|\N|\N|607|621|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1870|Puerto Baquerizo Moreno |puerto-baquerizo-moreno|\N|\N|607|614|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1871|Puerto Villamil|puerto-villamil|\N|\N|607|608|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1872|Balao|balao|\N|\N|630|633|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1873|Balzar|balzar|\N|\N|630|635|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1874|Colimes|colimes|\N|\N|630|637|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1875|Daule|daule|\N|\N|630|642|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1876|Durán|duran|\N|\N|630|655|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1877|El Empalme|el-empalme|\N|\N|630|658|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1878|El Triunfo|el-triunfo|\N|\N|630|662|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1879|Guayaquil |guayaquil|\N|\N|630|666|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1880|Milagro|milagro|\N|\N|630|692|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1881|Naranjal|naranjal|\N|\N|630|697|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1882|Naranjito|naranjito|\N|\N|630|703|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1883|Palestina|palestina|\N|\N|630|707|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1884|Pedro Carbo|pedro-carbo|\N|\N|630|709|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1885|Playas|playas|\N|\N|630|713|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1886|Samborondón|samborondon|\N|\N|630|725|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1887|San Jacinto De Yaguachi|san-jacinto-de-yaguachi|\N|\N|630|729|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1888|Santa Lucía|santa-lucia|\N|\N|630|734|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1889|Atuntaqui|atuntaqui|\N|\N|739|740|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1890|Cotacachi|cotacachi|\N|\N|739|747|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1891|Ibarra|ibarra|\N|\N|739|759|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1892|Otavalo|otavalo|\N|\N|739|773|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1893|Pimampiro|pimampiro|\N|\N|739|786|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1894|Urcuquí |urcuqui|\N|\N|739|791|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1895|Alamor|alamor|\N|\N|798|880|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1896|Calvas |calvas|\N|\N|798|799|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1897|Catacocha|catacocha|\N|\N|798|865|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1898|Catamayo |catamayo|\N|\N|798|807|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1899|Celica |celica|\N|\N|798|814|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1900|Chaguarpamba |chaguarpamba|\N|\N|798|820|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1901|Espíndola |espindola|\N|\N|798|826|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1902|Gonzanamá |gonzanama|\N|\N|798|831|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1903|Loja|loja|\N|\N|798|837|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1904|Macará |macara|\N|\N|798|856|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1905|Pindal|pindal|\N|\N|798|875|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1906|Quilanga|quilanga|\N|\N|798|887|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1907|Saraguro|saraguro|\N|\N|798|891|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1908|Sozoranga|sozoranga|\N|\N|798|903|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1909|Urdaneta|urdaneta|\N|\N|798|891|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1910|Zapotillo|zapotillo|\N|\N|798|907|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1911|Baba|baba|\N|\N|915|916|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1912|Babahoyo|babahoyo|\N|\N|915|920|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1913|Montalvo |montalvo|\N|\N|915|937|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1914|Palenque|palenque|\N|\N|915|940|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1915|Puebloviejo|puebloviejo|\N|\N|915|942|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1916|Quevedo |quevedo|\N|\N|915|946|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1917|Vinces|vinces|\N|\N|915|971|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1918|Atahualpa|atahualpa|\N|\N|974|1044|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1919|Chone |chone|\N|\N|974|984|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1920|El Carmen |el-carmen|\N|\N|974|994|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1921|Flavio Alfaro |flavio-alfaro|\N|\N|974|999|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1922|Jipijapa |jipijapa|\N|\N|974|1007|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1923|Junín |junin|\N|\N|974|1019|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1924|Manta |manta|\N|\N|974|1021|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1925|Montecristi |montecristi|\N|\N|974|1029|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1926|Paján |pajan|\N|\N|974|1038|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1927|Pedernales|pedernales|\N|\N|974|1044|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1928|Pichincha |pichincha|\N|\N|974|1049|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1929|Portoviejo(Ciudad)|portoviejo-ciudad|\N|\N|974|1053|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1930|Rocafuerte|rocafuerte|\N|\N|974|1075|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1931|Santa Ana|santa-ana|\N|\N|974|1080|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1932|Sucre|sucre|\N|\N|974|1087|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1933|Tosagua|tosagua|\N|\N|974|1092|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1934|Gualaquiza |gualaquiza|\N|\N|1096|1097|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1935|Limón Indanza |limon-indanza|\N|\N|1096|1111|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1936|Macas|macas|\N|\N|1096|1122|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1937|Palora |palora|\N|\N|1096|1135|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1938|Santiago |santiago|\N|\N|1096|1147|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1939|Sucúa |sucua|\N|\N|1096|1155|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1940|Archidona|archidona|\N|\N|1169|1170|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1941|Baeza|baeza|\N|\N|1169|1184|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1942|El Chaco|el-chaco|\N|\N|1169|1177|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1943|Tena|tena|\N|\N|1169|1191|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1944|Aguarico|aguarico|\N|\N|1200|1201|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1945|La Joya De Los Sachas|la-joya-de-los-sachas|\N|\N|1200|1207|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1946|Puerto Francisco De Orellana|puerto-francisco-de-orellana|\N|\N|1200|1224|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1947|Mera|mera|\N|\N|1237|1241|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1948|Puyo|puyo|\N|\N|1237|1245|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1949|Aloag|aloag|\N|\N|1263|1273|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1950|Cayambe|cayambe|\N|\N|1263|1264|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1951|Machachi|machachi|\N|\N|1263|1273|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1952|Quito |quito|\N|\N|1263|1292|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1953|San Miguel De Los Bancos|san-miguel-de-los-bancos|\N|\N|1263|1366|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1954|Sangolquí|sangolqui|\N|\N|1263|1360|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1955|Tabacundo|tabacundo|\N|\N|1263|1282|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1956|Salinas|salinas|\N|\N|1369|1372|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1957|Santa Elena|santa-elena|\N|\N|1369|1380|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1958|Cascales|cascales|\N|\N|1390|1391|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1959|La Bonita|la-bonita|\N|\N|1390|1426|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1960|Lumbaquí|lumbaqui|\N|\N|1390|1399|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1961|Nueva Loja|nueva-loja|\N|\N|1390|1404|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1962|Puerto El Carmen De Putumayo|puerto-el-carmen-de-putumayo|\N|\N|1390|1413|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1963|Shushufindi|shushufindi|\N|\N|1390|1419|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1964|Ambato|ambato|\N|\N|1432|1433|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1965|Ant. Baq. Moreno|ant-baq-moreno|\N|\N|1432|1493|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1966|Baños|banos|\N|\N|1432|1462|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1967|Cevallos|cevallos|\N|\N|1432|1468|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1968|Mocha|mocha|\N|\N|1432|1470|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1969|Patate|patate|\N|\N|1432|1473|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1970|Pelileo|pelileo|\N|\N|1432|1482|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1971|Píllaro|pillaro|\N|\N|1432|1493|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1972|Quero|quero|\N|\N|1432|1478|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1973|Tisaleo|tisaleo|\N|\N|1432|1503|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1974|Yacuambí|yacuambi|\N|\N|304|326|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1975|Yantzaza|yantzaza|\N|\N|304|330|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1976|Zamora|zamora|\N|\N|304|305|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t1999|Islas Galápagos|galapagos|\N|\N|607|\N|\N
+57|EC|ECUADOR|Ecuador|Ecuador|t2000|Puerto López|puerto-lopez|\N|\N|974|\N|\N

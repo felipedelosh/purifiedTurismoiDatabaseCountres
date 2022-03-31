@@ -1,0 +1,255 @@
+25644|Puerto Casado|puerto-casado|NULL|NULL|25643|NULL|NULL
+25645|Capitán Carmelo Peralta|capitan-carmelo-peralta|NULL|NULL|25643|NULL|NULL
+25646|Fuerte Olimpo|fuerte-olimpo|NULL|NULL|25643|NULL|NULL
+25647|Bahía Negra|bahia-negra|NULL|NULL|25643|NULL|NULL
+25649|Ciudad del Este|ciudad-del-este|NULL|NULL|25648|NULL|NULL
+25650|Presidente Franco|presidente-franco|NULL|NULL|25648|NULL|NULL
+25651|Minga Guazú|minga-guazu|NULL|NULL|25648|NULL|NULL
+25652|Hernandarias|hernandarias|NULL|NULL|25648|NULL|NULL
+25653|Itakyry|itakyry|NULL|NULL|25648|NULL|NULL
+25654|Santa Rita|santa-rita-25654|NULL|NULL|25648|NULL|NULL
+25655|Juan Emilio O'Leary|juan-emilio-o-leary|NULL|NULL|25648|NULL|NULL
+25656|Doctor Juan León Mallorquín|doctor-juan-leon-mallorquin|NULL|NULL|25648|NULL|NULL
+25657|Minga Porá|minga-pora|NULL|NULL|25648|NULL|NULL
+25658|San Alberto|san-alberto|NULL|NULL|25648|NULL|NULL
+25659|Yguazú|yguazu|NULL|NULL|25648|NULL|NULL
+25660|San Cristóbal|san-cristobal-25660|NULL|NULL|25648|NULL|NULL
+25661|Los Cedrales|los-cedrales|NULL|NULL|25648|NULL|NULL
+25662|Ñacunday|nacunday|NULL|NULL|25648|NULL|NULL
+25663|Doctor Raúl Peña|doctor-raul-pena|NULL|NULL|25648|NULL|NULL
+25664|Mbaracayú|mbaracayu|NULL|NULL|25648|NULL|NULL
+25665|Tavapy|tavapy|NULL|NULL|25648|NULL|NULL
+25666|Santa Rosa del Monday|santa-rosa-del-monday|NULL|NULL|25648|NULL|NULL
+25667|Iruña|iruna|NULL|NULL|25648|NULL|NULL
+25668|Naranjal|naranjal|NULL|NULL|25648|NULL|NULL
+25669|Domingo Martínez de Irala|domingo-martinez-de-irala|NULL|NULL|25648|NULL|NULL
+25670|Santa Fe del Paraná|santa-fe-del-parana|NULL|NULL|25648|NULL|NULL
+25672|Pedro Juan Caballero|pedro-juan-caballero|NULL|NULL|25671|NULL|NULL
+25673|Capitán Bado|capitan-bado|NULL|NULL|25671|NULL|NULL
+25674|Bella Vista Norte|bella-vista-norte|NULL|NULL|25671|NULL|NULL
+25675|Zanja Pytá|zanja-pyta|NULL|NULL|25671|NULL|NULL
+25676|Karapaí|karapai|NULL|NULL|25671|NULL|NULL
+25678|Mariscal José Félix Estigarribia|mariscal-jose-felix-estigarribia|NULL|NULL|25677|NULL|NULL
+25679|Filadelfia|filadelfia|NULL|NULL|25677|NULL|NULL
+25680|Loma Plata|loma-plata|NULL|NULL|25677|NULL|NULL
+25682|Caaguazú|caaguazu|NULL|NULL|25681|NULL|NULL
+25683|Coronel Oviedo|coronel-oviedo|NULL|NULL|25681|NULL|NULL
+25684|Doctor Juan Eulogio Estigarribia|doctor-juan-eulogio-estigarribia|NULL|NULL|25681|NULL|NULL
+25685|Yhú|yhu|NULL|NULL|25681|NULL|NULL
+25686|Repatriación|repatriacion|NULL|NULL|25681|NULL|NULL
+25687|Doctor Juan Manuel Frutos|doctor-juan-manuel-frutos|NULL|NULL|25681|NULL|NULL
+25688|San José de los Arroyos|san-jose-de-los-arroyos|NULL|NULL|25681|NULL|NULL
+25689|San Joaquín|san-joaquin|NULL|NULL|25681|NULL|NULL
+25690|Raúl Arsenio Oviedo|raul-arsenio-oviedo|NULL|NULL|25681|NULL|NULL
+25691|Carayaó|carayao|NULL|NULL|25681|NULL|NULL
+25692|Tembiaporá|tembiapora|NULL|NULL|25681|NULL|NULL
+25693|Santa Rosa del Mbutuy|santa-rosa-del-mbutuy|NULL|NULL|25681|NULL|NULL
+25694|Vaquería|vaqueria|NULL|NULL|25681|NULL|NULL
+25695|José Domingo Ocampos|jose-domingo-ocampos|NULL|NULL|25681|NULL|NULL
+25696|Tres de Febrero|tres-de-febrero|NULL|NULL|25681|NULL|NULL
+25697|R. I. Tres Corrales|r-i-tres-corrales|NULL|NULL|25681|NULL|NULL
+25698|Doctor Cecilio Báez|doctor-cecilio-baez|NULL|NULL|25681|NULL|NULL
+25699|Mariscal Francisco Solano López|mariscal-francisco-solano-lopez|NULL|NULL|25681|NULL|NULL
+25700|Simón Bolívar|simon-bolivar|NULL|NULL|25681|NULL|NULL
+25701|La Pastora|la-pastora|NULL|NULL|25681|NULL|NULL
+25702|Nueva Toledo|nueva-toledo|NULL|NULL|25681|NULL|NULL
+25703|Nueva Londres|nueva-londres|NULL|NULL|25681|NULL|NULL
+25705|San Juan Nepomuceno|san-juan-nepomuceno|NULL|NULL|25704|NULL|NULL
+25706|Abaí|abai|NULL|NULL|25704|NULL|NULL
+25707|Caazapá|caazapa|NULL|NULL|25704|NULL|NULL
+25708|Yuty|yuty|NULL|NULL|25704|NULL|NULL
+25709|Tres de Mayo|tres-de-mayo|NULL|NULL|25704|NULL|NULL
+25710|Tavaí|tavai|NULL|NULL|25704|NULL|NULL
+25711|Fulgencio Yegros|fulgencio-yegros|NULL|NULL|25704|NULL|NULL
+25712|General Higinio Morínigo|general-higinio-morinigo|NULL|NULL|25704|NULL|NULL
+25713|Buena Vista|buena-vista-25713|NULL|NULL|25704|NULL|NULL
+25714|Doctor Moisés Santiago Bertoni|doctor-moises-santiago-bertoni|NULL|NULL|25704|NULL|NULL
+25715|Maciel|maciel|NULL|NULL|25704|NULL|NULL
+25717|Curuguaty|curuguaty|NULL|NULL|25716|NULL|NULL
+25718|Salto del Guairá|salto-del-guaira|NULL|NULL|25716|NULL|NULL
+25719|Yasy Cañy|yasy-cany|NULL|NULL|25716|NULL|NULL
+25720|Villa Ygatimí|villa-ygatimi|NULL|NULL|25716|NULL|NULL
+25721|Ybyrarobaná|ybyrarobana|NULL|NULL|25716|NULL|NULL
+25722|Nueva Esperanza|nueva-esperanza-25722|NULL|NULL|25716|NULL|NULL
+25723|General Francisco Caballero Álvarez|general-francisco-caballero-alvarez|NULL|NULL|25716|NULL|NULL
+25724|Yby Pytá|yby-pyta|NULL|NULL|25716|NULL|NULL
+25725|Corpus Christi|corpus-christi|NULL|NULL|25716|NULL|NULL
+25726|La Paloma del Espíritu Santo|la-paloma-del-espiritu-santo|NULL|NULL|25716|NULL|NULL
+25727|Katueté|katuete|NULL|NULL|25716|NULL|NULL
+25728|Ypejhú|ypejhu|NULL|NULL|25716|NULL|NULL
+25729|Itanará|itanara|NULL|NULL|25716|NULL|NULL
+25730|Maracaná|maracana|NULL|NULL|25716|NULL|NULL
+25731|Puerto Adela|puerto-adela|NULL|NULL|25716|NULL|NULL
+25733|Luque|luque|NULL|NULL|25732|NULL|NULL
+25734|San Lorenzo|san-lorenzo-25734|NULL|NULL|25732|NULL|NULL
+25735|Capiatá|capiata|NULL|NULL|25732|NULL|NULL
+25736|Lambaré|lambare|NULL|NULL|25732|NULL|NULL
+25737|Fernando de la Mora|fernando-de-la-mora|NULL|NULL|25732|NULL|NULL
+25738|Limpio|limpio|NULL|NULL|25732|NULL|NULL
+25739|Ñemby|nemby|NULL|NULL|25732|NULL|NULL
+25740|Itauguá|itaugua|NULL|NULL|25732|NULL|NULL
+25741|Mariano Roque Alonso|mariano-roque-alonso|NULL|NULL|25732|NULL|NULL
+25742|Itá|ita|NULL|NULL|25732|NULL|NULL
+25743|Villa Elisa|villa-elisa|NULL|NULL|25732|NULL|NULL
+25744|Areguá|aregua|NULL|NULL|25732|NULL|NULL
+25745|San Antonio|san-antonio-25745|NULL|NULL|25732|NULL|NULL
+25746|Julián Augusto Saldívar|julian-augusto-saldivar|NULL|NULL|25732|NULL|NULL
+25747|Ypané|ypane|NULL|NULL|25732|NULL|NULL
+25748|Villeta|villeta|NULL|NULL|25732|NULL|NULL
+25749|Guarambaré|guarambare|NULL|NULL|25732|NULL|NULL
+25750|Ypacaraí|ypacarai|NULL|NULL|25732|NULL|NULL
+25751|Nueva Italia|nueva-italia|NULL|NULL|25732|NULL|NULL
+25753|Concepción|concepcion-25753|NULL|NULL|25752|NULL|NULL
+25754|Horqueta|horqueta|NULL|NULL|25752|NULL|NULL
+25755|Yby Yaú|yby-yau|NULL|NULL|25752|NULL|NULL
+25756|Loreto|loreto|NULL|NULL|25752|NULL|NULL
+25757|Belén|belen-25757|NULL|NULL|25752|NULL|NULL
+25758|San Lázaro|san-lazaro|NULL|NULL|25752|NULL|NULL
+25759|Azotey|azotey|NULL|NULL|25752|NULL|NULL
+25760|Sargento José Félix López|sargento-jose-felix-lopez|NULL|NULL|25752|NULL|NULL
+25761|San Alfredo|san-alfredo|NULL|NULL|25752|NULL|NULL
+25762|Paso Barreto|paso-barreto|NULL|NULL|25752|NULL|NULL
+25763|San Carlos del Apa|san-carlos-del-apa|NULL|NULL|25752|NULL|NULL
+25764|Arroyito|arroyito|NULL|NULL|25752|NULL|NULL
+25766|Caacupé|caacupe|NULL|NULL|25765|NULL|NULL
+25767|Tobatí|tobati|NULL|NULL|25765|NULL|NULL
+25768|Piribebuy|piribebuy|NULL|NULL|25765|NULL|NULL
+25769|Arroyos y Esteros|arroyos-y-esteros|NULL|NULL|25765|NULL|NULL
+25770|Eusebio Ayala|eusebio-ayala|NULL|NULL|25765|NULL|NULL
+25771|Emboscada|emboscada|NULL|NULL|25765|NULL|NULL
+25772|Atyrá|atyra|NULL|NULL|25765|NULL|NULL
+25773|Altos|altos|NULL|NULL|25765|NULL|NULL
+25774|Caraguatay|caraguatay|NULL|NULL|25765|NULL|NULL
+25775|San Bernardino|san-bernardino-25775|NULL|NULL|25765|NULL|NULL
+25776|Itacurubí de la Cordillera|itacurubi-de-la-cordillera|NULL|NULL|25765|NULL|NULL
+25777|Isla Pucú|isla-pucu|NULL|NULL|25765|NULL|NULL
+25778|Valenzuela|valenzuela|NULL|NULL|25765|NULL|NULL
+25779|Juan de Mena|juan-de-mena|NULL|NULL|25765|NULL|NULL
+25780|Primero de Marzo|primero-de-marzo|NULL|NULL|25765|NULL|NULL
+25781|Santa Elena|santa-elena|NULL|NULL|25765|NULL|NULL
+25782|San José Obrero|san-jose-obrero|NULL|NULL|25765|NULL|NULL
+25783|Mbocayaty del Yhaguy|mbocayaty-del-yhaguy|NULL|NULL|25765|NULL|NULL
+25784|Nueva Colombia|nueva-colombia|NULL|NULL|25765|NULL|NULL
+25785|Loma Grande|loma-grande|NULL|NULL|25765|NULL|NULL
+25787|Villarrica|villarrica|NULL|NULL|25786|NULL|NULL
+25788|Independencia|independencia|NULL|NULL|25786|NULL|NULL
+25789|Paso Yobái|paso-yobai|NULL|NULL|25786|NULL|NULL
+25790|Capitán Mauricio José Troche|capitan-mauricio-jose-troche|NULL|NULL|25786|NULL|NULL
+25791|Borja|borja|NULL|NULL|25786|NULL|NULL
+25792|Iturbe|iturbe|NULL|NULL|25786|NULL|NULL
+25793|Mbocayaty del Guairá|mbocayaty-del-guaira|NULL|NULL|25786|NULL|NULL
+25794|General Eugenio Alejandrino Garay|general-eugenio-alejandrino-garay|NULL|NULL|25786|NULL|NULL
+25795|Itapé|itape|NULL|NULL|25786|NULL|NULL
+25796|José A. Fassardi|jose-a-fassardi|NULL|NULL|25786|NULL|NULL
+25797|Coronel Martínez|coronel-martinez|NULL|NULL|25786|NULL|NULL
+25798|Félix Pérez Cardozo|felix-perez-cardozo|NULL|NULL|25786|NULL|NULL
+25799|Natalicio Talavera|natalicio-talavera|NULL|NULL|25786|NULL|NULL
+25800|Yataity del Guairá|yataity-del-guaira|NULL|NULL|25786|NULL|NULL
+25801|Ñumí|numi|NULL|NULL|25786|NULL|NULL
+25802|Tebicuary|tebicuary|NULL|NULL|25786|NULL|NULL
+25803|San Salvador|san-salvador|NULL|NULL|25786|NULL|NULL
+25804|Doctor Bottrell|doctor-bottrell|NULL|NULL|25786|NULL|NULL
+25806|Encarnación|encarnacion|NULL|NULL|25805|NULL|NULL
+25807|Cambyretá|cambyreta|NULL|NULL|25805|NULL|NULL
+25808|San Pedro del Paraná|san-pedro-del-parana|NULL|NULL|25805|NULL|NULL
+25809|Tomás Romero Pereira|tomas-romero-pereira|NULL|NULL|25805|NULL|NULL
+25810|Edelira|edelira|NULL|NULL|25805|NULL|NULL
+25811|San Rafael del Paraná|san-rafael-del-parana|NULL|NULL|25805|NULL|NULL
+25812|Natalio|natalio|NULL|NULL|25805|NULL|NULL
+25813|Coronel José Félix Bogado|coronel-jose-felix-bogado|NULL|NULL|25805|NULL|NULL
+25814|Carlos Antonio López|carlos-antonio-lopez|NULL|NULL|25805|NULL|NULL
+25815|Alto Verá|alto-vera|NULL|NULL|25805|NULL|NULL
+25816|Obligado|obligado|NULL|NULL|25805|NULL|NULL
+25817|Itapúa Poty|itapua-poty|NULL|NULL|25805|NULL|NULL
+25818|Mayor Julio Dionisio Otaño|mayor-julio-dionisio-otano|NULL|NULL|25805|NULL|NULL
+25819|Hohenau|hohenau|NULL|NULL|25805|NULL|NULL
+25820|Capitán Meza|capitan-meza|NULL|NULL|25805|NULL|NULL
+25821|Bella Vista|bella-vista-25821|NULL|NULL|25805|NULL|NULL
+25822|Capitán Miranda|capitan-miranda|NULL|NULL|25805|NULL|NULL
+25823|Yatytay|yatytay|NULL|NULL|25805|NULL|NULL
+25824|General Artigas|general-artigas|NULL|NULL|25805|NULL|NULL
+25825|Fram|fram|NULL|NULL|25805|NULL|NULL
+25826|San Cosme y Damián|san-cosme-y-damian|NULL|NULL|25805|NULL|NULL
+25827|San Juan del Paraná|san-juan-del-parana|NULL|NULL|25805|NULL|NULL
+25828|Trinidad|trinidad-25828|NULL|NULL|25805|NULL|NULL
+25829|Pirapó|pirapo|NULL|NULL|25805|NULL|NULL
+25830|Carmen del Paraná|carmen-del-parana|NULL|NULL|25805|NULL|NULL
+25831|General Delgado|general-delgado|NULL|NULL|25805|NULL|NULL
+25832|Nueva Alborada|nueva-alborada|NULL|NULL|25805|NULL|NULL
+25833|Jesús|jesus|NULL|NULL|25805|NULL|NULL
+25834|José Leandro Oviedo|jose-leandro-oviedo|NULL|NULL|25805|NULL|NULL
+25835|La Paz|la-paz-25835|NULL|NULL|25805|NULL|NULL
+25837|San Ignacio Guazú|san-ignacio-guazu|NULL|NULL|25836|NULL|NULL
+25838|San Juan Bautista|san-juan-bautista-25838|NULL|NULL|25836|NULL|NULL
+25839|Ayolas|ayolas|NULL|NULL|25836|NULL|NULL
+25840|Santa Rosa de Lima|santa-rosa-de-lima-25840|NULL|NULL|25836|NULL|NULL
+25841|Santa María de Fe|santa-maria-de-fe|NULL|NULL|25836|NULL|NULL
+25842|Santiago|santiago-25842|NULL|NULL|25836|NULL|NULL
+25843|San Miguel|san-miguel-25843|NULL|NULL|25836|NULL|NULL
+25844|San Patricio|san-patricio|NULL|NULL|25836|NULL|NULL
+25845|Villa Florida|villa-florida|NULL|NULL|25836|NULL|NULL
+25846|Yabebyry|yabebyry|NULL|NULL|25836|NULL|NULL
+25848|Pilar|pilar-25848|NULL|NULL|25847|NULL|NULL
+25849|Alberdi|alberdi|NULL|NULL|25847|NULL|NULL
+25850|San Juan Bautista del Ñeembucú|san-juan-bautista-del-neembucu|NULL|NULL|25847|NULL|NULL
+25851|Cerrito|cerrito|NULL|NULL|25847|NULL|NULL
+25852|Mayor José de Jesús Martínez|mayor-jose-de-jesus-martinez|NULL|NULL|25847|NULL|NULL
+25853|General José Eduvigis Díaz|general-jose-eduvigis-diaz|NULL|NULL|25847|NULL|NULL
+25854|Tacuaras|tacuaras|NULL|NULL|25847|NULL|NULL
+25855|Villa Oliva|villa-oliva|NULL|NULL|25847|NULL|NULL
+25856|Laureles|laureles|NULL|NULL|25847|NULL|NULL
+25857|Humaitá|humaita|NULL|NULL|25847|NULL|NULL
+25858|Isla Umbú|isla-umbu|NULL|NULL|25847|NULL|NULL
+25859|Villalbín|villalbin|NULL|NULL|25847|NULL|NULL
+25860|Guazú Cuá|guazu-cua|NULL|NULL|25847|NULL|NULL
+25861|Paso de Patria|paso-de-patria|NULL|NULL|25847|NULL|NULL
+25862|Desmochados|desmochados|NULL|NULL|25847|NULL|NULL
+25863|Villa Franca|villa-franca|NULL|NULL|25847|NULL|NULL
+25865|Carapeguá|carapegua|NULL|NULL|25864|NULL|NULL
+25866|Yaguarón|yaguaron|NULL|NULL|25864|NULL|NULL
+25867|Ybycuí|ybycui|NULL|NULL|25864|NULL|NULL
+25868|Paraguarí|paraguari|NULL|NULL|25864|NULL|NULL
+25869|Quiindy|quiindy|NULL|NULL|25864|NULL|NULL
+25870|Pirayú|pirayu|NULL|NULL|25864|NULL|NULL
+25871|Acahay|acahay|NULL|NULL|25864|NULL|NULL
+25872|Mbuyapey|mbuyapey|NULL|NULL|25864|NULL|NULL
+25873|San Roque González de Santa Cruz|san-roque-gonzalez-de-santa-cruz|NULL|NULL|25864|NULL|NULL
+25874|Escobar|escobar|NULL|NULL|25864|NULL|NULL
+25875|Caapucú|caapucu|NULL|NULL|25864|NULL|NULL
+25876|Quyquyhó|quyquyho|NULL|NULL|25864|NULL|NULL
+25877|Ybytymí|ybytymi|NULL|NULL|25864|NULL|NULL
+25878|General Bernardino Caballero|general-bernardino-caballero|NULL|NULL|25864|NULL|NULL
+25879|Sapucai|sapucai|NULL|NULL|25864|NULL|NULL
+25880|La Colmena|la-colmena|NULL|NULL|25864|NULL|NULL
+25881|Tebicuarymí|tebicuarymi|NULL|NULL|25864|NULL|NULL
+25882|María Antonia|maria-antonia|NULL|NULL|25864|NULL|NULL
+25884|Villa Hayes|villa-hayes|NULL|NULL|25883|NULL|NULL
+25885|Teniente Primero Manuel Irala Fernández|teniente-primero-manuel-irala-fernandez|NULL|NULL|25883|NULL|NULL
+25886|Benjamín Aceval|benjamin-aceval|NULL|NULL|25883|NULL|NULL
+25887|Puerto Pinasco|puerto-pinasco|NULL|NULL|25883|NULL|NULL
+25888|Nanawa|nanawa|NULL|NULL|25883|NULL|NULL
+25889|José Falcón|jose-falcon|NULL|NULL|25883|NULL|NULL
+25890|Teniente Esteban Martínez|teniente-esteban-martinez|NULL|NULL|25883|NULL|NULL
+25891|General José María Bruguez|general-jose-maria-bruguez|NULL|NULL|25883|NULL|NULL
+25893|San Estanislao|san-estanislao|NULL|NULL|25892|NULL|NULL
+25894|Capiibary|capiibary|NULL|NULL|25892|NULL|NULL
+25895|Santa Rosa del Aguaray|santa-rosa-del-aguaray|NULL|NULL|25892|NULL|NULL
+25896|San Pedro de Ycuamandiyú|san-pedro-de-ycuamandiyu|NULL|NULL|25892|NULL|NULL
+25897|Guayaibí|guayaibi|NULL|NULL|25892|NULL|NULL
+25898|Choré|chore|NULL|NULL|25892|NULL|NULL
+25899|General Isidoro Resquín|general-isidoro-resquin|NULL|NULL|25892|NULL|NULL
+25900|Liberación|liberacion|NULL|NULL|25892|NULL|NULL
+25901|General Elizardo Aquino|general-elizardo-aquino|NULL|NULL|25892|NULL|NULL
+25902|Tacuatí|tacuati|NULL|NULL|25892|NULL|NULL
+25903|Yrybucuá|yrybucua|NULL|NULL|25892|NULL|NULL
+25904|Yataity del Norte|yataity-del-norte|NULL|NULL|25892|NULL|NULL
+25905|Lima|lima|NULL|NULL|25892|NULL|NULL
+25906|Itacurubí del Rosario|itacurubi-del-rosario|NULL|NULL|25892|NULL|NULL
+25907|Villa del Rosario|villa-del-rosario|NULL|NULL|25892|NULL|NULL
+25908|25 de diciembre|25-de-diciembre|NULL|NULL|25892|NULL|NULL
+25909|Unión|union|NULL|NULL|25892|NULL|NULL
+25910|Nueva Germania|nueva-germania|NULL|NULL|25892|NULL|NULL
+25911|Antequera|antequera|NULL|NULL|25892|NULL|NULL
+25912|San Pablo|san-pablo-25912|NULL|NULL|25892|NULL|NULL
+25913|San Vicente Pancholo|san-vicente-pancholo|NULL|NULL|25892|NULL|NULL
+25915|Asunción|asuncion|NULL|NULL|25914|NULL|NULL

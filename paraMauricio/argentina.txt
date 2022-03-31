@@ -1,0 +1,170 @@
+23915|Azul|azul|NULL|NULL|23914|NULL|NULL
+23916|Bahía Blanca|bahia-blanca|NULL|NULL|23914|NULL|NULL
+23917|Banfield|banfield|NULL|NULL|23914|NULL|NULL
+23918|Béccar|beccar|NULL|NULL|23914|NULL|NULL
+23919|Belén de Escobar|belen-de-escobar|NULL|NULL|23914|NULL|NULL
+23920|Bella Vista|bella-vista|NULL|NULL|23914|NULL|NULL
+23921|Berazategui|berazategui|NULL|NULL|23914|NULL|NULL
+23922|Berisso|berisso|NULL|NULL|23914|NULL|NULL
+23923|Bernal|bernal|NULL|NULL|23914|NULL|NULL
+23924|Bosques|bosques|NULL|NULL|23914|NULL|NULL
+23925|Boulogne Sur Mer|boulogne-sur-mer|NULL|NULL|23914|NULL|NULL
+23926|Burzaco|burzaco|NULL|NULL|23914|NULL|NULL
+23927|Campana|campana|NULL|NULL|23914|NULL|NULL
+23928|Caseros|caseros|NULL|NULL|23914|NULL|NULL
+23929|Castelar|castelar|NULL|NULL|23914|NULL|NULL
+23930|Chivilcoy|chivilcoy|NULL|NULL|23914|NULL|NULL
+23931|Ciudad Evita|ciudad-evita|NULL|NULL|23914|NULL|NULL
+23932|Ciudad Jardín El Libertador|ciudad-jardin-el-libertador|NULL|NULL|23914|NULL|NULL
+23933|Ciudadela|ciudadela|NULL|NULL|23914|NULL|NULL
+23934|Don Torcuato|don-torcuato|NULL|NULL|23914|NULL|NULL
+23935|El Jagüel|el-jaguel|NULL|NULL|23914|NULL|NULL
+23936|El Palomar|el-palomar|NULL|NULL|23914|NULL|NULL
+23937|Ezeiza|ezeiza|NULL|NULL|23914|NULL|NULL
+23938|Ezpeleta|ezpeleta|NULL|NULL|23914|NULL|NULL
+23939|Florencio Varela|florencio-varela|NULL|NULL|23914|NULL|NULL
+23940|Florida (no es ciudad sino barrio)|florida-no-es-ciudad-sino-barrio|NULL|NULL|23914|NULL|NULL
+23941|General Rodríguez|general-rodriguez|NULL|NULL|23914|NULL|NULL
+23942|Glew|glew|NULL|NULL|23914|NULL|NULL
+23943|Gobernador Julio A Costa|gobernador-julio-a-costa|NULL|NULL|23914|NULL|NULL
+23944|González Catán|gonzalez-catan|NULL|NULL|23914|NULL|NULL
+23945|Grand Bourg|grand-bourg|NULL|NULL|23914|NULL|NULL
+23946|Gregorio de Laferrere|gregorio-de-laferrere|NULL|NULL|23914|NULL|NULL
+23947|Isidro Casanova|isidro-casanova|NULL|NULL|23914|NULL|NULL
+23948|Ituzaingó|ituzaingo|NULL|NULL|23914|NULL|NULL
+23949|José C. Paz|jose-c-paz|NULL|NULL|23914|NULL|NULL
+23950|Junín|junin|NULL|NULL|23914|NULL|NULL
+23951|La Plata|la-plata|NULL|NULL|23914|NULL|NULL
+23952|La Tablada|la-tablada|NULL|NULL|23914|NULL|NULL
+23953|Lanús|lanus|NULL|NULL|23914|NULL|NULL
+23954|Libertad|libertad|NULL|NULL|23914|NULL|NULL
+23955|Lomas de Zamora|lomas-de-zamora|NULL|NULL|23914|NULL|NULL
+23956|Lomas del Mirador|lomas-del-mirador|NULL|NULL|23914|NULL|NULL
+23957|Longchamps|longchamps|NULL|NULL|23914|NULL|NULL
+23958|Los Polvorines|los-polvorines|NULL|NULL|23914|NULL|NULL
+23959|Luján|lujan|NULL|NULL|23914|NULL|NULL
+23960|Mar del Plata|mar-del-plata|NULL|NULL|23914|NULL|NULL
+23961|Mariano Acosta|mariano-acosta|NULL|NULL|23914|NULL|NULL
+23962|Martínez|martinez|NULL|NULL|23914|NULL|NULL
+23963|Mercedes|mercedes|NULL|NULL|23914|NULL|NULL
+23964|Merlo|merlo|NULL|NULL|23914|NULL|NULL
+23965|Monte Chingolo|monte-chingolo|NULL|NULL|23914|NULL|NULL
+23966|Monte Grande|monte-grande|NULL|NULL|23914|NULL|NULL
+23967|Moreno|moreno|NULL|NULL|23914|NULL|NULL
+23968|Morón|moron|NULL|NULL|23914|NULL|NULL
+23969|Necochea|necochea|NULL|NULL|23914|NULL|NULL
+23970|Olavarría|olavarria|NULL|NULL|23914|NULL|NULL
+23971|Olivos (no es ciudad sino barrio)|olivos-no-es-ciudad-sino-barrio|NULL|NULL|23914|NULL|NULL
+23972|Pergamino|pergamino|NULL|NULL|23914|NULL|NULL
+23973|Pilar|pilar|NULL|NULL|23914|NULL|NULL
+23974|Presidente Perón|presidente-peron|NULL|NULL|23914|NULL|NULL
+23975|Punta Alta|punta-alta|NULL|NULL|23914|NULL|NULL
+23976|Quilmes|quilmes|NULL|NULL|23914|NULL|NULL
+23977|Rafael Calzada|rafael-calzada|NULL|NULL|23914|NULL|NULL
+23978|Rafael Castillo|rafael-castillo|NULL|NULL|23914|NULL|NULL
+23979|Ramos Mejía|ramos-mejia|NULL|NULL|23914|NULL|NULL
+23980|Remedios de Escalada|remedios-de-escalada|NULL|NULL|23914|NULL|NULL
+23981|San Fernando|san-fernando|NULL|NULL|23914|NULL|NULL
+23982|San Francisco Solano|san-francisco-solano|NULL|NULL|23914|NULL|NULL
+23983|San Isidro|san-isidro|NULL|NULL|23914|NULL|NULL
+23984|San Justo|san-justo|NULL|NULL|23914|NULL|NULL
+23985|San Miguel|san-miguel|NULL|NULL|23914|NULL|NULL
+23986|San Nicolás de los Arroyos|san-nicolas-de-los-arroyos|NULL|NULL|23914|NULL|NULL
+23987|Sarandí|sarandi|NULL|NULL|23914|NULL|NULL
+23988|Tandil|tandil|NULL|NULL|23914|NULL|NULL
+23989|Temperley|temperley|NULL|NULL|23914|NULL|NULL
+23990|Tres Arroyos|tres-arroyos|NULL|NULL|23914|NULL|NULL
+23991|Trujui|trujui|NULL|NULL|23914|NULL|NULL
+23992|Vicente López|vicente-lopez|NULL|NULL|23914|NULL|NULL
+23993|Villa Centenario|villa-centenario|NULL|NULL|23914|NULL|NULL
+23994|Villa Domínico|villa-dominico|NULL|NULL|23914|NULL|NULL
+23995|Villa Luzuriaga|villa-luzuriaga|NULL|NULL|23914|NULL|NULL
+23996|Villa Madero|villa-madero|NULL|NULL|23914|NULL|NULL
+23997|Villa Tesei|villa-tesei|NULL|NULL|23914|NULL|NULL
+23998|Virrey del Pino|virrey-del-pino|NULL|NULL|23914|NULL|NULL
+23999|Wilde|wilde|NULL|NULL|23914|NULL|NULL
+24000|William Morris|william-morris|NULL|NULL|23914|NULL|NULL
+24001|Zárate|zarate|NULL|NULL|23914|NULL|NULL
+24003|San Fernando del Valle de Catamarca|san-fernando-del-valle-de-catamarca|NULL|NULL|24002|NULL|NULL
+24005|Barranqueras|barranqueras|NULL|NULL|24004|NULL|NULL
+24006|Presidencia Roque Sáenz Peña|presidencia-roque-saenz-pena|NULL|NULL|24004|NULL|NULL
+24007|Resistencia|resistencia|NULL|NULL|24004|NULL|NULL
+24009|Comodoro Rivadavia|comodoro-rivadavia|NULL|NULL|24008|NULL|NULL
+24010|Esquel|esquel|NULL|NULL|24008|NULL|NULL
+24011|Puerto Madryn|puerto-madryn|NULL|NULL|24008|NULL|NULL
+24012|Rawson|rawson|NULL|NULL|24008|NULL|NULL
+24013|Trelew|trelew|NULL|NULL|24008|NULL|NULL
+24014|Ciudad de Buenos Aires|ciudad-de-buenos-aires|NULL|NULL|23914|NULL|NULL
+24016|Córdoba|cordoba|NULL|NULL|24015|NULL|NULL
+24017|Río Cuarto|rio-cuarto|NULL|NULL|24015|NULL|NULL
+24018|San Francisco|san-francisco|NULL|NULL|24015|NULL|NULL
+24019|Villa Carlos Paz|villa-carlos-paz|NULL|NULL|24015|NULL|NULL
+24020|Villa Dolores|villa-dolores|NULL|NULL|24015|NULL|NULL
+24021|Villa María|villa-maria|NULL|NULL|24015|NULL|NULL
+24023|Corrientes|corrientes|NULL|NULL|24022|NULL|NULL
+24024|Goya|goya|NULL|NULL|24022|NULL|NULL
+24026|Concepción del Uruguay|concepcion-del-uruguay|NULL|NULL|24025|NULL|NULL
+24027|Concordia|concordia|NULL|NULL|24025|NULL|NULL
+24028|Gualeguaychú|gualeguaychu|NULL|NULL|24025|NULL|NULL
+24029|Paraná|parana|NULL|NULL|24025|NULL|NULL
+24031|Clorinda|clorinda|NULL|NULL|24030|NULL|NULL
+24032|Formosa|formosa|NULL|NULL|24030|NULL|NULL
+24034|Palpalá|palpala|NULL|NULL|24033|NULL|NULL
+24035|San Pedro de Jujuy|san-pedro-de-jujuy|NULL|NULL|24033|NULL|NULL
+24036|San Salvador de Jujuy|san-salvador-de-jujuy|NULL|NULL|24033|NULL|NULL
+24038|General Pico|general-pico|NULL|NULL|24037|NULL|NULL
+24039|Santa Rosa|santa-rosa|NULL|NULL|24037|NULL|NULL
+24041|Buenos Aires|buenos-aires|NULL|NULL|24040|NULL|NULL
+24043|La Rioja|la-rioja|NULL|NULL|24042|NULL|NULL
+24045|Godoy Cruz|godoy-cruz|NULL|NULL|24044|NULL|NULL
+24046|Guaymallén|guaymallen|NULL|NULL|24044|NULL|NULL
+24047|Las Heras|las-heras|NULL|NULL|24044|NULL|NULL
+24048|Luján de Cuyo|lujan-de-cuyo|NULL|NULL|24044|NULL|NULL
+24049|Maipú|maipu|NULL|NULL|24044|NULL|NULL
+24050|Mendoza|mendoza|NULL|NULL|24044|NULL|NULL
+24051|San Martín|san-martin|NULL|NULL|24044|NULL|NULL
+24052|San Rafael|san-rafael|NULL|NULL|24044|NULL|NULL
+24054|Eldorado|eldorado|NULL|NULL|24053|NULL|NULL
+24055|Oberá|obera|NULL|NULL|24053|NULL|NULL
+24056|Posadas|posadas|NULL|NULL|24053|NULL|NULL
+24058|Neuquén|neuquen|NULL|NULL|24057|NULL|NULL
+24060|Entre Ríos|entre-rios|NULL|NULL|24059|NULL|NULL
+24062|Misiones|misiones|NULL|NULL|24061|NULL|NULL
+24064|Chubut|chubut|NULL|NULL|24063|NULL|NULL
+24066|Chaco|chaco|NULL|NULL|24065|NULL|NULL
+24068|Santa Cruz|santa-cruz|NULL|NULL|24067|NULL|NULL
+24070|Cipolletti|cipolletti|NULL|NULL|24069|NULL|NULL
+24071|General Roca|general-roca|NULL|NULL|24069|NULL|NULL
+24072|San Carlos de Bariloche|san-carlos-de-bariloche|NULL|NULL|24069|NULL|NULL
+24073|Viedma|viedma|NULL|NULL|24069|NULL|NULL
+24075|Salta|salta|NULL|NULL|24074|NULL|NULL
+24076|San Ramón de la Nueva Orán|san-ramon-de-la-nueva-oran|NULL|NULL|24074|NULL|NULL
+24077|Tartagal|tartagal|NULL|NULL|24074|NULL|NULL
+24079|Catamarca|catamarca|NULL|NULL|24078|NULL|NULL
+24081|Chimbas|chimbas|NULL|NULL|24080|NULL|NULL
+24082|Rivadavia|rivadavia|NULL|NULL|24080|NULL|NULL
+24083|San Juan|san-juan|NULL|NULL|24080|NULL|NULL
+24085|San Luis|san-luis|NULL|NULL|24084|NULL|NULL
+24086|Villa Mercedes|villa-mercedes|NULL|NULL|24084|NULL|NULL
+24088|Tucumán|tucuman|NULL|NULL|24087|NULL|NULL
+24090|Jujuy|jujuy|NULL|NULL|24089|NULL|NULL
+24092|Río Gallegos|rio-gallegos|NULL|NULL|24091|NULL|NULL
+24094|Esperanza|esperanza|NULL|NULL|24093|NULL|NULL
+24095|Rafaela|rafaela|NULL|NULL|24093|NULL|NULL
+24096|Reconquista|reconquista|NULL|NULL|24093|NULL|NULL
+24097|Rosario|rosario|NULL|NULL|24093|NULL|NULL
+24098|Santa Fe|santa-fe|NULL|NULL|24093|NULL|NULL
+24099|Venado Tuerto|venado-tuerto|NULL|NULL|24093|NULL|NULL
+24100|Villa Gobernador Gálvez|villa-gobernador-galvez|NULL|NULL|24093|NULL|NULL
+24102|La Pampa|la-pampa|NULL|NULL|24101|NULL|NULL
+24104|La Banda|la-banda|NULL|NULL|24103|NULL|NULL
+24105|Santiago del Estero|santiago-del-estero|NULL|NULL|24103|NULL|NULL
+24107|Río Grande|rio-grande|NULL|NULL|24106|NULL|NULL
+24108|Ushuaia|ushuaia|NULL|NULL|24106|NULL|NULL
+24110|Banda del Río Salí|banda-del-rio-sali|NULL|NULL|24109|NULL|NULL
+24111|Concepción|concepcion|NULL|NULL|24109|NULL|NULL
+24112|San Miguel de Tucumán|san-miguel-de-tucuman|NULL|NULL|24109|NULL|NULL
+24113|Villa Mariano Moreno-El Colmenar|villa-mariano-moreno-el-colmenar|NULL|NULL|24109|NULL|NULL
+24114|Yerba Buena/Marcos Paz|yerba-buena-marcos-paz|NULL|NULL|24109|NULL|NULL
+24116|Río Negro|rio-negro|NULL|NULL|24115|NULL|NULL
+26391|El Calafate|el-calafate|NULL|NULL|24091|NULL|NULL

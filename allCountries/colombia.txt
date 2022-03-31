@@ -1,0 +1,1124 @@
+42|CO|COLOMBIA|Colombia|Colombia|t21422|Leticia|leticia|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21432|Caucasia|caucasia|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21500|Granada|granada|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21504|La Ceja|la-ceja|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21507|Marinilla|marinilla|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21512|Rionegro|rionegro|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21547|Apartadó|apartado|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21550|Carepa|carepa|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21552|Chigorodó|chigorodo|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21556|Necocli|necocli|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21560|Turbo|turbo|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21565|Bello|bello|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21567|Caldas|caldas|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21569|Copacabana|copacabana|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21571|Envigado|envigado|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21573|Girardota|girardota|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21575|Itagüi|itagui|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21577|La Estrella|la-estrella|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21579|Medellín|medellin|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21581|Sabaneta|sabaneta|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21585|Arauca|arauca|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21592|Tame|tame|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21600|Barranquilla|barranquilla|\N|\N|21598|21599|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21603|Malambo|malambo|\N|\N|21598|21599|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21606|Soledad|soledad|\N|\N|21598|21599|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21617|Baranoa|baranoa|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21623|Sabanalarga|sabanalarga|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21633|Bogotá D.C.|bogota-d-c|4.59889|-74.0808|21631|21632|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21643|Arjona|arjona|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21647|Cartagena de Indias|cartagena|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21656|Turbaco|turbaco|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21676|Magangué|magangue|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21683|Carmen De Bolívar|carmen-de-bolivar|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21705|Tunja|tunja|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21761|Chiquinquirá|chiquinquira|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21769|Puerto Boyaca|puerto-boyaca|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21809|Sogamoso|sogamoso|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21819|Duitama|duitama|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21838|Riosucio|riosucio|\N|\N|21833|21834|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21853|Chinchiná|chinchina|\N|\N|21833|21852|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21855|Manizales|manizales|\N|\N|21833|21852|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21859|Villamaria|villamaria|\N|\N|21833|21852|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21867|La Dorada|la-dorada|\N|\N|21833|21866|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21880|Florencia|florencia|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21888|Caquetá|caqueta|\N|\N|21872|21873|21887
+42|CO|COLOMBIA|Colombia|Colombia|t21913|Yopal|yopal|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21922|Popayán|popayan|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21934|Santander De Quilichao|santander-de-quilichao|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21979|Agustín Codazzi|agustin-codazzi|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21985|Valledupar|valledupar|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t21988|Aguachica|aguachica|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22005|Quibdó|quibdo|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22042|Lorica|lorica|\N|\N|22035|22039|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22047|Montería|monteria|\N|\N|22035|22046|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22058|Sahagún|sahagun|\N|\N|22035|22056|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22062|Ayapel|ayapel|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22066|Montelíbano|montelibano|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22068|Planeta Rica|planeta-rica|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22073|Cereté|cerete|\N|\N|22035|22072|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22075|Ciénaga De Oro|cienaga-de-oro|\N|\N|22035|22072|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22090|Girardot|girardot|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22156|Cajicá|cajica|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22158|Chía|chia|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22166|Zipaquirá|zipaquira|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22172|Facatativá|facatativa|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22174|Funza|funza|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22176|Madrid|madrid|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22178|Mosquera|mosquera|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22185|Soacha|soacha|\N|\N|22079|22183|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22190|Fusagasugá|fusagasuga|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22225|Inirida|inirida|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22238|San José De Guaviare|san-jose-de-guaviare|\N|\N|22233|22234|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22244|Garzón|garzon|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22259|Neiva|neiva|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22270|La Plata|la-plata|\N|\N|22240|22268|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22281|Pitalito|pitalito|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22290|Maicao|maicao|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22292|Manaure|manaure|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22294|Riohacha|riohacha|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22296|Uribia|uribia|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22313|Plato|plato|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22320|Ciénaga|cienaga|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22323|Fundación|fundacion|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22326|Zona Bananera|zona-bananera|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22339|Santa Marta|santa-marta|\N|\N|22308|22338|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22342|El Banco|el-banco|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22367|Villavicencio|villavicencio|\N|\N|22350|22366|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22370|Acacias|acacias|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22394|San Juan De Pasto|san-juan-de-pasto|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22423|San Andrés De Tumaco|san-andres-de-tumaco|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22454|Ipiales|ipiales|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22481|Ocaña|ocana|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22486|Cúcuta|cucuta|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22489|Los Patios|los-patios|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22493|Villa Del Rosario|villa-del-rosario|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22499|Pamplona|pamplona|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22528|Armenia|armenia|\N|\N|22526|22527|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22531|Calarca|calarca|\N|\N|22526|22527|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22548|Dosquebradas|dosquebradas|\N|\N|22546|22547|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22552|Pereira|pereira|\N|\N|22546|22547|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22554|Santa Rosa De Cabal|santa-rosa-de-cabal|\N|\N|22546|22547|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22596|San Andrés|san-andres|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22619|Barrancabermeja|barrancabermeja|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22628|Bucaramanga|bucaramanga|\N|\N|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22633|Floridablanca|floridablanca|\N|\N|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22635|San Juan De Girón|san-juan-de-giron|\N|\N|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22640|Piedecuesta|piedecuesta|\N|\N|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22677|Sincelejo|sincelejo|\N|\N|22667|22672|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22687|Corozal|corozal|\N|\N|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22700|San Marcos|san-marcos|\N|\N|22667|22696|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22732|Espinal|espinal|\N|\N|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22735|Ibague|ibague|\N|\N|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22761|Guadalajara De Buga|guadalajara-de-buga|\N|\N|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22772|Tuluá|tulua|\N|\N|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22780|Cartago|cartago|\N|\N|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22794|Buenaventura|buenaventura|\N|\N|22758|22793|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22800|Cali|cali|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22802|Candelaria|candelaria|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22805|Florida|florida|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22807|Jamundí|jamundi|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22810|Palmira|palmira|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22812|Pradera|pradera|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22815|Yumbo|yumbo|\N|\N|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22831|El Encanto |el-encanto|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22832|La Chorrera|la-chorrera|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22833|La Pedrera|la-pedrera|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22834|La Victoria|la-victoria|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22835|Miriti - Paraná|miriti-parana|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22836|Puerto Alegria|puerto-alegria|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22837|Puerto Arica|puerto-arica|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22838|Puerto Nariño|puerto-narino|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22839|Puerto Santander|puerto-santander|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22840|Tarapacá|tarapaca|\N|\N|21415|21416|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22841|Cáceres|caceres|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22842|El Bagre|el-bagre|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22843|Nechí|nechi|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22844|Tarazá|taraza|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22845|Zaragoza|zaragoza|\N|\N|21429|21430|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22846|Caracolí|caracoli|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22847|Maceo|maceo|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22848|Puerto Berrio|puerto-berrio|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22849|Puerto Nare|puerto-nare|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22850|Puerto Triunfo|puerto-triunfo|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22851|Yondó|yondo|\N|\N|21429|21438|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22852|Amalfi|amalfi|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22853|Anori|anori|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22854|Cisneros|cisneros|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22855|Remedios|remedios|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22856|San Roque|san-roque|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22857|Santo Domingo|santo-domingo|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22858|Segovia|segovia|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22859|Vegachi|vegachi|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22860|Yalí|yali|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22861|Yolombó|yolombo|\N|\N|21429|21445|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22862|Angostura|angostura|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22863|Belmira|belmira|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22864|Briceño|briceno|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22865|Campamento|campamento|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22866|Carolina|carolina|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22867|Don Matías|don-matias|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22868|Entrerrios|entrerrios|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22869|Gómez Plata|gomez-plata|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22870|Guadalupe|guadalupe|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22871|Ituango|ituango|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22872|San Andrés|san-andres-22872|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22873|San José De La Montaña|san-jose-de-la-montana|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22874|San Pedro|san-pedro|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22875|Santa Rosa De Osos|santa-rosa-de-osos|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22876|Toledo|toledo|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22877|Valdivia|valdivia|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22878|Yarumal|yarumal|\N|\N|21429|21456|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22879|Abriaqui|abriaqui|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22880|Anza|anza|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22881|Armenia|armenia-22881|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22882|Buriticá|buritica|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22883|Cañasgordas|canasgordas|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22884|Dabeiba|dabeiba|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22885|Ebéjico|ebejico|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22886|Frontino|frontino|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22887|Giraldo|giraldo|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22888|Heliconia|heliconia|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22889|Liborina|liborina|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22890|Olaya|olaya|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22891|Peque|peque|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22892|Sabanalarga|sabanalarga-22892|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22893|San Jerónimo|san-jeronimo|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22894|Santa Fe De Antioquía|santa-fe-de-antioquia|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22895|Sopetrán|sopetran|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22896|Uramita|uramita|\N|\N|21429|21474|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22897|Abejorral|abejorral|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22898|Alejandría|alejandria|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22899|Argelia|argelia|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22900|Carmen De Viboral|carmen-de-viboral|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22901|Cocorná|cocorna|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22902|Concepción|concepcion|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22903|Guarne|guarne|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22904|Guatape|guatape|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22905|La Unión|la-union|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22906|Nariño|narino|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22907|Peñol|penol|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22908|Retiro|retiro|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22909|San Carlos|san-carlos|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22910|San Francisco|san-francisco|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22911|San Luis|san-luis|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22912|San Rafael|san-rafael|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22913|San Vicente|san-vicente|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22914|Santuario|santuario|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22915|Sonson|sonson|\N|\N|21429|21493|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22916|Amaga|amaga|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22917|Andes|andes|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22918|Angelopolis|angelopolis|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22919|Betania|betania|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22920|Betulia|betulia|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22921|Caicedo|caicedo|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22922|Caramanta|caramanta|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22923|Ciudad Bolívar|ciudad-bolivar|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22924|Concordia|concordia|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22925|Fredonia|fredonia|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22926|Hispania|hispania|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22927|Jardín|jardin|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22928|Jericó|jerico|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22929|La Pintada|la-pintada|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22930|Montebello|montebello|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22931|Pueblorrico|pueblorrico|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22932|Salgar|salgar|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22933|Santa Bárbara|santa-barbara|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22934|Támesis|tamesis|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22935|Tarso|tarso|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22936|Titiribí|titiribi|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22937|Urrao|urrao|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22938|Valparaíso|valparaiso|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22939|Venecia|venecia|\N|\N|21429|21521|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22940|Arboletes|arboletes|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22941|Murindó|murindo|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22942|Mutata|mutata|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22943|San Juan De Uraba|san-juan-de-uraba|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22944|San Pedro De Uraba|san-pedro-de-uraba|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22945|Vigía Del Fuerte|vigia-del-fuerte|\N|\N|21429|21546|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22946|Barbosa|barbosa|\N|\N|21429|21563|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22947|Arauquita|arauquita|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22948|Cravo Norte|cravo-norte|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22949|Fortul|fortul|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22950|Puerto Rondón|puerto-rondon|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22951|Saravena|saravena|\N|\N|21583|21584|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22954|Providencia Y Santa Catalina|providencia-y-santa-catalina|\N|\N|21594|22953|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22955|San Andrés|san-andres-22955|\N|\N|21594|22953|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22956|Palmar De Varela|palmar-de-varela|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22957|Polonuevo|polonuevo|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22958|Ponedera|ponedera|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22959|Sabanagrande|sabanagrande|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22960|Santo Tomas|santo-tomas|\N|\N|21598|21616|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22961|Galape|galape|\N|\N|21598|21599|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22962|Puerto Colombia|puerto-colombia|\N|\N|21598|21599|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22963|Juan De Acosta|juan-de-acosta|\N|\N|21598|21626|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22964|Piojó|piojo|\N|\N|21598|21626|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22965|Tubara|tubara|\N|\N|21598|21626|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22966|Usiacuri|usiacuri|\N|\N|21598|21626|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22967|Campo De La Cruz|campo-de-la-cruz|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22968|Candelaria|candelaria-22968|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22969|Luruaco|luruaco|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22970|Manati|manati|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22971|Repelon|repelon|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22972|Santa Lucía|santa-lucia|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22973|Suan|suan|\N|\N|21598|21608|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22974|Cicuco|cicuco|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22975|Hatillo De La Loba|hatillo-de-la-loba|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22976|Margarita|margarita|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22977|Mompós|mompos|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22978|San Fernando|san-fernando|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22979|Talaigua Nuevo|talaigua-nuevo|\N|\N|21634|21635|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22980|Arroyohondo|arroyohondo|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22981|Calamar|calamar|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22982|Clemencia |clemencia|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22983|Mahates|mahates|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22984|San Cristobal|san-cristobal|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22985|San Estanislao |san-estanislao|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22986|Santa Catalina|santa-catalina|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22987|Santa Rosa De Lima |santa-rosa-de-lima|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22988|Soplaviento|soplaviento|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22989|Turbana|turbana|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22990|Villanueva|villanueva|\N|\N|21634|21642|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22991|Altos Del Rosario|altos-del-rosario|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22992|Barranco De Loba |barranco-de-loba|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22993|El Peñon|el-penon|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22994|Regidor|regidor|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22995|Río Viejo|rio-viejo|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22996|San Martin De Loba|san-martin-de-loba|\N|\N|21634|21660|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22997|Arenal|arenal|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22998|Cantagallo |cantagallo|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t22999|Morales|morales|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23000|San Pablo|san-pablo|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23001|Santa Rosa Del Sur |santa-rosa-del-sur|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23002|Simití|simiti|\N|\N|21634|21667|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23003|Achí|achi|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23004|Montecristo|montecristo|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23005|Pinillos|pinillos|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23006|San Jacinto Del Cauca|san-jacinto-del-cauca|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23007|Tiquisio|tiquisio|\N|\N|21634|21674|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23008|Córdoba|cordoba|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23009|El Guamo|el-guamo|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23010|María La Baja|maria-la-baja|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23011|San Jacinto|san-jacinto|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23012|San Juan Nepomuceno|san-juan-nepomuceno|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23013|Zambrano|zambrano|\N|\N|21634|21682|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23014|Chiquiza|chiquiza|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23015|Chivata|chivata|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23016|Cómbita|combita|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23017|Cucaita|cucaita|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23018|Motavita|motavita|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23019|Oicatá|oicata|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23020|Samacá|samaca|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23021|Siachoque|siachoque|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23022|Sora|sora|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23023|Soracá|soraca|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23024|Sotaquirá|sotaquira|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23025|Toca|toca|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23026|Tuta|tuta|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23027|Ventaquemada|ventaquemada|\N|\N|21691|21692|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23028|Chiscas|chiscas|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23029|Cubará|cubara|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23030|El Cocuy|el-cocuy|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23031|El Espino|el-espino|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23032|Guacamayas|guacamayas|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23033|Güicán|guican|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23034|Panqueba|panqueba|\N|\N|21691|21709|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23035|Labranzagrande|labranzagrande|\N|\N|21691|21717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23036|Pajarito|pajarito|\N|\N|21691|21717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23037|Paya|paya|\N|\N|21691|21717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23038|Pisba|pisba|\N|\N|21691|21717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23039|Berbeo|berbeo|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23040|Campohersmoso|campohersmoso|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23041|Miraflores|miraflores|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23042|Páez|paez|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23043|San Eduardo|san-eduardo|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23044|Zetaquira|zetaquira|\N|\N|21691|21722|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23045|Boyacá|boyaca|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23046|Ciénega|cienega|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23047|Jenesano|jenesano|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23048|Nuevo Colón|nuevo-colon|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23049|Ramiriquí|ramiriqui|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23050|Rondón|rondon|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23051|Tibaná|tibana|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23052|Turmequé|turmeque|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23053|Umbita|umbita|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23054|Viracachá|viracacha|\N|\N|21691|21729|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23055|Chinavita|chinavita|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23056|Garagoa|garagoa|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23057|Macanal|macanal|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23058|Pachavita|pachavita|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23059|San Luis De Gaceno|san-luis-de-gaceno|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23060|Santa María|santa-maria|\N|\N|21691|21740|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23061|Boavita|boavita|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23062|Covarachía|covarachia|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23063|La Uvita|la-uvita|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23064|San Mateo|san-mateo|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23065|Sativanorte|sativanorte|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23066|Sativasur|sativasur|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23067|Soatá|soata|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23068|Susacón|susacon|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23069|Tipacoque|tipacoque|\N|\N|21691|21747|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23070|Briceño|briceno-23070|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23071|Buenavista|buenavista|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23072|Caldas|caldas-23072|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23073|Coper|coper|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23074|La Victoria|la-victoria-23074|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23075|Maripí|maripi|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23076|Muzo|muzo|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23077|Otanche|otanche|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23078|Pauna|pauna|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23079|Quípama|quipama|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23080|Saboyá|saboya|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23081|San Miguel De Sema|san-miguel-de-sema|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23082|San Pablo Borbur|san-pablo-borbur|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23083|Tununguá|tunungua|\N|\N|21691|21757|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23084|Almeida|almeida|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23085|Chivor|chivor|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23086|Guateque|guateque|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23087|Guayatá|guayata|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23088|La Capilla|la-capilla|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23089|Somondoco|somondoco|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23090|Sutatenza|sutatenza|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23091|Tenza|tenza|\N|\N|21691|21776|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23092|Arcabuco|arcabuco|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23093|Chitaraque|chitaraque|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23094|Gachantiva|gachantiva|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23095|Moniquirá|moniquira|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23096|Ráquira|raquira|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23097|Sáchica|sachica|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23098|San José De Pare|san-jose-de-pare|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23099|Santa Sofía|santa-sofia|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23100|Santana|santana|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23101|Sutamarchán|sutamarchan|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23102|Tinjacá|tinjaca|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23103|Togüi|togui|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23104|Villa De Leyva|villa-de-leyva|\N|\N|21691|21785|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23105|Aquitania|aquitania|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23106|Cuítiva|cuitiva|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23107|Firavitoba|firavitoba|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23108|Gameza|gameza|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23109|Iza|iza|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23110|Mongua|mongua|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23111|Mongui|mongui|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23112|Nobsa|nobsa|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23113|Pesca|pesca|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23114|Tibasosa|tibasosa|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23115|Tópaga|topaga|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23116|Tota|tota|\N|\N|21691|21799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23117|Belén|belen|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23118|Busbanza|busbanza|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23119|Cerinza|cerinza|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23120|Corrales|corrales|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23121|Floresta|floresta|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23122|Paipa|paipa|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23123|San Rosa Viterbo|san-rosa-viterbo|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23124|Tutazá|tutaza|\N|\N|21691|21814|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23125|Betéitiva|beteitiva|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23126|Chita|chita|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23127|Jericó|jerico-23127|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23128|Paz De Río|paz-de-rio|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23129|Socha|socha|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23130|Socotá|socota|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23131|Tasco|tasco|\N|\N|21691|21825|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23132|Filadelfia|filadelfia|\N|\N|21833|21834|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23133|La Merced|la-merced|\N|\N|21833|21834|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23134|Marmato|marmato|\N|\N|21833|21834|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23135|Supía|supia|\N|\N|21833|21834|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23136|Manzanares|manzanares|\N|\N|21833|21841|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23137|Marquetalia|marquetalia|\N|\N|21833|21841|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23138|Marulanda|marulanda|\N|\N|21833|21841|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23139|Pensilvania|pensilvania|\N|\N|21833|21841|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23140|Anserma|anserma|\N|\N|21833|21846|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23141|Belalcázar|belalcazar|\N|\N|21833|21846|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23142|Risaralda|risaralda|\N|\N|21833|21846|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23143|San José|san-jose|\N|\N|21833|21846|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23144|Viterbo|viterbo|\N|\N|21833|21846|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23145|Neira|neira|\N|\N|21833|21852|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23146|Palestina|palestina|\N|\N|21833|21852|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23147|Aguadas|aguadas|\N|\N|21833|21861|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23148|Aranzazu|aranzazu|\N|\N|21833|21861|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23149|Pácora|pacora|\N|\N|21833|21861|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23150|Salamina|salamina|\N|\N|21833|21861|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23151|Norcasia|norcasia|\N|\N|21833|21866|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23152|Samaná|samana|\N|\N|21833|21866|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23153|Victoria|victoria|\N|\N|21833|21866|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23154|Albania|albania|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23155|Belén De Los Andaquies|belen-de-los-andaquies|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23156|Cartagena De Chairá|cartagena-de-chaira|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23157|Curillo|curillo|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23158|El Doncello|el-doncello|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23159|El Paujil|el-paujil|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23160|La Montañita|la-montanita|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23161|Milan|milan|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23162|Morelia|morelia|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23163|Puerto Rico|puerto-rico|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23164|San José De Fragua|san-jose-de-fragua|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23165|San Vicente De Caguán|san-vicente-de-caguan|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23166|Solano|solano|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23167|Solita|solita|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23168|Valparaiso|valparaiso-23168|\N|\N|21872|21873|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23169|Aguazul|aguazul|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23170|Chameza|chameza|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23171|Hato Corozal|hato-corozal|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23172|La Salina|la-salina|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23173|Maní|mani|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23174|Monterrey|monterrey|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23175|Nunchía|nunchia|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23176|Orocué|orocue|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23177|Paz De Ariporo|paz-de-ariporo|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23178|Pore|pore|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23179|Recetor|recetor|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23180|Sabanalarga|sabanalarga-23180|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23181|Sácama|sacama|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23182|San Luis De Palenque|san-luis-de-palenque|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23183|Támara|tamara|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23184|Tauramena|tauramena|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23185|Trinidad|trinidad|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23186|Villanueva|villanueva-23186|\N|\N|21893|21894|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23187|Cajibío|cajibio|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23188|El Tambo|el-tambo|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23189|La Sierra|la-sierra|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23190|Morales|morales-23190|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23191|Piendamo|piendamo|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23192|Rosas|rosas|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23193|Sotara|sotara|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23194|Timbio|timbio|\N|\N|21915|21916|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23195|Buenos Aires|buenos-aires|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23196|Caloto|caloto|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23197|Corinto|corinto|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23198|Miranda|miranda|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23199|Padilla|padilla|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23200|Puerto Tejada|puerto-tejada|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23201|Suarez|suarez|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23202|Villa Rica|villa-rica|\N|\N|21915|21927|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23203|Guapi|guapi|\N|\N|21915|21938|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23204|Lopez|lopez|\N|\N|21915|21938|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23205|Timbiqui|timbiqui|\N|\N|21915|21938|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23206|Caldono|caldono|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23207|Inza|inza|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23208|Jambalo|jambalo|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23209|Paez|paez-23209|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23210|Purace|purace|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23211|Silvia|silvia|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23212|Toribio|toribio|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23213|Totoro|totoro|\N|\N|21915|21942|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23214|Almaguer|almaguer|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23215|Argelia|argelia-23215|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23216|Balboa|balboa|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23217|Bolívar|bolivar|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23218|Florencia|florencia-23218|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23219|La Vega|la-vega|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23220|Mercaderes|mercaderes|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23221|Patia|patia|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23222|Piamonte|piamonte|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23223|San Sebastian|san-sebastian|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23224|Santa Rosa|santa-rosa|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23225|Sucre|sucre|\N|\N|21915|21951|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23226|Becerril|becerril|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23227|Chimichagua|chimichagua|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23228|Chiriguana|chiriguana|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23229|Curumaní|curumani|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23230|La Jagua De Ibirico|la-jagua-de-ibirico|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23231|Pailitas|pailitas|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23232|Tamalameque|tamalameque|\N|\N|21964|21965|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23233|Astrea|astrea|\N|\N|21964|21973|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23234|Bosconia|bosconia|\N|\N|21964|21973|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23235|El Copey|el-copey|\N|\N|21964|21973|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23236|El Paso|el-paso|\N|\N|21964|21973|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23237|La Paz|la-paz|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23238|Manaure|manaure-23238|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23239|Pueblo Bello|pueblo-bello|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23240|San Diego|san-diego|\N|\N|21964|21978|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23241|Gamarra|gamarra|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23242|González|gonzalez|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23243|La Gloria|la-gloria|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23244|Pelaya|pelaya|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23245|Río De Oro|rio-de-oro|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23246|San Alberto|san-alberto|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23247|San Martín|san-martin|\N|\N|21964|21987|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23248|Atrato|atrato|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23249|Bagadó|bagado|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23250|Bojaya|bojaya|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23251|El Carmen De Atrato|el-carmen-de-atrato|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23252|Lloró|lloro|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23253|Medio Atrato|medio-atrato|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23254|Rio Quito|rio-quito|\N|\N|21997|21998|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23255|Acandí|acandi|\N|\N|21997|22008|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23256|Belén De Bajira|belen-de-bajira|\N|\N|21997|22008|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23257|Carmen Del Darién|carmen-del-darien|\N|\N|21997|22008|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23258|Riosucio|riosucio-23258|\N|\N|21997|22008|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23259|Unguía|unguia|\N|\N|21997|22008|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23260|Bahía Solano|bahia-solano|\N|\N|21997|22014|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23261|Juradó|jurado|\N|\N|21997|22014|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23262|Nuquí|nuqui|\N|\N|21997|22014|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23263|Alto Baudó|alto-baudo|\N|\N|21997|22018|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23264|Bajo Baudó|bajo-baudo|\N|\N|21997|22018|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23265|El Litoral De San Juan|el-litoral-de-san-juan|\N|\N|21997|22018|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23266|Medio Baudó|medio-baudo|\N|\N|21997|22018|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23267|Cantón De San Pablo|canton-de-san-pablo|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23268|Certegui|certegui|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23269|Condoto|condoto|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23270|Itsmina|itsmina|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23271|Medio San Juan|medio-san-juan|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23272|Nóvita|novita|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23273|Río Frío|rio-frio|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23274|San José Del Palmar|san-jose-del-palmar|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23275|Sipí|sipi|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23276|Tadó|tado|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23277|Unión Panamericana|union-panamericana|\N|\N|21997|22023|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23278|Tierralta|tierralta|\N|\N|22035|22036|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23279|Valencia|valencia|\N|\N|22035|22036|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23280|Chimá|chima|\N|\N|22035|22039|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23281|Cotorra|cotorra|\N|\N|22035|22039|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23282|Momil|momil|\N|\N|22035|22039|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23283|Purísima|purisima|\N|\N|22035|22039|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23284|Canalete|canalete|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23285|Los Córdobas|los-cordobas|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23286|Moñitos|monitos|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23287|Puerto Escondido|puerto-escondido|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23288|San Antero|san-antero|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23289|San Bernardo Del Viento|san-bernardo-del-viento|\N|\N|22035|22049|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23290|Chinú|chinu|\N|\N|22035|22056|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23291|San Andrés Sotavento|san-andres-sotavento|\N|\N|22035|22056|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23292|Buenavista|buenavista-23292|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23293|La Apartada|la-apartada|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23294|Pueblo Nuevo|pueblo-nuevo|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23295|Puerto Libertador|puerto-libertador|\N|\N|22035|22061|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23296|San Carlos|san-carlos-23296|\N|\N|22035|22072|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23297|San Pelayo|san-pelayo|\N|\N|22035|22072|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23298|Chocontá|choconta|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23299|Macheta|macheta|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23300|Manta|manta|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23301|Sesquilé|sesquile|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23302|Suesca|suesca|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23303|Tibirita|tibirita|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23304|Villapinzón|villapinzon|\N|\N|22079|22080|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23305|Agua De Dios|agua-de-dios|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23306|Guataquí|guataqui|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23307|Jerusalén|jerusalen|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23308|Nariño|narino-23308|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23309|Nilo|nilo|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23310|Ricaurte|ricaurte|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23311|Tocaima|tocaima|\N|\N|22079|22088|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23312|Caparrapí|caparrapi|\N|\N|22079|22098|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23313|Guaduas|guaduas|\N|\N|22079|22098|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23314|Puerto Salgar|puerto-salgar|\N|\N|22079|22098|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23315|Albán|alban|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23316|La Peña|la-pena|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23317|La Vega|la-vega-23317|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23318|Nimaima|nimaima|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23319|Nocaima|nocaima|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23320|Quebradanegra|quebradanegra|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23321|San Francisco|san-francisco-23321|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23322|Sasaima|sasaima|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23323|Supatá|supata|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23324|Útica|utica|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23325|Vergara|vergara|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23326|Villeta|villeta|\N|\N|22079|22102|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23327|Gachala|gachala|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23328|Gacheta|gacheta|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23329|Gama|gama|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23330|Guasca|guasca|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23331|Guatavita|guatavita|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23332|Junín|junin|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23333|La Calera|la-calera|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23334|Ubalá|ubala|\N|\N|22079|22115|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23335|Beltrán|beltran|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23336|Bituima|bituima|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23337|Chaguaní|chaguani|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23338|Guayabal De Siquima|guayabal-de-siquima|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23339|Puli|puli|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23340|San Juan De Río Seco|san-juan-de-rio-seco|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23341|Vianí|viani|\N|\N|22079|22124|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23342|Medina|medina|\N|\N|22079|22132|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23343|Paratebueno|paratebueno|\N|\N|22079|22132|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23344|Caqueza|caqueza|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23345|Chipaque|chipaque|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23346|Choachí|choachi|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23347|Fomeque|fomeque|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23348|Fosca|fosca|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23349|Guayabetal|guayabetal|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23350|Gutiérrez|gutierrez|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23351|Quetame|quetame|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23352|Ubaque|ubaque|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23353|Une|une|\N|\N|22079|22135|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23354|El Peñón|el-penon-23354|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23355|La Palma|la-palma|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23356|Pacho|pacho|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23357|Paime|paime|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23358|San Cayetano|san-cayetano|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23359|Topaipi|topaipi|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23360|Villagomez|villagomez|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23361|Yacopí|yacopi|\N|\N|22079|22146|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23362|Cogua|cogua|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23363|Gachancipá|gachancipa|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23364|Nemocón|nemocon|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23365|Sopó|sopo|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23366|Tabio|tabio|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23367|Tocancipá|tocancipa|\N|\N|22079|22155|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23368|Bojacá|bojaca|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23369|Cota|cota|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23370|El Rosal|el-rosal|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23371|Subachoque|subachoque|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23372|Tenjo|tenjo|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23373|Zipacon|zipacon|\N|\N|22079|22168|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23374|Sibate|sibate|\N|\N|22079|22183|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23375|Arbeláez|arbelaez|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23376|Cabrera|cabrera|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23377|Granada|granada-23377|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23378|Pandi|pandi|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23379|Pasca|pasca|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23380|San Bernardo|san-bernardo|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23381|Silvania|silvania|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23382|Tibacuy|tibacuy|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23383|Venecia|venecia-23383|\N|\N|22079|22187|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23384|Anapoima|anapoima|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23385|Anolaima|anolaima|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23386|Apulo|apulo|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23387|Cachipay|cachipay|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23388|El Colegio|el-colegio|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23389|La Mesa|la-mesa|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23390|Quipile|quipile|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23391|San Antonio De Tequendama|san-antonio-de-tequendama|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23392|Tena |tena|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23393|Viotá|viota|\N|\N|22079|22199|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23394|Carmen De Carupa|carmen-de-carupa|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23395|Cucunubá|cucunuba|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23396|Fúquene|fuquene|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23397|Guachetá|guacheta|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23398|Lenguazaque|lenguazaque|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23399|Simijaca|simijaca|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23400|Susa|susa|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23401|Sutatausa|sutatausa|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23402|Tausa|tausa|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23403|Ubate|ubate|\N|\N|22079|22210|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23404|Barranco Mina|barranco-mina|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23405|Cacahual|cacahual|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23406|La Guadalupe|la-guadalupe|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23407|Mapiripan|mapiripan|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23408|Morichal|morichal|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23409|Pana Pana|pana-pana|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23410|Puerto Colombia|puerto-colombia-23410|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23411|San Felipe|san-felipe|\N|\N|22221|22222|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23412|Calamar|calamar-23412|\N|\N|22233|22234|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23413|El Retorno|el-retorno|\N|\N|22233|22234|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23414|Miraflores|miraflores-23414|\N|\N|22233|22234|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23415|Agrado|agrado|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23416|Altamira|altamira|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23417|Gigante|gigante|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23418|Guadalupe|guadalupe-23418|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23419|Pital|pital|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23420|Suaza|suaza|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23421|Tarqui|tarqui|\N|\N|22240|22241|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23422|Aipe|aipe|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23423|Algeciras|algeciras|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23424|Baraya|baraya|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23425|Campoalegre|campoalegre|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23426|Colombia|colombia|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23427|Hobo|hobo|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23428|Iquira|iquira|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23429|Palermo|palermo|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23430|Rivera|rivera|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23431|Santa María|santa-maria-23431|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23432|Tello|tello|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23433|Teruel|teruel|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23434|Villavieja|villavieja|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23435|Yaguará|yaguara|\N|\N|22240|22251|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23436|La Argentina|la-argentina|\N|\N|22240|22268|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23437|Nátaga|nataga|\N|\N|22240|22268|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23438|Paicol|paicol|\N|\N|22240|22268|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23439|Tesalia|tesalia|\N|\N|22240|22268|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23440|Acevedo|acevedo|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23441|Elías|elias|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23442|Isnos|isnos|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23443|Oporapa|oporapa|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23444|Palestina|palestina-23444|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23445|Saladoblanco|saladoblanco|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23446|San Agustín|san-agustin|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23447|Timaná|timana|\N|\N|22240|22275|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23448|Albania|albania-23448|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23449|Dibulla|dibulla|\N|\N|22286|22287|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23450|Barrancas|barrancas|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23451|Distraccion|distraccion|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23452|El Molino|el-molino|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23453|Fonseca|fonseca|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23454|Hatonuevo|hatonuevo|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23455|La Jagua Del Pilar|la-jagua-del-pilar|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23456|San Juan Del Cesar|san-juan-del-cesar|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23457|Urumita|urumita|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23458|Villanueva|villanueva-23458|\N|\N|22286|22298|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23459|Ariguaní|ariguani|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23460|Chibolo|chibolo|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23461|Nueva Granada|nueva-granada|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23462|Sabanas De San Angel|sabanas-de-san-angel|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23463|Tenerife|tenerife|\N|\N|22308|22309|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23464|Algarrobo|algarrobo|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23465|Aracataca|aracataca|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23466|El Reten|el-reten|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23467|Pueblo Viejo|pueblo-viejo|\N|\N|22308|22317|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23468|Cerro San Antonio|cerro-san-antonio|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23469|Concordia|concordia-23469|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23470|El Piñón|el-pinon|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23471|Pedraza|pedraza|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23472|Pivijay|pivijay|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23473|Remolino|remolino|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23474|Salamina|salamina-23474|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23475|Sitionuevo|sitionuevo|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23476|Zapayan|zapayan|\N|\N|22308|22328|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23477|Guamal|guamal|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23478|Pijiño Del Carmen|pijino-del-carmen|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23479|San Sebastián De Buenavista|san-sebastian-de-buenavista|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23480|San Zenon|san-zenon|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23481|Santa Ana|santa-ana|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23482|Santa Bárbara De Pinto|santa-barbara-de-pinto|\N|\N|22308|22341|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23483|El Castillo|el-castillo|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23484|El Dorado|el-dorado|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23485|Fuente De Oro|fuente-de-oro|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23486|Granada|granada-23486|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23487|La Macarena|la-macarena|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23488|La Uribe|la-uribe|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23489|Lejanías|lejanias|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23490|Mapiripan|mapiripan-23490|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23491|Mesetas|mesetas|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23492|Puerto Concordia|puerto-concordia|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23493|Puerto Lleras|puerto-lleras|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23494|Puerto Rico|puerto-rico-23494|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23495|San Juan De Arama|san-juan-de-arama|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23496|Vista Hermosa|vista-hermosa|\N|\N|22350|22351|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23497|Barranca De Upia|barranca-de-upia|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23498|Castilla La Nueva|castilla-la-nueva|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23499|Cubarral|cubarral|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23500|El Calvario|el-calvario|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23501|Guamal|guamal-23501|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23502|Restrepo|restrepo|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23503|San Carlos Guaroa|san-carlos-guaroa|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23504|San Juanito|san-juanito|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23505|San Luis De Cubarral|san-luis-de-cubarral|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23506|San Martín|san-martin-23506|\N|\N|22350|22369|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23507|Cabuyaro|cabuyaro|\N|\N|22350|22382|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23508|Puerto Gaitán|puerto-gaitan|\N|\N|22350|22382|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23509|Puerto López|puerto-lopez|\N|\N|22350|22382|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23510|Chanchagüí|chanchagui|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23511|Consaca|consaca|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23512|El Peñol|el-penol|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23513|El Tambo|el-tambo-23513|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23514|La Florida|la-florida|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23515|Nariño|narino-23515|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23516|Pasto|pasto|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23517|Sandoná|sandona|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23518|Tangua|tangua|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23519|Yacuanquer|yacuanquer|\N|\N|22386|22387|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23520|Ancuya|ancuya|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23521|Guaitarilla|guaitarilla|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23522|La Llanada|la-llanada|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23523|Linares|linares|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23524|Los Andes|los-andes|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23525|Mallama|mallama|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23526|Ospina|ospina|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23527|Providencia|providencia|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23528|Ricaurte|ricaurte-23528|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23529|Samaniego|samaniego|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23530|Santa Cruz|santa-cruz|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23531|Sapuyes|sapuyes|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23532|Tuquerres|tuquerres|\N|\N|22386|22399|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23533|Barbacoas|barbacoas|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23534|El Charco|el-charco|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23535|Francisco Pizarro|francisco-pizarro|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23536|La Tola|la-tola|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23537|Magui|magui|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23538|Mosquera|mosquera-23538|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23539|Olaya Herrera|olaya-herrera|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23540|Roberto Payan|roberto-payan|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23541|Santa Bárbara|santa-barbara-23541|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23542|Tumaco|tumaco|\N|\N|22386|22413|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23543|Alban|alban-23543|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23544|Arboleda|arboleda|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23545|Belen|belen-23545|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23546|Buesaco|buesaco|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23547|Colon|colon|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23548|Cumbitara|cumbitara|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23549|El Rosario|el-rosario|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23550|El Tablon De Gomez|el-tablon-de-gomez|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23551|La Cruz|la-cruz|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23552|La Unión|la-union-23552|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23553|Leiva|leiva|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23554|Policarpa|policarpa|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23555|San Bernardo|san-bernardo-23555|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23556|San Lorenzo|san-lorenzo|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23557|San Pablo|san-pablo-23557|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23558|San Pedro De Cartago|san-pedro-de-cartago|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23559|Taminango|taminango|\N|\N|22386|22425|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23560|Aldana|aldana|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23561|Contadero|contadero|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23562|Córdoba|cordoba-23562|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23563|Cuaspud|cuaspud|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23564|Cumbal|cumbal|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23565|Funes|funes|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23566|Guachucal|guachucal|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23567|Gualmatan|gualmatan|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23568|Iles|iles|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23569|Imues|imues|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23570|Potosí|potosi|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23571|Puerres|puerres|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23572|Pupiales|pupiales|\N|\N|22386|22443|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23573|Arboledas|arboledas|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23574|Cucutilla|cucutilla|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23575|Gramalote|gramalote|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23576|Lourdes|lourdes|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23577|Salazar|salazar|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23578|Santiago|santiago|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23579|Villa Caro|villa-caro|\N|\N|22459|22460|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23580|Bucarasica|bucarasica|\N|\N|22459|22468|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23581|El Tarra|el-tarra|\N|\N|22459|22468|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23582|Sardinata|sardinata|\N|\N|22459|22468|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23583|Tibú|tibu|\N|\N|22459|22468|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23584|Abrego|abrego|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23585|Cachirá|cachira|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23586|Convención|convencion|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23587|El Carmen|el-carmen|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23588|Hacarí|hacari|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23589|La Esperanza|la-esperanza|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23590|La Playa|la-playa|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23591|San Calixto|san-calixto|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23592|Teorama|teorama|\N|\N|22459|22473|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23593|El Zulia|el-zulia|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23594|Puerto Santander|puerto-santander-23594|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23595|San Cayetano|san-cayetano-23595|\N|\N|22459|22485|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23596|Cácota|cacota|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23597|Chitagá|chitaga|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23598|Mutiscua|mutiscua|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23599|Pamplonita|pamplonita|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23600|Silos|silos|\N|\N|22459|22495|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23601|Bochalema|bochalema|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23602|Chinácota|chinacota|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23603|Durania|durania|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23604|Herrán|herran|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23605|Labateca|labateca|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23606|Ragonvalia|ragonvalia|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23607|Toledo|toledo-23607|\N|\N|22459|22503|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23608|Colón|colon-23608|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23609|Mocoa|mocoa|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23610|Orito|orito|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23611|Puerto Asis|puerto-asis|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23612|Puerto Caicedo|puerto-caicedo|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23613|Puerto Guzman|puerto-guzman|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23614|Puerto Leguizamo|puerto-leguizamo|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23615|San Miguel|san-miguel|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23616|Sann Francisco|sann-francisco|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23617|Santiago|santiago-23617|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23618|Sibundoy|sibundoy|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23619|Valle Del Guamez|valle-del-guamez|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23620|Villa Garzon|villa-garzon|\N|\N|22511|22512|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23621|Buenavista|buenavista-23621|\N|\N|22526|22527|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23622|Cordoba |cordoba-23622|\N|\N|22526|22533|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23623|Genova|genova|\N|\N|22526|22533|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23624|Pijao|pijao|\N|\N|22526|22533|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23625|Filandia|filandia|\N|\N|22526|22537|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23626|Salento|salento|\N|\N|22526|22537|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23627|Circasia|circasia|\N|\N|22526|22540|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23628|La Tebaida|la-tebaida|\N|\N|22526|22542|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23629|Montenegro|montenegro|\N|\N|22526|22542|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23630|Quimbaya|quimbaya|\N|\N|22526|22542|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23631|Apía|apia|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23632|Balboa|balboa-23632|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23633|Belén De Umbría|belen-de-umbria|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23634|Guática|guatica|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23635|La Celia|la-celia|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23636|Quinchia|quinchia|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23637|Santuario|santuario-23637|\N|\N|22546|22556|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23638|Mistrató|mistrato|\N|\N|22546|22564|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23639|Pueblo Rico|pueblo-rico|\N|\N|22546|22564|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23640|La Virginia|la-virginia|\N|\N|22546|22547|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23641|Marsella|marsella|\N|\N|22546|22547|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23642|Chima|chima-23642|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23643|Confines|confines|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23644|Contratación|contratacion|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23645|El Guacamayo|el-guacamayo|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23646|Galán|galan|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23647|Gambita|gambita|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23648|Guadalupe|guadalupe-23648|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23649|Guapotá|guapota|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23650|Hato|hato|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23651|Oiba|oiba|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23652|Palmar|palmar|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23653|Palmas Del Socorro|palmas-del-socorro|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23654|Santa Helena Del Opón|santa-helena-del-opon|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23655|Simacota|simacota|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23656|Socorro|socorro|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23657|Suaita|suaita|\N|\N|22567|22568|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23658|Capitanejo|capitanejo|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23659|Carcasi|carcasi|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23660|Cepitá|cepita|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23661|Cerrito|cerrito|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23662|Concepción|concepcion-23662|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23663|Enciso|enciso|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23664|Guaca|guaca|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23665|Macaravita|macaravita|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23666|Málaga|malaga|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23667|Molagavita|molagavita|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23668|San José De Miranda|san-jose-de-miranda|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23669|San Miguel|san-miguel-23669|\N|\N|22567|22585|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23670|Aratoca|aratoca|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23671|Barichara|barichara|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23672|Cabrera|cabrera-23672|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23673|Charalá|charala|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23674|Coromoro|coromoro|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23675|Curití|curiti|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23676|Encino|encino|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23677|Jordán|jordan|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23678|Mogotes|mogotes|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23679|Ocamonte|ocamonte|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23680|Onzaga|onzaga|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23681|Páramo|paramo|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23682|Pinchote|pinchote|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23683|San Gil|san-gil|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23684|San Joaquín|san-joaquin|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23685|Valle De San José|valle-de-san-jose|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23686|Villanueva|villanueva-23686|\N|\N|22567|22600|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23687|Betulia|betulia-23687|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23688|El Carmen De Chucurí|el-carmen-de-chucuri|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23689|Puerto Wilches|puerto-wilches|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23690|Sabana De Torres|sabana-de-torres|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23691|San Vicente De Chucurí|san-vicente-de-chucuri|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23692|Zapatoca|zapatoca|\N|\N|22567|22618|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23693|California|california|\N|\N|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23694|Charta|charta|7.2811|-72.9682|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23695|El Playón|el-playon|7.4704|-73.2032|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23696|Girón|giron|7.074|-73.1693|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23697|Lebrija|lebrija|7.1063|-73.215|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23698|Los Santos|los-santos|6.7557|-73.1023|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23699|Matanza|matanza|7.3211|-73.0172|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23700|Rionegro|rionegro-23700|7.1535|-73.1534|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23701|Santa Bárbara|santa-barbara-23701|6.9905|-72.9066|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23702|Surata|surata|7.3665|-72.9839|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23703|Tona|tona|7.2018|-72.9667|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23704|Vetas|vetas|7.3333|-72.8666|22567|22627|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23705|Aguada|aguada|6.1616|-73.5224|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23706|Albania|albania-23706|5.7593|-73.9145|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23707|Barbosa|barbosa-23707|5.9343|-73.6156|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23708|Bolívar|bolivar-23708|5.9898|-73.7704|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23709|Chipatá|chipata|6.0616|-73.6372|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23710|Cimitarra|cimitarra|6.3152|-73.9489|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23711|El Peñón|el-penon-23711|5.8921|-73.7403|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23712|Florián|florian|5.8032|-73.9707|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23713|Guavatá|guavata|5.9552|-73.7016|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23714|Guepsa|guepsa|6.022|-73.569|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23715|Jesús María|jesus-maria|5.8768|-73.7828|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23716|La Belleza|la-belleza|5.8594|-73.965|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23717|La Paz|la-paz-23717|6.1784|-73.5899|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23718|Landázuri|landazuri|6.2194|-73.8092|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23719|Puente Nacional|puente-nacional|5.878|-73.6776|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23720|Puerto Parra|puerto-parra|6.6507|-74.0559|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23721|San Benito|san-benito|6.1271|-73.5097|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23722|Sucre|sucre-23722|5.9184|-73.7915|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23723|Velez|velez|6.0099|-73.6721|22567|22647|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23724|Guaranda|guaranda|8.4683|-74.537|22667|22668|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23725|Majagual|majagual|8.5412|-74.628|22667|22668|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23726|Sucre|sucre-23726|8.81|-74.7204|22667|22668|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23727|Chalán|chalan|9.5458|-75.3128|22667|22672|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23728|Coloso|coloso|9.4909|-75.3557|22667|22672|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23729|Morroa|morroa|9.3321|-75.3077|22667|22672|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23730|Ovejas|ovejas|9.5258|-75.2275|22667|22672|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23731|Coveñas|covenas|9.4025|-75.6816|22667|22679|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23732|Palmito|palmito|9.3336|-75.5408|22667|22679|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23733|San Onofre|san-onofre|9.7408|-75.5198|22667|22679|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23734|Santiago De Tolú|santiago-de-tolu|9.5274|-75.5812|22667|22679|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23735|Tolú Viejo|tolu-viejo|9.4528|-75.4391|22667|22679|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23736|Buenavista|buenavista-23736|9.3204|-74.9733|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23737|El Roble|el-roble|9.1077|-75.195|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23738|Galeras|galeras|9.1181|-74.9915|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23739|Los Palmitos|los-palmitos|9.3804|-75.2709|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23740|Sampués|sampues|9.1835|-75.3811|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23741|San Juan Betulia|san-juan-betulia|9.2743|-75.2437|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23742|San Pedro|san-pedro-23742|8.7333|-74.7166|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23743|Sincé|since|9.2461|-75.1433|22667|22685|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23744|Caimito|caimito|8.7895|-75.1148|22667|22696|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23745|La Unión|la-union-23745|8.8539|-75.2811|22667|22696|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23746|San Benito Abad|san-benito-abad|8.9311|-75.0306|22667|22696|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23747|Alvarado|alvarado|4.5668|-74.9532|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23748|Anzoátegui|anzoategui|4.6322|-75.0938|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23749|Cajamarca|cajamarca|4.4417|-75.4268|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23750|Coello|coello|4.2862|-74.8978|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23751|Flandes|flandes|4.2867|-74.8122|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23752|Piedras|piedras|4.543|-74.8781|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23753|Rovira|rovira|4.2393|-75.2396|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23754|San Luis|san-luis-23754|4.1335|-75.095|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23755|Valle De San Juan|valle-de-san-juan|4.1979|-75.1164|22702|22727|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23756|Casablanca|casablanca|5.0785|-75.1197|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23757|Herveo|herveo|5.0801|-75.1757|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23758|Lerida|lerida|4.8608|-74.9126|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23759|Libano|libano|4.869|-75.0377|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23760|Murillo|murillo|3.8041|-74.9428|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23761|Santa Isabel|santa-isabel|4.7135|-75.0977|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23762|Venadillo|venadillo|4.7149|-74.9312|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23763|Villa Hermosa|villa-hermosa|5.0304|-75.118|22702|22749|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23764|Ambalema|ambalema|4.7828|-74.7667|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23765|Armero|armero|4.9646|-74.9048|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23766|Falan|falan|5.1237|-74.952|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23767|Fresno|fresno|5.1537|-75.0363|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23768|Honda|honda|5.2051|-74.737|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23769|Mariquita|mariquita|5.1995|-74.8868|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23770|Palocabildo|palocabildo|5.1193|-75.0237|22702|22703|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23771|Carmen De Apicalá|carmen-de-apicala|4.1528|-74.7152|22702|22711|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23772|Cunday|cunday|4.0605|-74.6918|22702|22711|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23773|Icononzo|icononzo|4.1764|-74.5317|22702|22711|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23774|Melgar|melgar|4.2035|-74.6433|22702|22711|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23775|Villarrica|villarrica|3.9366|-74.6008|22702|22711|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23776|Ataco|ataco|3.591|-75.3817|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23777|Chaparral|chaparral|3.7238|-75.4839|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23778|Coyaima|coyaima|3.7993|-75.1945|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23779|Natagaima|natagaima|3.6255|-75.0931|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23780|Ortega|ortega|3.9358|-75.2206|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23781|Planadas|planadas|3.1972|-75.6438|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23782|Rioblanco|rioblanco|3.53|-75.6436|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23783|Roncesvalles|roncesvalle|3.9931|-75.6092|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23784|San Antonio|san-antonio|3.914|-75.4798|22702|22717|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23785|Alpujarra|alpujarra|3.3919|-74.9326|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23786|Dolores|dolores|3.5396|-74.8972|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23787|Guamo|guamo|4.0292|-74.9747|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23788|Prado|prado|3.7497|-74.9277|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23789|Purificación|purificacion|3.8567|-74.9313|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23790|Saldaña|saldana|3.929|-75.0178|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23791|Suárez|suarez-23791|4.0476|-74.8318|22702|22741|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23792|Andalucía|andalucia|4.1687|-76.1673|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23793|Buga|buga|3.9005|-76.3021|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23794|Bugalagrande|bugalagrande|4.2108|-76.1557|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23795|Calima|calima|3.9192|-76.595|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23796|El Cerrito|el-cerrito|3.684|-76.3129|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23797|Ginebra|ginebra|3.7252|-76.2692|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23798|Guacarí|guacari|3.7629|-76.3324|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23799|Restrepo|restrepo-23799|3.8217|-76.5204|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23800|Riofrio|riofrio|4.1566|-76.2877|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23801|San Pedro|san-pedro-23801|3.9941|-76.2271|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23802|Trujillo|trujillo|4.2118|-76.3185|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23803|Yotoco|yotoco|3.8602|-76.3846|22758|22759|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23804|Alcala|alcala|4.6734|-75.7791|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23805|Ansermanuevo|ansermanuevo|4.7939|-75.9915|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23806|Argelia|argelia-23806|4.7277|-76.1215|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23807|Bolívar|bolivar-23807|4.3386|-76.1867|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23808|El Águila|el-aguila|4.909|-76.0413|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23809|El Cairo|el-cairo|4.761|-76.2221|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23810|El Dovio|el-dovio|4.5082|-76.2374|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23811|La Unión|la-union-23811|4.5334|-76.1035|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23812|La Victoria|la-victoria-23812|4.5241|-76.036|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23813|Obando|obando|4.5756|-75.9726|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23814|Roldanillo|roldanillo|4.4141|-76.1521|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23815|Toro|toro|4.6112|-76.0785|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23816|Ulloa|ulloa|4.7032|-75.7387|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23817|Versalles|versalles|4.5757|-76.1995|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23818|Zarzal|zarzal|4.3948|-76.0728|22758|22775|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23819|Caicedonia|caicedonia|4.3329|-75.8271|22758|22796|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23820|Sevilla|sevilla|4.2743|-75.931|22758|22796|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23821|Dagua|dagua|3.6585|-76.6908|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23822|La Cumbre|la-cumbre|3.6494|-76.5679|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23823|Vijes|vijes|3.6981|-76.4431|22758|22799|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23824|Caruru|caruru|1.0121|-71.2958|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23825|Mitú|mitu|1.2521|-70.2336|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23826|Pacoa|pacoa|0.0544|-71.2229|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23827|Papunahua|papunahua|2.1572|-70.5263|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23828|Taraira|taraira|-0.5647|-69.6341|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23829|Yavaraté|yavarate|0.615|-69.208|22817|22818|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23830|Cumaribo|cumaribo|4.4444|-69.7986|22825|22826|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23831|La Primavera|la-primavera|5.4888|-70.4091|22825|22826|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23832|Puerto Carreño|puerto-carreno|6.1847|-67.4884|22825|22826|\N
+42|CO|COLOMBIA|Colombia|Colombia|t23833|Santa Rosalía|santa-rosalia|5.1353|-70.8649|22825|22826|\N
